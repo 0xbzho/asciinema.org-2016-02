@@ -1,0 +1,1338 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 24,
+  "duration": 70.721080,
+  "command": "/bin/bash",
+  "title": "3",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.019740,
+      "\u001b]2;bash\u0007"
+    ],
+    [
+      0.010284,
+      "\u001b[0;32mtakynakasi \u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.930140,
+      "g"
+    ],
+    [
+      0.101004,
+      "e"
+    ],
+    [
+      0.118312,
+      "m"
+    ],
+    [
+      0.064631,
+      " "
+    ],
+    [
+      0.154751,
+      "i"
+    ],
+    [
+      0.078134,
+      "n"
+    ],
+    [
+      0.044419,
+      "s"
+    ],
+    [
+      0.117209,
+      "t"
+    ],
+    [
+      0.100273,
+      "a"
+    ],
+    [
+      0.176051,
+      "l"
+    ],
+    [
+      0.149311,
+      "l"
+    ],
+    [
+      0.047707,
+      " "
+    ],
+    [
+      1.148115,
+      "a"
+    ],
+    [
+      0.302207,
+      "b"
+    ],
+    [
+      0.117421,
+      "b"
+    ],
+    [
+      0.101403,
+      "r"
+    ],
+    [
+      0.140731,
+      "e"
+    ],
+    [
+      0.101989,
+      "v"
+    ],
+    [
+      0.126303,
+      "i"
+    ],
+    [
+      0.138825,
+      "a"
+    ],
+    [
+      0.087175,
+      "t"
+    ],
+    [
+      0.124901,
+      "e"
+    ],
+    [
+      0.133412,
+      "d"
+    ],
+    [
+      0.118950,
+      "_"
+    ],
+    [
+      0.194950,
+      "m"
+    ],
+    [
+      0.093846,
+      "e"
+    ],
+    [
+      0.172365,
+      "t"
+    ],
+    [
+      0.061521,
+      "h"
+    ],
+    [
+      0.048151,
+      "o"
+    ],
+    [
+      0.130492,
+      "d"
+    ],
+    [
+      0.164395,
+      "s"
+    ],
+    [
+      0.392663,
+      "\r\n"
+    ],
+    [
+      2.689816,
+      "Successfully installed abbreviated_methods-0.1.0\r\n"
+    ],
+    [
+      0.150449,
+      "Parsing documentation for abbreviated_methods-0.1.0\r\n"
+    ],
+    [
+      0.020808,
+      "Done installing documentation for abbreviated_methods after 0 seconds\r\n"
+    ],
+    [
+      0.000020,
+      "1 gem installed\r\n"
+    ],
+    [
+      0.017037,
+      "\u001b]2;bash\u0007"
+    ],
+    [
+      0.006470,
+      "\u001b[0;32mtakynakasi \u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.332452,
+      "p"
+    ],
+    [
+      0.115297,
+      "r"
+    ],
+    [
+      0.094065,
+      "y"
+    ],
+    [
+      0.588658,
+      "\r\n"
+    ],
+    [
+      1.337862,
+      "\u001b[0G"
+    ],
+    [
+      0.002123,
+      "[1] pry(main)\u003e "
+    ],
+    [
+      0.932253,
+      "r"
+    ],
+    [
+      0.180578,
+      "e"
+    ],
+    [
+      0.172173,
+      "q"
+    ],
+    [
+      0.143329,
+      "u"
+    ],
+    [
+      0.079143,
+      "i"
+    ],
+    [
+      0.068728,
+      "r"
+    ],
+    [
+      0.147857,
+      "e"
+    ],
+    [
+      0.096531,
+      " "
+    ],
+    [
+      0.451661,
+      "'"
+    ],
+    [
+      0.129650,
+      "a"
+    ],
+    [
+      0.291482,
+      "b"
+    ],
+    [
+      0.117474,
+      "b"
+    ],
+    [
+      0.093529,
+      "r"
+    ],
+    [
+      0.132658,
+      "e"
+    ],
+    [
+      0.094049,
+      "v"
+    ],
+    [
+      0.102538,
+      "i"
+    ],
+    [
+      0.130932,
+      "a"
+    ],
+    [
+      0.095107,
+      "t"
+    ],
+    [
+      0.116950,
+      "e"
+    ],
+    [
+      0.133530,
+      "d"
+    ],
+    [
+      0.182559,
+      "_"
+    ],
+    [
+      0.218627,
+      "m"
+    ],
+    [
+      0.100573,
+      "e"
+    ],
+    [
+      0.189567,
+      "t"
+    ],
+    [
+      0.055189,
+      "h"
+    ],
+    [
+      0.078676,
+      "o"
+    ],
+    [
+      0.154350,
+      "d"
+    ],
+    [
+      0.164800,
+      "s"
+    ],
+    [
+      0.678009,
+      "'"
+    ],
+    [
+      0.162043,
+      "\r\n"
+    ],
+    [
+      0.009006,
+      "\u001b[1A\u001b[0G[1] pry(main)\u003e require \u001b[31m\u001b[1;31m'\u001b[0m\u001b[31mabbreviated_methods\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m\u001b[1B\u001b[0G"
+    ],
+    [
+      0.010416,
+      "=\u003e \u001b[1;36mtrue\u001b[0m\r\n"
+    ],
+    [
+      0.000396,
+      "[2] pry(main)\u003e "
+    ],
+    [
+      1.683712,
+      "c"
+    ],
+    [
+      0.135119,
+      "l"
+    ],
+    [
+      0.090495,
+      "a"
+    ],
+    [
+      0.189904,
+      "s"
+    ],
+    [
+      0.133345,
+      "s"
+    ],
+    [
+      0.120999,
+      " "
+    ],
+    [
+      0.631050,
+      "D"
+    ],
+    [
+      0.198133,
+      "o"
+    ],
+    [
+      0.099790,
+      "g"
+    ],
+    [
+      0.373267,
+      "\r\n\u001b[1A\u001b[0G[2] pry(main)\u003e \u001b[32mclass\u001b[0m \u001b[1;35;4mDog\u001b[0m\u001b[1B\u001b[0G[2] pry(main)*   "
+    ],
+    [
+      0.986067,
+      "i"
+    ],
+    [
+      0.062264,
+      "n"
+    ],
+    [
+      0.107494,
+      "c"
+    ],
+    [
+      0.079534,
+      "l"
+    ],
+    [
+      0.100545,
+      "u"
+    ],
+    [
+      0.132299,
+      "d"
+    ],
+    [
+      0.125414,
+      "e"
+    ],
+    [
+      0.550548,
+      " "
+    ],
+    [
+      0.558606,
+      "A"
+    ],
+    [
+      0.404713,
+      "b"
+    ],
+    [
+      0.125416,
+      "b"
+    ],
+    [
+      0.100984,
+      "r"
+    ],
+    [
+      0.148931,
+      "e"
+    ],
+    [
+      0.110001,
+      "v"
+    ],
+    [
+      0.071766,
+      "i"
+    ],
+    [
+      0.137689,
+      "a"
+    ],
+    [
+      0.158901,
+      "t"
+    ],
+    [
+      0.116935,
+      "e"
+    ],
+    [
+      0.141364,
+      "d"
+    ],
+    [
+      0.276785,
+      "M"
+    ],
+    [
+      0.139397,
+      "e"
+    ],
+    [
+      0.165796,
+      "t"
+    ],
+    [
+      0.093972,
+      "h"
+    ],
+    [
+      0.063714,
+      "o"
+    ],
+    [
+      0.092827,
+      "f"
+    ],
+    [
+      0.036476,
+      "d"
+    ],
+    [
+      0.108213,
+      "s"
+    ],
+    [
+      1.220439,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141346,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.372231,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.233957,
+      "d"
+    ],
+    [
+      0.196629,
+      "s"
+    ],
+    [
+      0.366058,
+      "\r\n\u001b[1A\u001b[0G[2] pry(main)*   include \u001b[1;34;4mAbbreviatedMethods\u001b[0m\u001b[1B\u001b[0G[2] pry(main)*   "
+    ],
+    [
+      0.963296,
+      "\r\n"
+    ],
+    [
+      0.001184,
+      "\u001b[1A\u001b[0G[2] pry(main)*   \u001b[1B\u001b[0G"
+    ],
+    [
+      0.004808,
+      "[2] pry(main)*   "
+    ],
+    [
+      0.355595,
+      "d"
+    ],
+    [
+      0.149338,
+      "e"
+    ],
+    [
+      0.085752,
+      "f"
+    ],
+    [
+      0.093432,
+      " "
+    ],
+    [
+      0.141883,
+      "n"
+    ],
+    [
+      0.093633,
+      "a"
+    ],
+    [
+      0.101588,
+      "m"
+    ],
+    [
+      0.100565,
+      "e"
+    ],
+    [
+      0.549701,
+      "\r\n\u001b[1A\u001b[0G[2] pry(main)*   \u001b[32mdef\u001b[0m \u001b[1;34mname\u001b[0m\u001b[1B\u001b[0G[2] pry(main)*     "
+    ],
+    [
+      0.516374,
+      "'"
+    ],
+    [
+      0.377359,
+      "F"
+    ],
+    [
+      0.172177,
+      "r"
+    ],
+    [
+      0.164567,
+      "e"
+    ],
+    [
+      0.149256,
+      "d"
+    ],
+    [
+      0.231454,
+      "'"
+    ],
+    [
+      0.562572,
+      "\r\n\u001b[1A\u001b[0G[2] pry(main)*     \u001b[31m\u001b[1;31m'\u001b[0m\u001b[31mFred\u001b[1;31m'\u001b[0m\u001b[31m\u001b[0m\u001b[1B\u001b[0G[2] pry(main)*     "
+    ],
+    [
+      0.307351,
+      "e"
+    ],
+    [
+      0.110434,
+      "n"
+    ],
+    [
+      0.076633,
+      "d"
+    ],
+    [
+      0.112261,
+      "\r\n"
+    ],
+    [
+      0.001599,
+      "\u001b[1A\u001b[0G[2] pry(main)*   \u001b[32mend\u001b[0m  \u001b[1B\u001b[0G"
+    ],
+    [
+      0.005475,
+      "[2] pry(main)*   "
+    ],
+    [
+      0.792695,
+      "e"
+    ],
+    [
+      0.110224,
+      "n"
+    ],
+    [
+      0.061797,
+      "d"
+    ],
+    [
+      0.119323,
+      "\r\n"
+    ],
+    [
+      0.001535,
+      "\u001b[1A\u001b[0G[2] pry(main)* \u001b[32mend\u001b[0m  \u001b[1B\u001b[0G"
+    ],
+    [
+      0.006550,
+      "=\u003e \u001b[33m:name\u001b[0m\r\n"
+    ],
+    [
+      0.000459,
+      "[3] pry(main)\u003e "
+    ],
+    [
+      3.140825,
+      "d"
+    ],
+    [
+      0.127380,
+      "o"
+    ],
+    [
+      0.099752,
+      "g"
+    ],
+    [
+      0.271616,
+      " "
+    ],
+    [
+      0.115760,
+      "="
+    ],
+    [
+      0.077636,
+      " "
+    ],
+    [
+      0.298293,
+      "D"
+    ],
+    [
+      0.150282,
+      "o"
+    ],
+    [
+      0.084172,
+      "g"
+    ],
+    [
+      0.150506,
+      "."
+    ],
+    [
+      0.212302,
+      "n"
+    ],
+    [
+      0.092583,
+      "e"
+    ],
+    [
+      0.140811,
+      "w"
+    ],
+    [
+      0.490197,
+      "\r\n\u001b[1A\u001b[0G[3] pry(main)\u003e dog = \u001b[1;34;4mDog\u001b[0m.new\u001b[1B\u001b[0G=\u003e \u001b[32m#\u003cDog:0x0000000445f1b0\u001b[0m\u001b[32m\u003e\u001b[0m\r\n[4] pry(main)\u003e "
+    ],
+    [
+      1.672740,
+      "d"
+    ],
+    [
+      0.135233,
+      "o"
+    ],
+    [
+      0.076592,
+      "g"
+    ],
+    [
+      0.166350,
+      "."
+    ],
+    [
+      0.235922,
+      "n"
+    ],
+    [
+      0.091580,
+      "a"
+    ],
+    [
+      0.103441,
+      "m"
+    ],
+    [
+      0.124466,
+      "e"
+    ],
+    [
+      0.080141,
+      "\r\n\u001b[1A\u001b[0G[4] pry(main)\u003e dog.name\u001b[1B\u001b[0G=\u003e \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mFred\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m\r\n[5] pry(main)\u003e "
+    ],
+    [
+      0.608882,
+      "d"
+    ],
+    [
+      0.111345,
+      "o"
+    ],
+    [
+      0.100097,
+      "g"
+    ],
+    [
+      0.541401,
+      "."
+    ],
+    [
+      0.371202,
+      "n"
+    ],
+    [
+      0.139512,
+      "a"
+    ],
+    [
+      0.095063,
+      "m"
+    ],
+    [
+      0.271235,
+      "\r\n"
+    ],
+    [
+      0.001694,
+      "\u001b[1A\u001b[0G[5] pry(main)\u003e dog.nam\u001b[1B\u001b[0G"
+    ],
+    [
+      0.010681,
+      "=\u003e \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mFred\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m\r\n"
+    ],
+    [
+      0.000320,
+      "[6] pry(main)\u003e "
+    ],
+    [
+      0.563635,
+      "d"
+    ],
+    [
+      0.135112,
+      "o"
+    ],
+    [
+      0.100028,
+      "g"
+    ],
+    [
+      0.174722,
+      "."
+    ],
+    [
+      0.331306,
+      "n"
+    ],
+    [
+      0.115576,
+      "a"
+    ],
+    [
+      0.332473,
+      "\r\n\u001b[1A\u001b[0G[6] pry(main)\u003e dog.na\u001b[1B\u001b[0G"
+    ],
+    [
+      0.001805,
+      "=\u003e \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mFred\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m\r\n"
+    ],
+    [
+      0.000307,
+      "[7] pry(main)\u003e "
+    ],
+    [
+      5.134039,
+      "d"
+    ],
+    [
+      0.135331,
+      "o"
+    ],
+    [
+      0.077444,
+      "g"
+    ],
+    [
+      0.133083,
+      "."
+    ],
+    [
+      0.299915,
+      "m"
+    ],
+    [
+      0.100539,
+      "e"
+    ],
+    [
+      0.563977,
+      "t"
+    ],
+    [
+      0.102245,
+      "h"
+    ],
+    [
+      0.063433,
+      "o"
+    ],
+    [
+      0.099377,
+      "d"
+    ],
+    [
+      0.163798,
+      "s"
+    ],
+    [
+      0.182956,
+      "_"
+    ],
+    [
+      0.201400,
+      "w"
+    ],
+    [
+      0.143328,
+      "i"
+    ],
+    [
+      0.100733,
+      "t"
+    ],
+    [
+      0.125915,
+      "h"
+    ],
+    [
+      0.285468,
+      "_"
+    ],
+    [
+      0.305677,
+      "t"
+    ],
+    [
+      0.278301,
+      "heir_abbreviations"
+    ],
+    [
+      1.130916,
+      "\r\n\u001b[1A\u001b[0G[7] pry(main)\u003e dog.methods_with_their_abbreviations\u001b[1B\u001b[0G"
+    ],
+    [
+      0.014582,
+      "\u001b[?1h\u001b=\r=\u003e {\u001b[33m:name\u001b[0m=\u003e[\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mnam\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m, \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mna\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n \u001b[33m:methods_with_their_abbreviations\u001b[0m=\u003e\u001b[m\r\n  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviation\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviatio\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviati\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviat\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrevia\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrevi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrev\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbre\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbr\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abb\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_ab\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_a\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_thei\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_the\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_th\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_t\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_wit\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.444912,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000016,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000044,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000127,
+      "   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_wi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141053,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_w\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.149194,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141310,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:method_missing\u001b[0m=\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141438,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_missin\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.499630,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_missi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030508,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_miss\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029964,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_mis\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029679,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_mi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029939,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_m\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029729,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029843,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:respond_to?\u001b[0m=\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030850,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_to\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030773,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_t\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030015,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030035,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029968,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespon\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029750,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespo\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029843,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mresp\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029706,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mres\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030983,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:pry\u001b[0m=\u003e[],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030843,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:__binding__\u001b[0m=\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029882,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__binding_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.156594,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__binding\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141316,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__bindin\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141274,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__bindi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.133439,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__bind\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141276,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__bin\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.141194,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__bi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.149295,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31m__b\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.157432,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:psych_to_yaml\u001b[0m=\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.133399,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_to_yam\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.499796,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_to_ya\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029771,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_to_y\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030520,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_to_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030839,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_to\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029861,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_t\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029929,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029796,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsych\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029830,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsyc\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030020,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mpsy\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030071,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mps\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029597,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \u001b[33m:to_yaml_properties\u001b[0m=\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.030782,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mto_yaml_propertie\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.029821,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mto_yaml_properti\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.344616,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u001b[33m:__binding__\u001b[0m=\u003e\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.157269,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u001b[33m:pry\u001b[0m=\u003e[],\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.148798,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mres\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.500702,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mresp\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029748,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespo\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029819,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespon\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030104,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029623,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030737,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_t\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030876,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mrespond_to\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029954,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u001b[33m:respond_to?\u001b[0m=\u003e\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029630,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030417,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_m\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029499,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_mi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029826,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_mis\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030813,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_miss\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030835,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_missi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029885,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethod_missin\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029822,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u001b[33m:method_missing\u001b[0m=\u003e\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029871,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029827,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_w\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029887,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_wi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030749,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_wit\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030961,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.031046,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.031046,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_t\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030793,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_th\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029758,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_the\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029793,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_thei\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029862,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030824,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030856,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_a\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029945,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_ab\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029705,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abb\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029917,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbr\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029731,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbre\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030104,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrev\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030594,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrevi\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030881,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbrevia\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029861,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviat\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030129,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviati\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029909,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviatio\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029832,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM  [\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mmethods_with_their_abbreviation\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m,\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029790,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u001b[33m:methods_with_their_abbreviations\u001b[0m=\u003e\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.031006,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM=\u003e {\u001b[33m:name\u001b[0m=\u003e[\u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mnam\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m, \u001b[31m\u001b[1;31m\"\u001b[0m\u001b[31mna\u001b[1;31m\"\u001b[0m\u001b[31m\u001b[0m],\u001b[m\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030731,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030804,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029664,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029858,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029984,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030022,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.029820,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030861,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030774,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.030011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      1.048744,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000564,
+      "[8] pry(main)\u003e "
+    ],
+    [
+      0.701363,
+      "\r\n"
+    ],
+    [
+      0.015688,
+      "\u001b]2;bash\u0007"
+    ],
+    [
+      0.009198,
+      "\u001b[0;32mtakynakasi \u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.628986,
+      "^C"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.004244,
+      "\u001b]2;bash\u0007"
+    ],
+    [
+      0.011164,
+      "\u001b[0;32mtakynakasi \u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.650144,
+      "exit\r\n"
+    ]
+  ]
+}
