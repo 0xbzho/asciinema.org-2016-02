@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 46.447386,
+  "command": "./demo.sh",
+  "title": "qibuild demo",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.014190,
+      "Welcome to qiBuild's demo !\r\n"
+    ],
+    [
+      2.185070,
+      "\r\n"
+    ],
+    [
+      0.001376,
+      "So we have:\r\n\r\n* A git repo containing the world library:\r\n\r\n  # world/CMakeLists.txt\r\n  qi_create_lib(world SHARED world.cpp)\r\n"
+    ],
+    [
+      2.763327,
+      "\r\n"
+    ],
+    [
+      0.002263,
+      "* A git repo containing the hello libray,\r\n  that depends on world and is wrapped with swig:\r\n\r\n  # hello/CMakeLists.txt\r\n  qi_create_lib(hello SHARED hello.cpp)\r\n  qi_use_lib(hello world)\r\n  qi_swig_wrap_python(helloswig helloswig.i DEPENDS hello)\r\n"
+    ],
+    [
+      3.443063,
+      "\r\n"
+    ],
+    [
+      0.002140,
+      "  And some tests written with py.test:\r\n  # hello/test/test.py\r\n"
+    ],
+    [
+      2.682903,
+      "\r\n"
+    ],
+    [
+      0.002216,
+      "Any idea on how we could get the sources, build them and\r\nrun the tests ?\r\n"
+    ],
+    [
+      2.903953,
+      "\r\n"
+    ],
+    [
+      0.047889,
+      "qiBuild to the rescue!\r\n\r\n"
+    ],
+    [
+      2.686709,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      ":: Getting the sources ...\r\nrunning:\r\n\u003e  qisrc init git://sd-20870.dedibox.fr/demo/manifest.git"
+    ],
+    [
+      2.810332,
+      "\r\n"
+    ],
+    [
+      0.426392,
+      "Initialized empty Git repository in /home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo/.qi/manifests/default/.git/\r\n"
+    ],
+    [
+      0.008195,
+      "[master (root-commit) dec2c0b] initial commit\r\n"
+    ],
+    [
+      0.000083,
+      " 1 file changed, 1 insertion(+)\r\n create mode 100644 manifest.xml\r\n"
+    ],
+    [
+      0.001017,
+      "\u001b[32;1m:: Updating manifest ...\u001b[0m\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[32;1m*  \u001b[0m\u001b[1m(master) \u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.200305,
+      "\u001b[32;1m:: Computing diff ...\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[32;1m*  \u001b[0madding \u001b[34;1mhello\u001b[0m\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[32;1m*  \u001b[0madding \u001b[34;1mworld\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[32;1m:: Cloning new repositories ...\u001b[0m\r\n"
+    ],
+    [
+      0.000148,
+      "\u001b[32;1m* \u001b[0m(1/2) \u001b[0m\u001b[34;1mdemo/hello.git \u001b[32;1m-\u003e \u001b[34;1mhello \u001b[37;1m(master)\u001b[0m\r\n"
+    ],
+    [
+      0.174044,
+      "\u001b[32;1m* \u001b[0m(2/2) \u001b[0m\u001b[34;1mdemo/world.git \u001b[32;1m-\u003e \u001b[34;1mworld \u001b[37;1m(master)\u001b[0m\r\n"
+    ],
+    [
+      0.165666,
+      "\u001b[32;1m:: Setup git projects ...\u001b[0m\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[32;1m* \u001b[0m(1/2) \u001b[0m\u001b[37;1mSetup \u001b[0m\u001b[34;1mworld\u001b[0m\r"
+    ],
+    [
+      0.017972,
+      "\u001b[32;1m* \u001b[0m(2/2) \u001b[0m\u001b[37;1mSetup \u001b[0m\u001b[34;1mhello\u001b[0m\r"
+    ],
+    [
+      0.017279,
+      "                        \u001b[0m\r"
+    ],
+    [
+      0.002069,
+      "\u001b[32;1mNew qisrc worktree initialized in \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.017656,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      ":: Configuring and build everything ...\r\n"
+    ],
+    [
+      0.000202,
+      "running:\r\n"
+    ],
+    [
+      0.000135,
+      "\u003e  qibuild configure hello"
+    ],
+    [
+      1.328072,
+      "\r\n"
+    ],
+    [
+      0.152849,
+      "\u001b[32;1mCurrent build worktree: \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.015441,
+      "\u001b]0;* (1/2) Configuring world\u0007\u001b[32;1m* \u001b[0m(1/2) \u001b[0m\u001b[32;1mConfiguring \u001b[34;1mworld\u001b[0m\r\n"
+    ],
+    [
+      0.131065,
+      "-- The C compiler identification is GNU 5.3.0\r\n"
+    ],
+    [
+      0.006476,
+      "-- Check for working C compiler: /usr/bin/cc\r\n"
+    ],
+    [
+      0.110934,
+      "-- Check for working C compiler: /usr/bin/cc -- works\r\n"
+    ],
+    [
+      0.001094,
+      "-- Detecting C compiler ABI info\r\n"
+    ],
+    [
+      0.107453,
+      "-- Detecting C compiler ABI info - done\r\n"
+    ],
+    [
+      0.018946,
+      "-- Detecting C compile features\r\n"
+    ],
+    [
+      0.329920,
+      "-- Detecting C compile features - done\r\n"
+    ],
+    [
+      0.002594,
+      "-- Using qibuild 3.12\r\n"
+    ],
+    [
+      0.014170,
+      "-- Library: world\r\n"
+    ],
+    [
+      0.008147,
+      "-- Configuring done\r\n"
+    ],
+    [
+      0.003001,
+      "-- Generating done\r\n"
+    ],
+    [
+      0.001189,
+      "-- Build files have been written to: /home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo/world/build-sys-linux-x86_64\r\n"
+    ],
+    [
+      0.006367,
+      "\u001b]0;* (2/2) Configuring hello\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b[32;1m* \u001b[0m(2/2) \u001b[0m\u001b[32;1mConfiguring \u001b[34;1mhello\u001b[0m\r\n"
+    ],
+    [
+      0.133028,
+      "-- The C compiler identification is GNU 5.3.0\r\n"
+    ],
+    [
+      0.006712,
+      "-- Check for working C compiler: /usr/bin/cc\r\n"
+    ],
+    [
+      0.104313,
+      "-- Check for working C compiler: /usr/bin/cc -- works\r\n"
+    ],
+    [
+      0.001265,
+      "-- Detecting C compiler ABI info\r\n"
+    ],
+    [
+      0.117510,
+      "-- Detecting C compiler ABI info - done\r\n"
+    ],
+    [
+      0.014795,
+      "-- Detecting C compile features\r\n"
+    ],
+    [
+      0.334653,
+      "-- Detecting C compile features - done\r\n"
+    ],
+    [
+      0.002121,
+      "-- Using qibuild 3.12\r\n"
+    ],
+    [
+      0.015795,
+      "-- Library: hello\r\n"
+    ],
+    [
+      0.009696,
+      "-- Swig/python: helloswig\r\n"
+    ],
+    [
+      0.053247,
+      "-- Configuring done\r\n"
+    ],
+    [
+      0.005588,
+      "-- Generating done\r\n"
+    ],
+    [
+      0.001467,
+      "-- Build files have been written to: /home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo/hello/build-sys-linux-x86_64\r\n"
+    ],
+    [
+      0.029397,
+      "running:\r\n"
+    ],
+    [
+      0.000037,
+      "\u003e  qibuild make hello"
+    ],
+    [
+      1.053846,
+      "\r\n"
+    ],
+    [
+      0.157426,
+      "\u001b[32;1mCurrent build worktree: \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.008696,
+      "\u001b]0;* (1/2) Building world in Debug\u0007\u001b[32;1m* \u001b[0m(1/2) \u001b[0m\u001b[32;1mBuilding \u001b[34;1mworld in \u001b[34;1mDebug\u001b[0m\r\n"
+    ],
+    [
+      0.045446,
+      "\u001b[35m\u001b[1mScanning dependencies of target world\u001b[0m\r\n"
+    ],
+    [
+      0.015799,
+      "[ 50%] \u001b[32mBuilding C object CMakeFiles/world.dir/world.c.o\u001b[0m\r\n"
+    ],
+    [
+      0.035243,
+      "[100%] \u001b[32m\u001b[1mLinking C shared library sdk/lib/libworld.so\u001b[0m\r\n"
+    ],
+    [
+      0.045629,
+      "[100%] Built target world\r\n"
+    ],
+    [
+      0.016815,
+      "\u001b]0;* (2/2) Building hello in Debug\u0007\u001b[32;1m* \u001b[0m(2/2) \u001b[0m\u001b[32;1mBuilding \u001b[34;1mhello in \u001b[34;1mDebug\u001b[0m\r\n"
+    ],
+    [
+      0.046782,
+      "\u001b[35m\u001b[1mScanning dependencies of target hello\u001b[0m\r\n"
+    ],
+    [
+      0.014188,
+      "[ 20%] \u001b[32mBuilding C object CMakeFiles/hello.dir/hello.c.o\u001b[0m\r\n"
+    ],
+    [
+      0.040022,
+      "[ 40%] \u001b[32m\u001b[1mLinking C shared library sdk/lib/libhello.so\u001b[0m\r\n"
+    ],
+    [
+      0.041728,
+      "[ 40%] Built target hello\r\n"
+    ],
+    [
+      0.012449,
+      "[ 60%] \u001b[34m\u001b[1mSwig source\u001b[0m\r\n"
+    ],
+    [
+      0.182236,
+      "\u001b[35m\u001b[1mScanning dependencies of target _helloswig\u001b[0m\r\n"
+    ],
+    [
+      0.029793,
+      "[ 80%] \u001b[32mBuilding C object CMakeFiles/_helloswig.dir/sdk/lib/python2.7/site-packages/helloswigPYTHON_wrap.c.o\u001b[0m\r\n"
+    ],
+    [
+      0.275885,
+      "[100%] \u001b[32m\u001b[1mLinking C shared module sdk/lib/python2.7/site-packages/_helloswig.so\u001b[0m\r\n"
+    ],
+    [
+      0.053339,
+      "[100%] Built target _helloswig\r\n"
+    ],
+    [
+      0.028721,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      ":: Creating a virtualenv to run the python tests ...\r\n"
+    ],
+    [
+      0.000074,
+      "running:\r\n"
+    ],
+    [
+      0.000062,
+      "\u003e  qipy bootstrap"
+    ],
+    [
+      1.669618,
+      "\r\n"
+    ],
+    [
+      0.173901,
+      "\u001b[32;1mCurrent build worktree: \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[32;1mConfiguring virtualenv for \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.061182,
+      "Using real prefix '/usr'\r\n"
+    ],
+    [
+      0.007558,
+      "New python executable in /home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo/.qi/venvs/py-sys-linux-x86_64/bin/python2\r\n"
+    ],
+    [
+      0.000209,
+      "Also creating executable in /home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo/.qi/venvs/py-sys-linux-x86_64/bin/python\r\n"
+    ],
+    [
+      0.038253,
+      "Installing setuptools, pip, wheel..."
+    ],
+    [
+      2.565545,
+      "done.\r\n"
+    ],
+    [
+      0.013642,
+      "\u001b[34;1m:: \u001b[0mAdding python projects\u001b[0m\r\n"
+    ],
+    [
+      0.000500,
+      "\u001b[32;1m* \u001b[0m(1/1) \u001b[0m\u001b[34;1mpyhello\u001b[0m\r\n"
+    ],
+    [
+      0.001918,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[34;1m:: \u001b[0mRegistering C++ extensions\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[32;1m* \u001b[0m(1/1) \u001b[0m\u001b[34;1mhello\u001b[0m\r\n"
+    ],
+    [
+      0.000461,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[34;1m:: \u001b[0mAdding other requirements: pip, virtualenv, ipython\u001b[0m\r\n"
+    ],
+    [
+      4.647767,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[34;1m:: \u001b[0mInstalling deps from requirements.txt files\u001b[0m\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[32;1m* \u001b[0m(1/1) \u001b[0m\u001b[34;1mpyhello\u001b[0m\r\n"
+    ],
+    [
+      1.463433,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[32;1mDone\u001b[0m\r\n"
+    ],
+    [
+      0.020259,
+      "\r\n:: Running py.test ...\r\n"
+    ],
+    [
+      0.000018,
+      "running:\r\n"
+    ],
+    [
+      0.000058,
+      "\u003e  qipy run py.test test/test_hello.py"
+    ],
+    [
+      1.589551,
+      "\r\n"
+    ],
+    [
+      0.130893,
+      "\u001b[32;1mCurrent build worktree: \u001b[0m\u001b[1m/home/dmerej/src/aldeb/master/tools/qibuild/contrib/demo\u001b[0m\r\n"
+    ],
+    [
+      0.365815,
+      "\u001b[1m============================= test session starts ==============================\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "platform linux2 -- Python 2.7.11, pytest-2.8.7, py-1.4.31, pluggy-0.3.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "rootdir: /home/dmerej/src/aldeb/master/tools/qibuild, inifile: "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000436,
+      "\u001b[1m\rcollecting 0 items\u001b[0m"
+    ],
+    [
+      0.007128,
+      "\u001b[1m\rcollecting 1 items\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\rcollected 1 items \r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[0m"
+    ],
+    [
+      0.000546,
+      "\r\ntest/test_hello.py "
+    ],
+    [
+      0.000676,
+      "."
+    ],
+    [
+      0.000668,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[32m\u001b[1m=========================== 1 passed in 0.01 seconds ===========================\u001b[0m\r\n"
+    ],
+    [
+      0.027665,
+      "\r\nMission accomplished :)\r\n"
+    ],
+    [
+      3.313795,
+      "\r\n"
+    ],
+    [
+      0.001553,
+      "If you want to know more:\r\n* #qi on freenode\r\n* aldebaran/qibuild on github\r\n* qibuild-dev@aldebaran.com\r\n\r\nThanks for watching!\r\n"
+    ],
+    [
+      4.593666,
+      "\r\n"
+    ]
+  ]
+}
