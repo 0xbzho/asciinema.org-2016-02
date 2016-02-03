@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 10,
+  "duration": 4.326811,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.019512,
+      "Restored session: Wed Feb 3 15:03:08 PST 2016\r\n"
+    ],
+    [
+      0.007033,
+      "\u001b]7;file://zinc.local/Users/ryansobol\u0007"
+    ],
+    [
+      0.000191,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000029,
+      "zinc:~ ryansobol$ "
+    ],
+    [
+      2.035415,
+      "u"
+    ],
+    [
+      0.184860,
+      "n"
+    ],
+    [
+      0.068065,
+      "a"
+    ],
+    [
+      0.107961,
+      "m"
+    ],
+    [
+      0.107869,
+      "e"
+    ],
+    [
+      0.497819,
+      "\r\n"
+    ],
+    [
+      0.004073,
+      "Darwin\r\n"
+    ],
+    [
+      0.000913,
+      "\u001b]7;file://zinc.local/Users/ryansobol\u0007"
+    ],
+    [
+      0.000181,
+      "zinc:~ ryansobol$ "
+    ]
+  ]
+}
