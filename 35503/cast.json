@@ -1,0 +1,734 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 34.540437,
+  "command": "tmux new",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/run/current-system/sw/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.004882,
+      "\u001b[?1049h\u001b[m\u000f\u001b[?1l\u001b\u003e\u001b[H\u001b[J\u001b[34h\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004h\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:44 \u001b[m\u000f\u001b[30;1H\u001b[1;30r\u001b[H\u001b[34h\u001b[?25h\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.012605,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:44 \u001b[m\u000f\u001b[1;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.005582,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:44 \u001b[m\u000f\u001b[1;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.094879,
+      "\u001b[1;29r\u001b[1m\u001b[3m%\u001b[m\u000f                                                                                                                       \u001b[1;1H \u001b[1;30r\u001b[H"
+    ],
+    [
+      0.021950,
+      "\u001b[1;29r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[1;30r\u001b[H\u001b[65C\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.742587,
+      "\u001b[1;29r\u001b[H\u001b[65C\u001b[32m.\u001b[1;30r\u001b[H\u001b[66C\u001b[m\u000f"
+    ],
+    [
+      0.018786,
+      "\u001b[1;29r\u001b[H\u001b[65C\u001b[4m./\u001b[1;30r\u001b[H\u001b[67C\u001b[m\u000f"
+    ],
+    [
+      0.128448,
+      "\u001b[1;29r\u001b[H\u001b[65C\u001b[4m./b\u001b[1;30r\u001b[H\u001b[68C\u001b[m\u000f"
+    ],
+    [
+      0.111327,
+      "\u001b[1;29r\u001b[H\u001b[67C\u001b[4mbi\u001b[1;30r\u001b[H\u001b[69C\u001b[m\u000f"
+    ],
+    [
+      0.172547,
+      "\u001b[1;29r\u001b[H\u001b[68C\u001b[4min\u001b[1;30r\u001b[H\u001b[70C\u001b[m\u000f"
+    ],
+    [
+      0.267875,
+      "\u001b[1;29r\u001b[H\u001b[69C\u001b[4mn/\u001b[1;30r\u001b[H\u001b[71C\u001b[m\u000f"
+    ],
+    [
+      0.171037,
+      "\u001b[1;29r\u001b[H\u001b[70C\u001b[4m/a\u001b[1;30r\u001b[H\u001b[72C\u001b[m\u000f"
+    ],
+    [
+      0.039289,
+      "\u001b[1;29r\u001b[H\u001b[71C\u001b[4mas\u001b[1;30r\u001b[H\u001b[73C\u001b[m\u000f"
+    ],
+    [
+      0.085398,
+      "\u001b[1;29r\u001b[H\u001b[72C\u001b[4msc\u001b[1;30r\u001b[H\u001b[74C\u001b[m\u000f"
+    ],
+    [
+      0.276160,
+      "\u001b[1;29r\u001b[H\u001b[73C\u001b[4mci\u001b[1;30r\u001b[H\u001b[75C\u001b[m\u000f"
+    ],
+    [
+      0.144032,
+      "\u001b[1;29r\u001b[H\u001b[74C\u001b[4mii\u001b[1;30r\u001b[H\u001b[76C\u001b[m\u000f"
+    ],
+    [
+      0.147857,
+      "\u001b[1;29r\u001b[H\u001b[65C./bin/asciinema\u001b[1m \u001b[1;30r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.374403,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:48 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004514,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:48 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.181471,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:49 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.013992,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:49 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000439,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:49 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      3.752004,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.006775,
+      "\u001b[1;28r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;29r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.008259,
+      "\u001b[?25l\u001b[29;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000425,
+      "\u001b[?25l\u001b[29;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001735,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                               \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004472,
+      "\u001b[1;28r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;29r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.096198,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004389,
+      "\u001b[1;28r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;29r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.027059,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                             \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004372,
+      "\u001b[1;28r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;29r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.030027,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004359,
+      "\u001b[1;28r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;29r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.032147,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004303,
+      "\u001b[1;27r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;28r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.024610,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                           \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004368,
+      "\u001b[1;27r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;28r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.051291,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                          \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004400,
+      "\u001b[1;27r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;28r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.073031,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                         \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004269,
+      "\u001b[1;27r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;28r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.033768,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                        \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004430,
+      "\u001b[1;26r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;27r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.026985,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                       \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004534,
+      "\u001b[1;26r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;27r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.010576,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                      \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004528,
+      "\u001b[1;26r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;27r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.027749,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                     \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004299,
+      "\u001b[1;26r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;27r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.100446,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004414,
+      "\u001b[1;26r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;27r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.024875,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                   \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004349,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.030787,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004430,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.043789,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                 \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004354,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.063450,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004253,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.063783,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                               \u001b[47m   \u001b[48;5;250m Feb-03 23:04:53 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004320,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.079737,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.006230,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.007988,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000480,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.067077,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                             \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004531,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.112660,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.004469,
+      "\u001b[1;25r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[1;26r\u001b[H\u001b[81C\u001b[m\u000f"
+    ],
+    [
+      0.093342,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:54 \u001b[m\u000f\u001b[1;82H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.932543,
+      "\u001b[1;25r\u001b[H\u001b[65C\u001b[32m./bin/asciinema\u001b[39m \u001b[4mr\u001b[1;26r\u001b[H\u001b[82C\u001b[m\u000f"
+    ],
+    [
+      0.136271,
+      "\u001b[1;25r\u001b[H\u001b[81C\u001b[4mre\u001b[1;26r\u001b[H\u001b[83C\u001b[m\u000f"
+    ],
+    [
+      0.170505,
+      "\u001b[1;25r\u001b[H\u001b[81Crec\u001b[1;26r\u001b[H\u001b[84C"
+    ],
+    [
+      0.229227,
+      "\u001b[1;25r\u001b[H\u001b[84C \u001b[1;26r\u001b[H\u001b[85C"
+    ],
+    [
+      1.639946,
+      "\u001b[1;25r\u001b[H\u001b[85C-\u001b[1;26r\u001b[H\u001b[86C"
+    ],
+    [
+      0.135960,
+      "\u001b[1;25r\u001b[H\u001b[86Cc\u001b[1;26r\u001b[H\u001b[87C"
+    ],
+    [
+      0.079692,
+      "\u001b[1;25r\u001b[H\u001b[87C \u001b[1;26r\u001b[H\u001b[88C"
+    ],
+    [
+      0.491900,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:58 \u001b[m\u000f\u001b[1;89H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001705,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:58 \u001b[m\u000f\u001b[1;89H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.042896,
+      "\u001b[1;25r\u001b[H\u001b[88C\u001b[33m\"\u001b[1;26r\u001b[H\u001b[89C\u001b[m\u000f"
+    ],
+    [
+      0.185080,
+      "\u001b[1;25r\u001b[H\u001b[88C\u001b[33m\"b\u001b[1;26r\u001b[H\u001b[90C\u001b[m\u000f"
+    ],
+    [
+      0.111593,
+      "\u001b[1;25r\u001b[H\u001b[89C\u001b[33mba\u001b[1;26r\u001b[H\u001b[91C\u001b[m\u000f"
+    ],
+    [
+      0.055090,
+      "\u001b[1;25r\u001b[H\u001b[90C\u001b[33mas\u001b[1;26r\u001b[H\u001b[92C\u001b[m\u000f"
+    ],
+    [
+      0.039965,
+      "\u001b[1;25r\u001b[H\u001b[91C\u001b[33msh\u001b[1;26r\u001b[H\u001b[93C\u001b[m\u000f"
+    ],
+    [
+      0.256563,
+      "\u001b[1;25r\u001b[H\u001b[92C\u001b[33mh\"\u001b[1;26r\u001b[H\u001b[94C\u001b[m\u000f"
+    ],
+    [
+      0.135960,
+      "\u001b[1;25r\u001b[H\u001b[94C \u001b[1;26r\u001b[H\u001b[95C"
+    ],
+    [
+      0.356471,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:59 \u001b[m\u000f\u001b[1;96H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.013837,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:59 \u001b[m\u000f\u001b[1;96H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001664,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:04:59 \u001b[m\u000f\u001b[1;96H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.933784,
+      "\u001b[1;25r\u001b[H\u001b[95C-\u001b[1;26r\u001b[H\u001b[96C"
+    ],
+    [
+      1.590639,
+      "\u001b[1;25r\u001b[H\u001b[95C \u001b[1;26r\u001b[H\u001b[95C"
+    ],
+    [
+      0.023603,
+      "\u001b[1;25r\u001b[H\u001b[95C=\u001b[1;26r\u001b[H\u001b[96C"
+    ],
+    [
+      0.384062,
+      "\u001b[1;25r\u001b[H\u001b[95C \u001b[1;26r\u001b[H\u001b[95C"
+    ],
+    [
+      0.302217,
+      "\u001b[1;25r\u001b[H\u001b[95Co\u001b[1;26r\u001b[H\u001b[96C"
+    ],
+    [
+      0.433410,
+      "\u001b[1;25r\u001b[H\u001b[95C \u001b[1;26r\u001b[H\u001b[95C"
+    ],
+    [
+      0.134523,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:03 \u001b[m\u000f\u001b[1;96H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001489,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:03 \u001b[m\u000f\u001b[1;96H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.032263,
+      "\u001b[1;25r\u001b[H\u001b[95C\u001b[4mi\u001b[1;26r\u001b[H\u001b[96C\u001b[m\u000f"
+    ],
+    [
+      0.170166,
+      "\u001b[1;25r\u001b[H\u001b[95C\u001b[4min\u001b[1;26r\u001b[H\u001b[97C\u001b[m\u000f"
+    ],
+    [
+      0.112728,
+      "\u001b[1;25r\u001b[H\u001b[95Cinn\u001b[1;26r\u001b[H\u001b[98C"
+    ],
+    [
+      0.053335,
+      "\u001b[1;25r\u001b[H\u001b[98Ce\u001b[1;26r\u001b[H\u001b[99C"
+    ],
+    [
+      0.055858,
+      "\u001b[1;25r\u001b[H\u001b[99Cr \r\u001b[K\u001b[1;26r\u001b[H\r\n"
+    ],
+    [
+      0.136335,
+      "\u001b[1;25r\u001b[H\r\n.\u001b[1;26r\u001b[H\u001b[2;2H"
+    ],
+    [
+      0.192810,
+      "\u001b[1;25r\u001b[H\r\n.j\u001b[1;26r\u001b[H\u001b[2;3H"
+    ],
+    [
+      0.046855,
+      "\u001b[1;25r\u001b[H\u001b[2;3Hs\u001b[1;26r\u001b[H\u001b[2;4H"
+    ],
+    [
+      0.104038,
+      "\u001b[1;25r\u001b[H\u001b[2;4Ho\u001b[1;26r\u001b[H\u001b[2;5H"
+    ],
+    [
+      0.128384,
+      "\u001b[1;25r\u001b[H\u001b[2;5Hn\u001b[1;26r\u001b[H\u001b[2;6H"
+    ],
+    [
+      0.148272,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:04 \u001b[m\u000f\u001b[2;6H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.013121,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:04 \u001b[m\u000f\u001b[2;6H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.002212,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:04 \u001b[m\u000f\u001b[2;6H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.011789,
+      "\r\n\u001b[?1l\u001b\u003e\u001b[?2004l"
+    ],
+    [
+      0.002537,
+      "\u001b[1;25r\u001b[H\u001b[2B\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\r\n~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[1;26r\u001b[H\u001b[4B\u001b[m\u000f"
+    ],
+    [
+      1.629492,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:05 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.013055,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:05 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000456,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:05 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.053025,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                 \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.011868,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                 \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.003360,
+      "\u001b[?25l\u001b[26;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                 \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.134651,
+      "\u001b[1;1H\u001b[1;26r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[5;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.038389,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[6;1H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.116137,
+      "\u001b[1;26r\u001b[H\u001b[5B\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[1;27r\u001b[H\u001b[6;53H\u001b[m\u000f"
+    ],
+    [
+      0.017860,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                   \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[6;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.124492,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[6;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.105647,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[4;1H\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                     \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[6;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.098809,
+      "\u001b[1;1H\u001b[1;27r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                      \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[6;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.087964,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                      \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.044391,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 102x26. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                       \u001b[47m   \u001b[48;5;250m Feb-03 23:05:07 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.020712,
+      "\u001b[1;27r\u001b[H\u001b[6B\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[1;28r\u001b[H\u001b[7;53H\u001b[m\u000f"
+    ],
+    [
+      0.151006,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                        \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.013568,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                        \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000673,
+      "\u001b[?25l\u001b[28;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                        \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.099041,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                         \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.082070,
+      "\u001b[1;1H\u001b[1;28r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                          \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[7;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.018132,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                          \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[8;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.120196,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 107x27. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                           \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[8;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.015343,
+      "\u001b[1;28r\u001b[H\u001b[7B\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[1;29r\u001b[H\u001b[8;53H\u001b[m\u000f"
+    ],
+    [
+      0.121324,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                            \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[8;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.109770,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                             \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[8;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.049391,
+      "\u001b[1;1H\u001b[1;29r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[8;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.101893,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                              \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.069584,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 111x28. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                               \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.048051,
+      "\u001b[1;29r\u001b[H\u001b[8B\u001b[33m~ Current terminal size is 115x29. Optimal is 120x30\u001b[1;30r\u001b[H\u001b[9;53H\u001b[m\u000f"
+    ],
+    [
+      0.030766,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 115x29. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.102912,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 115x29. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                 \u001b[47m   \u001b[48;5;250m Feb-03 23:05:08 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.064404,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 115x29. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.015370,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000467,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                  \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.233633,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 115x29. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                   \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.022285,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                   \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.030216,
+      "\u001b[1;29r\u001b[H\u001b[8B\u001b[33m~ Current terminal size is 119x29. Optimal is 120x30\u001b[1;30r\u001b[H\u001b[9;53H\u001b[m\u000f"
+    ],
+    [
+      0.298183,
+      "\u001b[1;1H\u001b[1;30r\u001b[?25l\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m ./bin/asciinema\u001b[1m \u001b[m\u000f\u001b[K\r\n\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[42m\u001b[30m  live_size_feedback \u001b[49m\u001b[32m\u001b[39m \u001b[32m./bin/asciinema\u001b[39m rec -c \u001b[33m\"bash\"\u001b[39m inner.json\u001b[K\r\n\u001b[33m~ Current terminal size is 100x25. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[33m~ You can now resize it. Press \u003cEnter\u003e to start recording.\u001b[39m\u001b[K\r\n\u001b[33m~ Current terminal size is 119x29. Optimal is 120x30\u001b[39m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:09 \u001b[m\u000f\u001b[9;53H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.201714,
+      "\u001b[1;29r\u001b[H\u001b[8B\u001b[33m~ Current terminal size is 120x29. Optimal is 120x30\u001b[1;30r\u001b[H\u001b[9;53H\u001b[m\u000f"
+    ],
+    [
+      2.391375,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[1;29r\u001b[H\u001b[9B\u001b[32m~ Asciicast recording started.\r\n~ Hit Ctrl-D or type \"exit\" to finish.\u001b[1;30r\u001b[H\u001b[11B\u001b[m\u000f"
+    ],
+    [
+      0.012277,
+      "\u001b[1;29r\u001b[H\u001b[11Bcole@chimera:~/Code/colemickens/asciinema_gopath/src/github.com/asciinema/asciinema$ \u001b[1;30r\u001b[H\u001b[12;86H"
+    ],
+    [
+      0.883006,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:13 \u001b[m\u000f\u001b[12;86H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001508,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:13 \u001b[m\u000f\u001b[12;86H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.184277,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:14 \u001b[m\u000f\u001b[12;86H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.012904,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:14 \u001b[m\u000f\u001b[12;86H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.000463,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: ./bin/asciinema \u001b[30m\u001b[42m                                                                    \u001b[47m   \u001b[48;5;250m Feb-03 23:05:14 \u001b[m\u000f\u001b[12;86H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.185094,
+      "\u001b[1;29r\u001b[H\u001b[12;86He\u001b[1;30r\u001b[H\u001b[12;87H"
+    ],
+    [
+      0.220060,
+      "\u001b[1;29r\u001b[H\u001b[12;87Hx\u001b[1;30r\u001b[H\u001b[12;88H"
+    ],
+    [
+      0.116181,
+      "\u001b[1;29r\u001b[H\u001b[12;88Hi\u001b[1;30r\u001b[H\u001b[12;89H"
+    ],
+    [
+      0.103801,
+      "\u001b[1;29r\u001b[H\u001b[12;89Ht\u001b[1;30r\u001b[H\u001b[12;90H"
+    ],
+    [
+      0.696209,
+      "\r\n\u001b[1;29r\u001b[H\u001b[12Bexit"
+    ],
+    [
+      0.000004,
+      "\u001b[1;30r\u001b[H\u001b[13B"
+    ],
+    [
+      0.000556,
+      "\u001b[1;29r\u001b[H\u001b[13B\u001b[32m~ Asciicast recording finished.\u001b[1;30r\u001b[H\u001b[14B\u001b[m\u000f"
+    ],
+    [
+      0.000466,
+      "\u001b[1;29r\u001b[H\u001b[14B\u001b[1m\u001b[3m%\u001b[m\u000f                                                                                                                       \u001b[15;1H \u001b[1;30r\u001b[H\u001b[14B"
+    ],
+    [
+      0.010508,
+      "\u001b[1;29r\u001b[H\u001b[14B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[14A\u001b[40m cole@chimera \u001b[30m\u001b[46m ~/C/c/a/s/g/a/asciinema \u001b[36m\u001b[43m\u001b[30m  live_size_feedback ±\u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[1;30r\u001b[H\u001b[15;67H\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      2.458046,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:18 \u001b[m\u000f\u001b[15;67H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.011926,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:18 \u001b[m\u000f\u001b[15;67H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.001398,
+      "\u001b[?25l\u001b[30;1H\u001b[30m\u001b[48;5;250m chimera \u001b[47m 6 \u001b[32m\u001b[40m 1: zsh \u001b[30m\u001b[42m                                                                                \u001b[47m   \u001b[48;5;250m Feb-03 23:05:18 \u001b[m\u000f\u001b[15;67H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.140190,
+      "\u001b[1;29r\u001b[H\u001b[15;67H\u001b[31m\u001b[1me\u001b[1;30r\u001b[H\u001b[15;68H\u001b[m\u000f"
+    ],
+    [
+      0.178418,
+      "\u001b[1;29r\u001b[H\u001b[15;67H\u001b[31m\u001b[1mex\u001b[1;30r\u001b[H\u001b[15;69H\u001b[m\u000f"
+    ],
+    [
+      0.150254,
+      "\u001b[1;29r\u001b[H\u001b[15;67H\u001b[31m\u001b[1mexi\u001b[1;30r\u001b[H\u001b[15;70H\u001b[m\u000f"
+    ],
+    [
+      0.081325,
+      "\u001b[1;29r\u001b[H\u001b[15;67H\u001b[32mexit\u001b[1;30r\u001b[H\u001b[15;71H\u001b[m\u000f"
+    ],
+    [
+      0.159530,
+      "\u001b[?1l\u001b\u003e\r\n\u001b[?2004l"
+    ],
+    [
+      0.003436,
+      "\u001b[1;30r\u001b[m\u000f\u001b[?1l\u001b\u003e\u001b[H\u001b[J\u001b[34h\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004l\u001b[?1049l"
+    ],
+    [
+      0.000096,
+      "[exited]\r\n"
+    ]
+  ]
+}
