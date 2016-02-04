@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "width": 135,
+  "height": 37,
+  "duration": 93.056123,
+  "command": "/bin/bash",
+  "title": "openstack-salt vagrant install",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.015240,
+      "can't find session jclark\r\n"
+    ],
+    [
+      0.004437,
+      "can't find session jclark\r\n"
+    ],
+    [
+      0.431643,
+      "\u001b[38;5;250m\u001b[48;5;240m jclark \u001b[48;5;238m\u001b[38;5;240m\u001b[38;5;250m\u001b[48;5;238m ghostface \u001b[48;5;31m\u001b[38;5;238m\u001b[38;5;15m\u001b[48;5;31m ~ \u001b[48;5;237m\u001b[38;5;31m\u001b[38;5;250m\u001b[48;5;237m Code \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m … \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m git \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m github \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;254m\u001b[48;5;237m openstack-salt \u001b[48;5;161m\u001b[38;5;237m\u001b[38;5;15m\u001b[48;5;161m master + \u001b[48;5;236m\u001b[38;5;161m\u001b[38;5;15m\u001b[48;5;236m $ \u001b[0m\u001b[38;5;236m\u001b[0m "
+    ],
+    [
+      1.604893,
+      "v"
+    ],
+    [
+      0.119523,
+      "a"
+    ],
+    [
+      0.128424,
+      "g"
+    ],
+    [
+      0.168051,
+      "r"
+    ],
+    [
+      0.119929,
+      "a"
+    ],
+    [
+      0.128071,
+      "n"
+    ],
+    [
+      0.087947,
+      "t"
+    ],
+    [
+      0.071930,
+      " "
+    ],
+    [
+      0.200091,
+      "u"
+    ],
+    [
+      0.079996,
+      "p"
+    ],
+    [
+      0.312008,
+      "\r\n"
+    ],
+    [
+      1.889560,
+      "\u001b[0mBringing machine 'openstack_config' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.000999,
+      "\u001b[0mBringing machine 'openstack_control' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000886,
+      "\u001b[0mBringing machine 'openstack_compute' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.356219,
+      "\u001b[1m==\u003e openstack_config: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      6.031129,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000210,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      0.381953,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.059006,
+      "\u001b[1m==\u003e openstack_config: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.114389,
+      "\u001b[1m==\u003e openstack_config: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      1.329286,
+      "\u001b[1m==\u003e openstack_config: Setting the name of the VM: openstack-config\u001b[0m\r\n"
+    ],
+    [
+      0.102423,
+      "\u001b[1m==\u003e openstack_config: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.668237,
+      "\u001b[1m==\u003e openstack_config: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.171144,
+      "\u001b[1m==\u003e openstack_config: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000424,
+      "\u001b[0m    openstack_config: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.000351,
+      "\u001b[0m    openstack_config: Adapter 2: hostonly\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.044815,
+      "\u001b[1m==\u003e openstack_config: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.064484,
+      "\u001b[0m    openstack_config: 22 (guest) =\u003e 2222 (host) (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.122931,
+      "\u001b[1m==\u003e openstack_config: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.086830,
+      "\u001b[1m==\u003e openstack_config: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.235675,
+      "\u001b[1m==\u003e openstack_config: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.241774,
+      "\u001b[0m    openstack_config: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000243,
+      "\u001b[0m    openstack_config: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "\u001b[0m    openstack_config: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      17.374523,
+      "\u001b[0m    openstack_config: \r\n    openstack_config: Vagrant insecure key detected. Vagrant will automatically replace\r\n    openstack_config: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.198610,
+      "\u001b[0m    openstack_config: \r\n    openstack_config: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.051329,
+      "\u001b[0m    openstack_config: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.033281,
+      "\u001b[0m    openstack_config: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      1.133286,
+      "\u001b[1m==\u003e openstack_config: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.095285,
+      "\u001b[0;33mGuestAdditions versions on your host (5.0.10) and guest (4.3.36) do not match.\u001b[0m\r\n"
+    ],
+    [
+      0.105316,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.007824,
+      "\u001b[0m * Stopping VirtualBox Additions\r\n\u001b[0m"
+    ],
+    [
+      0.001015,
+      "\u001b[0m   ...done.\r\n\u001b[0m"
+    ],
+    [
+      3.031032,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.004402,
+      "\u001b[0mReading package lists...\u001b[0m"
+    ],
+    [
+      0.001530,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.002497,
+      "\u001b[0mBuilding dependency tree...\u001b[0m"
+    ],
+    [
+      0.108569,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000478,
+      "\u001b[0mReading state information...\u001b[0m"
+    ],
+    [
+      0.000391,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.083713,
+      "\u001b[0mThe following packages were automatically installed and are no longer required:\r\n\u001b[0m"
+    ],
+    [
+      0.000400,
+      "\u001b[0m  acl at-spi2-core colord dconf-gsettings-backend dconf-service dkms fakeroot\r\n\u001b[0m"
+    ],
+    [
+      0.000454,
+      "\u001b[0m  fontconfig fontconfig-config fonts-dejavu-core gcc gcc-4.8\r\n\u001b[0m"
+    ],
+    [
+      0.000388,
+      "\u001b[0m  hicolor-icon-theme libasan0 libasound2 libasound2-data libatk-bridge2.0-0\r\n\u001b[0m"
+    ],
+    [
+      0.000475,
+      "\u001b[0m  libatk1.0-0 libatk1.0-data libatomic1 libatspi2.0-0 libavahi-client3\r\n\u001b[0m"
+    ],
+    [
+      0.000422,
+      "\u001b[0m  libavahi-common-data libavahi-common3 libc-dev-bin libc6-dev\r\n\u001b[0m"
+    ],
+    [
+      0.000320,
+      "\u001b[0m  libcairo-gobject2 libcairo2 libcanberra-gtk3-0 libcanberra-gtk3-module\r\n\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\u001b[0m  libcanberra0 libcolord1 libcolorhug1 libcups2 libdatrie1 libdconf1\r\n\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\u001b[0m  libdrm-intel1 libdrm-nouveau2 libdrm-radeon1 libexif12 libfakeroot\r\n\u001b[0m"
+    ],
+    [
+      0.000350,
+      "\u001b[0m  libfontconfig1 libfontenc1 libgcc-4.8-dev libgd3 libgdk-pixbuf2.0-0\r\n\u001b[0m"
+    ],
+    [
+      0.000260,
+      "\u001b[0m  libgdk-pixbuf2.0-common libgl1-mesa-dri libgl1-mesa-glx libglapi-mesa\r\n\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\u001b[0m  libgomp1 libgphoto2-6 libgphoto2-l10n libgphoto2-port10 libgraphite2-3\r\n\u001b[0m"
+    ],
+    [
+      0.000645,
+      "\u001b[0m  libgtk-3-0 libgtk-3-bin libgtk-3-common libgudev-1.0-0 libgusb2\r\n\u001b[0m"
+    ],
+    [
+      0.000334,
+      "\u001b[0m  libharfbuzz0b libice6 libieee1284-3 libitm1 libjasper1 libjbig0\r\n\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0m  libjpeg-turbo8 libjpeg8 liblcms2-2 libllvm3.4 libltdl7 libnotify-bin\r\n\u001b[0m"
+    ],
+    [
+      0.000331,
+      "\u001b[0m  libnotify4 libogg0 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0\r\n\u001b[0m"
+    ],
+    [
+      0.000248,
+      "\u001b[0m  libpciaccess0 libpixman-1-0 libquadmath0 libsane libsane-common libsm6\r\n\u001b[0m"
+    ],
+    [
+      0.000309,
+      "\u001b[0m  libtdb1 libthai-data libthai0 libtiff5 libtsan0 libtxc-dxtn-s2tc0 libv4l-0\r\n\u001b[0m"
+    ],
+    [
+      0.000260,
+      "\u001b[0m  libv4lconvert0 libvorbis0a libvorbisfile3 libvpx1 libwayland-client0\r\n\u001b[0m"
+    ],
+    [
+      0.000277,
+      "\u001b[0m  libwayland-cursor0 libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0\r\n\u001b[0m"
+    ],
+    [
+      0.000220,
+      "\u001b[0m  libxcb-glx0 libxcb-present0 libxcb-render0 libxcb-shm0 libxcb-sync1\r\n\u001b[0m"
+    ],
+    [
+      0.000262,
+      "\u001b[0m  libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxfont1 libxi6\r\n\u001b[0m"
+    ],
+    [
+      0.000329,
+      "\u001b[0m  libxinerama1 libxkbcommon0 libxkbfile1 libxmu6 libxpm4 libxrandr2\r\n\u001b[0m"
+    ],
+    [
+      0.000261,
+      "\u001b[0m  libxrender1 libxshmfence1 libxt6 libxtst6 libxxf86vm1 linux-libc-dev\r\n\u001b[0m"
+    ],
+    [
+      0.000263,
+      "\u001b[0m  manpages-dev notification-daemon sound-theme-freedesktop x11-common\r\n  x11-xkb-utils xfonts-base xfonts-encodings xfonts-utils xserver-common\r\n  xserver-xorg-core\r\nUse 'apt-get autoremove' to remove them.\r\n\u001b[0m"
+    ],
+    [
+      0.043504,
+      "\u001b[0mThe following packages will be REMOVED:\r\n\u001b[0m"
+    ],
+    [
+      0.000375,
+      "\u001b[0m  virtualbox-guest-dkms* virtualbox-guest-utils* virtualbox-guest-x11*\r\n\u001b[0m"
+    ],
+    [
+      0.092655,
+      "\u001b[0m0 upgraded, 0 newly installed, 3 to remove and 0 not upgraded.\r\nAfter this operation, 12.1 MB disk space will be freed.\r\n\u001b[0m"
+    ],
+    [
+      0.090626,
+      "\u001b[0m(Reading database ... 62976 files and directories currently installed.)\r\n\u001b[0m"
+    ],
+    [
+      0.001964,
+      "\u001b[0mRemoving virtualbox-guest-dkms (4.3.36-dfsg-1+deb8u1ubuntu1.14.04.1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.184512,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000413,
+      "\u001b[0m-------- Uninstall Beginning --------\r\n\u001b[0m"
+    ],
+    [
+      0.000383,
+      "\u001b[0mModule:  virtualbox-guest\r\n\u001b[0m"
+    ],
+    [
+      0.000360,
+      "\u001b[0mVersion: 4.3.36\r\n\u001b[0m"
+    ],
+    [
+      0.000361,
+      "\u001b[0mKernel:  3.13.0-77-generic (x86_64)\r\n\u001b[0m"
+    ],
+    [
+      0.000321,
+      "\u001b[0m-------------------------------------\r\n\u001b[0m"
+    ],
+    [
+      0.002404,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000513,
+      "\u001b[0mStatus: Before uninstall, this module version was ACTIVE on this kernel.\r\n\u001b[0m"
+    ],
+    [
+      0.001819,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000455,
+      "\u001b[0mvboxguest.ko:\r\n\u001b[0m"
+    ],
+    [
+      0.000338,
+      "\u001b[0m - Uninstallation\r\n\u001b[0m"
+    ],
+    [
+      0.000336,
+      "\u001b[0m   - Deleting from: /lib/modules/3.13.0-77-generic/updates/dkms/\r\n\u001b[0m"
+    ],
+    [
+      0.001556,
+      "\u001b[0m - Original module\r\n\u001b[0m"
+    ],
+    [
+      0.000423,
+      "\u001b[0m   - No original module was found for this module on this kernel.\r\n\u001b[0m"
+    ],
+    [
+      0.000407,
+      "\u001b[0m   - Use the dkms install command to reinstall any previous module version.\r\n\u001b[0m"
+    ],
+    [
+      0.022585,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.004679,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000386,
+      "\u001b[0mvboxsf.ko:\r\n\u001b[0m"
+    ],
+    [
+      0.000290,
+      "\u001b[0m - Uninstallation\r\n\u001b[0m"
+    ],
+    [
+      0.000371,
+      "\u001b[0m   - Deleting from: /lib/modules/3.13.0-77-generic/updates/dkms/\r\n\u001b[0m"
+    ],
+    [
+      0.001470,
+      "\u001b[0m - Original module\r\n\u001b[0m"
+    ],
+    [
+      0.000345,
+      "\u001b[0m   - No original module was found for this module on this kernel.\r\n\u001b[0m"
+    ],
+    [
+      0.000225,
+      "\u001b[0m   - Use the dkms install command to reinstall any previous module version.\r\n\u001b[0m"
+    ],
+    [
+      0.019977,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.003861,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000452,
+      "\u001b[0mvboxvideo.ko:\r\n\u001b[0m"
+    ],
+    [
+      0.000383,
+      "\u001b[0m - Uninstallation\r\n\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[0m   - Deleting from: /lib/modules/3.13.0-77-generic/updates/dkms/\r\n\u001b[0m"
+    ],
+    [
+      0.001075,
+      "\u001b[0m - Original module\r\n\u001b[0m"
+    ],
+    [
+      0.000307,
+      "\u001b[0m   - No original module was found for this module on this kernel.\r\n\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m   - Use the dkms install command to reinstall any previous module version.\r\n\u001b[0m"
+    ],
+    [
+      0.019568,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.002754,
+      "\u001b[0mdepmod...\u001b[0m"
+    ],
+    [
+      3.005032,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000801,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.002553,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000357,
+      "\u001b[0mDKMS: uninstall completed.\r\n\u001b[0m"
+    ],
+    [
+      0.004826,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000419,
+      "\u001b[0m------------------------------\r\n\u001b[0m"
+    ],
+    [
+      0.000332,
+      "\u001b[0mDeleting module version: 4.3.36\r\n\u001b[0m"
+    ],
+    [
+      0.000286,
+      "\u001b[0mcompletely from the DKMS tree.\r\n\u001b[0m"
+    ],
+    [
+      0.000379,
+      "\u001b[0m------------------------------\r\n\u001b[0m"
+    ],
+    [
+      0.005103,
+      "\u001b[0mDone.\r\n\u001b[0m"
+    ],
+    [
+      0.021373,
+      "\u001b[0mRemoving virtualbox-guest-x11 (4.3.36-dfsg-1+deb8u1ubuntu1.14.04.1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.012921,
+      "\u001b[0mPurging configuration files for virtualbox-guest-x11 (4.3.36-dfsg-1+deb8u1ubuntu1.14.04.1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.017877,
+      "\u001b[0mRemoving virtualbox-guest-utils (4.3.36-dfsg-1+deb8u1ubuntu1.14.04.1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.007883,
+      "\u001b[0mPurging configuration files for virtualbox-guest-utils (4.3.36-dfsg-1+deb8u1ubuntu1.14.04.1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.057405,
+      "\u001b[0mProcessing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n\u001b[0m"
+    ],
+    [
+      0.206655,
+      "\u001b[0mProcessing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n\u001b[0m"
+    ],
+    [
+      0.175726,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.004320,
+      "\u001b[0mReading package lists...\u001b[0m"
+    ],
+    [
+      0.001378,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.002650,
+      "\u001b[0mBuilding dependency tree...\u001b[0m"
+    ],
+    [
+      0.129885,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000353,
+      "\u001b[0mReading state information...\u001b[0m"
+    ],
+    [
+      0.000336,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.090593,
+      "\u001b[0mdkms is already the newest version.\r\ndkms set to manually installed.\r\nlinux-headers-3.13.0-77-generic is already the newest version.\r\nlinux-headers-3.13.0-77-generic set to manually installed.\r\nThe following packages were automatically installed and are no longer required:\r\n\u001b[0m"
+    ],
+    [
+      0.000495,
+      "\u001b[0m  acl at-spi2-core colord dconf-gsettings-backend dconf-service fontconfig\r\n\u001b[0m"
+    ],
+    [
+      0.000407,
+      "\u001b[0m  fontconfig-config fonts-dejavu-core hicolor-icon-theme libasound2\r\n\u001b[0m"
+    ],
+    [
+      0.000408,
+      "\u001b[0m  libasound2-data libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0\r\n\u001b[0m"
+    ],
+    [
+      0.000286,
+      "\u001b[0m  libavahi-client3 libavahi-common-data libavahi-common3 libcairo-gobject2\r\n\u001b[0m"
+    ],
+    [
+      0.000331,
+      "\u001b[0m  libcairo2 libcanberra-gtk3-0 libcanberra-gtk3-module libcanberra0 libcolord1\r\n\u001b[0m"
+    ],
+    [
+      0.000341,
+      "\u001b[0m  libcolorhug1 libcups2 libdatrie1 libdconf1 libdrm-intel1 libdrm-nouveau2\r\n\u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[0m  libdrm-radeon1 libexif12 libfontconfig1 libfontenc1 libgd3\r\n\u001b[0m"
+    ],
+    [
+      0.000324,
+      "\u001b[0m  libgdk-pixbuf2.0-0 libgdk-pixbuf2.0-common libgl1-mesa-dri libgl1-mesa-glx\r\n\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[0m  libglapi-mesa libgphoto2-6 libgphoto2-l10n libgphoto2-port10 libgraphite2-3\r\n\u001b[0m"
+    ],
+    [
+      0.000374,
+      "\u001b[0m  libgtk-3-0 libgtk-3-bin libgtk-3-common libgudev-1.0-0 libgusb2\r\n\u001b[0m"
+    ],
+    [
+      0.000250,
+      "\u001b[0m  libharfbuzz0b libice6 libieee1284-3 libjasper1 libjbig0 libjpeg-turbo8\r\n\u001b[0m"
+    ],
+    [
+      0.000352,
+      "\u001b[0m  libjpeg8 liblcms2-2 libllvm3.4 libltdl7 libnotify-bin libnotify4 libogg0\r\n\u001b[0m"
+    ],
+    [
+      0.000317,
+      "\u001b[0m  libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0\r\n\u001b[0m"
+    ],
+    [
+      0.000289,
+      "\u001b[0m  libpixman-1-0 libsane libsane-common libsm6 libtdb1 libthai-data libthai0\r\n\u001b[0m"
+    ],
+    [
+      0.000271,
+      "\u001b[0m  libtiff5 libtxc-dxtn-s2tc0 libv4l-0 libv4lconvert0 libvorbis0a\r\n\u001b[0m"
+    ],
+    [
+      0.000297,
+      "\u001b[0m  libvorbisfile3 libvpx1 libwayland-client0 libwayland-cursor0 libx11-xcb1\r\n\u001b[0m"
+    ],
+    [
+      0.000252,
+      "\u001b[0m  libxaw7 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0\r\n\u001b[0m"
+    ],
+    [
+      0.000302,
+      "\u001b[0m  libxcb-render0 libxcb-shm0 libxcb-sync1 libxcomposite1 libxcursor1\r\n  libxdamage1 libxfixes3 libxfont1 libxi6 libxinerama1 libxkbcommon0\r\n  libxkbfile1 libxmu6 libxpm4 libxrandr2 libxrender1 libxshmfence1 libxt6\r\n  libxtst6 libxxf86vm1 notification-daemon sound-theme-freedesktop x11-common\r\n  x11-xkb-utils xfonts-base xfonts-encodings xfonts-utils xserver-common\r\n  xserver-xorg-core\r\nUse 'apt-get autoremove' to remove them.\r\n\u001b[0m"
+    ],
+    [
+      0.026378,
+      "\u001b[0m0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.\r\n\u001b[0m"
+    ],
+    [
+      0.043378,
+      "\u001b[0mCopy iso file /Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso into the box /tmp/VBoxGuestAdditions.iso\u001b[0m\r\n"
+    ],
+    [
+      1.568788,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.007209,
+      "\u001b[0mmount: block device /tmp/VBoxGuestAdditions.iso is write-protected, mounting read-only\r\n\u001b[0m"
+    ],
+    [
+      0.019168,
+      "\u001b[0;33mInstalling Virtualbox Guest Additions 5.0.10 - guest version is 4.3.36\u001b[0m\r\n"
+    ],
+    [
+      0.012632,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.002516,
+      "\u001b[0mVerifying archive integrity...\u001b[0m"
+    ],
+    [
+      0.033620,
+      "\u001b[0m All good.\r\n\u001b[0m"
+    ],
+    [
+      0.001278,
+      "\u001b[0mUncompressing VirtualBox 5.0.10 Guest Additions for Linux\u001b[0m"
+    ],
+    [
+      0.006942,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000352,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000342,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000327,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000274,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.020774,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.031725,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000409,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000410,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.000284,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.003163,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.001702,
+      "\u001b[0mVirtualBox Guest Additions installer\r\n\u001b[0m"
+    ],
+    [
+      0.009338,
+      "\u001b[0mCopying additional installer modules ...\r\n\u001b[0m"
+    ],
+    [
+      1.061751,
+      "\u001b[0mInstalling additional modules ...\r\n\u001b[0m"
+    ],
+    [
+      0.041367,
+      "\u001b[0mRemoving existing VirtualBox DKMS kernel modules\u001b[0m"
+    ],
+    [
+      0.078500,
+      "\u001b[0m ...done.\r\n\u001b[0m"
+    ],
+    [
+      0.000430,
+      "\u001b[0mRemoving existing VirtualBox non-DKMS kernel modules\u001b[0m"
+    ],
+    [
+      0.012271,
+      "\u001b[0m ...done.\r\n\u001b[0m"
+    ],
+    [
+      0.000300,
+      "\u001b[0mBuilding the VirtualBox Guest Additions kernel modules\u001b[0m"
+    ],
+    [
+      27.274849,
+      "\u001b[0m ...done.\r\n\u001b[0m"
+    ],
+    [
+      0.000482,
+      "\u001b[0mDoing non-kernel setup of the Guest Additions\u001b[0m"
+    ],
+    [
+      0.033905,
+      "\u001b[0m ...done.\r\n\u001b[0m"
+    ],
+    [
+      0.002599,
+      "\u001b[0mStarting the VirtualBox Guest Additions\u001b[0m"
+    ],
+    [
+      0.021234,
+      "\u001b[0m ...done.\r\n\u001b[0m"
+    ],
+    [
+      0.072747,
+      "\u001b[0mInstalling the Window System drivers\u001b[0m"
+    ],
+    [
+      0.001188,
+      "\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000405,
+      "\u001b[0mCould not find the X.Org or XFree86 Window System, skipping.\r\n\u001b[0m"
+    ],
+    [
+      0.030257,
+      "\u001b[0;33mAn error occurred during installation of VirtualBox Guest Additions 5.0.10. Some functionality may not work as intended.\r\nIn most cases it is OK that the \"Window System drivers\" installation failed.\u001b[0m\r\n"
+    ],
+    [
+      0.013148,
+      "\u001b[0mstdin: is not a tty\r\n\u001b[0m"
+    ],
+    [
+      0.149272,
+      "\u001b[1m==\u003e openstack_config: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.035894,
+      "\u001b[1m==\u003e openstack_config: Setting hostname...\u001b[0m\r\n"
+    ],
+    [
+      3.718334,
+      "\u001b[1m==\u003e openstack_config: Configuring and enabling network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.220167,
+      "\u001b[1m==\u003e openstack_config: Mounting shared folders...\u001b[0m\r\n"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    openstack_config: /vagrant =\u003e /Users/jclark/Code/Repos/git/github/openstack-salt\u001b[0m\r\n"
+    ],
+    [
+      0.250492,
+      "\u001b[1m==\u003e openstack_config: Running provisioner: salt...\u001b[0m\r\n"
+    ],
+    [
+      0.004000,
+      "\u001b[0mCopying salt minion config to vm.\u001b[0m\r\n"
+    ],
+    [
+      0.801044,
+      "\u001b[1m==\u003e openstack_config: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.161034,
+      "\u001b[1m==\u003e openstack_config: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.205016,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:271:in `initialize': No such file or directory @ rb_sysopen - /Users/jclark/Code/Repos/git/github/openstack-salt/control.conf (Errno::ENOENT)\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:271:in `open'\r\n"
+    ],
+    [
+      0.000067,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:271:in `block in upload'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:630:in `block in scp_connect'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:312:in `connect'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:628:in `scp_connect'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/communicators/ssh/communicator.rb:265:in `upload'\r\n\tfrom /Users/jclark/.vagrant.d/gems/gems/vagrant-salt-0.4.0/lib/vagrant-salt/provisioner.rb:114:in `upload_configs'\r\n\tfrom /Users/jclark/.vagrant.d/gems/gems/vagrant-salt-0.4.0/lib/vagrant-salt/provisioner.rb:7:in `provision'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/provision.rb:133:in `run_provisioner'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `call'\r\n"
+    ],
+    [
+      0.000034,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n"
+    ],
+    [
+      0.000008,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n"
+    ],
+    [
+      0.000019,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/environment.rb:473:in `hook'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/provision.rb:121:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/provision.rb:121:in `block in call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/provision.rb:103:in `each'\r\n"
+    ],
+    [
+      0.000010,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/provision.rb:103:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/clear_forwarded_ports.rb:15:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/set_name.rb:50:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/clean_machine_folder.rb:17:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000004,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/check_accessible.rb:18:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n"
+    ],
+    [
+      0.000011,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/call.rb:53:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n"
+    ],
+    [
+      0.000008,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n"
+    ],
+    [
+      0.000013,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/call.rb:53:in `call'\r\n"
+    ],
+    [
+      0.000004,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/call.rb:53:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/box_check_outdated.rb:78:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/config_validate.rb:25:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/check_virtualbox.rb:17:in `call'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000003,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n"
+    ],
+    [
+      0.000002,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n"
+    ],
+    [
+      0.000010,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/match_mac_address.rb:19:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/discard_state.rb:15:in `call'\r\n"
+    ],
+    [
+      0.000520,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/import.rb:74:in `import'\r\n"
+    ],
+    [
+      0.000526,
+      "\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/import.rb:13:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/prepare_clone_snapshot.rb:17:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/prepare_clone.rb:15:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/customize.rb:40:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/check_accessible.rb:18:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/v"
+    ],
+    [
+      0.000563,
+      "agrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/call.rb:53:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/config_validate.rb:25"
+    ],
+    [
+      0.000625,
+      ":in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/handle_box.rb:56:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:95:in `block in finalize_action'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n\tfrom /o"
+    ],
+    [
+      0.000512,
+      "pt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builtin/call.rb:53:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/plugins/providers/virtualbox/action/check_virtualbox.rb:17:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/warden.rb:34:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/builder.rb:116:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/action/runner.rb:66:in `block in run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/util/busy.rb:19:in `busy'\r\n\tfrom /opt/vagrant/embedded/gems/gems/va"
+    ],
+    [
+      0.000006,
+      "grant-1.8.1/lib/vagrant/action/runner.rb:66:in `run'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/machine.rb:224:in `action_raw'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/machine.rb:199:in `block in action'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/environment.rb:561:in `lock'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/machine.rb:185:in `call'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/machine.rb:185:in `action'\r\n\tfrom /opt/vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant/batch_action.rb:82:in `block (2 levels) in run'\r\n"
+    ],
+    [
+      0.525497,
+      "\u001b[38;5;250m\u001b[48;5;240m jclark \u001b[48;5;238m\u001b[38;5;240m\u001b[38;5;250m\u001b[48;5;238m ghostface \u001b[48;5;31m\u001b[38;5;238m\u001b[38;5;15m\u001b[48;5;31m ~ \u001b[48;5;237m\u001b[38;5;31m\u001b[38;5;250m\u001b[48;5;237m Code \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m … \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m git \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;250m\u001b[48;5;237m github \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;254m\u001b[48;5;237m openstack-salt \u001b[48;5;161m\u001b[38;5;237m\u001b[38;5;15m\u001b[48;5;161m master + \u001b[48;5;236m\u001b[38;5;161m\u001b[38;5;15m\u001b[48;5;236m $ \u001b[0m\u001b[38;5;236m\u001b[0m "
+    ],
+    [
+      13.667886,
+      "exit\r\n"
+    ]
+  ]
+}
