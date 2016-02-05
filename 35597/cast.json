@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "width": 93,
+  "height": 25,
+  "duration": 32.428925,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.030609,
+      "\u001b]0;/home/xavi\u0007"
+    ],
+    [
+      0.000177,
+      "~ $ "
+    ],
+    [
+      1.532156,
+      "b"
+    ],
+    [
+      0.243833,
+      "e"
+    ],
+    [
+      0.501990,
+      "\r\n"
+    ],
+    [
+      3.214788,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l\u001b[H\u001b[2J"
+    ],
+    [
+      0.002055,
+      "\u001b(B\u001b[m\u001b[30;41m\u001b[2;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[2;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[2;49H                   \u001b[2;72H                   \u001b(B\u001b[m\u001b[30;41m\u001b[3;3H  #396823          \u001b(B\u001b[m\u001b[37;44m\u001b[3;26H  #396822          \u001b(B\u001b[m\u001b[30;44m\u001b[3;49H  #396821          \u001b[3;72H  #396820          \u001b(B\u001b[m\u001b[30;41m\u001b[4;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[4;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[4;49H                   \u001b[4;72H                   \u001b(B\u001b[m\u001b[30;41m\u001b[5;3H  next             \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[37;44m  397 txs          \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[30;44m  882 txs          \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[30;44m  2022 txs         \u001b(B\u001b[m\u001b[30;41m\u001b[6;3H  block            \u001b(B\u001b[m\u001b[37;44m\u001b[6;26H  280 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[6;49H  588 kb           \u001b[6;72H  688 kb           \u001b(B\u001b[m\u001b[30;41m\u001b[7;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[7;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[7;49H                   \u001b[7;72H                   \u001b(B\u001b[m\u001b[30;41m\u001b[8;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[8;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[8;49H                   \u001b[8;72H                   \u001b(B\u001b[m\u001b[37m\u001b[9;81H│\u001b[10;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[11;3H                   \u001b[11;26H                   \u001b[11;49H                   \u001b[11;72H                   \u001b[12;3H  #396816          \u001b[12;26H  #396817          \u001b[12;49H  #396818          \u001b[12;72H  #396819          \u001b[13;3H                   \u001b[13;26H                   \u001b[13;49H                   \u001b[13;72H                   \u001b[14;3H  1358 txs         \u001b(B\u001b[m\u001b[37m\u003c───\u001b(B\u001b[m\u001b[30;44m  576 txs          \u001b(B\u001b[m\u001b[37m\u003c───\u001b(B\u001b[m\u001b[30;44m  532 txs          \u001b(B\u001b[m\u001b[37m\u003c───\u001b(B\u001b[m\u001b[30;44m  1274 txs         \u001b[15;3H  695 kb           \u001b[15;26H  259 kb           \u001b[15;49H  285 kb           \u001b[15;72H  587 kb           \u001b[16;3H  Discus Fish      \u001b[16;26H  AntMiner         \u001b[16;49H  Discus Fish      \u001b[16;72H  Discus Fish      \u001b[17;3H                   \u001b[17;26H                   \u001b[17;49H                   \u001b[17;72H                   \u001b(B\u001b[m\u001b[37m\u001b[18;12H│\u001b[19;12HV\u001b(B\u001b[m\u001b[30;44m\u001b[20;3H                   \u001b[20;26H                   \u001b[20;49H                   \u001b[20;72H                   \u001b[21;3H  #396815          \u001b[21;26H  #396814          \u001b[21;49H  #396813          \u001b[21;72H  #396812          \u001b[22;3H                   \u001b[22;26H                   \u001b[22;49H                   \u001b[22;72H                   \u001b[23;3H  1142 txs         \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[30;44m  360 txs          \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[30;44m  1840 txs         \u001b(B\u001b[m\u001b[37m───\u003e\u001b(B\u001b[m\u001b[30;44m  1001 txs         \u001b[24;3H  527 kb           \u001b[24;26H  202 kb           \u001b[24;49H  839 kb           \u001b[24;72H  535 kb           \u001b[25;3H  Discus Fish      \u001b[25;26H  AntMiner         \u001b[25;49H                   \u001b[25;72H                   "
+    ],
+    [
+      0.636717,
+      "\u001b[2;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[2;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[3;26H  #396822          \u001b(B\u001b[m\u001b[37;44m\u001b[3;49H  #396821          \u001b(B\u001b[m\u001b[30;44m\u001b[4;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[4;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[5;26H  397 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[5;49H  882 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[6;26H  280 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[6;49H  588 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[7;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[7;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[8;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[8;49H                   "
+    ],
+    [
+      0.172909,
+      "\u001b(B\u001b[m\u001b[30;44m\u001b[2;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[2;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[3;49H  #396821          \u001b(B\u001b[m\u001b[37;44m\u001b[3;72H  #396820          \u001b(B\u001b[m\u001b[30;44m\u001b[4;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[4;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[5;49H  882 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[5;72H  2022 txs         \u001b(B\u001b[m\u001b[30;44m\u001b[6;49H  588 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[6;72H  688 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[7;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[7;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[8;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[8;72H                   "
+    ],
+    [
+      0.347622,
+      "\u001b(B\u001b[m\u001b[30;44m\u001b[2;72H                   \u001b[3;72H  #396820          \u001b[4;72H                   \u001b[5;72H  2022 txs         \u001b[6;72H  688 kb           \u001b[7;72H                   \u001b[8;72H                   \u001b(B\u001b[m\u001b[37;44m\u001b[11;72H                   \u001b[12;72H  #396819          \u001b[13;72H                   \u001b[14;72H  1274 txs         \u001b[15;72H  587 kb           \u001b[16;72H  Discus Fish      \u001b[17;72H                   "
+    ],
+    [
+      0.324384,
+      "\u001b[11;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;72H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;49H  #396818          \u001b(B\u001b[m\u001b[30;44m\u001b[12;72H  #396819          \u001b(B\u001b[m\u001b[37;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;72H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;49H  532 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[14;72H  1274 txs         \u001b(B\u001b[m\u001b[37;44m\u001b[15;49H  285 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;72H  587 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;49H  Discus Fish      \u001b(B\u001b[m\u001b[30;44m\u001b[16;72H  Discus Fish      \u001b(B\u001b[m\u001b[37;44m\u001b[17;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;72H                   "
+    ],
+    [
+      0.283502,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;26H  #396817          \u001b(B\u001b[m\u001b[30;44m\u001b[12;49H  #396818          \u001b(B\u001b[m\u001b[37;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;26H  576 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[14;49H  532 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[15;26H  259 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;49H  285 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;26H  AntMiner         \u001b(B\u001b[m\u001b[30;44m\u001b[16;49H  Discus Fish      \u001b(B\u001b[m\u001b[37;44m\u001b[17;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;49H                   "
+    ],
+    [
+      0.164844,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[11;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;3H  #396816          \u001b(B\u001b[m\u001b[30;44m\u001b[12;26H  #396817          \u001b(B\u001b[m\u001b[37;44m\u001b[13;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;3H  1358 txs         \u001b(B\u001b[m\u001b[30;44m\u001b[14;26H  576 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[15;3H  695 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;26H  259 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;3H  Discus Fish      \u001b(B\u001b[m\u001b[30;44m\u001b[16;26H  AntMiner         \u001b(B\u001b[m\u001b[37;44m\u001b[17;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;26H                   "
+    ],
+    [
+      0.164904,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[2;3H                   \u001b[3;3H  #396816          \u001b[3;33H17\u001b[3;56H18\u001b[3;79H19\u001b[4;3H                   \u001b[5;3H  1358 txs         \u001b(B\u001b[m\u001b[37m\u003c\u001b[5;25H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;28H576\u001b(B\u001b[m\u001b[37m\u001b[5;45H\u003c\u001b[5;48H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;51H53\u001b(B\u001b[m\u001b[37m\u001b[5;68H\u003c\u001b[5;71H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;74H1274\u001b[6;3H  695 kb           \u001b[6;29H59\u001b[6;51H2\u001b[6;53H5\u001b[6;74H5\u001b[6;76H7\u001b[7;3H  Discus Fish      \u001b[7;28HAntMiner\u001b[7;51HDiscus\u001b[7;58HFish\u001b[7;74HDiscus\u001b[7;81HFish\u001b[8;3H                   \u001b(B\u001b[m\u001b[37m\u001b[9;12H│\u001b(B\u001b[m\u001b[9;81H \u001b(B\u001b[m\u001b[37m\u001b[10;12HV\u001b(B\u001b[m\u001b[10;81H \u001b(B\u001b[m\u001b[37;44m\u001b[12;11H5\u001b(B\u001b[m\u001b[30;44m\u001b[12;34H4\u001b[12;57H3\u001b[12;80H2\u001b(B\u001b[m\u001b[37;44m\u001b[14;6H142\u001b(B\u001b[m\u001b[37m\u001b[14;22H─\u001b[14;25H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;28H360\u001b(B\u001b[m\u001b[37m\u001b[14;45H─\u001b[14;48H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;51H1840 txs\u001b(B\u001b[m\u001b[37m\u001b[14;68H─\u001b[14;71H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;75H001\u001b(B\u001b[m\u001b[37;44m\u001b[15;5H527\u001b(B\u001b[m\u001b[30;44m\u001b[15;29H02\u001b[15;51H839\u001b[15;75H35\u001b[16;51H      \u001b[16;58H    \u001b[16;74H      \u001b[16;81H    \u001b(B\u001b[m\u001b[18;12H \u001b(B\u001b[m\u001b[37m\u001b[18;81H│\u001b(B\u001b[m\u001b[19;12H \u001b(B\u001b[m\u001b[37m\u001b[19;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[21;10H08\u001b[21;33H09\u001b[21;57H0\u001b[21;80H1\u001b[23;6H21 txs \u001b(B\u001b[m\u001b[37m\u001b[23;22H\u003c\u001b[23;25H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;28H726\u001b(B\u001b[m\u001b[37m\u001b[23;45H\u003c\u001b[23;48H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;51H805 txs \u001b(B\u001b[m\u001b[37m\u001b[23;68H\u003c\u001b[23;71H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;75H682\u001b[24;5H11\u001b[24;28H396\u001b[24;51H4\u001b[24;53H5\u001b[24;74H826\u001b[25;5H      \u001b[25;12H    \u001b[25;28HSlush   \u001b[25;51HDiscus\u001b[25;58HFish\u001b[25;74HDiscus\u001b[25;81HFish"
+    ],
+    [
+      0.172834,
+      "\u001b[11;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[12;3H  #396815          \u001b(B\u001b[m\u001b[37;44m\u001b[12;26H  #396814          \u001b(B\u001b[m\u001b[30;44m\u001b[13;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[14;3H  1142 txs         \u001b(B\u001b[m\u001b[37;44m\u001b[14;26H  360 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[15;3H  527 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[15;26H  202 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[16;3H  Discus Fish      \u001b(B\u001b[m\u001b[37;44m\u001b[16;26H  AntMiner         \u001b(B\u001b[m\u001b[30;44m\u001b[17;3H                   \u001b(B\u001b[m\u001b[37;44m\u001b[17;26H                   "
+    ],
+    [
+      0.260102,
+      "\u001b(B\u001b[m\u001b[30;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[11;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[12;26H  #396814          \u001b(B\u001b[m\u001b[37;44m\u001b[12;49H  #396813          \u001b(B\u001b[m\u001b[30;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[14;26H  360 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[14;49H  1840 txs         \u001b(B\u001b[m\u001b[30;44m\u001b[15;26H  202 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[15;49H  839 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[16;26H  AntMiner         \u001b(B\u001b[m\u001b[37;44m\u001b[16;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[17;49H                   "
+    ],
+    [
+      0.164990,
+      "\u001b(B\u001b[m\u001b[30;44m\u001b[11;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[11;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[12;49H  #396813          \u001b(B\u001b[m\u001b[37;44m\u001b[12;72H  #396812          \u001b(B\u001b[m\u001b[30;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[13;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[14;49H  1840 txs         \u001b(B\u001b[m\u001b[37;44m\u001b[14;72H  1001 txs         \u001b(B\u001b[m\u001b[30;44m\u001b[15;49H  839 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[15;72H  535 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[16;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[16;72H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[17;72H                   "
+    ],
+    [
+      0.164872,
+      "\u001b(B\u001b[m\u001b[37m\u001b[1;12HV\u001b(B\u001b[m\u001b[1;81H \u001b(B\u001b[m\u001b[30;44m\u001b[3;11H5\u001b[3;34H4\u001b[3;57H3\u001b[3;80H2\u001b[5;6H142\u001b(B\u001b[m\u001b[37m\u001b[5;22H─\u001b[5;25H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[5;28H360\u001b(B\u001b[m\u001b[37m\u001b[5;45H─\u001b[5;48H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[5;51H1840 txs\u001b(B\u001b[m\u001b[37m\u001b[5;68H─\u001b[5;71H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[5;75H001\u001b[6;5H527\u001b[6;29H02\u001b[6;51H839\u001b[6;75H35\u001b[7;51H      \u001b[7;58H    \u001b[7;74H      \u001b[7;81H    \u001b(B\u001b[m\u001b[9;12H \u001b(B\u001b[m\u001b[37m\u001b[9;81H│\u001b(B\u001b[m\u001b[10;12H \u001b(B\u001b[m\u001b[37m\u001b[10;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[12;10H08\u001b[12;33H09\u001b[12;57H0\u001b(B\u001b[m\u001b[37;44m\u001b[12;80H1\u001b(B\u001b[m\u001b[30;44m\u001b[14;6H21 txs \u001b(B\u001b[m\u001b[37m\u001b[14;22H\u003c\u001b[14;25H─\u001b(B\u001b[m\u001b[30;44m\u001b[14;28H726\u001b(B\u001b[m\u001b[37m\u001b[14;45H\u003c\u001b[14;48H─\u001b(B\u001b[m\u001b[30;44m\u001b[14;51H805 txs \u001b(B\u001b[m\u001b[37m\u001b[14;68H\u003c\u001b[14;71H─\u001b(B\u001b[m\u001b[37;44m\u001b[14;75H682\u001b(B\u001b[m\u001b[30;44m\u001b[15;5H11\u001b[15;28H396\u001b[15;51H4\u001b[15;53H5\u001b(B\u001b[m\u001b[37;44m\u001b[15;74H826\u001b(B\u001b[m\u001b[30;44m\u001b[16;5H      \u001b[16;12H    \u001b[16;28HSlush   \u001b[16;51HDiscus\u001b[16;58HFish\u001b(B\u001b[m\u001b[37;44m\u001b[16;74HDiscus\u001b[16;81HFish\u001b(B\u001b[m\u001b[37m\u001b[18;12H│\u001b(B\u001b[m\u001b[18;81H \u001b(B\u001b[m\u001b[37m\u001b[19;12HV\u001b(B\u001b[m\u001b[19;81H \u001b(B\u001b[m\u001b[30;44m\u001b[21;11H7\u001b[21;34H6\u001b[21;56H05\u001b[21;79H04\u001b[23;6H088 txs\u001b(B\u001b[m\u001b[37m\u001b[23;22H─\u001b[23;25H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[23;28H2196 txs\u001b(B\u001b[m\u001b[37m\u001b[23;45H─\u001b[23;48H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[23;51H2818 txs\u001b(B\u001b[m\u001b[37m\u001b[23;68H─\u001b[23;71H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[23;74H730 txs \u001b[24;5H9\u001b[24;7H2\u001b[24;28H912\u001b[24;51H912\u001b[24;74H317\u001b[25;5HAntMiner\u001b[25;28HAntMiner\u001b[25;51HAntMiner   \u001b[25;74HKNCminer   "
+    ],
+    [
+      0.165117,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[11;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;72H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;49H  #396810          \u001b(B\u001b[m\u001b[30;44m\u001b[12;72H  #396811          \u001b(B\u001b[m\u001b[37;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;72H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;49H  805 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[14;72H  1682 txs         \u001b(B\u001b[m\u001b[37;44m\u001b[15;49H  435 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;72H  826 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;49H  Discus Fish      \u001b(B\u001b[m\u001b[30;44m\u001b[16;72H  Discus Fish      \u001b(B\u001b[m\u001b[37;44m\u001b[17;49H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;72H                   "
+    ],
+    [
+      0.410951,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;26H  #396809          \u001b(B\u001b[m\u001b[30;44m\u001b[12;49H  #396810          \u001b(B\u001b[m\u001b[37;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;49H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;26H  726 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[14;49H  805 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[15;26H  396 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;49H  435 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;26H  Slush            \u001b(B\u001b[m\u001b[30;44m\u001b[16;49H  Discus Fish      \u001b(B\u001b[m\u001b[37;44m\u001b[17;26H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;49H                   "
+    ],
+    [
+      0.434924,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[11;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[12;3H  #396808          \u001b(B\u001b[m\u001b[30;44m\u001b[12;26H  #396809          \u001b(B\u001b[m\u001b[37;44m\u001b[13;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[13;26H                   \u001b(B\u001b[m\u001b[37;44m\u001b[14;3H  121 txs          \u001b(B\u001b[m\u001b[30;44m\u001b[14;26H  726 txs          \u001b(B\u001b[m\u001b[37;44m\u001b[15;3H  117 kb           \u001b(B\u001b[m\u001b[30;44m\u001b[15;26H  396 kb           \u001b(B\u001b[m\u001b[37;44m\u001b[16;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[16;26H  Slush            \u001b(B\u001b[m\u001b[37;44m\u001b[17;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[17;26H                   "
+    ],
+    [
+      0.459077,
+      "\u001b(B\u001b[m\u001b[1;12H \u001b(B\u001b[m\u001b[37m\u001b[1;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[3;10H08\u001b[3;33H09\u001b[3;57H0\u001b[3;80H1\u001b[5;6H21 txs \u001b(B\u001b[m\u001b[37m\u001b[5;22H\u003c\u001b[5;25H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;28H726\u001b(B\u001b[m\u001b[37m\u001b[5;45H\u003c\u001b[5;48H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;51H805 txs \u001b(B\u001b[m\u001b[37m\u001b[5;68H\u003c\u001b[5;71H─\u001b(B\u001b[m\u001b[30;44m\u001b[5;75H682\u001b[6;5H11\u001b[6;28H396\u001b[6;51H4\u001b[6;53H5\u001b[6;74H826\u001b[7;5H      \u001b[7;12H    \u001b[7;28HSlush   \u001b[7;51HDiscus\u001b[7;58HFish\u001b[7;74HDiscus\u001b[7;81HFish\u001b(B\u001b[m\u001b[37m\u001b[9;12H│\u001b(B\u001b[m\u001b[9;81H \u001b(B\u001b[m\u001b[37m\u001b[10;12HV\u001b(B\u001b[m\u001b[10;81H \u001b(B\u001b[m\u001b[37;44m\u001b[12;11H7\u001b(B\u001b[m\u001b[30;44m\u001b[12;34H6\u001b[12;56H05\u001b[12;79H04\u001b(B\u001b[m\u001b[37;44m\u001b[14;6H088 txs\u001b(B\u001b[m\u001b[37m\u001b[14;22H─\u001b[14;25H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;28H2196 txs\u001b(B\u001b[m\u001b[37m\u001b[14;45H─\u001b[14;48H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;51H2818 txs\u001b(B\u001b[m\u001b[37m\u001b[14;68H─\u001b[14;71H\u003e\u001b(B\u001b[m\u001b[30;44m\u001b[14;74H730 txs \u001b(B\u001b[m\u001b[37;44m\u001b[15;5H9\u001b[15;7H2\u001b(B\u001b[m\u001b[30;44m\u001b[15;28H912\u001b[15;51H912\u001b[15;74H317\u001b(B\u001b[m\u001b[37;44m\u001b[16;5HAntMiner\u001b(B\u001b[m\u001b[30;44m\u001b[16;28HAntMiner\u001b[16;51HAntMiner   \u001b[16;74HKNCminer   \u001b(B\u001b[m\u001b[18;12H \u001b(B\u001b[m\u001b[37m\u001b[18;81H│\u001b(B\u001b[m\u001b[19;12H \u001b(B\u001b[m\u001b[37m\u001b[19;81HV\u001b(B\u001b[m\u001b[30;44m\u001b[21;11H0\u001b[21;34H1\u001b[21;57H2\u001b[21;80H3\u001b[23;7H21\u001b(B\u001b[m\u001b[37m\u001b[23;22H\u003c\u001b[23;25H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;28H1 txs   \u001b(B\u001b[m\u001b[37m\u001b[23;45H\u003c\u001b[23;48H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;51H62\u001b[23;54H txs \u001b(B\u001b[m\u001b[37m\u001b[23;68H\u003c\u001b[23;71H─\u001b(B\u001b[m\u001b[30;44m\u001b[23;75H22\u001b[24;5H755\u001b[24;28H0 kb  \u001b[24;51H291\u001b[24;74H964\u001b[25;5H        \u001b[25;51H        \u001b[25;74H        "
+    ],
+    [
+      0.968481,
+      "\u001b(B\u001b[m\u001b[37;44m\u001b[2;3H                   \u001b[3;3H  #396808          \u001b[4;3H                   \u001b[5;3H  121 txs          \u001b[6;3H  117 kb           \u001b[7;3H                   \u001b[8;3H                   \u001b(B\u001b[m\u001b[30;44m\u001b[11;3H                   \u001b[12;3H  #396807          \u001b[13;3H                   \u001b[14;3H  1088 txs         \u001b[15;3H  912 kb           \u001b[16;3H  AntMiner         \u001b[17;3H                   "
+    ],
+    [
+      1.091890,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1006l\u001b[?1015l\u001b[?1002l\u001b[?1000l"
+    ],
+    [
+      0.530183,
+      "Block #396808\r\n-------------\r\nConfirmations: 15\r\nNumber Of Transactions: 121\r\nHeight: 396808\r\nBlock Reward: 25.000000\r\nTimestamp: 2016-02-05 09:33:38\r\nMerkle Root: 9fa4435aefb65222e45c3511a05ca056fdc736cddec9007ea613fd2d99a865dc\r\nDifficulty: 120033340651.236969\r\nSize (Kilobytes): 117\r\nNonce: 2975218580\r\n\r\nTransactions:\r\n-------------\r\n4602f2ed1958ea6254f4ac74ae81714be96108f4bae83586d29b0e7b74dfcf62\r\n475ed1174511af568047848d2ecb6db2daca59c477c5ee0e6dec1a687c5b419e\r\nbd216ac3a9823e6edfa181dd53d6b4e1316a9e9c85a75f9209645674acf9505d\r\nd0ea5b6fa3b5a40a9f9509445ed3a022e02f0535dbe93b429ce409e7c983a6ec\r\n6dfcc16021d9f07202bd16dde311e4edfd0eac77b645bad0366ff908f6ea6ee7\r\n753209b97af2ed850c4cf9c8ff27a26570e4b69ead0f98ae421019b28461831e\r\n56cde0bd5938336d1b208b7ea1917091eced4907d7377237e1754a0b7dac7fb2\r\ncf7531772a9a385992fdebf7504d264027c9f43aacd6fc3818d43897a732be47\r\nf05d37b9cc9b3e63419303800e95136e5427f33adaef7925f0c481bf5341c75d\r\nf84af1aaa3402bc7bf229a8e76f64a6de22e1356b48f4e528dc699027642a47f\r\n8d81409da23a74cb3b75250f3c58b468295ae69873b2125971f9459989ae830b\r\n7f2ea8e6a5799f310deb59199d072bf5495e9506cc4333b42711d78d6084d685\r\n99dfffc38ba7322e1dcc3499b013f128379916e3dd092c1a573bdb68aa4ae897\r\n10ee72c5937d33b76a51ba28127f543aad6ab3927668e6cd846d7bcec93511a6\r\n547752c8fc7b82fa3de3dec38e006927374e736205e94a6b2abcc99ee82dee6a\r\n4faacd2baaa0c1f4baa506711998535114b163468d4c2d44c344a7dd46e0fade\r\n17dd97851ad9bd19edeebd0f253b119588176c042b7e02581fc5832809ef6b13\r\n62074c0d45e97a521c3e756b1b7363ce3c235f3e84aa978ccfeb7b71d1f47d7d\r\naa775f077bfe5b800bfd7841e63366020befeca8e78eb35c832a9faf14c6cbe3\r\n2e95a060e8173f431bcd4cac121f18fe9b9dfbe601c7578fce6ff64069b5d3ca\r\n529088161e617a6cc08784ceb42296559bc0e13c1079103d666d1c0012345d0b\r\nbe4be31ae068432c806d1a279aa61a65b68402647ebd14c76c62b9ba304468ac\r\na22b5847a155c22752456ec2eae991a75b5f23187e9839e5763b08fabb819f24\r\na07a1e5126eeb33f0ef28c8b52bce8fcf9df85896486811805dbfd770e54ae33\r\n17b050fceb7697e59ea11e06e717d2654a56783ccb15746e32e032bcf804c651\r\n2dcfe8f3bbd0edde3be98eaf42ac00f5a7dcfb1f156a2532e984d894f44f6823\r\nad4e89591b8371bdf45a2e7bf8611d51810c71bb019b7d7b35a93b396187571d\r\n918f2dcdf6cbd500938ada05c30cea02915ddc9ddaeebda98630ef9054912b50\r\nd2a4c46ec2197a807155a0f65298d933c7bcb925a9ce468cd741085c35ce13b2\r\n6ff011bfddcdf321305feb19134dd347e030ea219a2388180c86b226e93ef0a8\r\nc3dc5f98f37055654fe14f8d437776712a09a89eb6362312dada016e168c88ca\r\nfe9c2c2e60faf398aa30ed9f74284982bbecae96acda8cfd968cb815f8738547\r\nb9aff907fb12fe897a41de2ee52a12480b4d18cbd334f7a2ad8c25c778404f72\r\n0c519e706da670c3fcf9c8158c76a72513ee2d03c59e27a5e0acf6090448c636\r\n7f92dbdf766e2f8aa3766f59d80b140f8a3701fb1c08716ba66f2abbb84be001\r\n783e4ecd9b3fba301ea286afb78b1a1f9b4fd15a8214dee9f11fc4f5a9f7439a\r\n7cbb1c8f2fb2ca57dfdd90a0321766e016bb24579c5ff105a4571e6fe92e7240\r\n563b8219806f80f01313f9421f7368970802a915459858538885aabe145af2ad\r\n17322d6d2d81d3bd2e1b4ffb51c19d99f75094a3b07c4a8a7709efe8638ddfac\r\n748f15b665bb7ff44b6bec00ea29704160431fb4088931fe89058a8cf6deac27\r\nfea0405ebc4b7af4d134adfc31c066edee61d5d1bdda07ae21e48df80e6f0891\r\n1ab97352cc39ae84f9a08812f7e56a1efafeff50b66a06c60e4b6f08c649c49b\r\n4a33991153f77ac27102cd51c82f33153d4079b7af4f0dbf664565dc7a0c301c\r\ne79af0c9692047ce65d529f1b40588798a2af804da3a32b8b56c52a9c2db9cb5\r\na835032b29a58172a201fd7891723e4a25915d4905edd5c1274ef7fd96faf976\r\nc39d65dbfc12812ebb61e6e16753d802ed0e5c426a5f0024ccfd58bf30f123e2\r\ncce25860ac50a8e86ed47b75cc79454b9bac5c43a50aa2e5b2fba3c003ae45dc\r\neb07b344531353cd84c0337c39be1e1933450445dd86a25f4ca602aa31c7e25a\r\na9f75ac45c2f0767651c84b291e6464ef211471f535a814c8382a90c79a6dc3d\r\nb837130b080dc2698fe5e907ded8bd3c46d4bbf4992a3b7c9dd6fb98ecb0b0c5\r\n09a5a0ea7626f2c3cc94412d9777a509f523e28efb0bc40946068bed69c7ae06\r\n41db6db2d053a0655c38154f521fde29c75cca7de4e79b2bd7ed7001a2f09d82\r\n348755028aca06533725ec942bce8f6809902a9d3565b0898338473c966485fc\r\n58389a2460b83845fc063b02998f79763b481402dcbe51759b75604c121692c7\r\nf4b5b4635c0110f04c02a7cfea5ec0e0f0737e1d569cba7f1bba55fb40853b9a\r\n489966d18eb213bcb35de4d90a12cb6d2b7498b5630393709ded5a26a529f753\r\n2d9d5d6a2b9d25cdad438335a880b944f05a0a1dd998b66d3a75c27f3e999f"
+    ],
+    [
+      0.000026,
+      "9a\r\nf6c19b64db8631c75db59a948508dc11f1075fa12c7e16f9a297a45056e3d732\r\n9d42537a659a1b1bd56c393525d2b6d18ece44d81a6350bfc42978a7f3e11c80\r\n7b79503111874685bf665e1031b25f01ca4b7fda5ceba55cdd133a8b208e14ed\r\na7a57163f10dde5070fa9f39dc39df2c4283acc21835e6ffa370061efdc0695d\r\nf1504c5bf5c6d76bd416e19a9b501e75191ea72d9aaf87101f9d181e25b21beb\r\nab0fd1bbf9e7de676e4944e6d79cd4a815480aec42290f06fc6e90af3276bfc7\r\n619e4cb5ecb1c1587df94c2f354e3c28e0456ead85b3ea932f9d5d13106c3edb\r\n28c5c4d447bd59779a07b13a43b3ddc74d42f8a49fb7aee598c6157bee9beeb0\r\nfa1b5fd3f500d782d85a0fa0738dc2d7f1b205308ff5cbac149f9b499c48099e\r\nbb3bb60785a866625db0e215c1ff66e5fcbed6768c0c60bbf05dcb9de3b45fe4\r\n0cb84912b006ee6026bf5441d44b6dadb48a480565588c7868ad932fc0a1fade\r\nfeb78f644072447965b7529a01f730bd11f084c64b84944b3580cca233df8cac\r\nc15e6418360747e6b1fe07a94237741551ab035fc8f0f7d594ff9679598636d0\r\n24b08ec83f00be875218888f9b6d3256db733fc3d22e788d482f0cb00fdbfcfa\r\n4296299afaebd1a4c88d262331d4536d6d4836138bdd1bb8ab654cf234869b50\r\nac29ca8d61e4b561121afe087e9b5b77a4787d07ae816ccef6f55323957ac222\r\n31a9daa55b1bf7f676c71212963fd7dfb3a7e09fedbe1d93b492bea144e24fad\r\n9921736e69bbfc6487659aa9160761b38a65cec6f048708c4480d2ed5fdbe89d\r\n298e9d78d629bd5439962240f0fd2858640971b6c19f52eb6a40ab89ec69cebb\r\n12f1b4235f4d643ef17737f1f8bf41697a240eb994c1dbee7c38f99f5434733b\r\n5860cc663c1389a30dce4dc2df5e6e2f77cd6218054a99e81c46a01bb812c1e2\r\nc31477656fa8d0c50cc5c0820a64c0929e0c894bdb0654fa34cbab0d5707a743\r\neb5824ad69ee9806dc5b0db6f6c4a1c33b382a0d2e302674ce315aaa740921ea\r\n532a0d1998b9f0bc09eb92354f9c79cd640719baa3b2222ba7ceffe9ad3badf9\r\n04add8620091df8d1b4ef77f5cbd8ddaf12d72056fa4f6ecf7a56a8b1c9fc42c\r\n2c54331d65e3aaf3ee6920e83009fcd8257ebdbb8894f0058e354ac790f651a8\r\n9a415f3496ec9dc82451811621631511c5bab68c86f81a3603bba6dc4bd02cf9\r\nf242748f82d47916ebce8f71d7eed05cf976047530ed5aff54d91e0d9def6bac\r\nb148c570a4af3773bc9475a70d64c25d259206935092680c2eae0904580cd83b\r\nbb354c7e47b6e1a0fb2356cbf3d11d401ef31f65ccda3d38bf574eaa3be74f99\r\n0dc0fc4ea84021ee577cc99584e584da020d35c7c6396e966927d5ceea63d281\r\ne1eb58cebc4e01c3377f9d219766ddac95bdf633d8838074349d94020a16b87d\r\n07bd91e8e43d72ba0f1e56d3ff6552bb8802d72a7a3f3ef334d0072a3ee35b76\r\n1bd8e9aca70fe191be8979793f3eba608f4e298a3edad553a66c17d79cc8834b\r\nd53aff267f5e73a6b73859f630b9126f3ddf4af62a9d7ac4fee57be959bcf9f3\r\n8e6a8dbd3d5377d04045ca9c4168792d3f5bde16a23590918c18bb49cb381799\r\n64ed21f72c879f2d2656fed3c2e52c55d2d8241a58c625d82059947bd62f3e47\r\nbac3532a7c1150c1ba58082de25d67667fe4963ac8da8995933ce522f2d47cf8\r\n95afb3473d96aef1ba5021fd47a79689ffd57c34d3aea9ba1ecb8bf3354abb83\r\nf3b8f553b47c278213cf67565f8bd01faa6498a6a4621053121a47b50689381e\r\n4660f123857cf9908e5cb09892d57de26fd3e3392e32a490ad9032c4bb08ceb6\r\nf53c2a55dfa2f1a9b11027691e2a464b6cbbdcc925ea7e6a16644ed3c55974a8\r\n34479df7b166f06b6dca7c2783a75210ab5a3be35f89fbbe9d7d13a8dd6c0df0\r\nd832769e691ae8d35cd36ea019b4d2106bcec85ddd8c8a1e986f467179e77c41\r\n32fda54a046970ab79bc5daf03503e4c7bf64f3345cacff0d702f701201d24d6\r\n9e87e08169f45716e4ba126f2c274b0e15af78650490229ce53f807f2e1e0f1e\r\n10675e9998d3644e7fed5d4af960ceab9fb86b656d07550195cf702e39307612\r\n7cd94e9cfa698ace045f530bf4314445bfd6e4020b08f7a4c74f4949142850ed\r\n6a10fe6ead01cfec21ba0c0641928fa270ad8c3031dce2559a30641b0fe914f3\r\n8644c39b0dba7a37d1ae64219eca6145c89b1c0e471d32eeb32c36ffa57f8a93\r\n43b9c7b5c3343d75e4e9e391675001965d73f8e91b230e7969db21709559874f\r\n4c835c42cb81ade409d00a0e09a2929e6b4dc70d5010b233cc9cbbe0ee9d281a\r\n671f8ad791d41d8c22ae039c1c0859c4af6661818e76e1a9e763af70fba44167\r\n277178e955990bce9c60373b469d64f4c45b1c0385ff854bd0e8d6895633871d\r\ncc75b3fa19fa722abaa27b807e03ffac2096e1129ba02efd907d3326356c99f4\r\n5c0c55053de2703b5136d2c769a49d14b616700039dc227a33408ac612216e14\r\n0bef88f83d2af0a5181d3d852ab84d60d7ae3e1b9257e9388b1a73d9ad38a57b\r\n666851b803fff3e5a0e132b64afca15d11978f9bec828bd03bc850909dd22dde\r\n9558dda5e640488238c0ea57ad355952b9c218bf03bc7e3c1a9ecc41b0f3803c\r\n08400b8b3aeee1044a9604ac67b8fd58eea7262ffede0c46092898c4e87a2bdb\r\n26b2ebde009da0d3d29cd2734fef00cd975d15a7c50f58d7ff6041f3127031e7\r\n8b881d881fb333f4f7d085a3611ad8516f3e6fea0430ea4b19a9aa4c47910bb9\r"
+    ],
+    [
+      0.000005,
+      "\n126a2c1ec18613baeb01b57da9af662a9c864c98d5e17f0903510b00d851501c\r\n00bb77afc4779dee71329b6a3c79413184335673e99bed1292b2ebb9b36e8ba7\r\n"
+    ],
+    [
+      0.001216,
+      "\u001b]0;/home/xavi\u0007~ $ "
+    ],
+    [
+      2.142479,
+      "b"
+    ],
+    [
+      0.077417,
+      "e"
+    ],
+    [
+      0.095633,
+      " "
+    ],
+    [
+      0.458560,
+      "-"
+    ],
+    [
+      0.147064,
+      "t"
+    ],
+    [
+      0.072092,
+      " "
+    ],
+    [
+      1.916665,
+      "cc75b3fa19fa722abaa27b807e03ffac2096e1129ba02efd907d3326356c99f4"
+    ],
+    [
+      0.546451,
+      "\r\n"
+    ],
+    [
+      0.722567,
+      "Transaction ID: cc75b3fa19fa722abaa27b807e03ffac2096e1129ba02efd907d3326356c99f4\r\n"
+    ],
+    [
+      0.000018,
+      "Received Time: 2016-02-05 09:33:38\r\nMined Time: 2016-02-05 09:33:38\r\nValue Out: 5.934572\r\nValue In: 5.934672\r\nSize (bytes): 373\r\nFees: 0.000100\r\n"
+    ],
+    [
+      0.000008,
+      "Mined in block: 0000000000000000088c59f298ae0bab4d05f469f85cc5b5e226158e4274d172\r\n"
+    ],
+    [
+      0.000002,
+      "Confirmations: 15\r\n"
+    ],
+    [
+      0.000017,
+      "\r\nInputs:\r\n-------\r\n"
+    ],
+    [
+      0.000004,
+      "1Po4J4SNyJuGnMGYJfGTXLEvGgAZKiddr7 5.56937218\r\n1AVfbwjaVpPXtSAQg87ioqna1qC1AQKfuR 0.36530000\r\n"
+    ],
+    [
+      0.000012,
+      "\r\nOutputs:\r\n--------\r\n"
+    ],
+    [
+      0.000015,
+      "14Th8MVAiWhE5uS8tJyw7UD3FRkp4TMYw1 5.53190000\r\n"
+    ],
+    [
+      0.000023,
+      "1MEe2mebed8wopvy8xyjjHcEQHUPVJn2UC 0.40267237\r\n"
+    ],
+    [
+      0.000888,
+      "\u001b]0;/home/xavi\u0007~ $ "
+    ],
+    [
+      3.082287,
+      "be -t cc75b3fa19fa722abaa27b807e03ffac2096e1129ba02efd907d3326356c99f4"
+    ],
+    [
+      0.317219,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K"
+    ],
+    [
+      0.339716,
+      "\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.770940,
+      "-"
+    ],
+    [
+      0.240887,
+      "a"
+    ],
+    [
+      0.248415,
+      " "
+    ],
+    [
+      3.130674,
+      "14Th8MVAiWhE5uS8tJyw7UD3FRkp4TMYw1"
+    ],
+    [
+      1.280656,
+      "\r\n"
+    ],
+    [
+      0.414403,
+      "Address: 14Th8MVAiWhE5uS8tJyw7UD3FRkp4TMYw1\r\n"
+    ],
+    [
+      0.000083,
+      "Total Received: 36.96540833\r\n"
+    ],
+    [
+      0.008391,
+      "Total Sent: 36.96540833\r\nFinal Balance: 0.00000000\r\nUnconfirmed Balance: 1.15590000\r\n"
+    ],
+    [
+      0.000005,
+      "Total Transactions: 33\r\n\r\nTransactions:\r\n-------------\r\ncc75b3fa19fa722abaa27b807e03ffac2096e1129ba02efd907d3326356c99f4\r\n58f58fdbf137f6a40171bcb4af8cb00e080dbdecc70bf21556bd05dbda4215be\r\ne942c0fa71e4fb12380a5d8e5d46748f602349e6c2a62af6c3c424ce69091e21\r\n96242cacd6c79874ffbdf7e0c95f429942bcaf10a9d23700e0bf1f232e56896c\r\n"
+    ],
+    [
+      0.000014,
+      "e0476b6fcd1c7678f296f10f09c4d28fba3cabc757b3d80f15f1961059040b54\r\na0d8fa2bc3e22281e948ad309054efafacd64bdf9fb7a1dbabead338b55f48c4\r\ne65779f74885b73bd566c6a0027cc19cc14ac38f9196b0cf3feab64201776bce\r\ned1d2915ca980413a919d8905b55dd507abdeb6754982a586efe27ab83672a1e\r\n6e184a5c87f1853bad61e79677a368a5993d614e55817a9d5cfa57a53afec452\r\ncb990f0650a9de54ba40064ee458c2d25a6525f3e24e981e44792017805735e9\r\n"
+    ],
+    [
+      0.000002,
+      "6bdb308732d3f5e3d255c491e6fa0c565a3122e805f26cff87eb79a59c88cda5\r\n"
+    ],
+    [
+      0.000002,
+      "322bb2daabf4ec1dedd4bd7fa3507f8b52692cebd5f63fa9ff1539e36529e990\r\n"
+    ],
+    [
+      0.000001,
+      "5ef4d6f0ffa8a7dbc79a56d0e6a296505d881cef20b5f0b79796c79d6d72d774\r\n"
+    ],
+    [
+      0.000014,
+      "0b6ede370b9afbcf0473d781f0ebe16010e9a766e4eae6ef34fabe86274800e5\r\n68b91691afbdc9cbf0c90abb0250c7e01cb2cd04e836b1c8c2bd0b6cf7ced96d\r\n"
+    ],
+    [
+      0.000003,
+      "18ea306a1286cda06fb3e24522d27b6b9114db560a560b38c9a408c932458385\r\n113f1277b6c5b3f908879e9e911a3f158dfe47a7dea89eb7ec30abab3998d32f\r\n1951097c30ad60b60bd48142abd841d1a1e1f5cc0c3ee709b7af041a18b68689\r\n"
+    ],
+    [
+      0.000010,
+      "17cf06ffaee1ae91e65f07b96091be2c9b605c2b07ebffe3334f61652fd654f0\r\nf05aa2036266c10448348e310acb7874d40ca7fa208c0c128a6ccaad0cb3e498\r\n5527783ec739b1fd2d6c3c577b44c24895aa2710140afefdfd2632b3831e5801\r\n041e4f0191287b21b407decfa7f712572b286fe5debca878c3eaf0681e0fea0c\r\ndf75fd5bf85f8612b26a5cf1e2db7cb299ac0e66e7e9b02d889b510f62116e46\r\n"
+    ],
+    [
+      0.000012,
+      "cb2d59c8f6bce96af513e638cbec26fb22e9e1f89ff90a0a05d6be76de6a04bf\r\n587713bfb15b704f41add65f9239f430b55ad33578768d2bf7380abc25283d64\r\n5f1f84448b014de5951811c42cd78fda5c47b1e2e770d3b24c8e6beb7779fb37\r\n73105897ea49912a9e698c75234dc7a55c8a6ad58037034c696cfbbd6bca53a9\r\n7c044b3c9a69fbcdb43a8b17fa2f3863c5fdf49eb02d27e07d3e1a0ad500697d\r\nc981c2e550e7850e90028e758f51d99b70a890ce8fc534a50860c7d92ff78d77\r\n"
+    ],
+    [
+      0.000002,
+      "3562cdcb22e025eb8134b3136b3f12f5b0a89817777d97cab916ba124091417a\r\n"
+    ],
+    [
+      0.000002,
+      "d062fd0b36ea660097f23800036a636daa3e0ae09c886218be7110d008f87099\r\n"
+    ],
+    [
+      0.000002,
+      "9f324f0175d23f2cd8f9a70d23c87b15b353447c5e1e687ee15ecc4f9fbc3306\r\n"
+    ],
+    [
+      0.000016,
+      "adea9c727060e2893e2b8642a6a317d320eca35a4e8fe12546105a0a364ebd29\r\n"
+    ],
+    [
+      0.000751,
+      "\u001b]0;/home/xavi\u0007"
+    ],
+    [
+      0.000064,
+      "~ $ "
+    ],
+    [
+      2.779495,
+      "e"
+    ],
+    [
+      0.164376,
+      "x"
+    ],
+    [
+      0.182743,
+      "i"
+    ],
+    [
+      0.101497,
+      "t"
+    ],
+    [
+      0.741046,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
