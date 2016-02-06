@@ -1,0 +1,1906 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 68.583114,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.070100,
+      "\u001b]0;alex@alex-desktop: ~/Documents/chromium/src\u0007alex@alex-desktop:~/Documents/chromium/src$ "
+    ],
+    [
+      1.721650,
+      "n"
+    ],
+    [
+      0.000046,
+      "i"
+    ],
+    [
+      0.000090,
+      "n"
+    ],
+    [
+      0.000056,
+      "j"
+    ],
+    [
+      0.000049,
+      "a"
+    ],
+    [
+      0.000055,
+      " "
+    ],
+    [
+      0.000054,
+      "-"
+    ],
+    [
+      0.000052,
+      "C"
+    ],
+    [
+      0.000054,
+      " "
+    ],
+    [
+      0.000056,
+      "o"
+    ],
+    [
+      0.000055,
+      "u"
+    ],
+    [
+      0.000055,
+      "t"
+    ],
+    [
+      0.000056,
+      "/"
+    ],
+    [
+      0.000058,
+      "D"
+    ],
+    [
+      0.000058,
+      "e"
+    ],
+    [
+      0.000057,
+      "f"
+    ],
+    [
+      0.000060,
+      "a"
+    ],
+    [
+      0.000059,
+      "u"
+    ],
+    [
+      0.000060,
+      "l"
+    ],
+    [
+      0.000061,
+      "t"
+    ],
+    [
+      0.000060,
+      " "
+    ],
+    [
+      0.000060,
+      "c"
+    ],
+    [
+      0.000061,
+      "h"
+    ],
+    [
+      0.000062,
+      "r"
+    ],
+    [
+      0.000062,
+      "o"
+    ],
+    [
+      0.000064,
+      "m"
+    ],
+    [
+      0.000063,
+      "e"
+    ],
+    [
+      0.000066,
+      "_"
+    ],
+    [
+      0.000064,
+      "p"
+    ],
+    [
+      0.000066,
+      "u"
+    ],
+    [
+      0.000065,
+      "b"
+    ],
+    [
+      0.000070,
+      "l"
+    ],
+    [
+      0.000064,
+      "i"
+    ],
+    [
+      0.000067,
+      "c"
+    ],
+    [
+      0.000068,
+      "_"
+    ],
+    [
+      0.000066,
+      "a \r"
+    ],
+    [
+      0.000015,
+      "p"
+    ],
+    [
+      0.000014,
+      "k"
+    ],
+    [
+      0.000034,
+      "_"
+    ],
+    [
+      0.000013,
+      "i"
+    ],
+    [
+      0.000033,
+      "n"
+    ],
+    [
+      0.000013,
+      "c"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000026,
+      "e"
+    ],
+    [
+      0.000025,
+      "m"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000027,
+      "n"
+    ],
+    [
+      0.000028,
+      "t"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000035,
+      "l"
+    ],
+    [
+      1.716842,
+      "\r\n"
+    ],
+    [
+      0.014855,
+      "ninja: Entering directory `out/Default'\r\n"
+    ],
+    [
+      1.290742,
+      "\r[1/207] CXX obj/third_party/WebKit/Sou...web/web/DocumentWebSocketChannelTest.o\u001b[K"
+    ],
+    [
+      0.002895,
+      "\r[2/207] CXX obj/third_party/WebKit/Source/web/web/DOMWebSocketTest.o\u001b[K"
+    ],
+    [
+      0.002100,
+      "\r[3/207] CXX obj/third_party/WebKit/Source/web/web/Canvas2DLayerBridgeTest.o\u001b[K"
+    ],
+    [
+      0.003940,
+      "\r[4/207] CXX obj/third_party/WebKit/Source/web/web/GIFImageDecoderTest.o\u001b[K"
+    ],
+    [
+      0.004880,
+      "\r[5/207] CXX obj/third_party/WebKit/Source/web/web/WEBPImageDecoderTest.o\u001b[K"
+    ],
+    [
+      0.004806,
+      "\r[6/207] CXX obj/third_party/WebKit/Source/web/web/WebTestingSupport.o\u001b[K"
+    ],
+    [
+      0.002637,
+      "\r[7/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/core.o\u001b[K"
+    ],
+    [
+      0.004388,
+      "\r[8/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/mojo_runner_delegate.o\u001b[K"
+    ],
+    [
+      0.004478,
+      "\r[9/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/support.o\u001b[K"
+    ],
+    [
+      0.003981,
+      "\r[10/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/threading.o\u001b[K"
+    ],
+    [
+      1.506580,
+      "\r[10/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/threading.o\u001b[K"
+    ],
+    [
+      0.000274,
+      "\r[11/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/waiting_callback.o\u001b[K"
+    ],
+    [
+      0.111405,
+      "\r[11/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/support.o\u001b[K"
+    ],
+    [
+      0.000312,
+      "\r[12/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/drain_data.o\u001b[K"
+    ],
+    [
+      0.003777,
+      "\r[12/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/mojo_runner_delegate.o\u001b[K"
+    ],
+    [
+      0.000355,
+      "\r[13/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/handle.o\u001b[K"
+    ],
+    [
+      1.530704,
+      "\r[13/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/waiting_callback.o\u001b[K"
+    ],
+    [
+      0.000270,
+      "\r[14/207] STAMP obj/ui/content_accelera...s/content_accelerators.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.028408,
+      "\r[14/207] STAMP obj/ui/content_accelera...s/content_accelerators.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000229,
+      "\r[15/207] CXX obj/ui/content_accelerato...ontent_accelerators/accelerator_util.o\u001b[K"
+    ],
+    [
+      0.124968,
+      "\r[15/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/drain_data.o\u001b[K"
+    ],
+    [
+      0.000213,
+      "\r[16/207] STAMP obj/ui/web_dialogs/web_dialogs.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.009144,
+      "\r[16/207] STAMP obj/ui/web_dialogs/web_dialogs.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000036,
+      "\r[17/207] CXX obj/ui/web_dialogs/web_di...ogs/web_dialog_web_contents_delegate.o\u001b[K"
+    ],
+    [
+      0.239111,
+      "\r[17/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/handle.o\u001b[K"
+    ],
+    [
+      0.000189,
+      "\r[18/207] CXX obj/ui/web_dialogs/web_dialogs/web_dialog_delegate.o\u001b[K"
+    ],
+    [
+      0.118444,
+      "\r[18/207] CXX obj/third_party/mojo/src/mojo/edk/js/js/core.o\u001b[K"
+    ],
+    [
+      0.000205,
+      "\r[19/207] CXX obj/ui/web_dialogs/web_dialogs/web_dialog_ui.o\u001b[K"
+    ],
+    [
+      1.256806,
+      "\r[19/207] CXX obj/ui/web_dialogs/web_di...ogs/web_dialog_web_contents_delegate.o\u001b[K"
+    ],
+    [
+      0.000042,
+      "\r[20/207] STAMP obj/v8/v8.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.021747,
+      "\r[20/207] CXX obj/ui/content_accelerato...ontent_accelerators/accelerator_util.o\u001b[K"
+    ],
+    [
+      0.000378,
+      "\r[21/207] STAMP obj/v8/v8_external_snapshot.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.012460,
+      "\r[21/207] STAMP obj/v8/v8.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000088,
+      "\r[22/207] CXX obj/v8/v8/v8dll-main.o\u001b[K"
+    ],
+    [
+      0.024294,
+      "\r[22/207] STAMP obj/v8/v8_external_snapshot.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000118,
+      "\r[23/207] CXX obj/v8/v8_external_snapshot/natives-external.o\u001b[K"
+    ],
+    [
+      0.132542,
+      "\r[23/207] CXX obj/ui/web_dialogs/web_dialogs/web_dialog_delegate.o\u001b[K"
+    ],
+    [
+      0.000157,
+      "\r[24/207] CXX obj/v8/v8_external_snapshot/snapshot-external.o\u001b[K"
+    ],
+    [
+      0.070020,
+      "\r[24/207] CXX obj/v8/v8/v8dll-main.o\u001b[K"
+    ],
+    [
+      0.035793,
+      "\r[24/207] CXX obj/third_party/WebKit/Source/web/web/GIFImageDecoderTest.o\u001b[K"
+    ],
+    [
+      0.115286,
+      "\r[24/207] CXX obj/third_party/WebKit/Source/web/web/WEBPImageDecoderTest.o\u001b[K"
+    ],
+    [
+      0.216423,
+      "\r[24/207] CXX obj/ui/web_dialogs/web_dialogs/web_dialog_ui.o\u001b[K"
+    ],
+    [
+      0.626724,
+      "\r[24/207] CXX obj/third_party/WebKit/Source/web/web/WebTestingSupport.o\u001b[K"
+    ],
+    [
+      0.056241,
+      "\r[24/207] CXX obj/v8/v8_external_snapshot/natives-external.o\u001b[K"
+    ],
+    [
+      0.107245,
+      "\r[24/207] CXX obj/v8/v8_external_snapshot/snapshot-external.o\u001b[K"
+    ],
+    [
+      0.000254,
+      "\r[25/207] STAMP obj/v8/v8_external_snapshot.stamp\u001b[K"
+    ],
+    [
+      0.010475,
+      "\r[25/207] STAMP obj/v8/v8_external_snapshot.stamp\u001b[K"
+    ],
+    [
+      0.000061,
+      "\r[26/207] SOLINK ./libv8.cr.so\u001b[K"
+    ],
+    [
+      0.977472,
+      "\r[26/207] CXX obj/third_party/WebKit/Source/web/web/Canvas2DLayerBridgeTest.o\u001b[K"
+    ],
+    [
+      0.399253,
+      "\r[26/207] SOLINK ./libv8.cr.so\u001b[K"
+    ],
+    [
+      0.000539,
+      "\r[27/207] SOLINK ./libgin.cr.so\u001b[K"
+    ],
+    [
+      0.003219,
+      "\r[28/207] STAMP obj/v8/v8_external_star...a_assets__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.007380,
+      "\r[28/207] STAMP obj/v8/v8_external_star...a_assets__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000126,
+      "\r[29/207] ACTION //v8:v8_external_start...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.078648,
+      "\r[29/207] SOLINK ./libgin.cr.so\u001b[K"
+    ],
+    [
+      0.000393,
+      "\r[30/207] SOLINK ./libblink_platform.cr.so\u001b[K"
+    ],
+    [
+      0.005160,
+      "\r[31/207] STAMP obj/third_party/mojo/src/mojo/edk/js/js.stamp\u001b[K"
+    ],
+    [
+      0.002819,
+      "\r[31/207] ACTION //v8:v8_external_start...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000098,
+      "\r[32/207] STAMP obj/v8/v8_external_startup_data_assets__build_config.stamp\u001b[K"
+    ],
+    [
+      0.005887,
+      "\r[32/207] STAMP obj/third_party/mojo/src/mojo/edk/js/js.stamp\u001b[K"
+    ],
+    [
+      0.002379,
+      "\r[32/207] STAMP obj/v8/v8_external_startup_data_assets__build_config.stamp\u001b[K"
+    ],
+    [
+      0.000047,
+      "\r[33/207] STAMP obj/v8/v8_external_startup_data_assets.stamp\u001b[K"
+    ],
+    [
+      0.005629,
+      "\r[33/207] STAMP obj/v8/v8_external_startup_data_assets.stamp\u001b[K"
+    ],
+    [
+      0.000033,
+      "\r[34/207] STAMP obj/chrome/android/chro...k_assets__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.005437,
+      "\r[34/207] STAMP obj/chrome/android/chro...k_assets__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r[35/207] ACTION //chrome/android:chrom...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.083023,
+      "\r[35/207] ACTION //chrome/android:chrom...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000054,
+      "\r[36/207] STAMP obj/chrome/android/chro..._public_apk_assets__build_config.stamp\u001b[K"
+    ],
+    [
+      0.006620,
+      "\r[36/207] STAMP obj/chrome/android/chro..._public_apk_assets__build_config.stamp\u001b[K"
+    ],
+    [
+      0.000052,
+      "\r[37/207] STAMP obj/chrome/android/chrome_public_apk_assets.stamp\u001b[K"
+    ],
+    [
+      0.007495,
+      "\r[37/207] STAMP obj/chrome/android/chrome_public_apk_assets.stamp\u001b[K"
+    ],
+    [
+      0.935781,
+      "\r[37/207] SOLINK ./libblink_platform.cr.so\u001b[K"
+    ],
+    [
+      0.001562,
+      "\r[38/207] SOLINK ./libnet_with_v8.cr.so\u001b[K"
+    ],
+    [
+      0.006504,
+      "\r[39/207] STAMP obj/third_party/WebKit/Source/core/prerequisites.stamp\u001b[K"
+    ],
+    [
+      0.006340,
+      "\r[40/207] STAMP obj/third_party/WebKit/Source/platform/test_support.stamp\u001b[K"
+    ],
+    [
+      0.005757,
+      "\r[40/207] STAMP obj/third_party/WebKit/Source/core/prerequisites.stamp\u001b[K"
+    ],
+    [
+      0.000171,
+      "\r[41/207] STAMP obj/third_party/WebKit/Source/core/core_generated.stamp\u001b[K"
+    ],
+    [
+      0.003915,
+      "\r[42/207] STAMP obj/third_party/WebKit/Source/core/dom.stamp\u001b[K"
+    ],
+    [
+      0.002896,
+      "\r[43/207] STAMP obj/third_party/WebKit/Source/core/html.stamp\u001b[K"
+    ],
+    [
+      0.004422,
+      "\r[44/207] STAMP obj/third_party/WebKit/Source/core/svg.stamp\u001b[K"
+    ],
+    [
+      0.003871,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/core/remaining.stamp\u001b[K"
+    ],
+    [
+      0.004310,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/platform/test_support.stamp\u001b[K"
+    ],
+    [
+      0.001037,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/core/core_generated.stamp\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/core/dom.stamp\u001b[K"
+    ],
+    [
+      0.001081,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/core/html.stamp\u001b[K\r[45/207] STAMP obj/third_party/WebKit/Source/core/svg.stamp\u001b[K"
+    ],
+    [
+      0.002566,
+      "\r[45/207] STAMP obj/third_party/WebKit/Source/core/remaining.stamp\u001b[K"
+    ],
+    [
+      0.000076,
+      "\r[46/207] STAMP obj/third_party/WebKit/Source/core/core.stamp\u001b[K"
+    ],
+    [
+      0.007018,
+      "\r[46/207] STAMP obj/third_party/WebKit/Source/core/core.stamp\u001b[K"
+    ],
+    [
+      0.000024,
+      "\r[47/207] STAMP obj/third_party/WebKit/Source/core/testing.stamp\u001b[K"
+    ],
+    [
+      0.002583,
+      "\r[48/207] STAMP obj/third_party/WebKit/Source/modules/modules_testing.stamp\u001b[K"
+    ],
+    [
+      0.002204,
+      "\r[49/207] STAMP obj/third_party/WebKit/Source/modules/modules.stamp\u001b[K"
+    ],
+    [
+      0.004525,
+      "\r[49/207] STAMP obj/third_party/WebKit/Source/core/testing.stamp\u001b[K"
+    ],
+    [
+      0.001957,
+      "\r[49/207] STAMP obj/third_party/WebKit/Source/modules/modules_testing.stamp\u001b[K"
+    ],
+    [
+      0.002599,
+      "\r[49/207] STAMP obj/third_party/WebKit/Source/modules/modules.stamp\u001b[K"
+    ],
+    [
+      0.027137,
+      "\r[49/207] SOLINK ./libnet_with_v8.cr.so\u001b[K"
+    ],
+    [
+      1.466957,
+      "\r[49/207] CXX obj/third_party/WebKit/So...web/web/DocumentWebSocketChannelTest.o\u001b[K"
+    ],
+    [
+      1.616416,
+      "\r[49/207] CXX obj/third_party/WebKit/Source/web/web/DOMWebSocketTest.o\u001b[K"
+    ],
+    [
+      0.000380,
+      "\r[50/207] SOLINK ./libblink_web.cr.so\u001b[K"
+    ],
+    [
+      10.973854,
+      "\r[50/207] SOLINK ./libblink_web.cr.so\u001b[K"
+    ],
+    [
+      0.003756,
+      "\r[51/207] STAMP obj/third_party/WebKit/public/blink.stamp\u001b[K"
+    ],
+    [
+      0.010120,
+      "\r[51/207] STAMP obj/third_party/WebKit/public/blink.stamp\u001b[K"
+    ],
+    [
+      0.000143,
+      "\r[52/207] SOLINK ./libcc_blink.cr.so\u001b[K"
+    ],
+    [
+      0.005168,
+      "\r[53/207] STAMP obj/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.008144,
+      "\r[53/207] STAMP obj/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000099,
+      "\r[54/207] STAMP obj/content/public/browser/browser_sources.stamp\u001b[K"
+    ],
+    [
+      0.007091,
+      "\r[54/207] STAMP obj/content/public/browser/browser_sources.stamp\u001b[K"
+    ],
+    [
+      0.089278,
+      "\r[54/207] SOLINK ./libcc_blink.cr.so\u001b[K"
+    ],
+    [
+      0.000204,
+      "\r[55/207] SOLINK ./libscheduler.cr.so\u001b[K"
+    ],
+    [
+      0.128170,
+      "\r[55/207] SOLINK ./libscheduler.cr.so\u001b[K"
+    ],
+    [
+      0.000272,
+      "\r[56/207] STAMP obj/content/child/child.stamp\u001b[K"
+    ],
+    [
+      0.003026,
+      "\r[57/207] SOLINK ./libmedia_blink.cr.so\u001b[K"
+    ],
+    [
+      0.007257,
+      "\r[57/207] STAMP obj/content/child/child.stamp\u001b[K"
+    ],
+    [
+      0.000099,
+      "\r[58/207] STAMP obj/content/public/child/child_sources.stamp\u001b[K"
+    ],
+    [
+      0.012813,
+      "\r[58/207] STAMP obj/content/public/child/child_sources.stamp\u001b[K"
+    ],
+    [
+      0.000100,
+      "\r[59/207] STAMP obj/content/gpu/gpu_sources.stamp\u001b[K"
+    ],
+    [
+      0.003855,
+      "\r[60/207] STAMP obj/content/utility/utility.stamp\u001b[K"
+    ],
+    [
+      0.005295,
+      "\r[60/207] STAMP obj/content/gpu/gpu_sources.stamp\u001b[K"
+    ],
+    [
+      0.000110,
+      "\r[61/207] STAMP obj/content/app/both.stamp\u001b[K"
+    ],
+    [
+      0.004218,
+      "\r[61/207] STAMP obj/content/utility/utility.stamp\u001b[K"
+    ],
+    [
+      0.000108,
+      "\r[62/207] STAMP obj/content/public/utility/utility_sources.stamp\u001b[K"
+    ],
+    [
+      0.005857,
+      "\r[62/207] STAMP obj/content/app/both.stamp\u001b[K"
+    ],
+    [
+      0.000171,
+      "\r[63/207] STAMP obj/content/public/app/both_sources.stamp\u001b[K"
+    ],
+    [
+      0.003594,
+      "\r[63/207] STAMP obj/content/public/utility/utility_sources.stamp\u001b[K"
+    ],
+    [
+      0.005042,
+      "\r[63/207] STAMP obj/content/public/app/both_sources.stamp\u001b[K"
+    ],
+    [
+      0.126429,
+      "\r[63/207] SOLINK ./libmedia_blink.cr.so\u001b[K"
+    ],
+    [
+      0.000213,
+      "\r[64/207] STAMP obj/content/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.011936,
+      "\r[64/207] STAMP obj/content/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000070,
+      "\r[65/207] STAMP obj/content/public/renderer/renderer_sources.stamp\u001b[K"
+    ],
+    [
+      0.008800,
+      "\r[65/207] STAMP obj/content/public/renderer/renderer_sources.stamp\u001b[K"
+    ],
+    [
+      0.000076,
+      "\r[66/207] SOLINK ./libcontent.cr.so\u001b[K"
+    ],
+    [
+      11.473711,
+      "\r[66/207] SOLINK ./libcontent.cr.so\u001b[K"
+    ],
+    [
+      0.002887,
+      "\r[67/207] STAMP obj/content/public/utility/utility.stamp\u001b[K"
+    ],
+    [
+      0.006357,
+      "\r[68/207] STAMP obj/content/public/app/both.stamp\u001b[K"
+    ],
+    [
+      0.006057,
+      "\r[69/207] STAMP obj/content/public/common/common.stamp\u001b[K"
+    ],
+    [
+      0.003977,
+      "\r[70/207] STAMP obj/content/public/child/child.stamp\u001b[K"
+    ],
+    [
+      0.005441,
+      "\r[71/207] STAMP obj/content/public/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004313,
+      "\r[72/207] STAMP obj/content/public/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.004489,
+      "\r[73/207] STAMP obj/content/public/plugin/plugin.stamp\u001b[K"
+    ],
+    [
+      0.004094,
+      "\r[73/207] STAMP obj/content/public/utility/utility.stamp\u001b[K"
+    ],
+    [
+      0.000058,
+      "\r[73/207] STAMP obj/content/public/app/both.stamp\u001b[K"
+    ],
+    [
+      0.000053,
+      "\r[73/207] STAMP obj/content/public/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000093,
+      "\r[74/207] AR obj/components/autofill/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.004568,
+      "\r[75/207] STAMP obj/components/cdm/common/common.stamp\u001b[K"
+    ],
+    [
+      0.004285,
+      "\r[76/207] STAMP obj/components/content_settings/content/common/common.stamp\u001b[K"
+    ],
+    [
+      0.004297,
+      "\r[77/207] AR obj/components/data_reduction_proxy/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.003784,
+      "\r[78/207] STAMP obj/components/dom_distiller/content/common/common.stamp\u001b[K"
+    ],
+    [
+      0.002342,
+      "\r[79/207] STAMP obj/components/error_page/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.004762,
+      "\r[79/207] STAMP obj/content/public/child/child.stamp\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r[80/207] AR obj/chrome/child/libchild.a\u001b[K"
+    ],
+    [
+      0.003550,
+      "\r[80/207] STAMP obj/content/public/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000163,
+      "\r[81/207] AR obj/components/app_modal/libapp_modal.a\u001b[K"
+    ],
+    [
+      0.003210,
+      "\r[81/207] STAMP obj/content/public/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000092,
+      "\r[82/207] AR obj/chrome/browser/devtools/libdevtools.a\u001b[K"
+    ],
+    [
+      0.003580,
+      "\r[82/207] STAMP obj/content/public/plugin/plugin.stamp\u001b[K\r[83/207] AR obj/chrome/plugin/libplugin.a\u001b[K"
+    ],
+    [
+      0.004418,
+      "\r[83/207] STAMP obj/components/cdm/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000202,
+      "\r[84/207] AR obj/components/browsing_data/libbrowsing_data.a\u001b[K"
+    ],
+    [
+      0.003486,
+      "\r[84/207] STAMP obj/components/content_settings/content/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000212,
+      "\r[85/207] STAMP obj/components/cdm/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004182,
+      "\r[85/207] STAMP obj/components/dom_distiller/content/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000269,
+      "\r[86/207] AR obj/components/cdm/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.004474,
+      "\r[86/207] STAMP obj/components/error_page/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000237,
+      "\r[87/207] AR obj/components/contextual_search/librenderer.a\u001b[K"
+    ],
+    [
+      0.004592,
+      "\r[87/207] AR obj/components/autofill/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.000301,
+      "\r[88/207] AR obj/components/autofill/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.013749,
+      "\r[88/207] STAMP obj/components/cdm/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000175,
+      "\r[89/207] AR obj/components/autofill/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.016137,
+      "\r[89/207] AR obj/components/data_reduction_proxy/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.000252,
+      "\r[90/207] STAMP obj/components/data_red...on_proxy/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004615,
+      "\r[90/207] AR obj/chrome/child/libchild.a\u001b[K"
+    ],
+    [
+      0.000168,
+      "\r[91/207] STAMP obj/components/crash/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004524,
+      "\r[91/207] AR obj/components/app_modal/libapp_modal.a\u001b[K"
+    ],
+    [
+      0.000278,
+      "\r[92/207] STAMP obj/components/data_use_measurement/content/content.stamp\u001b[K"
+    ],
+    [
+      0.010261,
+      "\r[92/207] AR obj/chrome/plugin/libplugin.a\u001b[K"
+    ],
+    [
+      0.000391,
+      "\r[93/207] STAMP obj/components/devtools_discovery/devtools_discovery.stamp\u001b[K"
+    ],
+    [
+      0.004451,
+      "\r[93/207] STAMP obj/components/data_red...on_proxy/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000283,
+      "\r[94/207] AR obj/components/dom_distiller/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.006048,
+      "\r[94/207] AR obj/chrome/browser/devtools/libdevtools.a\u001b[K"
+    ],
+    [
+      0.000422,
+      "\r[95/207] AR obj/components/dom_distiller/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.004449,
+      "\r[95/207] STAMP obj/components/crash/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000254,
+      "\r[96/207] AR obj/components/dom_distiller/webui/libwebui.a\u001b[K"
+    ],
+    [
+      0.004275,
+      "\r[96/207] STAMP obj/components/data_use_measurement/content/content.stamp\u001b[K"
+    ],
+    [
+      0.000229,
+      "\r[97/207] STAMP obj/components/favicon/content/content.stamp\u001b[K"
+    ],
+    [
+      0.004071,
+      "\r[97/207] AR obj/components/browsing_data/libbrowsing_data.a\u001b[K"
+    ],
+    [
+      0.000245,
+      "\r[98/207] STAMP obj/components/guest_view/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.004013,
+      "\r[98/207] AR obj/components/cdm/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000235,
+      "\r[99/207] SOLINK ./libkeyed_service_content.cr.so\u001b[K"
+    ],
+    [
+      0.003803,
+      "\r[99/207] AR obj/components/contextual_search/librenderer.a\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r[100/207] STAMP obj/components/metrics/gpu.stamp\u001b[K"
+    ],
+    [
+      0.004339,
+      "\r[100/207] STAMP obj/components/devtools_discovery/devtools_discovery.stamp\u001b[K"
+    ],
+    [
+      0.000335,
+      "\r[101/207] STAMP obj/components/devtool...tp_handler/devtools_http_handler.stamp\u001b[K"
+    ],
+    [
+      0.006197,
+      "\r[101/207] AR obj/components/autofill/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.000373,
+      "\r[102/207] STAMP obj/components/navigat...rception/navigation_interception.stamp\u001b[K"
+    ],
+    [
+      0.004212,
+      "\r[102/207] AR obj/components/autofill/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000322,
+      "\r[103/207] STAMP obj/components/nacl/common/process_type.stamp\u001b[K"
+    ],
+    [
+      0.004813,
+      "\r[103/207] STAMP obj/components/favicon/content/content.stamp\u001b[K"
+    ],
+    [
+      0.000260,
+      "\r[104/207] STAMP obj/components/network_hints/common/common.stamp\u001b[K"
+    ],
+    [
+      0.004955,
+      "\r[104/207] STAMP obj/components/guest_view/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000255,
+      "\r[105/207] AR obj/components/packed_ct_..._whitelist/libpacked_ct_ev_whitelist.a\u001b[K"
+    ],
+    [
+      0.005032,
+      "\r[105/207] STAMP obj/components/metrics/gpu.stamp\u001b[K"
+    ],
+    [
+      0.000911,
+      "\r[106/207] AR obj/components/page_load_metrics/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.005724,
+      "\r[106/207] STAMP obj/components/devtool...tp_handler/devtools_http_handler.stamp\u001b[K"
+    ],
+    [
+      0.000238,
+      "\r[107/207] AR obj/components/page_load_metrics/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.005371,
+      "\r[107/207] STAMP obj/components/navigat...rception/navigation_interception.stamp\u001b[K"
+    ],
+    [
+      0.000164,
+      "\r[108/207] AR obj/components/password_manager/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.004059,
+      "\r[108/207] AR obj/components/dom_distiller/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.000170,
+      "\r[109/207] AR obj/components/plugins/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.003538,
+      "\r[109/207] AR obj/components/dom_distiller/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000312,
+      "\r[110/207] STAMP obj/components/precache/content/content.stamp\u001b[K"
+    ],
+    [
+      0.004339,
+      "\r[110/207] AR obj/components/dom_distiller/webui/libwebui.a\u001b[K"
+    ],
+    [
+      0.000381,
+      "\r[111/207] STAMP obj/components/printing/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.003977,
+      "\r[111/207] STAMP obj/components/nacl/common/process_type.stamp\u001b[K"
+    ],
+    [
+      0.000379,
+      "\r[112/207] STAMP obj/components/metrics/profiler_content.stamp\u001b[K"
+    ],
+    [
+      0.007619,
+      "\r[112/207] STAMP obj/components/network_hints/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000332,
+      "\r[113/207] STAMP obj/components/network_hints/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.006389,
+      "\r[113/207] STAMP obj/components/precache/content/content.stamp\u001b[K"
+    ],
+    [
+      0.000270,
+      "\r[114/207] STAMP obj/components/printing/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004528,
+      "\r[114/207] STAMP obj/components/printing/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000248,
+      "\r[115/207] AR obj/components/renderer_context_menu/librenderer_context_menu.a\u001b[K"
+    ],
+    [
+      0.004862,
+      "\r[115/207] STAMP obj/components/metrics/profiler_content.stamp\u001b[K"
+    ],
+    [
+      0.000335,
+      "\r[116/207] STAMP obj/components/safe_browsing_db/database_manager.stamp\u001b[K"
+    ],
+    [
+      0.004643,
+      "\r[116/207] STAMP obj/components/network_hints/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.000309,
+      "\r[117/207] STAMP obj/components/safe_json/messages.stamp\u001b[K"
+    ],
+    [
+      0.004387,
+      "\r[117/207] AR obj/components/packed_ct_..._whitelist/libpacked_ct_ev_whitelist.a\u001b[K"
+    ],
+    [
+      0.000427,
+      "\r[118/207] AR obj/components/service_tab_launcher/libservice_tab_launcher.a\u001b[K"
+    ],
+    [
+      0.004796,
+      "\r[118/207] STAMP obj/components/printing/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000393,
+      "\r[119/207] STAMP obj/components/startup...utils/browser/message_filter_lib.stamp\u001b[K"
+    ],
+    [
+      0.005122,
+      "\r[119/207] AR obj/components/page_load_metrics/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.000411,
+      "\r[120/207] AR obj/components/translate/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.005505,
+      "\r[120/207] AR obj/components/page_load_metrics/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000321,
+      "\r[121/207] STAMP obj/components/ui/zoom/zoom.stamp\u001b[K"
+    ],
+    [
+      0.005845,
+      "\r[121/207] AR obj/components/password_manager/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.000259,
+      "\r[122/207] AR obj/components/password_manager/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.005172,
+      "\r[122/207] STAMP obj/components/safe_browsing_db/database_manager.stamp\u001b[K"
+    ],
+    [
+      0.000245,
+      "\r[123/207] STAMP obj/components/safe_browsing_db/safe_browsing_db_shared.stamp\u001b[K"
+    ],
+    [
+      0.004817,
+      "\r[123/207] STAMP obj/components/safe_json/messages.stamp\u001b[K"
+    ],
+    [
+      0.000149,
+      "\r[124/207] STAMP obj/components/safe_browsing_db/remote_database_manager.stamp\u001b[K"
+    ],
+    [
+      0.004838,
+      "\r[124/207] AR obj/components/plugins/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r[125/207] STAMP obj/components/safe_json/safe_json.stamp\u001b[K"
+    ],
+    [
+      0.004553,
+      "\r[125/207] STAMP obj/components/startup...utils/browser/message_filter_lib.stamp\u001b[K"
+    ],
+    [
+      0.000304,
+      "\r[126/207] STAMP obj/components/safe_js.../safe_json_parser_message_filter.stamp\u001b[K"
+    ],
+    [
+      0.004702,
+      "\r[126/207] STAMP obj/components/ui/zoom/zoom.stamp\u001b[K"
+    ],
+    [
+      0.000215,
+      "\r[127/207] STAMP obj/components/guest_view/browser/guest_view_browser.stamp\u001b[K"
+    ],
+    [
+      0.004237,
+      "\r[127/207] AR obj/components/renderer_context_menu/librenderer_context_menu.a\u001b[K"
+    ],
+    [
+      0.000310,
+      "\r[128/207] STAMP obj/components/visitedlink/common/common.stamp\u001b[K"
+    ],
+    [
+      0.003792,
+      "\r[128/207] STAMP obj/components/safe_browsing_db/safe_browsing_db_shared.stamp\u001b[K"
+    ],
+    [
+      0.000037,
+      "\r[129/207] STAMP obj/components/safe_browsing_db/safe_browsing_db.stamp\u001b[K"
+    ],
+    [
+      0.003471,
+      "\r[129/207] STAMP obj/components/safe_browsing_db/remote_database_manager.stamp\u001b[K"
+    ],
+    [
+      0.000208,
+      "\r[130/207] STAMP obj/components/safe_browsing_db/safe_browsing_db_mobile.stamp\u001b[K"
+    ],
+    [
+      0.004216,
+      "\r[130/207] STAMP obj/components/safe_json/safe_json.stamp\u001b[K"
+    ],
+    [
+      0.000069,
+      "\r[131/207] STAMP obj/components/web_cache/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.003540,
+      "\r[131/207] SOLINK ./libkeyed_service_content.cr.so\u001b[K"
+    ],
+    [
+      0.000291,
+      "\r[132/207] AR obj/chrome/browser/media/router/librouter.a\u001b[K"
+    ],
+    [
+      0.003962,
+      "\r[132/207] AR obj/components/service_tab_launcher/libservice_tab_launcher.a\u001b[K\r[133/207] STAMP obj/components/password_manager/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004064,
+      "\r[133/207] AR obj/components/translate/content/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.000169,
+      "\r[134/207] AR obj/components/translate/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.004133,
+      "\r[134/207] STAMP obj/components/safe_js.../safe_json_parser_message_filter.stamp\u001b[K"
+    ],
+    [
+      0.000086,
+      "\r[135/207] AR obj/components/power/libpower.a\u001b[K"
+    ],
+    [
+      0.003538,
+      "\r[135/207] STAMP obj/components/guest_view/browser/guest_view_browser.stamp\u001b[K"
+    ],
+    [
+      0.000132,
+      "\r[136/207] SOLINK ./libsessions.cr.so\u001b[K"
+    ],
+    [
+      0.003242,
+      "\r[136/207] STAMP obj/components/visitedlink/common/common.stamp\u001b[K"
+    ],
+    [
+      0.000117,
+      "\r[137/207] AR obj/chrome/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.003541,
+      "\r[137/207] STAMP obj/components/safe_browsing_db/safe_browsing_db.stamp\u001b[K"
+    ],
+    [
+      0.000075,
+      "\r[138/207] STAMP obj/components/translate/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.002530,
+      "\r[138/207] AR obj/components/password_manager/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.000194,
+      "\r[139/207] STAMP obj/components/visitedlink/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004230,
+      "\r[139/207] STAMP obj/components/safe_browsing_db/safe_browsing_db_mobile.stamp\u001b[K"
+    ],
+    [
+      0.000100,
+      "\r[140/207] STAMP obj/components/visitedlink/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.004451,
+      "\r[140/207] STAMP obj/components/web_cache/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000262,
+      "\r[141/207] AR obj/components/web_conten...oid/libweb_contents_delegate_android.a\u001b[K"
+    ],
+    [
+      0.004958,
+      "\r[141/207] STAMP obj/components/password_manager/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000276,
+      "\r[142/207] STAMP obj/components/web_cache/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.004635,
+      "\r[142/207] STAMP obj/components/translate/content/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000247,
+      "\r[143/207] AR obj/components/web_modal/libweb_modal.a\u001b[K"
+    ],
+    [
+      0.004767,
+      "\r[143/207] STAMP obj/components/visitedlink/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.003138,
+      "\r[144/207] STAMP obj/ui/content_accelerators/content_accelerators.stamp\u001b[K"
+    ],
+    [
+      0.004671,
+      "\r[144/207] STAMP obj/components/visitedlink/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000225,
+      "\r[145/207] AR obj/components/history/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.004258,
+      "\r[145/207] STAMP obj/components/web_cache/renderer/renderer.stamp\u001b[K"
+    ],
+    [
+      0.003805,
+      "\r[145/207] AR obj/chrome/browser/media/router/librouter.a\u001b[K"
+    ],
+    [
+      0.000244,
+      "\r[145/207] STAMP obj/ui/content_accelerators/content_accelerators.stamp\u001b[K"
+    ],
+    [
+      0.003451,
+      "\r[145/207] AR obj/components/power/libpower.a\u001b[K"
+    ],
+    [
+      0.002506,
+      "\r[145/207] AR obj/components/translate/content/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.023161,
+      "\r[145/207] AR obj/components/web_modal/libweb_modal.a\u001b[K"
+    ],
+    [
+      0.000220,
+      "\r[146/207] AR obj/apps/libapps.a\u001b[K"
+    ],
+    [
+      0.004136,
+      "\r[146/207] AR obj/components/web_conten...oid/libweb_contents_delegate_android.a\u001b[K"
+    ],
+    [
+      0.000603,
+      "\r[146/207] AR obj/chrome/common/libcommon.a\u001b[K"
+    ],
+    [
+      0.000244,
+      "\r[147/207] AR obj/chrome/utility/libutility.a\u001b[K"
+    ],
+    [
+      0.005484,
+      "\r[148/207] AR obj/chrome/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.010462,
+      "\r[148/207] AR obj/components/history/content/browser/libbrowser.a\u001b[K"
+    ],
+    [
+      0.027090,
+      "\r[148/207] AR obj/apps/libapps.a\u001b[K"
+    ],
+    [
+      0.005737,
+      "\r[148/207] AR obj/chrome/utility/libutility.a\u001b[K"
+    ],
+    [
+      0.037490,
+      "\r[148/207] AR obj/chrome/renderer/librenderer.a\u001b[K"
+    ],
+    [
+      0.294694,
+      "\r[148/207] SOLINK ./libsessions.cr.so\u001b[K"
+    ],
+    [
+      0.000493,
+      "\r[149/207] STAMP obj/components/omnibox/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.004925,
+      "\r[150/207] STAMP obj/components/sync_sessions/sync_sessions.stamp\u001b[K"
+    ],
+    [
+      0.002427,
+      "\r[151/207] SOLINK ./libweb_dialogs.cr.so\u001b[K"
+    ],
+    [
+      0.004852,
+      "\r[151/207] STAMP obj/components/omnibox/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.002056,
+      "\r[151/207] STAMP obj/components/sync_sessions/sync_sessions.stamp\u001b[K"
+    ],
+    [
+      0.000064,
+      "\r[152/207] STAMP obj/components/browser_sync/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.010700,
+      "\r[152/207] STAMP obj/components/browser_sync/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.093328,
+      "\r[152/207] SOLINK ./libweb_dialogs.cr.so\u001b[K"
+    ],
+    [
+      0.000435,
+      "\r[153/207] STAMP obj/chrome/browser/ui/ui.stamp\u001b[K"
+    ],
+    [
+      0.013716,
+      "\r[153/207] STAMP obj/chrome/browser/ui/ui.stamp\u001b[K"
+    ],
+    [
+      0.000105,
+      "\r[154/207] STAMP obj/chrome/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.011727,
+      "\r[154/207] STAMP obj/chrome/browser/browser.stamp\u001b[K"
+    ],
+    [
+      0.000087,
+      "\r[155/207] STAMP obj/chrome/chrome_android_core.stamp\u001b[K"
+    ],
+    [
+      0.012140,
+      "\r[155/207] STAMP obj/chrome/chrome_android_core.stamp\u001b[K"
+    ],
+    [
+      0.000115,
+      "\r[156/207] SOLINK ./libchrome_public.cr.so\u001b[K"
+    ],
+    [
+      11.041186,
+      "\r[156/207] SOLINK ./libchrome_public.cr.so\u001b[K"
+    ],
+    [
+      0.002279,
+      "\r[157/207] STAMP obj/chrome/android/chr...blic_apk__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.015036,
+      "\r[157/207] STAMP obj/chrome/android/chr...blic_apk__build_config.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000086,
+      "\r[158/207] ACTION //chrome/android:chro...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.739604,
+      "\r[158/207] ACTION //chrome/android:chro...g(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000083,
+      "\r[159/207] STAMP obj/chrome/android/chrome_public_apk__build_config.stamp\u001b[K"
+    ],
+    [
+      0.010414,
+      "\r[159/207] STAMP obj/chrome/android/chrome_public_apk__build_config.stamp\u001b[K"
+    ],
+    [
+      0.000081,
+      "\r[160/207] STAMP obj/chrome/android/chr...pk__incremental_script.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.004073,
+      "\r[161/207] STAMP obj/chrome/android/chr...raries_java__apply_gcc.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.004037,
+      "\r[162/207] STAMP obj/chrome/android/chr...apk__process_resources.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.006914,
+      "\r[162/207] STAMP obj/chrome/android/chr...pk__incremental_script.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000080,
+      "\r[163/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.004944,
+      "\r[163/207] STAMP obj/chrome/android/chr...raries_java__apply_gcc.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000064,
+      "\r[164/207] ACTION //chrome/android:chro...c(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.006180,
+      "\r[164/207] STAMP obj/chrome/android/chr...apk__process_resources.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r[165/207] ACTION //chrome/android:chro...s(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.083230,
+      "\r[165/207] ACTION //chrome/android:chro...c(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000204,
+      "\r[166/207] STAMP obj/chrome/android/chr...native_libraries_java__apply_gcc.stamp\u001b[K"
+    ],
+    [
+      0.007260,
+      "\r[166/207] STAMP obj/chrome/android/chr...native_libraries_java__apply_gcc.stamp\u001b[K"
+    ],
+    [
+      0.000069,
+      "\r[167/207] STAMP obj/chrome/android/chr...aries_java__zip_srcjar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.007525,
+      "\r[167/207] STAMP obj/chrome/android/chr...aries_java__zip_srcjar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000048,
+      "\r[168/207] ACTION //chrome/android:chro...r(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.010815,
+      "\r[168/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r[169/207] STAMP obj/chrome/android/chr...e_public_apk__incremental_script.stamp\u001b[K"
+    ],
+    [
+      0.006074,
+      "\r[169/207] STAMP obj/chrome/android/chr...e_public_apk__incremental_script.stamp\u001b[K"
+    ],
+    [
+      0.051442,
+      "\r[169/207] ACTION //chrome/android:chro...r(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000045,
+      "\r[170/207] STAMP obj/chrome/android/chr...ative_libraries_java__zip_srcjar.stamp\u001b[K"
+    ],
+    [
+      0.008608,
+      "\r[170/207] STAMP obj/chrome/android/chr...ative_libraries_java__zip_srcjar.stamp\u001b[K"
+    ],
+    [
+      0.000037,
+      "\r[171/207] STAMP obj/chrome/android/chr...ublic_apk__native_libraries_java.stamp\u001b[K"
+    ],
+    [
+      0.009478,
+      "\r[171/207] STAMP obj/chrome/android/chr...ublic_apk__native_libraries_java.stamp\u001b[K"
+    ],
+    [
+      3.032580,
+      "\r[171/207] ACTION //chrome/android:chro...s(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000107,
+      "\r[172/207] STAMP obj/chrome/android/chrome_public_apk__process_resources.stamp\u001b[K"
+    ],
+    [
+      0.008332,
+      "\r[172/207] STAMP obj/chrome/android/chrome_public_apk__process_resources.stamp\u001b[K"
+    ],
+    [
+      0.000053,
+      "\r[173/207] STAMP obj/chrome/android/chr...ntal_generate_manifest.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.004153,
+      "\r[174/207] STAMP obj/chrome/android/chr...a__compile_java__javac.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.006720,
+      "\r[174/207] STAMP obj/chrome/android/chr...ntal_generate_manifest.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000045,
+      "\r[175/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.006187,
+      "\r[175/207] STAMP obj/chrome/android/chr...a__compile_java__javac.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r[176/207] ACTION //chrome/android:chro...c(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.092658,
+      "\r[176/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000043,
+      "\r[177/207] STAMP obj/chrome/android/chr...te_incremental_generate_manifest.stamp\u001b[K"
+    ],
+    [
+      0.009522,
+      "\r[177/207] STAMP obj/chrome/android/chr...te_incremental_generate_manifest.stamp\u001b[K"
+    ],
+    [
+      0.000042,
+      "\r[178/207] STAMP obj/chrome/android/chr...tal__package_resources.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.010203,
+      "\r[178/207] STAMP obj/chrome/android/chr...tal__package_resources.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000049,
+      "\r[179/207] ACTION //chrome/android:chro...s(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      1.055827,
+      "\r[179/207] ACTION //chrome/android:chro...c(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000113,
+      "\r[180/207] STAMP obj/chrome/android/chr...c_apk__java__compile_java__javac.stamp\u001b[K"
+    ],
+    [
+      0.010776,
+      "\r[180/207] STAMP obj/chrome/android/chr...c_apk__java__compile_java__javac.stamp\u001b[K"
+    ],
+    [
+      0.000073,
+      "\r[181/207] STAMP obj/chrome/android/chr...ess_prebuilt__copy_jar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.014012,
+      "\r[181/207] STAMP obj/chrome/android/chr...ess_prebuilt__copy_jar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000039,
+      "\r[182/207] COPY gen/chrome/android/chro...ava__compile_java.process_prebuilt.jar\u001b[K"
+    ],
+    [
+      0.010784,
+      "\r[182/207] COPY gen/chrome/android/chro...ava__compile_java.process_prebuilt.jar\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r[183/207] STAMP obj/chrome/android/chr...java__process_prebuilt__copy_jar.stamp\u001b[K"
+    ],
+    [
+      0.010430,
+      "\r[183/207] STAMP obj/chrome/android/chr...java__process_prebuilt__copy_jar.stamp\u001b[K"
+    ],
+    [
+      0.000090,
+      "\r[184/207] STAMP obj/chrome/android/chr...__emma_instr__copy_jar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.014955,
+      "\r[184/207] STAMP obj/chrome/android/chr...__emma_instr__copy_jar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r[185/207] COPY gen/chrome/android/chro...hrome_public_apk/chrome_public_apk.jar\u001b[K"
+    ],
+    [
+      0.013483,
+      "\r[185/207] COPY gen/chrome/android/chro...hrome_public_apk/chrome_public_apk.jar\u001b[K"
+    ],
+    [
+      0.000047,
+      "\r[186/207] STAMP obj/chrome/android/chr...mpile_java__emma_instr__copy_jar.stamp\u001b[K"
+    ],
+    [
+      0.010194,
+      "\r[186/207] STAMP obj/chrome/android/chr...mpile_java__emma_instr__copy_jar.stamp\u001b[K"
+    ],
+    [
+      0.000022,
+      "\r[187/207] STAMP obj/chrome/android/chr...__java__compile_java__emma_instr.stamp\u001b[K"
+    ],
+    [
+      0.005195,
+      "\r[187/207] STAMP obj/chrome/android/chr...__java__compile_java__emma_instr.stamp\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r[188/207] STAMP obj/chrome/android/chr...va__compile_java__ijar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.019413,
+      "\r[188/207] STAMP obj/chrome/android/chr...va__compile_java__ijar.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000028,
+      "\r[189/207] ACTION //chrome/android:chro...r(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.043551,
+      "\r[189/207] ACTION //chrome/android:chro...r(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000035,
+      "\r[190/207] STAMP obj/chrome/android/chr...ic_apk__java__compile_java__ijar.stamp\u001b[K"
+    ],
+    [
+      0.008301,
+      "\r[190/207] STAMP obj/chrome/android/chr...ic_apk__java__compile_java__ijar.stamp\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r[191/207] STAMP obj/chrome/android/chr...e_public_apk__java__compile_java.stamp\u001b[K"
+    ],
+    [
+      0.010696,
+      "\r[191/207] STAMP obj/chrome/android/chr...e_public_apk__java__compile_java.stamp\u001b[K"
+    ],
+    [
+      0.000063,
+      "\r[192/207] STAMP obj/chrome/android/chr...public_apk__java__lint.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.004031,
+      "\r[193/207] STAMP obj/chrome/android/chr..._public_apk__java__dex.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.007514,
+      "\r[193/207] STAMP obj/chrome/android/chr...public_apk__java__lint.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r[194/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.004469,
+      "\r[194/207] STAMP obj/chrome/android/chr..._public_apk__java__dex.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000059,
+      "\r[195/207] ACTION //chrome/android:chro...x(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.699111,
+      "\r[195/207] ACTION //chrome/android:chro...x(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000069,
+      "\r[196/207] STAMP obj/chrome/android/chrome_public_apk__java__dex.stamp\u001b[K"
+    ],
+    [
+      0.006278,
+      "\r[196/207] STAMP obj/chrome/android/chrome_public_apk__java__dex.stamp\u001b[K"
+    ],
+    [
+      1.953799,
+      "\r[196/207] ACTION //chrome/android:chro...t(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000063,
+      "\r[197/207] STAMP obj/chrome/android/chrome_public_apk__java__lint.stamp\u001b[K"
+    ],
+    [
+      0.008211,
+      "\r[197/207] STAMP obj/chrome/android/chrome_public_apk__java__lint.stamp\u001b[K"
+    ],
+    [
+      0.000054,
+      "\r[198/207] STAMP obj/chrome/android/chrome_public_apk__java.stamp\u001b[K"
+    ],
+    [
+      0.008890,
+      "\r[198/207] STAMP obj/chrome/android/chrome_public_apk__java.stamp\u001b[K"
+    ],
+    [
+      0.723272,
+      "\r[198/207] ACTION //chrome/android:chro...s(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000047,
+      "\r[199/207] STAMP obj/chrome/android/chr...e_incremental__package_resources.stamp\u001b[K"
+    ],
+    [
+      0.008386,
+      "\r[199/207] STAMP obj/chrome/android/chr...e_incremental__package_resources.stamp\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r[200/207] STAMP obj/chrome/android/chr...e_incremental__package.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.009496,
+      "\r[200/207] STAMP obj/chrome/android/chr...e_incremental__package.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r[201/207] ACTION //chrome/android:chro...e(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      1.078377,
+      "\r[201/207] ACTION //chrome/android:chro...e(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000166,
+      "\r[202/207] STAMP obj/chrome/android/chr...apk__create_incremental__package.stamp\u001b[K"
+    ],
+    [
+      0.013896,
+      "\r[202/207] STAMP obj/chrome/android/chr...apk__create_incremental__package.stamp\u001b[K"
+    ],
+    [
+      0.000083,
+      "\r[203/207] STAMP obj/chrome/android/chr..._incremental__finalize.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.012861,
+      "\r[203/207] STAMP obj/chrome/android/chr..._incremental__finalize.inputdeps.stamp\u001b[K"
+    ],
+    [
+      0.000040,
+      "\r[204/207] ACTION //chrome/android:chro...e(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      2.266834,
+      "\r[204/207] ACTION //chrome/android:chro...e(//build/toolchain/android:clang_arm)\u001b[K"
+    ],
+    [
+      0.000044,
+      "\r[205/207] STAMP obj/chrome/android/chr...pk__create_incremental__finalize.stamp\u001b[K"
+    ],
+    [
+      0.009204,
+      "\r[205/207] STAMP obj/chrome/android/chr...pk__create_incremental__finalize.stamp\u001b[K"
+    ],
+    [
+      0.000026,
+      "\r[206/207] STAMP obj/chrome/android/chr...e_public_apk__create_incremental.stamp\u001b[K"
+    ],
+    [
+      0.013757,
+      "\r[206/207] STAMP obj/chrome/android/chr...e_public_apk__create_incremental.stamp\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r[207/207] STAMP obj/chrome/android/chrome_public_apk_incremental.stamp\u001b[K"
+    ],
+    [
+      0.010479,
+      "\r[207/207] STAMP obj/chrome/android/chrome_public_apk_incremental.stamp\u001b[K"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.046280,
+      "\u001b]0;alex@alex-desktop: ~/Documents/chromium/src\u0007alex@alex-desktop:~/Documents/chromium/src$ "
+    ],
+    [
+      3.905721,
+      "e"
+    ],
+    [
+      0.207798,
+      "x"
+    ],
+    [
+      0.127999,
+      "i"
+    ],
+    [
+      0.103897,
+      "t"
+    ],
+    [
+      0.136052,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "exit"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ]
+  ]
+}
