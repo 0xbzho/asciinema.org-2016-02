@@ -1,0 +1,2050 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 30,
+  "duration": 116.282969,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.093625,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.471868,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000087,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;..eerteam/sneer\u0007"
+    ],
+    [
+      0.002821,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.046519,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000091,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.124781,
+      "g"
+    ],
+    [
+      0.175061,
+      "\u0008gs"
+    ],
+    [
+      0.271967,
+      "t"
+    ],
+    [
+      0.135753,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000090,
+      "\r\r\n"
+    ],
+    [
+      0.001723,
+      "\u001b]2;git status\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;gst\u0007"
+    ],
+    [
+      0.014417,
+      "On branch master\r\n"
+    ],
+    [
+      0.000487,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.000014,
+      "Changes not staged for commit:\r\n  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000034,
+      "\t\u001b[31mmodified:   core/build.gradle\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "no changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.000732,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000126,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..eerteam/sneer\u0007"
+    ],
+    [
+      0.004923,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.045364,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000072,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.868028,
+      "g"
+    ],
+    [
+      0.119723,
+      "\u0008gi"
+    ],
+    [
+      0.184406,
+      "t"
+    ],
+    [
+      0.193833,
+      " "
+    ],
+    [
+      0.662248,
+      "u"
+    ],
+    [
+      0.471947,
+      "\u0008 \u0008"
+    ],
+    [
+      0.911644,
+      "\r\r\n"
+    ],
+    [
+      0.000495,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000104,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..eerteam/sneer\u0007"
+    ],
+    [
+      0.004140,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.031694,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.107854,
+      "\r\r\n"
+    ],
+    [
+      0.000572,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000142,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000047,
+      "\u001b]1;..eerteam/sneer\u0007"
+    ],
+    [
+      0.003616,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.029771,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.566291,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[9C"
+    ],
+    [
+      0.247997,
+      "g\u001b[4ms\u001b[24mt\u001b[1B\u001b[13Ds_\u001b[A\u001b[9C"
+    ],
+    [
+      0.255489,
+      "\u0008g\u001b[4ms\u001b[4mt\u001b[24m\u001b[1B\u001b[12Dt_\u001b[A\u001b[8C"
+    ],
+    [
+      0.080063,
+      "\u0008b\u001b[24mr\u001b[24mew update \u0026\u0026 brew in\u001b[4msta\u001b[24mll asciinema\u001b[1B\u001b[45Da_\u001b[A\u001b[28C"
+    ],
+    [
+      0.233093,
+      "\u001b[22Dgit stash \u0026\u0026 git pull \u001b[24m-\u001b[24m-\u001b[24mrebase \u0026\u0026 git push; git stash pop #\u001b[4mstap\u001b[24mop\u001b[1B\u001b[72Dp_\u001b[A\u001b[64C"
+    ],
+    [
+      0.278990,
+      "\u001b[3C\u001b[4mp\u001b[4mo\u001b[24m\u001b[1B\u001b[70Do_\u001b[A\u001b[63C"
+    ],
+    [
+      0.263952,
+      "\u001b[4C\u001b[4mo\u001b[4mp\u001b[24m\u001b[1B\u001b[70Dp_\u001b[A\u001b[62C"
+    ],
+    [
+      0.360136,
+      "\u001b[24ms\u001b[24mt\u001b[24ma\u001b[24mp\u001b[24mo\u001b[24mp\u001b[1B\r\u001b[K\u001b[A\u001b[83C"
+    ],
+    [
+      0.000049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\u001b[1B\r"
+    ],
+    [
+      0.001836,
+      "\u001b]2;git stash \u0026\u0026 git pull --rebase \u0026\u0026 git push; git stash pop\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.251568,
+      "Saved working directory and index state WIP on master: 0114f30 :arrow_up: sneer-api -\u003e 0.1.9 with javadocs\r\n"
+    ],
+    [
+      0.011175,
+      "HEAD is now at 0114f30 :arrow_up: sneer-api -\u003e 0.1.9 with javadocs\r\n"
+    ],
+    [
+      6.317396,
+      "Current branch master is up to date.\r\n"
+    ],
+    [
+      4.064830,
+      "Everything up-to-date\r\n"
+    ],
+    [
+      0.117905,
+      "On branch master\r\n"
+    ],
+    [
+      0.000139,
+      "Your branch is up-to-date with 'origin/master'.\r\nChanges not staged for commit:\r\n"
+    ],
+    [
+      0.000006,
+      "  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000023,
+      "\t\u001b[31mmodified:   core/build.gradle\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "no changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.019379,
+      "Dropped refs/stash@{0} (3b1dab06323b9b828bae55a42ada80cb13ba9c3e)\r\n"
+    ],
+    [
+      0.013372,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000165,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..eerteam/sneer\u0007"
+    ],
+    [
+      0.002907,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer\u0007"
+    ],
+    [
+      0.044202,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.318116,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msneer \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      1.015932,
+      "c"
+    ],
+    [
+      0.199989,
+      "\u0008cd"
+    ],
+    [
+      0.079972,
+      " "
+    ],
+    [
+      0.256408,
+      "c"
+    ],
+    [
+      0.103896,
+      "o"
+    ],
+    [
+      0.191750,
+      "r"
+    ],
+    [
+      0.103982,
+      "e"
+    ],
+    [
+      0.135887,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000055,
+      "\r\r\n"
+    ],
+    [
+      0.001016,
+      "\u001b]2;cd core\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000180,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000036,
+      "\u001b]1;..am/sneer/core\u0007"
+    ],
+    [
+      0.004275,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer/core\u0007"
+    ],
+    [
+      0.040436,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mcore \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000022,
+      "\u001b[K"
+    ],
+    [
+      0.000230,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.266362,
+      "e"
+    ],
+    [
+      0.095523,
+      "\u0008em"
+    ],
+    [
+      0.136189,
+      "a"
+    ],
+    [
+      0.231888,
+      "c"
+    ],
+    [
+      0.224181,
+      "s"
+    ],
+    [
+      0.167499,
+      " "
+    ],
+    [
+      0.144108,
+      "."
+    ],
+    [
+      0.184041,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000060,
+      "\r\r\n"
+    ],
+    [
+      0.000913,
+      "\u001b]2;emacs-24.5 .\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;emacs\u0007"
+    ],
+    [
+      0.137449,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.074613,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000701,
+      "\u001b[30d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000031,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.000095,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.391410,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.001681,
+      "\u001b[29d\u001b[?25l\u001b[30m\u001b[47m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All L1     (Fundamental) ----------------------------------------------\u001b[39;49m\r\n\u001b[A\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.537312,
+      "\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      0.018636,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.016369,
+      "\u001b[30d\u001b[?25lLoading /Users/felipe/.emacs.d/recentf...\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001293,
+      "\u001b[30;42H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001453,
+      "\u001b[30d\u001b[?25lCleaning up the recentf list...\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.031259,
+      "\u001b[30;32H\u001b[?25ldone (0 removed)\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.481964,
+      "\u001b[30d\u001b[?25lLoading /Users/felipe/.emacs.d/lisp/custom.el (source)...\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.007381,
+      "\u001b[30;9H\u001b[?25lbattery...\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.045268,
+      "\u001b[30;19H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.006043,
+      "\u001b[30;9H\u001b[?25ltime...\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.009071,
+      "\u001b[30;16H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.007085,
+      "\u001b[30;9H\u001b[?25lerc-track...\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.284916,
+      "\u001b[30;21H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.005561,
+      "\u001b[30;9H\u001b[?25llinum...\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001812,
+      "\u001b[30;17H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.005625,
+      "\u001b[30;9H\u001b[?25lyasnippet...\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.050550,
+      "\u001b[30d\u001b[?25l/js-mode\u001b[K\u001b[H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000009,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[47m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All L1     (Fundamental Projectile[sneer]) ----------------------------\u001b[39;49m\r\n\u001b[A\n[yas] Loading snippet files from /Users/felipe/.emacs.d/elpa/react-snippets-20151104.1540/snippets\\\r\n\u001b[A\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.012442,
+      "\u001b[30;4H\u001b[?25l2-mode\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001736,
+      "\u001b[30;2H\u001b[?25lweb\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001367,
+      "\u001b[30;2H\u001b[?25ljs-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.005914,
+      "\u001b[30;4H\u001b[?25l2-mode\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001072,
+      "\u001b[30;2H\u001b[?25lweb\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.002189,
+      "\u001b[30d\u001b[?25ls/clojure-mode\u001b[29;62Hclojure-snippets-20150504.144/snippet\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.038562,
+      "\u001b[30d\u001b[K\u001b[A\u001b[?25lLoading yasnippet...done\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.034432,
+      "\u001b[30d\u001b[?25lsnippets\r\u001b[A[yas] Prepared just-in-time loading for /Users/felipe/.emacs.d/elpa/clojure-snippets-20150504.144/\\\r\n\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003725,
+      "\u001b[30d\u001b[?25lnippets\u001b[K\u001b[29;69Hreact-snippets-20151104.1540/s\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.043476,
+      "\u001b[30d\u001b[K\u001b[29;7H\u001b[?25lDiscovered there was already *scratch* in fundamental-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000044,
+      "\u001b[29;36H\u001b[?25l *code-c\u001b[14@onversion-work\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000063,
+      "\u001b[29;38H\u001b[?25lload\u001b[16P\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000064,
+      "\u001b[29;38H\u001b[?25lEcho\u001b[7@ Area 0\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000126,
+      "\u001b[29;48H\u001b[?25l1\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000094,
+      "\u001b[29;38H\u001b[?25lload*-278522\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000118,
+      "\u001b[29;38H\u001b[?25lcode-convert\u001b[9@ing-work*\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.056501,
+      "\u001b[30d\u001b[?25l)))!\u001b[27;1H\u001b[30m\u001b[47m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All  (Fundamental yas Projectile[sneer]) [+78%]11:55 1.89 -------------\u001b[39;49m\r\n[yas] Loading for `fundamental-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /Use\\\r\nrs/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fundamental-mode) (quote fundamental-mode\\\r\n\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000288,
+      "\u001b[30d\u001b[K\u001b[28;15H\u001b[?25lsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fund\r\namental-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000543,
+      "\u001b[28d\u001b[?25lLoading /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fundamental-mode/.yas-setup..\r\n.\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000641,
+      "\u001b[29;2H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000474,
+      "\u001b[28d\u001b[?25l[yas] Prepared just-in-time loading for /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippe\r\nts\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001949,
+      "\u001b[28;41H\u001b[?25l~/.emacs.d/snippets\u001b[K\r\n\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000031,
+      "\u001b[28;7H\u001b[?25lReloaded everything (snippets will load just-in-time)....\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000564,
+      "\u001b[28d\u001b[?25lLoading /Users/felipe/.emacs.d/lisp/custom.el (source)...done\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.137150,
+      "\u001b[28;32H\u001b[?25lcompany-statistics-cache.el (source)...\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001225,
+      "\u001b[28;71H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.047183,
+      "\u001b[28d\u001b[?25l[yas] Prepared just-in-time loading for /Users/felipe/.emacs.d/elpa/clojure-snippets-20150504.144/\\\r\nsnippets\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003361,
+      "\u001b[28;69H\u001b[?25lreact-snippets-20151104.1540/s\r\nnippets\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.018618,
+      "\u001b[28;7H\u001b[?25lDiscovered there was already *scratch* in fundamental-mode\u001b[K\r\n\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000077,
+      "\u001b[28;36H\u001b[?25l *code-c\u001b[14@onversion-work\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000086,
+      "\u001b[28;38H\u001b[?25lEcho Area 0\u001b[9P\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000104,
+      "\u001b[28;48H\u001b[?25l1\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000091,
+      "\u001b[28;38H\u001b[?25lcode-conver\u001b[9@ting-work\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.036230,
+      "\u001b[30d\u001b[?25l)))!\u001b[28;7HLoading for `fundamental-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /Use\\\r\nrs/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fundamental-mode) (quote fundamental-mode\\\r\n\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000219,
+      "\u001b[30d\u001b[K\u001b[28;15H\u001b[?25lsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fund\r\namental-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000259,
+      "\u001b[28d\u001b[?25lLoading /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/fundamental-mode/.yas-setup..\r\n.\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000643,
+      "\u001b[29;2H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000338,
+      "\u001b[28d\u001b[?25l[yas] Prepared just-in-time loading for /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippe\r\nts\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000847,
+      "\u001b[28;41H\u001b[?25l~/.emacs.d/snippets\u001b[K\r\n\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000038,
+      "\u001b[28;7H\u001b[?25lReloaded everything (snippets will load just-in-time)....\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.174244,
+      "\u001b[30d\u001b[?25lnteraction-mode)))!\u001b[28;7HLoading for `lisp-interaction-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote\\\r\n\u001b[C/Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/lisp-interaction-mode) (quote lisp-i\\\r\n\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000349,
+      "\u001b[30d\u001b[K\u001b[28;15H\u001b[?25lsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/lisp\r\n-interaction-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.010903,
+      "\u001b[30d\u001b[?25l!\u001b[28;15Hfor `emacs-lisp-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /User\r\ns/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/emacs-lisp-mode) (quote emacs-lisp-mode)))\\\r\n\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[30d\u001b[K\u001b[28;15H\u001b[?25lsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/emac\r\n\u001b[C-lisp-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.129405,
+      "\u001b[28;15H\u001b[?25lfor `prog-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /Users/feli\r\npe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/prog-mode) (quote prog-mode)))!\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000303,
+      "\u001b[28;15H\u001b[?25lsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/prog\r\n-mode\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000580,
+      "\u001b[28d\u001b[?25lLoading /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/prog-mode/.yas-setup...\u001b[K\r\n\u001b[K\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000765,
+      "\u001b[28;93H\u001b[?25ldone\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.076962,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.029749,
+      "\u001b[?1000h\u001b[?1006h"
+    ],
+    [
+      0.005981,
+      "\u001b[30d\u001b[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[K\u001b[H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000072,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All C0    (Lisp Interaction ElDoc SliNav Paredit Undo-Tree company yas \u001b[39;49m\r\n\u001b[A\u001b[H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.044442,
+      "\u001b[30d\u001b[K\u001b[1;3H"
+    ],
+    [
+      0.005884,
+      "\u001b[30;1H\u001b[K\u001b[H\u001b[?25l\u001b[90m 1\u001b[39;49m  \u001b[38;5;28m/Users/felipe/devel/github/sneerteam/sneer/core\u001b[39;49m:\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[90m 2\u001b[39;49m  total used in directory 24 available 19271416\u001b[K\r\n\u001b[90m 3\u001b[39;49m  drwxr-xr-x  9 felipe staff  306 Feb  6 11:55 \u001b[38;5;21m.\u001b[39;49m\u001b[K\r\n\u001b[90m 4\u001b[39;49m  drwxr-xr-x 28 felipe staff  952 Feb  1 16:03 \u001b[38;5;21m..\u001b[39;49m\u001b[K\r\n\u001b[90m 5\u001b[39;49m  -rw-r--r--  1 felipe staff   94 Sep 14 20:28 .gitignore\u001b[K\r\n\u001b[90m 6\u001b[39;49m  -rw-r--r--  1 felipe staff 7631 Sep 14 20:28 LICENSE\u001b[K"
+    ],
+    [
+      0.000123,
+      "\r\n\u001b[90m 7\u001b[39;49m  -rw-r--r--  1 felipe staff  230 Sep 14 20:28 README.md\u001b[K\r\n\u001b[90m 8\u001b[39;49m  drwxr-xr-x  7 felipe staff  238 Feb  1 16:04 \u001b[38;5;21mbuild\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  -rw-r--r--  1 felipe staff 2501 Feb  6 11:55 build.gradle\u001b[K\r\n\u001b[90m10\u001b[39;49m  -rw-r--r--  1 felipe staff 3096 Dec 17 17:19 project.clj\u001b[K\r\n\u001b[90m11\u001b[39;49m  drwxr-xr-x  4 felipe staff  136 Sep 14 20:28 \u001b[38;5;21msrc\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000018,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000022,
+      "\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mcore             \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All  (Dired by name company yas Projectile[sneer]) [+78%]11:55 1.8\u001b[39;49m\r\n\u001b[A\u001b[11;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.539956,
+      "\u001b[A"
+    ],
+    [
+      1.845808,
+      "\u001b[30;1H\u001b[?25lLoading /Users/felipe/.emacs.d/.mc-lists.el (source)...\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000514,
+      "\u001b[30;56H\u001b[?25ldone\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.507339,
+      "\u001b[30;1H\u001b[?25lad-handle-definition: `tramp-read-passwd' got redefined\u001b[K\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.487121,
+      "\u001b[30;1H\u001b[?25lelipe/.emacs.d/elpa/clojure-snippets-20150504.144/snippets/clojure-mode) (quote clojure-mode)))!\u001b[K\u001b[H\u001b[90m 1\u001b[39;49m  \u001b[38;5;28m/Users/felipe/devel/github/sneerteam/sneer/core\u001b[39;49m:\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[90m 2\u001b[39;49m  total used in directory 24 available 19271416\u001b[K\r\n\u001b[90m 3\u001b[39;49m  drwxr-xr-x  9 felipe staff  306 Feb  6 11:55 \u001b[38;5;21m.\u001b[39;49m\u001b[K\r\n\u001b[90m 4\u001b[39;49m  drwxr-xr-x 28 felipe staff  952 Feb  1 16:03 \u001b[38;5;21m..\u001b[39;49m\u001b[K\r\n\u001b[90m 5\u001b[39;49m  -rw-r--r--  1 felipe staff   94 Sep 14 20:28 .gitignore\u001b[K\r\n\u001b[90m 6\u001b[39;49m  -rw-r--r--  1 felipe staff 7631 Sep 14 20:28 LICENSE\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[90m 7\u001b[39;49m  -rw-r--r--  1 felipe staff  230 Sep 14 20:28 README.md\u001b[K\r\n\u001b[90m 8\u001b[39;49m  drwxr-xr-x  7 felipe staff  238 Feb  1 16:04 \u001b[38;5;21mbuild\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  -rw-r--r--  1 felipe staff 2501 Feb  6 11:55 build.gradle\u001b[K\r\n\u001b[90m10\u001b[39;49m  -rw-r--r--  1 felipe staff 3096 Dec 17 17:19 project.clj\u001b[K\r\n\u001b[90m11\u001b[39;49m  drwxr-xr-x  4 felipe staff  136 Sep 14 20:28 \u001b[38;5;21msrc\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000015,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000029,
+      "\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mcore             \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All  (Dired by name company yas Projectile[sneer]) [+78%]11:55 1.8\u001b[39;49m\r\n\u001b[A\n[yas] Loading for `clojure-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /Users/f\\\r\n\u001b[A\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000302,
+      "\u001b[30;1H\u001b[?25ls/clojure-mode\u001b[K\u001b[Asnippet files from /Users/felipe/.emacs.d/elpa/clojure-snippets-20150504.144/snippet\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.011430,
+      "\u001b[30;1H\u001b[?25lelipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/clojure-mode) (quote clojure-mode)))!\u001b[29;15Hfor `clojure-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /Users/f\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000359,
+      "\u001b[30;1H\u001b[?25lure-mode\u001b[K\u001b[29;15Hsnippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/cloj\u001b[10;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.091282,
+      "\u001b[30;1H\u001b[?25lure-mode\u001b[K\u001b[H\u001b[90m 1\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefproject\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157mme.sneer/core\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[48;5;157m                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000029,
+      "\n\u001b[90m 2\u001b[39;49m  \u001b[38;5;30m:description\u001b[39;49m \u001b[38;5;89m\"\u001b[39;49m\u001b[1m\u001b[91mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89mME: write description\"\u001b[39;49m\u001b[K\r\n\u001b[90m 3\u001b[39;49m  \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://example.com/FIXME\"\u001b[39;49m\u001b[K\r\n\u001b[90m 4\u001b[39;49m  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K\r\n\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m 6\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000082,
+      "\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000101,
+      "\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000191,
+      "\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m  \u001b[38;5;30m:profiles\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:lean\u001b[39;49m\u001b[K\r\n\u001b[90m19\u001b[39;49m             \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.skummet\u001b[39;49m/clojure-android \u001b[38;5;89m\"1.7.0-alpha5-r1\"\u001b[39;49m \u001b[38;5;30m:use-resources\u001b[39;49m \u001b[38;5;30mtrue\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m$\r\n\u001b[A\n\u001b[90m20\u001b[39;49m              \u001b[38;5;30m:exclusions\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/clojure\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m21\u001b[39;49m              \u001b[38;5;30m:omit-source\u001b[39;49m \u001b[38;5;30mtrue\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[90m22\u001b[39;49m              \u001b[38;5;30m:skummet-skip-vars\u001b[39;49m \u001b[38;5;65m[]\u001b[39;49m\u001b[K\r\n\u001b[90m23\u001b[39;49m              \u001b[38;5;30m:javac-options\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;89m\"-target\"\u001b[39;49m \u001b[38;5;89m\"1.6\"\u001b[39;49m \u001b[38;5;89m\"-source\"\u001b[39;49m \u001b[38;5;89m\"1.6\"\u001b[39;49m \u001b[38;5;89m\"-Xlint:-options\"\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m24\u001b[39;49m              \u001b[38;5;30m:aot\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;28msneer.commons\u001b[39;49m\u001b[K\r\n\u001b[90m25\u001b[39;49m                    \u001b[38;5;28msneer.time\u001b[39;49m\u001b[K\r\n\u001b[90m26\u001b[39;49m                    \u001b[38;5;28msneer.async\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000036,
+      "\r\n\u001b[90m27\u001b[39;49m                    \u001b[38;5;28msneer.flux\u001b[39;49m\u001b[K\r\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Top C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n[yas] Loading snippet files from /Users/felipe/.emacs.d/elpa/yasnippet-20151227.1550/snippets/cloj\\\r\n\u001b[A\u001b[1;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.131234,
+      "\u001b[?25l\u001b[38;5;214m\u001b[48;5;80m(\u001b[39;49m"
+    ],
+    [
+      0.000006,
+      "\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.385852,
+      "\u001b[30;1H\u001b[K\u001b[H\u001b[?25l\u001b[90m 1\u001b[39;49m\u001b[38;5;214m\u001b[48;5;80m(\u001b[39;49m\u001b[38;5;129mdefproject\u001b[39;49m \u001b[38;5;21mme.sneer/core\u001b[39;49m \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000051,
+      "\r\n\u001b[90m 2\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:description\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"\u001b[39;49m\u001b[1m\u001b[91m\u001b[48;5;157mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89m\u001b[48;5;157mME: write description\"\u001b[39;49m\u001b[48;5;157m                                                        \u001b[39;49m\r\n\u001b[A\n\u001b[90m 3\u001b[39;49m  \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://example.com/FIXME\"\u001b[39;49m\u001b[K\r\n\u001b[90m 4\u001b[39;49m  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K\r\n\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m 6\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000073,
+      "\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000170,
+      "\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m  \u001b[38;5;30m:profiles\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:lean\u001b[39;49m\u001b[K\r\n\u001b[90m19\u001b[39;49m             \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.skummet\u001b[39;49m/clojure-android \u001b[38;5;89m\"1.7.0-alpha5-r1\"\u001b[39;49m \u001b[38;5;30m:use-resources\u001b[39;49m \u001b[38;5;30mtrue\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m$\r\n\u001b[A\n\u001b[90m20\u001b[39;49m              \u001b[38;5;30m:exclusions\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/clojure\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m21\u001b[39;49m              \u001b[38;5;30m:omit-source\u001b[39;49m \u001b[38;5;30mtrue\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000135,
+      "\r\n\u001b[90m22\u001b[39;49m              \u001b[38;5;30m:skummet-skip-vars\u001b[39;49m \u001b[38;5;65m[]\u001b[39;49m\u001b[K\r\n\u001b[90m23\u001b[39;49m              \u001b[38;5;30m:javac-options\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;89m\"-target\"\u001b[39;49m \u001b[38;5;89m\"1.6\"\u001b[39;49m \u001b[38;5;89m\"-source\"\u001b[39;49m \u001b[38;5;89m\"1.6\"\u001b[39;49m \u001b[38;5;89m\"-Xlint:-options\"\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m24\u001b[39;49m              \u001b[38;5;30m:aot\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;28msneer.commons\u001b[39;49m\u001b[K\r\n\u001b[90m25\u001b[39;49m                    \u001b[38;5;28msneer.time\u001b[39;49m\u001b[K\r\n\u001b[90m26\u001b[39;49m                    \u001b[38;5;28msneer.async\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r\n\u001b[90m27\u001b[39;49m                    \u001b[38;5;28msneer.flux\u001b[39;49m\u001b[K\r\n                      \u001b[38;5;28msneer.io\u001b[39;49m\u001b[K\r\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Top C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\u001b[2;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.132958,
+      "\u001b[A\u001b[?25l\u001b[38;5;214m(\u001b[39;49m"
+    ],
+    [
+      0.000011,
+      "\n\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.065070,
+      "\u001b[?25l  \u001b[38;5;30m:description\u001b[39;49m \u001b[38;5;89m\"\u001b[39;49m\u001b[1m\u001b[91mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89mME: write description\"\u001b[39;49m\u001b[K\u001b[3;3H\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:url\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"http://example.com/FIXME\"\u001b[39;49m\u001b[48;5;157m                                                                \u001b[39;49m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[28d\u001b[90m28\u001b[39;49m\u001b[3d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027858,
+      "\u001b[?25l  \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://example.com/FIXME\"\u001b[39;49m\u001b[K\u001b[4;3H\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:license\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:name\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"Eclipse Public License\"\u001b[39;49m\u001b[48;5;157m                                                       \u001b[39;49m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[4;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.024919,
+      "\u001b[?25l  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K\u001b[5;3H\u001b[48;5;157m            \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:url\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m}\u001b[39;49m\u001b[48;5;157m                                    \u001b[39;49m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[5;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025176,
+      "\u001b[?25l            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\u001b[6;3H\u001b[48;5;157m                                                                                                 \u001b[39;49m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[6;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025165,
+      "\u001b[K\n\u001b[?25l\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:warn-on-reflection\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157mfalse\u001b[39;49m\u001b[48;5;157m                                                                      \u001b[39;49m\r\n\u001b[7;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026462,
+      "\u001b[?25l  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\u001b[8;3H\u001b[48;5;157m                                                                                                 \u001b[39;49m\r\n\u001b[8;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.088135,
+      "\u001b[K\n\u001b[?25l\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:dependencies\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/sneer-java-api \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                               \u001b[39;49m\r\n\u001b[9;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.704470,
+      "\u001b[30;1H\u001b[?25lMark set\u001b[9;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.008935,
+      "\u001b[H\u001b[?25l\u001b[90m53\u001b[39;49m                    \u001b[38;5;28msneer.networking.client\u001b[39;49m"
+    ],
+    [
+      0.000051,
+      "\r\n\u001b[90m54\u001b[39;49m                    \u001b[38;5;28msneer.impl.CoreLoader\u001b[39;49m\r\n\u001b[90m55\u001b[39;49m                    \u001b[38;5;28msneer.main\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m56\u001b[39;49m              \u001b[38;5;30m:uberjar-exclusions\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m#\u001b[38;5;89m\"META-INF/DUMMY.SF\"\u001b[39;49m\r\n\u001b[90m57\u001b[39;49m                                   #\u001b[38;5;89m\"^org/\u001b[39;49m\u001b[1m\u001b[38;5;89m(\u001b[0m\u001b[39;49m\u001b[38;5;89mapache\u001b[39;49m\u001b[1m\u001b[38;5;89m|\u001b[0m\u001b[39;49m\u001b[38;5;89mbouncycastle\u001b[39;49m\u001b[1m\u001b[38;5;89m|\u001b[0m\u001b[39;49m\u001b[38;5;89mjson\u001b[39;49m\u001b[1m\u001b[38;5;89m|\u001b[0m\u001b[39;49m\u001b[38;5;89mmsgpack\u001b[39;49m\u001b[1m\u001b[38;5;89m)\u001b[0m\u001b[39;49m\u001b[38;5;89m\"\u001b[39;49m\r\n\u001b[90m58\u001b[39;49m                                   #\u001b[38;5;89m\"^lib/commons-codec\"\u001b[39;49m"
+    ],
+    [
+      0.000074,
+      "\r\n\u001b[90m59\u001b[39;49m                                   #\u001b[38;5;89m\"^cljs\"\u001b[39;49m\r\n\u001b[90m60\u001b[39;49m                                   #\u001b[38;5;89m\"^clojure/test/\"\u001b[39;49m\r\n\u001b[90m61\u001b[39;49m                                   #\u001b[38;5;89m\"^javassist\"\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m62\u001b[39;49m              \u001b[38;5;30m:jvm-opts\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;89m\"-Dclojure.compile.ignore-lean-classes=true\"\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\r\n\u001b[90m63\u001b[39;49m              \u001b[38;5;30m:plugins\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.skummet\u001b[39;49m/lein-skummet \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m}\u001b[39;49m"
+    ],
+    [
+      0.000165,
+      "\r\n\u001b[90m64\u001b[39;49m\u001b[K\r\n\u001b[90m65\u001b[39;49m\u001b[K\r\n\u001b[90m66\u001b[39;49m             \u001b[38;5;30m:dev\u001b[39;49m\u001b[K\r\n\u001b[90m67\u001b[39;49m             \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:aot\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;28msneer.impl.CoreLoader\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m68\u001b[39;49m              \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/clojure \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m"
+    ],
+    [
+      0.000023,
+      "\r\n\u001b[90m69\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49mmidje \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\r\n\u001b[90m70\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.xerial\u001b[39;49m/sqlite-jdbc \u001b[38;5;89m\"3.8.11.1\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\r\n\u001b[90m71\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m72\u001b[39;49m              \u001b[38;5;30m:plugins\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49mlein-midje \u001b[38;5;89m\"3.1.3\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m}\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m73\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000088,
+      "\r\n\u001b[90m74\u001b[39;49m\u001b[K\r\n\u001b[90m75\u001b[39;49m  \u001b[38;5;30m:source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m76\u001b[39;49m  \u001b[38;5;30m:java-source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/java\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\r\n\u001b[90m77\u001b[39;49m  \u001b[38;5;30m:test-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/test/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\r\n\u001b[K"
+    ],
+    [
+      0.000005,
+      "\n\u001b[K\n\u001b[K\u001b[29;29H\u001b[30m\u001b[48;5;250mBot\u001b[39;49m\u001b[26;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.352358,
+      "\r\n\n\n\n\u001b[K\u001b[H\u001b[?25l\u001b[90m65\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000180,
+      "\r\n\u001b[90m66\u001b[39;49m             \u001b[38;5;30m:dev\u001b[39;49m\u001b[K\r\n\u001b[90m67\u001b[39;49m             \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:aot\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;28msneer.impl.CoreLoader\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m68\u001b[39;49m              \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/clojure \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K\r\n\u001b[90m69\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49mmidje \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K\r\n\u001b[90m70\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.xerial\u001b[39;49m/sqlite-jdbc \u001b[38;5;89m\"3.8.11.1\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K\r\n\u001b[90m71\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m72\u001b[39;49m              \u001b[38;5;30m:plugins\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49mlein-midje \u001b[38;5;89m\"3.1.3\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m}\u001b["
+    ],
+    [
+      0.000031,
+      "39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m73\u001b[39;49m\u001b[K\r\n\u001b[90m74\u001b[39;49m\u001b[K\r\n\u001b[90m75\u001b[39;49m  \u001b[38;5;30m:source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000079,
+      "\r\n\u001b[90m76\u001b[39;49m  \u001b[38;5;30m:java-source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/java\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m77\u001b[39;49m  \u001b[38;5;30m:test-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/test/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\r\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47mproject.clj \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Bot C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[K"
+    ],
+    [
+      0.000011,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000054,
+      "\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*ansi-term* \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All  (Term: char run company yas Projectile[sneer]) [+78%]11:55 1.89 --\u001b[39;49m\r\n\u001b[A\u001b[16d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.327395,
+      "\u001b[30d\u001b[K\u001b[H\u001b[?25l\u001b[90m65\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000118,
+      "\r\n\u001b[90m66\u001b[39;49m             \u001b[38;5;30m:dev\u001b[39;49m\u001b[K\r\n\u001b[90m67\u001b[39;49m             \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:aot\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;28msneer.impl.CoreLoader\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m68\u001b[39;49m              \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/clojure \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K\r\n\u001b[90m69\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49mmidje \u001b[38;5;89m\"1.7.0\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K\r\n\u001b[90m70\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.xerial\u001b[39;49m/sqlite-jdbc \u001b[38;5;89m\"3.8.11.1\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000168,
+      "\r\n\u001b[90m71\u001b[39;49m                             \u001b[38;5;95m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m72\u001b[39;49m              \u001b[38;5;30m:plugins\u001b[39;49m \u001b[38;5;65m[\u001b[39;49m\u001b[38;5;95m[\u001b[39;49mlein-midje \u001b[38;5;89m\"3.1.3\"\u001b[39;49m\u001b[38;5;95m]\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m}\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m73\u001b[39;49m\u001b[K\r\n\u001b[90m74\u001b[39;49m\u001b[K\r\n\u001b[90m75\u001b[39;49m  \u001b[38;5;30m:source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m76\u001b[39;49m  \u001b[38;5;30m:java-source-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/main/java\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m77\u001b[39;49m  \u001b[38;5;30m:test-paths\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;89m\"src/test/clojure\"\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\r\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47mproject.clj \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Bot C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m"
+    ],
+    [
+      0.000173,
+      "1\u001b[39;49m\u001b[101m                                                                                                \u001b[39;49m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*ansi-term* \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All  (Term: char run company yas Projectile[sneer]) [+78%]11:55 1.89 --\u001b[39;49m\r\n\u001b[A\u001b[16;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.033764,
+      "\u001b[?25l\u001b[1m\u001b[32m\u001b[107m➜  \u001b[0m\u001b[39;49m\u001b[1m\u001b[36m\u001b[107mcore \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107mgit:(\u001b[0m\u001b[39;49m\u001b[1m\u001b[31m\u001b[107mmaster\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m) \u001b[0m\u001b[39;49m\u001b[1m\u001b[33m\u001b[107m✗\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m \u001b[0m\u001b[39;49m                                                                           \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[A\t\t\t\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.042832,
+      "\u001b[K"
+    ],
+    [
+      3.068046,
+      "\u001b[?25l\u001b[30m\u001b[107ml\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.238832,
+      "\u001b[?25l\u001b[30m\u001b[107me\u001b[39;49m"
+    ],
+    [
+      0.000005,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.088224,
+      "\u001b[?25l\u001b[30m\u001b[107mi\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.087773,
+      "\u001b[?25l\u001b[30m\u001b[107mn\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.096294,
+      "\u001b[?25l\u001b[30m\u001b[107m \u001b[39;49m"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.672088,
+      "\u001b[?25l\u001b[30m\u001b[107mr\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.095886,
+      "\u001b[?25l\u001b[30m\u001b[107me\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.128118,
+      "\u001b[?25l\u001b[30m\u001b[107mp\u001b[39;49m"
+    ],
+    [
+      0.000010,
+      "\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.255995,
+      "\u001b[?25l\u001b[30m\u001b[107ml\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.256377,
+      "\u001b[?25l                                                                  \r\n\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      9.165340,
+      "\u0008\u001b[?25l\u001b[90m2\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.p\u001b[39;49m \r\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.628215,
+      "\u0008\u001b[?25l\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.949447,
+      "\u0008\u001b[?25l\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.798287,
+      "\u0008\u001b[?25l\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      16.530207,
+      "\n\n\n\n\n\u0008\u001b[?25lC-x\u001b[25;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000071,
+      "\u001b[30;4H\u001b[?25l-\u001b[25;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.034518,
+      "\u001b[30;4H\u001b[?25l o\u001b[25;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003736,
+      "\u001b[15;1H\u001b[?25l\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   Bot C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[29d\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   All  (Term: char run company yas Projectile[sneer]) [+78%]11:55 1.89 --\u001b[39;49m\r\n\u001b[14;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.724452,
+      "\u001b[30;1H\u001b[?25lMark set\u001b[14;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.015442,
+      "\u001b[H\u001b[?25l\u001b[90m 1\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefproject\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157mme.sneer/core\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[48;5;157m                                                                \u001b[39;49m\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[90m 2\u001b[39;49m  \u001b[38;5;30m:description\u001b[39;49m \u001b[38;5;89m\"\u001b[39;49m\u001b[1m\u001b[91mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89mME: write description\"\u001b[39;49m\r\n\u001b[90m 3\u001b[39;49m  \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://example.com/FIXME\"\u001b[39;49m\u001b[K\r\n\u001b[90m 4\u001b[39;49m  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K\r\n\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\r\n\u001b[90m 6\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000265,
+      "\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[15;29H\u001b[30m\u001b[48;5;250mTop\u001b[39;49m\u001b[1;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.130021,
+      "\u001b[?25l\u001b[38;5;214m\u001b[48;5;80m(\u001b[39;49m\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.812131,
+      "\u001b[30;1H\u001b[K\u001b[1;4H\u001b[?25l\u001b[38;5;129mdefproject\u001b[39;49m \u001b[38;5;21mme.sneer/core\u001b[39;49m \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[2;3H\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:description\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"\u001b[39;49m\u001b[1m\u001b[91m\u001b[48;5;157mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89m\u001b[48;5;157mME: write description\"\u001b[39;49m\u001b[48;5;157m                                                        \u001b[39;49m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[2;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.126859,
+      "\u001b[A\u001b[?25l\u001b[38;5;214m(\u001b[39;49m\n\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.070332,
+      "\u001b[?25l  \u001b[38;5;30m:description\u001b[39;49m \u001b[38;5;89m\"\u001b[39;49m\u001b[1m\u001b[91mFIX\u001b[0m\u001b[39;49m\u001b[38;5;89mME: write description\"\u001b[39;49m\u001b[K\u001b[3;3H\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:url\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"http://example.com/FIXME\"\u001b[39;49m\u001b[48;5;157m                                                                \u001b[39;49m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[3;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027168,
+      "\u001b[?25l  \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://example.com/FIXME\"\u001b[39;49m\u001b[K\u001b[4;3H\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:license\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:name\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"Eclipse Public License\"\u001b[39;49m\u001b[48;5;157m                                                       \u001b[39;49m\r\n\u001b[4;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.023429,
+      "\u001b[?25l  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K\u001b[5;3H\u001b[48;5;157m            \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:url\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m}\u001b[39;49m\u001b[48;5;157m                                    \u001b[39;49m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[5;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027040,
+      "\u001b[?25l            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\u001b[6;3H\u001b[48;5;157m                                                                                                 \u001b[39;49m\r\n\u001b[6;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026222,
+      "\u001b[K\n\u001b[?25l\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:warn-on-reflection\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157mfalse\u001b[39;49m\u001b[48;5;157m                                                                      \u001b[39;49m\r\n\u001b[7;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.271865,
+      "\u001b[?25l  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\u001b[8;3H\u001b[48;5;157m                                                                                                 \u001b[39;49m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[8;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.713289,
+      "\u001b[K\n\u001b[?25l\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:dependencies\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/sneer-java-api \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                               \u001b[39;49m\r\n\u001b[9;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.446408,
+      "\u001b[15;34H\u001b[?25l\u001b[30m\u001b[48;5;250m50\u001b[39;49m\u001b[9;53H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.133360,
+      "\u001b[9;20H\u001b[?25l\u001b[38;5;245m\u001b[48;5;80m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/sneer-java-api \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;80m]\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.147036,
+      "\u001b[15;34H\u001b[?25l\u001b[30m\u001b[48;5;250m49\u001b[39;49m\u001b[9;52H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.131768,
+      "\u001b[9;20H\u001b[?25l\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/sneer-java-api \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u0008\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.069894,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m8\u001b[39;49m\u001b[9;51H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026119,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m7\u001b[39;49m\u001b[9;50H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027553,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m6\u001b[39;49m\u001b[9;49H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.024735,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m5\u001b[39;49m\u001b[9;48H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025924,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m4\u001b[39;49m\u001b[9;47H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025430,
+      "\u001b[15;35H\u001b[?25l\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[9;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.871333,
+      "\u001b[29;91H\u001b[?25l\u001b[38;5;236m\u001b[47m6 1.55\u001b[39;49m\u001b[9;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.262927,
+      "\u001b[9;3H\u001b[?25l  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[10;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/crypto \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                                       \u001b[39;49m\r\n"
+    ],
+    [
+      0.000057,
+      "\u001b[15;35H\u001b[30m\u001b[48;5;250m2\u001b[39;49m\u001b[10;45H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.129500,
+      "\u001b[10;20H\u001b[?25l\u001b[38;5;245m\u001b[48;5;80m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mme.sneer\u001b[39;49m\u001b[48;5;157m/crypto \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;80m]\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.038007,
+      "\u001b[10;3H\u001b[?25l                 \u001b[38;5;245m\u001b[48;5;80m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;80m]\u001b[39;49m\u001b[K\u001b[11;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/core.match \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                                \u001b[39;49m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[15;35H\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[11;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.127198,
+      "\u001b[10;20H\u001b[?25l\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\n\u001b[C\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.095678,
+      "\u001b[11;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[12;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/core.async \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                               \u001b[39;49m\r\n\u001b[12;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.112076,
+      "\u001b[12;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[13;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.cognitect\u001b[39;49m\u001b[48;5;157m/transit-clj \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                           \u001b[39;49m\r\n\u001b[13;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.201397,
+      "\u001b[13;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.netflix.rxjava\u001b[39;49m\u001b[48;5;157m/rxjava-core \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                       \u001b[39;49m\r\n\u001b[14;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.029650,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000074,
+      "\u001b[13;1H\u001b[?25l\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m5\u001b[39;49m\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/java.jdbc \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m          \u001b[39;49m\u001b[15;29H\u001b[30m\u001b[48;5;250m 2%\u001b[39;49m\u001b[14;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027463,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000061,
+      "\u001b[13;1H\u001b[?25l\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m6\u001b[39;49m\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/core.cache \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[14;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.022921,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000129,
+      "\u001b[13;1H\u001b[?25l\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m7\u001b[39;49m\u001b[48;5;157m                                                  \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m4% C0 \u001b[39;49m\u001b[14;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.486627,
+      "\u001b[A\u001b[?25l\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/core.cache \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                               \u001b[39;49m\r\n\u001b[C\u001b[C\u001b[K\u001b[15;34H\u001b[30m\u001b[48;5;250m43\u001b[39;49m\u001b[13;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.200206,
+      "\u001b[12;3H\u001b[?25l\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/java.jdbc \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                                 \u001b[39;49m\r\n\u001b[C\u001b[C                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[12;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025237,
+      "\u001b[11;3H\u001b[?25l\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.netflix.rxjava\u001b[39;49m\u001b[48;5;157m/rxjava-core \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                       \u001b[39;49m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[C\u001b[C                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[11;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.027983,
+      "\u001b[10;3H\u001b[?25l\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.cognitect\u001b[39;49m\u001b[48;5;157m/transit-clj \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                           \u001b[39;49m\r\n\u001b[C\u001b[C                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[10;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.922674,
+      "\u001b[10;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[11;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.netflix.rxjava\u001b[39;49m\u001b[48;5;157m/rxjava-core \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                       \u001b[39;49m\r\n\u001b[11;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.541316,
+      "\u001b[30;1H\u001b[K\u001b[H\u001b[?25l\u001b[90m 4\u001b[39;49m  \u001b[38;5;30m:license\u001b[39;49m \u001b[38;5;68m{\u001b[39;49m\u001b[38;5;30m:name\u001b[39;49m \u001b[38;5;89m\"Eclipse Public License\"\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000158,
+      "\r\n\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K\r\n\u001b[90m 6\u001b[39;49m\u001b[K\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000223,
+      "\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mcom.netflix.rxjava\u001b[39;49m\u001b[48;5;157m/rxjava-core \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                       \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000281,
+      "\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    4% C43  Git-master  (Clojure Hi , cljr Paredit Undo-Tree company yas P\u001b[39;49m\r\n\u001b[A\n\u001b[90m1\u001b[39;49m\u001b[1m\u001b[32m\u001b[107m➜  \u001b[0m\u001b[39;49m\u001b[1m\u001b[36m\u001b[107mcore \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107mgit:(\u001b[0m\u001b[39;49m\u001b[1m\u001b[31m\u001b[107mmaster\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m) \u001b[0m\u001b[39;49m\u001b[1m\u001b[33m\u001b[107m✗\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m \u001b[0m\u001b[39;49m\u001b[30m\u001b[107mlein repl\u001b[39;49m                                                                  \r\n\u001b[A"
+    ],
+    [
+      0.000090,
+      "\n\u001b[90m2\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.p\u001b[39;49m \r\n\u001b[A\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000037,
+      "\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000021,
+      "\n\u001b[K\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   All  (Term: char run company yas Projectile[sneer]) [+78%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A\u001b[11;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.067298,
+      "\u001b[11;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;222mcom.netflix.rxjava\u001b[39;49m\u001b[48;5;222m/rxjava-core\u001b[39;49m \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[12;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/java.jdbc \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                                 \u001b[39;49m\r\n\u001b[12;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.215073,
+      "\u001b[12;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[13;3H\u001b[48;5;157m                 \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157morg.clojure\u001b[39;49m\u001b[48;5;157m/core.cache \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                               \u001b[39;49m\r\n\u001b[13;46H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.119192,
+      "\u001b[13;3H\u001b[?25l                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[48;5;157m                                                                                                 \u001b[39;49m\r\n\u001b[15;34H\u001b[30m\u001b[48;5;250m0 \u001b[39;49m\u001b[14;3H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.243640,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000054,
+      "\u001b[13;1H\u001b[?25l\u001b[90m17\u001b[39;49m\u001b[K\n\u0008\u001b[90m8\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:profiles\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:lean\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m5% C18\u001b[39;49m\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.505450,
+      "\u001b[10d\u001b[?25l\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.956633,
+      "\u001b[30;1H\u001b[?25lC-c\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000071,
+      "\u001b[30;4H\u001b[?25l-\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.218911,
+      "\u001b[30;4H\u001b[?25l p\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000290,
+      "\u001b[30;6H\u001b[?25l-\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.119607,
+      "\u001b[30;6H\u001b[?25l f\u001b[14;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.006054,
+      "\u001b[30;1H\u001b[?25lnifest.xml | android/android-api/src/main/java/sneer/android/Message.java | ...}\u001b[K\u001b[H\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000043,
+      "\r\n\u001b[90m 6\u001b[39;49m\u001b[K\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000120,
+      "\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000127,
+      "\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:profiles\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:lean\u001b[39;49m\u001b[48;5;157m                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    5% C18  Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m1\u001b[39;49m\u001b[1m\u001b[32m\u001b[107m➜  \u001b[0m\u001b[39;49m\u001b[1m\u001b[36m\u001b[107mcore \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107mgit:(\u001b[0m\u001b[39;49m\u001b[1m\u001b[31m\u001b[107mmaster\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m) \u001b[0m\u001b[39;49m\u001b[1m\u001b[33m\u001b[107m✗\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m \u001b[0m\u001b[39;49m\u001b[30m\u001b[107mlein repl\u001b[39;49m                                                                  \r\n\u001b[A"
+    ],
+    [
+      0.000105,
+      "\n\u001b[90m2\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.p\u001b[39;49m \r\n\u001b[A\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000119,
+      "\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   All  (Term: char run company yas Projectile[sneer]) [+78%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000005,
+      "\n\u001b[38;5;20m[sneer] Find file: \u001b[39;49m{.gitignore | .travis.yml | LICENSE | README.md | android/android-api/.gitignor\\\r\n\u001b[A\ne | android/android-api/build.gradle | android/android-api/proguard-rules.pro | android/android-ap\\\r\n\u001b[A\ni/src/androidTest/java/sneer/android/ApplicationTest.java | android/android-api/src/main/AndroidMa\\\r\n\u001b[A\u001b[27;20H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.558777,
+      "\r\n\n\n\u001b[K\u001b[27;20H\u001b[?25lc{assets/\u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49mover.jpg | server/test/sneer/server/router_\u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49monnector_test.clj | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49more/\r\n.gitignore | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49more/LICENSE | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49more/README.md | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49more/build.gradle | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49more/project.clj | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49mrypto/.gitign\r\nore | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49mrypto/README.md | \u001b[1m\u001b[4m\u001b[38;5;130mc\u001b[0m\u001b[39;49mrypto/build.gradle | ...}\u001b[K\u001b[27;21H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.163203,
+      "\r\n\n\n\u001b[?25lcommons/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mntainer.java | ...}\u001b[K\u001b[H\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000023,
+      "\r\n\u001b[90m 6\u001b[39;49m\u001b[K\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000090,
+      "\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000078,
+      "\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:profiles\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:lean\u001b[39;49m\u001b[48;5;157m                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    5% C18  Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m2\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.p\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000127,
+      "\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A"
+    ],
+    [
+      0.000006,
+      "\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Bot  (Term: char run company yas Projectile[sneer]) [+78%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;20m[sneer] Find file: \u001b[39;49mco{assets/\u001b[1m\u001b[4m\u001b[38;5;130mco\u001b[0m\u001b[39;49mver.jpg | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mntact.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mnv\\\r\n\u001b[A"
+    ],
+    [
+      0.000048,
+      "\nersation.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mnversationItem.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mnversationMenuItem\\\r\n\u001b[A\n.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mnversations.java | java-api/src/sneer/commons/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mdec.java | java-api/s\\\r\n\u001b[A\nrc/sneer/commons/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mmparators.java | java-api/src/sneer/commons/\u001b[1m\u001b[4m\u001b[38;5;130mCo\u001b[0m\u001b[39;49mnsumer.java | java-api/src/sneer/\\\r\n\u001b[A\u001b[26;22H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.084964,
+      "\u001b[30;3H\u001b[?25lre/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mcon\u001b[0m\u001b[39;49mtact.clj | ...}\u001b[26;22Hn{java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mtact.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mversation.java | ja"
+    ],
+    [
+      0.000086,
+      "\r\nva-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mversationItem.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mversationMenuItem.java | java-api/s\r\nrc/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mversations.java | java-api/src/sneer/commons/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49msumer.java | java-api/src/sneer/common\r\ns/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mtainer.java | java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mvo.java | java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mCon\u001b[0m\u001b[39;49mvos.java | \u001b[26;23H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.110600,
+      "\r\n\n\n\n\u001b[?25ler/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mo.clj | core/src/main/clojur\u001b[14@e/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mos\u001b[26;23Hv{java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mersation.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mersationItem"
+    ],
+    [
+      0.000013,
+      "\r\n.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mersationMenuItem.java | java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mersations.java | jav\r\na-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mo.java | java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mos.java | core/src/main/clojure/\r\n\u001b[Cneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersation.clj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersations.clj | core/src/main/clojure/sne\u001b[26;24H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.234355,
+      "\r\n\n\n\n\u001b[?25lva | android/android.main/src/main/java/sneer/android/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49msActivity.java | ...}\u001b[K\u001b[H\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r\n\u001b[90m 6\u001b[39;49m\u001b[K\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000123,
+      "\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000226,
+      "\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:profiles\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:lean\u001b[39;49m\u001b[48;5;157m                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    5% C18  Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A"
+    ],
+    [
+      0.000045,
+      "\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000026,
+      "\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Bot  (Term: char run company yas Projectile[sneer]) [+78%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;20m[sneer] Find file: \u001b[39;49mconvo{java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49m.java | java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49ms.j\\\r\n\u001b[A\nava | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m.clj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49ms.clj | core/src/ma\\\r\n\u001b[A"
+    ],
+    [
+      0.000107,
+      "\nin/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_summarization.clj | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49ms_test.clj | core/src/\\\r\n\u001b[A\ntest/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_summarization_test.clj | android/android.main/src/main/java/sims/sneer/co\\\r\n\u001b[A\nnvos/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49msSim.java | android/android.main/src/main/java/sneer/android/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49mActivityWithTabs.ja\\\r\n\u001b[A\u001b[25;25H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.335175,
+      "\r\n\n\n\n\n\u001b[?25l\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49ms/\u001b[1m\u001b[4m\u001b[38;5;130mS\u001b[0m\u001b[39;49mummary.java | ...}\u001b[K\u001b[H\u001b[90m 5\u001b[39;49m            \u001b[38;5;30m:url\u001b[39;49m \u001b[38;5;89m\"http://www.eclipse.org/legal/epl-v10.html\"\u001b[39;49m\u001b[38;5;68m}\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000044,
+      "\r\n\u001b[90m 6\u001b[39;49m\u001b[K\r\n\u001b[90m 7\u001b[39;49m  \u001b[38;5;30m:warn-on-reflection\u001b[39;49m \u001b[38;5;30mfalse\u001b[39;49m\u001b[K\r\n\u001b[90m 8\u001b[39;49m\u001b[K\r\n\u001b[90m 9\u001b[39;49m  \u001b[38;5;30m:dependencies\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m\u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/sneer-java-api \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m10\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mme.sneer\u001b[39;49m/crypto \u001b[38;5;89m\"0.1.5\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000120,
+      "\r\n\u001b[90m11\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.match \u001b[38;5;89m\"0.2.2\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m12\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.async \u001b[38;5;89m\"0.1.346.0-17112a-alpha\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m13\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.cognitect\u001b[39;49m/transit-clj \u001b[38;5;89m\"0.8.281\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m14\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28mcom.netflix.rxjava\u001b[39;49m/rxjava-core \u001b[38;5;89m\"0.20.7\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m15\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/java.jdbc \u001b[38;5;89m\"0.4.1\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000148,
+      "\r\n\u001b[90m16\u001b[39;49m                 \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28morg.clojure\u001b[39;49m/core.cache \u001b[38;5;89m\"0.6.4\"\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m17\u001b[39;49m\u001b[K\r\n\u001b[90m18\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:profiles\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:lean\u001b[39;49m\u001b[48;5;157m                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mproject.clj \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    5% C18  Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000010,
+      "\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A"
+    ],
+    [
+      0.000101,
+      "\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   Bot  (Term: char run company yas Projectile[sneer]) [+78%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;20m[sneer] Find file: \u001b[39;49mconvos{java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConvos\u001b[0m\u001b[39;49m.java | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49m\\\r\n\u001b[A\n\u001b[1m\u001b[4m\u001b[38;5;130mos\u001b[0m\u001b[39;49m.clj | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvos\u001b[0m\u001b[39;49m_test.clj | android/android.main/src/main/java/sneer/an\\\r\n\u001b[A\ndroid/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvos\u001b[0m\u001b[39;49mActivity.java | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization.clj | core/src/test\\\r\n\u001b[A"
+    ],
+    [
+      0.000170,
+      "\n/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization_test.clj | android/android.main/src/main/java/sims/sneer/convos\\\r\n\u001b[A\n/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49ms\u001b[1m\u001b[4m\u001b[38;5;130mS\u001b[0m\u001b[39;49mim.java | android/android.main/src/main/java/sneer/android/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49mActivityWithTab\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49m.java |\\\r\n\u001b[A\n android/android.main/src/main/res/layout/fragment_\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49messions.xml | java-api/src/sneer/\\\r\n\u001b[A\u001b[24;26H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.299936,
+      "\u001b[30;1H\u001b[K\u001b[24;26H\u001b[?25l.{java-api/src/sneer/convos/\u001b[1m\u001b[4m\u001b[38;5;130mConvos.\u001b[0m\u001b[39;49mjava | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mcon\u001b[0m\u001b[39;49m\r\n\u001b[1m\u001b[4m\u001b[38;5;130mvos.\u001b[0m\u001b[39;49mclj | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvos\u001b[0m\u001b[39;49m_test\u001b[1m\u001b[4m\u001b[38;5;130m.\u001b[0m\u001b[39;49mclj | android/android.main/src/main/java/sneer/a\r\nndroid/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvos\u001b[0m\u001b[39;49mActivity\u001b[1m\u001b[4m\u001b[38;5;130m.\u001b[0m\u001b[39;49mjava | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization\u001b[1m\u001b[4m\u001b[38;5;130m.\u001b[0m\u001b[39;49mclj | core/src/tes"
+    ],
+    [
+      0.000085,
+      "\r\nt/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization_test\u001b[1m\u001b[4m\u001b[38;5;130m.\u001b[0m\u001b[39;49mclj | android/android.main/src/main/java/sims/sneer/convo\r\ns/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49ms\u001b[1m\u001b[4m\u001b[38;5;130mS\u001b[0m\u001b[39;49mim\u001b[1m\u001b[4m\u001b[38;5;130m.\u001b[0m\u001b[39;49mjava | android/android.main/src/main/java/sneer/android/ui/\u001b[1m\u001b[4m\u001b[38;5;130mConvo\u001b[0m\u001b[39;49mActivityWithTab\u001b[1m\u001b[4m\u001b[38;5;130ms.\u001b[0m\u001b[39;49mjava \r\n| java-api/src/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mConv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn\u001b[1m\u001b[4m\u001b[38;5;130ms.\u001b[0m\u001b[39;49mjava | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn\u001b[1m\u001b[4m\u001b[38;5;130ms.\u001b[0m\u001b[39;49mclj | ...}\u001b[K\u001b[24;27H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.303165,
+      "\u001b[?25lc[lj]{core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvos.c\u001b[0m\u001b[39;49mlj | core/src/test/clojure/sne\r\ner/\u001b[1m\u001b[4m\u001b[38;5;130mconvos\u001b[0m\u001b[39;49m_test\u001b[1m\u001b[4m\u001b[38;5;130m.c\u001b[0m\u001b[39;49mlj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization\u001b[1m\u001b[4m\u001b[38;5;130m.c\u001b[0m\u001b[39;49mlj | core/src/test/clojure/s\r\n\u001b[Ceer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization_test\u001b[1m\u001b[4m\u001b[38;5;130m.c\u001b[0m\u001b[39;49mlj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn\u001b[1m\u001b[4m\u001b[38;5;130ms.c\u001b[0m\u001b[39;49mlj | core/src/test/"
+    ],
+    [
+      0.000054,
+      "\r\nclojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn_te\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mt\u001b[1m\u001b[4m\u001b[38;5;130m.c\u001b[0m\u001b[39;49mlj | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mns_te\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mt\u001b[1m\u001b[4m\u001b[38;5;130m.c\u001b[0m\u001b[39;49mlj}\u001b[K\r\n\u001b[K\n\u001b[K\u001b[24;28H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.079310,
+      "\u001b[?25ll[j]{core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvos.cl\u001b[0m\u001b[39;49m\r\n\t\t\u001b[1m\u001b[4m\u001b[38;5;130ml\u001b[0m\u001b[39;49mj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization\u001b[1m\u001b[4m\u001b[38;5;130m.cl\u001b[0m\u001b[39;49m\u001b[26;32H\u001b[1m\u001b[4m\u001b[38;5;130ml\u001b[0m\u001b[39;49mj | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn\u001b[1m\u001b[4m\u001b[38;5;130ms.cl\u001b[0m\u001b[39;49m"
+    ],
+    [
+      0.000006,
+      "\u001b[27;34H\u001b[1m\u001b[4m\u001b[38;5;130ml\u001b[0m\u001b[39;49mj | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mns_te\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mt\u001b[1m\u001b[4m\u001b[38;5;130m.cl\u001b[0m\u001b[39;49m\u001b[24;29H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.136368,
+      "\u001b[?25lj{core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvos.clj\u001b[0m\u001b[39;49m | core/src/test/clojure/sneer\r\n/\u001b[1m\u001b[4m\u001b[38;5;130mconvos\u001b[0m\u001b[39;49m_test\u001b[1m\u001b[4m\u001b[38;5;130m.clj\u001b[0m\u001b[39;49m | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization\u001b[1m\u001b[4m\u001b[38;5;130m.clj\u001b[0m\u001b[39;49m | core/src/test/clojure/sne\r\ner/\u001b[1m\u001b[4m\u001b[38;5;130mconvo\u001b[0m\u001b[39;49m_\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mummarization_test\u001b[1m\u001b[4m\u001b[38;5;130m.clj\u001b[0m\u001b[39;49m | core/src/main/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn\u001b[1m\u001b[4m\u001b[38;5;130ms.clj\u001b[0m\u001b[39;49m | core/src/test/cl"
+    ],
+    [
+      0.000049,
+      "\r\nojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mn_te\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mt\u001b[1m\u001b[4m\u001b[38;5;130m.clj\u001b[0m\u001b[39;49m | core/src/test/clojure/sneer/\u001b[1m\u001b[4m\u001b[38;5;130mconv\u001b[0m\u001b[39;49mersati\u001b[1m\u001b[4m\u001b[38;5;130mo\u001b[0m\u001b[39;49mns_te\u001b[1m\u001b[4m\u001b[38;5;130ms\u001b[0m\u001b[39;49mt\u001b[1m\u001b[4m\u001b[38;5;130m.clj\u001b[0m\u001b[39;49m}\u001b[K\u001b[24;30H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.989941,
+      "\r"
+    ],
+    [
+      0.064321,
+      "\u001b[30d\u001b[K\u001b[H\u001b[?25l\u001b[90m  6\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.contacts\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mid-\u003epuk\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000102,
+      "\r\n\u001b[90m  7\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.convo\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mconvo-by-id\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m  8\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.convo-summarization\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;30m:all\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m                 \u001b[38;5;124m; Force compilation of interface    \u001b[39;49m\r\n\u001b[A\n\u001b[90m  9\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.flux\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mtap-actions response\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 10\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.rx\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mclose-on-unsubscribe! pipe-to-subscriber! shared-latest\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 11\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.tuple.persistent-tuple-base\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mtimestamped\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000092,
+      "\r\n\u001b[90m 12\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.time\u001b[39;49m \u001b[38;5;30m:as\u001b[39;49m time\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 13\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.tuple.protocols\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;30m:all\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 14\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.tuple-base-provider\u001b[39;49m \u001b[38;5;30m:refer\u001b[39;49m \u001b[38;5;30m:all\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 15\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.interfaces\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m)\u001b[39;49m\u001b[K\r\n\u001b[90m 16\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49m\u001b[38;5;30m:import\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000162,
+      "\r\n\u001b[90m 17\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49mrx \u001b[38;5;28mSubscriber\u001b[39;49m \u001b[38;5;28mObservable\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 18\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.commons\u001b[39;49m \u001b[38;5;28mContainer\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 19\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.convos\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mConvos\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mSummary\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[48;5;250m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250mconvos.clj  \u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m    4% C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[90m1\u001b[39;49m\u001b[1m\u001b[32m\u001b[107m➜  \u001b[0m\u001b[39;49m\u001b[1m\u001b[36m\u001b[107mcore \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107mgit:(\u001b[0m\u001b[39;49m\u001b[1m\u001b[31m\u001b[107mmaster\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m) \u001b[0m\u001b[39;49m\u001b[1m\u001b[33m\u001b[107m✗\u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;39m\u001b[107m \u001b[0m\u001b[39;49m\u001b["
+    ],
+    [
+      0.000012,
+      "30m\u001b[107mlein repl\u001b[39;49m                                                                  \r\n\u001b[A"
+    ],
+    [
+      0.000076,
+      "\n\u001b[90m2\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.p\u001b[39;49m \r\n\u001b[A\n\u001b[90m3\u001b[39;49m\u001b[30m\u001b[107mom from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[90m4\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.pom from cloja\u001b[39;49m \r\n\u001b[A\n\u001b[90m5\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m6\u001b[39;49m\u001b[30m\u001b[107mRetrieving cider/cider-nrepl/0.11.0-SNAPSHOT/cider-nrepl-0.11.0-20160204.055951-25.jar from cloja\u001b[39;49m \r\n\u001b[A"
+    ],
+    [
+      0.000097,
+      "\n\u001b[90m7\u001b[39;49m\u001b[30m\u001b[107mrs\u001b[39;49m\u001b[101m                                                                                              \u001b[39;49m  \r\n\u001b[A\n\u001b[90m8\u001b[39;49m\u001b[30m\u001b[107mRetrieving refactor-nrepl/refactor-nrepl/2.0.0-SNAPSHOT/refactor-nrepl-2.0.0-20160206.122040-20.j\u001b[39;49m \r\n\u001b[A\n\u001b[90m9\u001b[39;49m\u001b[30m\u001b[107mar from clojars\u001b[39;49m\u001b[101m                                                                                 \u001b[39;49m  \r\n\u001b[A\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000007,
+      "\n\u001b[K\n\u001b[K\n\u001b[38;5;236m\u001b[47m-UUU:**--F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47m*ansi-term* \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   All  (Term: char run company yas Projectile[sneer]) [+79%]11:56 1.55 --\u001b[39;49m\r\n\u001b[A\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      2.821194,
+      "\t\u0008\u001b[?25l\u001b[48;5;157m                             \u001b[39;49m\u001b[15;6H\u001b[30m\u001b[48;5;250m**\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      2.104023,
+      "\t\u0008\u001b[?25l\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.convos\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mConvos\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mSummary\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[15;6H\u001b[30m\u001b[48;5;250m--\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.836239,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000042,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 19\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.convos\u001b[39;49m \u001b[38;5;28mConvos\u001b[39;49m \u001b[38;5;28mSummary\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m20\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.interfaces\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mConvoSummarization\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m5\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.198679,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000071,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 20\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.interfaces\u001b[39;49m \u001b[38;5;28mConvoSummarization\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m1\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.flux\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mDispatcher\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m              \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m6\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026313,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000076,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 21\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.flux\u001b[39;49m \u001b[38;5;28mDispatcher\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m2\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.admin\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mSneerAdmin\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m)\u001b[39;49m\n\u0008\u0008\u0008\u0008\u001b[30m\u001b[48;5;250m8\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025156,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000062,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 22\u001b[39;49m    \u001b[38;5;245m[\u001b[39;49m\u001b[38;5;28msneer.admin\u001b[39;49m \u001b[38;5;28mSneerAdmin\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[38;5;68m)\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m3\u001b[39;49m\u001b[48;5;157m                              \u001b[39;49m\n\u0008\u0008\u0008\u0008\u001b[30m\u001b[48;5;250m9\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.029041,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000088,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 23\u001b[39;49m\u001b[K\n\u0008\u001b[90m4\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefn-\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157mto-foreign-summary\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mpretty-time \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:keys\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mnick preview timestamp unread id\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m]\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m}\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[15;29H\u001b[30m\u001b[48;5;250m11\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.028764,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000088,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 24\u001b[39;49m\u001b[38;5;214m(\u001b[39;49m\u001b[38;5;129mdefn-\u001b[39;49m \u001b[38;5;21mto-foreign-summary\u001b[39;49m \u001b[38;5;68m[\u001b[39;49mpretty-time \u001b[38;5;245m{\u001b[39;49m\u001b[38;5;30m:keys\u001b[39;49m \u001b[38;5;65m[\u001b[39;49mnick preview timestamp unread id\u001b[38;5;65m]\u001b[39;49m\u001b[38;5;245m}\u001b[39;49m\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m5\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mSummary.\u001b[39;49m\u001b[48;5;157m nick preview \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mpretty-time timestamp\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157mstr\u001b[39;49m\u001b[48;5;157m unread\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m id\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m                \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m2\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.018704,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000128,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 25\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49m\u001b[38;5;28mSummary.\u001b[39;49m nick preview \u001b[38;5;245m(\u001b[39;49mpretty-time timestamp\u001b[38;5;245m)\u001b[39;49m \u001b[38;5;245m(\u001b[39;49m\u001b[38;5;60mstr\u001b[39;49m unread\u001b[38;5;245m)\u001b[39;49m id\u001b[38;5;68m)\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m6\u001b[39;49m\u001b[48;5;157m                                                                  \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.031011,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000091,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 26\u001b[39;49m\u001b[K\n\u0008\u001b[90m7\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefn-\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157mto-foreign\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157msummaries\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\n\u0008\u0008\u0008\u001b[30m\u001b[48;5;250m4\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.018560,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000090,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 27\u001b[39;49m\u001b[38;5;214m(\u001b[39;49m\u001b[38;5;129mdefn-\u001b[39;49m \u001b[38;5;21mto-foreign\u001b[39;49m \u001b[38;5;68m[\u001b[39;49msummaries\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m8\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157mmapv\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157mpartial\u001b[39;49m\u001b[48;5;157m to-foreign-summary \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mtime\u001b[39;49m\u001b[48;5;157m/pretty-printer\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m)\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m5\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.031741,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000037,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 28\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49m\u001b[38;5;60mmapv\u001b[39;49m \u001b[38;5;245m(\u001b[39;49m\u001b[38;5;60mpartial\u001b[39;49m to-foreign-summary \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;28mtime\u001b[39;49m/pretty-printer\u001b[38;5;65m)\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m9\u001b[39;49m\u001b[48;5;157m        summaries\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m                                       \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.092241,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000020,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 29\u001b[39;49m        summaries\u001b[38;5;68m)\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m30\u001b[39;49m\u001b[48;5;157m                   \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.201209,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000092,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 30\u001b[39;49m\u001b[K\n\u0008\u001b[90m1\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefn-\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157msummaries-obs*\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157m^\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mConvoSummarization\u001b[39;49m\u001b[48;5;157m summarization\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m6\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.024887,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000064,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 31\u001b[39;49m\u001b[38;5;214m(\u001b[39;49m\u001b[38;5;129mdefn-\u001b[39;49m \u001b[38;5;21msummaries-obs*\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m^\u001b[38;5;28mConvoSummarization\u001b[39;49m summarization\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m2\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mshared-latest                                         \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m7\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.023678,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000172,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 32\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49mshared-latest\u001b[K\u001b[14;3H\u001b[90m3\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mrx\u001b[39;49m\u001b[48;5;157m/observable*\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m8\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.032673,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000145,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 33\u001b[39;49m    \u001b[38;5;245m(\u001b[39;49m\u001b[38;5;28mrx\u001b[39;49m/observable*\u001b[K\u001b[14;3H\u001b[90m4\u001b[39;49m\u001b[48;5;157m      \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mƒ\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157m^\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mSubscriber\u001b[39;49m\u001b[48;5;157m subscriber\u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m]\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.022865,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000071,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 34\u001b[39;49m      \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;129mƒ\u001b[39;49m \u001b[38;5;95m[\u001b[39;49m^\u001b[38;5;28mSubscriber\u001b[39;49m subscriber\u001b[38;5;95m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m5\u001b[39;49m\u001b[48;5;157m        \u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mlet\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157min \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157m.slidingSummaries\u001b[39;49m\u001b[48;5;157m summarization\u001b[39;49m\u001b[31m\u001b[48;5;157m)\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m9\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.025340,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000254,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 35\u001b[39;49m        \u001b[38;5;95m(\u001b[39;49m\u001b[38;5;129mlet\u001b[39;49m \u001b[38;5;67m[\u001b[39;49min \u001b[31m(\u001b[39;49m\u001b[38;5;60m.slidingSummaries\u001b[39;49m summarization\u001b[31m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m6\u001b[39;49m\u001b[48;5;157m              out \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mchan 1 \u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157mmap\u001b[39;49m\u001b[48;5;157m to-foreign\u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m)\u001b[39;49m\u001b[31m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m      \u001b[39;49m\u001b[15;29H\u001b[30m\u001b[48;5;250m20\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.580109,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000122,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 36\u001b[39;49m              out \u001b[31m(\u001b[39;49mchan 1 \u001b[38;5;108m(\u001b[39;49m\u001b[38;5;60mmap\u001b[39;49m to-foreign\u001b[38;5;108m)\u001b[39;49m\u001b[31m)\u001b[39;49m\u001b[38;5;67m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m7\u001b[39;49m\u001b[48;5;157m          \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mclose-on-unsubscribe! subscriber in out\u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m)\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.200810,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000053,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 37\u001b[39;49m          \u001b[38;5;67m(\u001b[39;49mclose-on-unsubscribe! subscriber in out\u001b[38;5;67m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m8\u001b[39;49m\u001b[48;5;157m          \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mpipe-to-subscriber! out subscriber \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"conversation summaries\"\u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m)\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m2\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026444,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000122,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 38\u001b[39;49m          \u001b[38;5;67m(\u001b[39;49mpipe-to-subscriber! out subscriber \u001b[38;5;89m\"conversation summaries\"\u001b[39;49m\u001b[38;5;67m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m9\u001b[39;49m\u001b[48;5;157m          \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mrepublish-latest-every! \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157m* 60 1000\u001b[39;49m\u001b[31m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m in out\u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m            \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.029340,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000035,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 39\u001b[39;49m          \u001b[38;5;67m(\u001b[39;49mrepublish-latest-every! \u001b[31m(\u001b[39;49m* 60 1000\u001b[31m)\u001b[39;49m in out\u001b[38;5;67m)\u001b[39;49m\u001b[38;5;95m)\u001b[39;49m\u001b[38;5;65m)\u001b[39;49m\u001b[38;5;245m)\u001b[39;49m\u001b[38;5;68m)\u001b[39;49m\u001b[38;5;214m)\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m40\u001b[39;49m\u001b[48;5;157m                                                           \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.021672,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000071,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 40\u001b[39;49m\u001b[K\n\u0008\u001b[90m1\u001b[39;49m\u001b[38;5;214m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mdefn-\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;21m\u001b[48;5;157mhandle-msg-actions!\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157m^\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mContainer\u001b[39;49m\u001b[48;5;157m container admin own-puk\u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m]\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m4\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.030880,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000071,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 41\u001b[39;49m\u001b[38;5;214m(\u001b[39;49m\u001b[38;5;129mdefn-\u001b[39;49m \u001b[38;5;21mhandle-msg-actions!\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m^\u001b[38;5;28mContainer\u001b[39;49m container admin own-puk\u001b[38;5;68m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m2\u001b[39;49m\u001b[48;5;157m  \u001b[39;49m\u001b[38;5;68m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mlet\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mtb \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mtuple-base-of admin\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m                               \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m5\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.018851,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000072,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 42\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49m\u001b[38;5;129mlet\u001b[39;49m \u001b[38;5;245m[\u001b[39;49mtb \u001b[38;5;65m(\u001b[39;49mtuple-base-of admin\u001b[38;5;65m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m3\u001b[39;49m\u001b[48;5;157m        contacts \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;28m\u001b[48;5;157msneer.contacts\u001b[39;49m\u001b[48;5;157m/from container\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m6\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.035309,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000120,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 43\u001b[39;49m        contacts \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;28msneer.contacts\u001b[39;49m/from container\u001b[38;5;65m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m4\u001b[39;49m\u001b[48;5;157m        actions \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mchan 1\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                       \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.019956,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000055,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 44\u001b[39;49m        actions \u001b[38;5;65m(\u001b[39;49mchan 1\u001b[38;5;65m)\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m5\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mtap-actions \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;60m\u001b[48;5;157m.produce\u001b[39;49m\u001b[48;5;157m container \u001b[39;49m\u001b[38;5;28m\u001b[48;5;157mDispatcher\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m actions\u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m)\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m7\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.031559,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000086,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 45\u001b[39;49m    \u001b[38;5;245m(\u001b[39;49mtap-actions \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;60m.produce\u001b[39;49m container \u001b[38;5;28mDispatcher\u001b[39;49m\u001b[38;5;65m)\u001b[39;49m actions\u001b[38;5;245m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m6\u001b[39;49m\u001b[48;5;157m    \u001b[39;49m\u001b[38;5;245m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mgo-while-let \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157maction \u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157m\u003c! actions\u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m                  \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.015592,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000013,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 46\u001b[39;49m    \u001b[38;5;245m(\u001b[39;49mgo-while-let \u001b[38;5;65m[\u001b[39;49maction \u001b[38;5;95m(\u001b[39;49m\u003c! actions\u001b[38;5;95m)\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m7\u001b[39;49m\u001b[48;5;157m      \u001b[39;49m\u001b[38;5;65m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mcase\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157maction \u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:type\u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m)\u001b[39;49m\u001b[48;5;157m             \u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m8\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.561533,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000038,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 47\u001b[39;49m      \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;129mcase\u001b[39;49m \u001b[38;5;95m(\u001b[39;49maction \u001b[38;5;30m:type\u001b[39;49m\u001b[38;5;95m)\u001b[39;49m\u001b[K\u001b[14;3H\u001b[90m8\u001b[39;49m\u001b[48;5;157m                          \u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.423646,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000084,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 48\u001b[39;49m\u001b[K\n\u0008\u001b[90m9\u001b[39;49m\u001b[48;5;157m        \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"send-message\"\u001b[39;49m\u001b[15;29H\u001b[30m\u001b[48;5;250m30\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.367760,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000085,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 49\u001b[39;49m        \u001b[38;5;89m\"send-message\"\u001b[39;49m\u001b[K\r\n\u001b[C\u001b[90m50\u001b[39;49m\u001b[48;5;157m        \u001b[39;49m\u001b[38;5;95m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mlet\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m[\u001b[39;49m\u001b[31m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;30m\u001b[48;5;157m:strs\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mcontact-id text\u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m]\u001b[39;49m\u001b[31m\u001b[48;5;157m}\u001b[39;49m\u001b[48;5;157m action\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m1\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.168813,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000127,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 50\u001b[39;49m        \u001b[38;5;95m(\u001b[39;49m\u001b[38;5;129mlet\u001b[39;49m \u001b[38;5;67m[\u001b[39;49m\u001b[31m{\u001b[39;49m\u001b[38;5;30m:strs\u001b[39;49m \u001b[38;5;108m[\u001b[39;49mcontact-id text\u001b[38;5;108m]\u001b[39;49m\u001b[31m}\u001b[39;49m action\u001b[K\u001b[14;3H\u001b[90m1\u001b[39;49m\u001b[48;5;157m              contact-puk \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157m\u003c! \u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m(\u001b[39;49m\u001b[48;5;157mid-\u003epuk contacts contact-id\u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m)\u001b[39;49m\u001b[31m\u001b[48;5;157m)\u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m]\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;124m\u001b[48;5;157m;WARNING: if the contact-id is in\u001b[39;49m$\r\n\u001b[15;30H\u001b[30m\u001b[48;5;250m2\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.206995,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000078,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 51\u001b[39;49m              contact-puk \u001b[31m(\u001b[39;49m\u003c! \u001b[38;5;108m(\u001b[39;49mid-\u003epuk contacts contact-id\u001b[38;5;108m)\u001b[39;49m\u001b[31m)\u001b[39;49m\u001b[38;5;67m]\u001b[39;49m \u001b[38;5;124m;WARNING: if the contact-id is in\u001b[39;49m$\r\n\u001b[A\u001b[14;3H\u001b[90m2\u001b[39;49m\u001b[48;5;157m          \u001b[39;49m\u001b[38;5;67m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mwhen\u001b[39;49m\u001b[48;5;157m contact-puk                                                                     \u001b[39;49m\r\n\u001b[15;30H\u001b[30m\u001b[48;5;250m3\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.200549,
+      "\u001b[1;13r\u001b[1;1H\u001b[1M\u001b[1;30r"
+    ],
+    [
+      0.000060,
+      "\u001b[13;1H\u001b[?25l\u001b[90m 52\u001b[39;49m          \u001b[38;5;67m(\u001b[39;49m\u001b[38;5;129mwhen\u001b[39;49m contact-puk\u001b[K\u001b[14;3H\u001b[90m3\u001b[39;49m\u001b[48;5;157m            \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mlet\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mtuple \u001b[39;49m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"type\"\u001b[39;49m\u001b[48;5;157m         \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"message\"\u001b[39;49m\u001b[15;30H\u001b[30m\u001b[48;5;250m5\u001b[39;49m\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      5.822044,
+      "\u001b[30;1H\u001b[?25lC-x\u001b[14d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000081,
+      "\u001b[30d\u001b[?25l-\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.162665,
+      "\u001b[30d\u001b[?25l C-c\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000510,
+      "\u001b[30;1H\u001b[K\u001b[14;4H"
+    ],
+    [
+      0.000081,
+      "\u001b[30;1H\u001b[?25l(No files need saving)\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.006707,
+      "\u001b[30;1H\u001b[?25l\u001b[38;5;20mActive processes exist; kill them and exit anyway? (y or n) \u001b[39;49m\u001b[K\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.002399,
+      "\u001b[H\u001b[?25l\u001b[90m 40\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000082,
+      "\r\n\u001b[90m 41\u001b[39;49m\u001b[38;5;214m(\u001b[39;49m\u001b[38;5;129mdefn-\u001b[39;49m \u001b[38;5;21mhandle-msg-actions!\u001b[39;49m \u001b[38;5;68m[\u001b[39;49m^\u001b[38;5;28mContainer\u001b[39;49m container admin own-puk\u001b[38;5;68m]\u001b[39;49m\u001b[K\r\n\u001b[90m 42\u001b[39;49m  \u001b[38;5;68m(\u001b[39;49m\u001b[38;5;129mlet\u001b[39;49m \u001b[38;5;245m[\u001b[39;49mtb \u001b[38;5;65m(\u001b[39;49mtuple-base-of admin\u001b[38;5;65m)\u001b[39;49m\u001b[K\r\n\u001b[90m 43\u001b[39;49m        contacts \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;28msneer.contacts\u001b[39;49m/from container\u001b[38;5;65m)\u001b[39;49m\u001b[K\r\n\u001b[90m 44\u001b[39;49m        actions \u001b[38;5;65m(\u001b[39;49mchan 1\u001b[38;5;65m)\u001b[39;49m\u001b[38;5;245m]\u001b[39;49m\u001b[K\r\n\u001b[90m 45\u001b[39;49m    \u001b[38;5;245m(\u001b[39;49mtap-actions \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;60m.produce\u001b[39;49m container \u001b[38;5;28mDispatcher\u001b[39;49m\u001b[38;5;65m)\u001b[39;49m actions\u001b[38;5;245m)\u001b[39;49m\u001b[K"
+    ],
+    [
+      0.000213,
+      "\r\n\u001b[90m 46\u001b[39;49m    \u001b[38;5;245m(\u001b[39;49mgo-while-let \u001b[38;5;65m[\u001b[39;49maction \u001b[38;5;95m(\u001b[39;49m\u003c! actions\u001b[38;5;95m)\u001b[39;49m\u001b[38;5;65m]\u001b[39;49m\u001b[K\r\n\u001b[90m 47\u001b[39;49m      \u001b[38;5;65m(\u001b[39;49m\u001b[38;5;129mcase\u001b[39;49m \u001b[38;5;95m(\u001b[39;49maction \u001b[38;5;30m:type\u001b[39;49m\u001b[38;5;95m)\u001b[39;49m\u001b[K\r\n\u001b[90m 48\u001b[39;49m\u001b[K\r\n\u001b[90m 49\u001b[39;49m        \u001b[38;5;89m\"send-message\"\u001b[39;49m\u001b[K\r\n\u001b[90m 50\u001b[39;49m        \u001b[38;5;95m(\u001b[39;49m\u001b[38;5;129mlet\u001b[39;49m \u001b[38;5;67m[\u001b[39;49m\u001b[31m{\u001b[39;49m\u001b[38;5;30m:strs\u001b[39;49m \u001b[38;5;108m[\u001b[39;49mcontact-id text\u001b[38;5;108m]\u001b[39;49m\u001b[31m}\u001b[39;49m action\u001b[K"
+    ],
+    [
+      0.000117,
+      "\r\n\u001b[90m 51\u001b[39;49m              contact-puk \u001b[31m(\u001b[39;49m\u003c! \u001b[38;5;108m(\u001b[39;49mid-\u003epuk contacts contact-id\u001b[38;5;108m)\u001b[39;49m\u001b[31m)\u001b[39;49m\u001b[38;5;67m]\u001b[39;49m \u001b[38;5;124m;WARNING: if the contact-id is in\u001b[39;49m$\r\n\u001b[A\n\u001b[90m 52\u001b[39;49m          \u001b[38;5;67m(\u001b[39;49m\u001b[38;5;129mwhen\u001b[39;49m contact-puk\u001b[K\r\n\u001b[90m 53\u001b[39;49m\u001b[48;5;157m            \u001b[39;49m\u001b[31m\u001b[48;5;157m(\u001b[39;49m\u001b[38;5;129m\u001b[48;5;157mlet\u001b[39;49m\u001b[48;5;157m \u001b[39;49m\u001b[38;5;108m\u001b[48;5;157m[\u001b[39;49m\u001b[48;5;157mtuple \u001b[39;49m\u001b[48;5;157m{\u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"type\"\u001b[39;49m\u001b[48;5;157m         \u001b[39;49m\u001b[38;5;89m\u001b[48;5;157m\"message\"\u001b[39;49m\u001b[48;5;157m                                               \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;236m\u001b[47m-UU-:----F1  \u001b[39;49m\u001b[1m\u001b[38;5;236m\u001b[47mconvos.clj  \u001b[0m\u001b[39;49m\u001b[38;5;236m\u001b[47m   35% C0   Git-master  (Clojure , cljr Paredit Undo-Tree company yas Proj\u001b[39;49m\r\n\u001b[A\n\u001b[4m\u001b[30m\u001b[48;5;250m \u001b[0m\u001b[39;49m\u001b[1m\u001b[4m\u001b[30m\u001b[48;5;250mProcess [v]\u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m     \u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250mStatus\u001b[0m\u001b[39;49m\u001b[4m"
+    ],
+    [
+      0.000063,
+      "\u001b[30m\u001b[48;5;250m  \u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250mBuffer\u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m          \u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250mTTY\u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250m          \u001b[0m\u001b[39;49m\u001b[4m\u001b[30m\u001b[48;5;250mCommand                                      \u001b[0m\u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000054,
+      "\n\u001b[90m1\u001b[39;49m*ansi-term*     run     \u001b[4m\u001b[38;5;62m*ansi-term*\u001b[0m\u001b[39;49m     /dev/ttys002 /bin/sh -c stty -nl echo rows 13 columns 96 $\r\n\u001b[A\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000048,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[30m\u001b[48;5;250m-UUU:%%--F1  \u001b[39;49m\u001b[1m\u001b[30m\u001b[48;5;250m*Process List*\u001b[0m\u001b[39;49m\u001b[30m\u001b[48;5;250m   All  (Process Menu Undo-Tree company yas Projectile[sneer]) [+79%]11:\u001b[39;49m\r\n\u001b[A\u001b[30;61H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.885635,
+      "\r\u001b[?25lActive processes exist; kill them and exit anyway? (y or n) y\u001b[17;2H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.008710,
+      "\u001b[30;1H\u001b[?25lSaving file /Users/felipe/.emacs.d/company-statistics-cache.el...\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.026242,
+      "\u001b[30;1H\u001b[?25lWrote /Users/felipe/.emacs.d/company-statistics-cache.el\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.034050,
+      "\u001b[30;1H\u001b[?25lSaving file /Users/felipe/.emacs.d/recentf...\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001954,
+      "\u001b[30;1H\u001b[?25lWrote /Users/felipe/.emacs.d/recentf\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.017305,
+      "\u001b[?1000l\u001b[?1006l"
+    ],
+    [
+      0.165829,
+      "\u001b[30;30H\u001b[?25lplaces\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003470,
+      "\u001b[30;1H\u001b[?25lSaving file /Users/felipe/.emacs.d/ido.last...\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.145548,
+      "\u001b[30;1H\u001b[?25lWrote /Users/felipe/.emacs.d/ido.last\u001b[K\u001b[14;4H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.015716,
+      "\u001b[30;1H\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.006493,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                  \r \r"
+    ],
+    [
+      0.000073,
+      "\u001b]2;felipe@felipemac\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..am/sneer/core\u0007"
+    ],
+    [
+      0.003029,
+      "\u001b]7;file://felipemac.local/Users/felipe/devel/github/sneerteam/sneer/core\u0007"
+    ],
+    [
+      0.043269,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mcore \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.760584,
+      "e"
+    ],
+    [
+      0.319628,
+      "\u0008ex"
+    ],
+    [
+      0.328157,
+      "i"
+    ],
+    [
+      0.367853,
+      "t"
+    ],
+    [
+      0.559986,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.004508,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
