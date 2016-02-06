@@ -1,0 +1,590 @@
+{
+  "version": 1,
+  "width": 227,
+  "height": 76,
+  "duration": 38.144372,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.487152,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.021645,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000034,
+      "\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?2004h"
+    ],
+    [
+      0.049383,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000047,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.682574,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000014,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      2.060148,
+      "\u001b[44me\u001b[49m"
+    ],
+    [
+      0.072295,
+      "\u0008\u001b[49m\u001b[1m\u001b[31me\u001b[1m\u001b[31mv\u001b[0m\u001b[39m"
+    ],
+    [
+      0.301387,
+      "\u0008\u0008\u001b[0m\u001b[39m\u001b[44me\u001b[0m\u001b[39m\u001b[44mv\u001b[44mal\u001b[49m \u001b[33m\"$(docker-machine env xhyve)\"\u001b[39m"
+    ],
+    [
+      0.369164,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.224579,
+      "Docker Machine Version:  0.7.0-dev, build 51417fe\r\n"
+    ],
+    [
+      0.005575,
+      "Found binary path at /usr/local/bin/docker-machine-driver-xhyve\r\n"
+    ],
+    [
+      0.000383,
+      "Launching plugin server for driver xhyve\r\n"
+    ],
+    [
+      0.014033,
+      "Plugin server listening at address 127.0.0.1:62871\r\n"
+    ],
+    [
+      0.000294,
+      "() DBG | operation not supported by device\r\n"
+    ],
+    [
+      0.003983,
+      "() Calling .GetVersion\r\n"
+    ],
+    [
+      0.003456,
+      "Using API Version  1\r\n"
+    ],
+    [
+      0.000005,
+      "() Calling .SetConfigRaw\r\n"
+    ],
+    [
+      0.000395,
+      "() Calling .GetMachineName\r\n"
+    ],
+    [
+      0.000571,
+      "(xhyve) Calling .GetURL\r\n"
+    ],
+    [
+      0.000485,
+      "(xhyve) DBG | Getting to WaitForSSH function...\r\n(xhyve) DBG | Using SSH client type: external\r\n"
+    ],
+    [
+      0.000066,
+      "(xhyve) DBG | {[-o BatchMode=yes -o PasswordAuthentication=no -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o LogLevel=quiet -o ConnectionAttempts=3 -o ConnectTimeout=10 -o ControlMaster=no -o ControlPath=none docker@192.168.64.2 -o IdentitiesOnly=yes -i /Users/zchee/.docker/machine/machines/xhyve/id_rsa -p 22] /usr/local/bin/ssh}\r\n(xhyve) DBG | About to run SSH command:\r\n"
+    ],
+    [
+      0.000273,
+      "(xhyve) DBG | exit 0\r\n"
+    ],
+    [
+      0.067049,
+      "(xhyve) DBG | SSH cmd err, output: \u003cnil\u003e: \r\n"
+    ],
+    [
+      0.000328,
+      "Reading CA certificate from /Users/zchee/.docker/machine/certs/ca.pem\r\n"
+    ],
+    [
+      0.000216,
+      "Reading server certificate from /Users/zchee/.docker/machine/machines/xhyve/server.pem\r\n"
+    ],
+    [
+      0.000180,
+      "Reading server key from /Users/zchee/.docker/machine/machines/xhyve/server-key.pem\r\n"
+    ],
+    [
+      0.039477,
+      "Making call to close driver server\r\n(xhyve) Calling .Close\r\n"
+    ],
+    [
+      0.000219,
+      "Successfully made call to close driver server\r\n"
+    ],
+    [
+      0.000004,
+      "Making call to close connection to plugin binary\r\n"
+    ],
+    [
+      0.003296,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.018086,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.000002,
+      "\u001b[?2004h"
+    ],
+    [
+      0.067666,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m \u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.914478,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      1.360983,
+      "\u001b[44md\u001b[49m"
+    ],
+    [
+      0.085861,
+      "\u0008\u001b[49m\u001b[32md\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.306102,
+      "\u0008\u0008\u001b[39m\u001b[44md\u001b[39m\u001b[44mo\u001b[44mcker\u001b[49m build --no-cache \u001b[4m.\u001b[24m"
+    ],
+    [
+      0.480800,
+      "\u0008\u001b[4mD\u001b[4mockerfile\u001b[24m \u001b[4m.\u001b[24m"
+    ],
+    [
+      0.134867,
+      "\u001b[29Dversion          \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m  \u001b[24m \u001b[22D"
+    ],
+    [
+      0.465616,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.158275,
+      "Client:\r\n Version:      "
+    ],
+    [
+      0.000009,
+      "1.10.0\r\n API version:  1.22\r\n Go version:   go1.5.3\r\n Git commit:   590d5108\r\n Built:        Thu Feb  4 19:55:25 2016\r\n OS/Arch:      darwin/amd64"
+    ],
+    [
+      0.000443,
+      "\r\n\r\nServer:\r\n Version:      1.10.0\r\n API version:  1.22\r\n Go version:   go1.5.3"
+    ],
+    [
+      0.000003,
+      "\r\n Git commit:   590d5108\r\n Built:        Thu Feb  4 18:18:11 2016\r\n OS/Arch:      linux/"
+    ],
+    [
+      0.000002,
+      "amd64"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001616,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.019617,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000026,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.000012,
+      "\u001b[?2004h"
+    ],
+    [
+      0.070751,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      3.256704,
+      "\u001b[44mc\u001b[49m"
+    ],
+    [
+      0.290670,
+      "\u0008\u001b[49m\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.079916,
+      "\u0008\u0008\u001b[0m\u001b[39m\u001b[44mc\u001b[0m\u001b[39m\u001b[44ma\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.080359,
+      " "
+    ],
+    [
+      0.298550,
+      "\u001b[4mDockerfile\u001b[24m"
+    ],
+    [
+      0.365695,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.004837,
+      "FROM debian:wheezy\r\n\r\nMAINTAINER me\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.021714,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m \u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.000004,
+      "\u001b[?2004h"
+    ],
+    [
+      0.054935,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      1.884312,
+      "\u001b[44md\u001b[49m"
+    ],
+    [
+      0.052434,
+      "\u0008\u001b[49m\u001b[32md\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.295730,
+      "\u0008\u0008\u001b[39m\u001b[44md\u001b[39m\u001b[44mo\u001b[44mcker\u001b[49m version"
+    ],
+    [
+      0.526120,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008build --no-cache \u001b[4m.\u001b[24m"
+    ],
+    [
+      1.833188,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.043130,
+      "Sending build context to Docker daemon 2.048 kB\r"
+    ],
+    [
+      0.000211,
+      "\r\r\n"
+    ],
+    [
+      0.028391,
+      "Step 1 : FROM debian:wheezy\r\n"
+    ],
+    [
+      0.000006,
+      " ---\u003e 67743f70a797\r\nStep 2 : MAINTAINER me\r\n"
+    ],
+    [
+      0.083597,
+      " ---\u003e Running in bd4de74eefc6\r\n"
+    ],
+    [
+      0.464455,
+      " ---\u003e 78a045a76339\r\n"
+    ],
+    [
+      0.002147,
+      "Removing intermediate container bd4de74eefc6\r\n"
+    ],
+    [
+      0.000008,
+      "Successfully built 78a045a76339\r\n"
+    ],
+    [
+      0.001951,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.020913,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000021,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D\u001b[?2004h"
+    ],
+    [
+      0.052247,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m \u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      1.637636,
+      "\u001b[44me\u001b[49m"
+    ],
+    [
+      0.222888,
+      "\u0008\u001b[44me\u001b[44mx\u001b[49m"
+    ],
+    [
+      0.256351,
+      "\u0008\u0008\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.050575,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44me\u001b[0m\u001b[39m\u001b[44mx\u001b[0m\u001b[39m\u001b[44mi\u001b[44mt\u001b[49m"
+    ],
+    [
+      3.237598,
+      "\u0008\u0008\u0008\u0008\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mx\u001b[49m\u001b[1m\u001b[31mi\u001b[0m\u001b[39m\u001b[49m \u0008"
+    ],
+    [
+      0.228370,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44me\u001b[0m\u001b[39m\u001b[44mx\u001b[49m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.030310,
+      "\u0008\u0008\u001b[44me\u001b[49m\u001b[49m \u0008"
+    ],
+    [
+      0.020600,
+      "\u0008\u001b[49m \u0008"
+    ],
+    [
+      1.063181,
+      "\u001b[44md\u001b[49m"
+    ],
+    [
+      0.263016,
+      "\u0008\u001b[49m\u001b[32md\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.690999,
+      "\u0008\u0008\u001b[39m\u001b[44md\u001b[39m\u001b[44mo\u001b[44mcker\u001b[49m build --no-cache \u001b[4m.\u001b[24m"
+    ],
+    [
+      0.606385,
+      "\u001b[25D\u001b[7m\u001b[44md\u001b[27m\u0008"
+    ],
+    [
+      0.144297,
+      "\u001b[27m\u001b[44md\u001b[6C\u001b[49m\u001b[7mb\u001b[27m\u0008"
+    ],
+    [
+      0.134494,
+      "\u001b[27mb\u001b[5C\u001b[7m-\u001b[27m\u0008"
+    ],
+    [
+      0.945395,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[7mb\u001b[27m\u001b[5C\u001b[27m-\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.281240,
+      "\u001b[27m                 \u001b[24m \u001b[18D"
+    ],
+    [
+      0.331403,
+      "\u0008"
+    ],
+    [
+      0.191580,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[49m\u001b[1m\u001b[31md\u001b[49m\u001b[1m\u001b[31mo\u001b[49m\u001b[1m\u001b[31mc\u001b[49m\u001b[1m\u001b[31mk\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mr\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.276247,
+      "\u0008\u001b[1m\u001b[31m-\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.064487,
+      "\u0008\u001b[1m\u001b[31mm\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.183230,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.285168,
+      "\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[10D\u001b[0m\u001b[39md\u001b[0m\u001b[39mo\u001b[0m\u001b[39mc\u001b[0m\u001b[39mk\u001b[0m\u001b[39me\u001b[0m\u001b[39mr\u001b[0m\u001b[39m-\u001b[0m\u001b[39mm\u001b[0m\u001b[39ma\u001b[0m\u001b[39mchine"
+    ],
+    [
+      0.003776,
+      "\u001b[33m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000149,
+      " \u001b[33m-- external command --\u001b[39m\u001b[K\u001b[K\r\n\u001b[J\u001b[7mdocker-machine             \u001b[0m  \u001b[Jdocker-machine-driver-xhyve\u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000003,
+      "docker-machine\u001b[K\u001b[197CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[0m\u001b[27m\u001b[24m\u001b[210D"
+    ],
+    [
+      0.819141,
+      "\r\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[1B\u001b[7mdocker-machine             \u001b[0m  \r\u001b[7mdocker-machine             \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2Cdocker-machine\u001b[K\u001b[197CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[0m\u001b[27m\u001b[24m\u001b[210D"
+    ],
+    [
+      0.000067,
+      "\r\r\n\u001b[J\u001b[A\u001b[16C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.007863,
+      "\u001b[15D\u001b[44md\u001b[44mo\u001b[44mc\u001b[44mk\u001b[44me\u001b[44mr\u001b[44m-\u001b[44mm\u001b[44ma\u001b[44mc\u001b[44mh\u001b[44mi\u001b[44mn\u001b[44me\u001b[49m\u001b[1C"
+    ],
+    [
+      2.052573,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.221507,
+      "\u0007\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m-debug"
+    ],
+    [
+      0.000402,
+      "\u001b[33m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000100,
+      " \u001b[33m-- option --\u001b[39m\u001b[K\u001b[K\r\n\u001b[7m--debug            -- Enable debug mode\u001b[K\u001b[0m\u001b[K\r\n--help             -- show help\u001b[K\u001b[K\r\n--storage-path     -- Configures storage path\u001b[K\u001b[K\r\n--tls-ca-cert      -- CA to verify remotes against\u001b[K\u001b[K\r\n--tls-ca-key       -- Private key to generate certificates\u001b[K\u001b[K\r\n--tls-client-cert  -- Client cert to use for TLS\u001b[K\u001b[K\r\n--tls-client-key   -- Private key used in client TLS auth\u001b[K\u001b[K\r\n\u001b[J--version          -- print the version\u001b[K\u001b[J\u001b[9A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "\u001b[44mdocker-machine\u001b[49m --debug\u001b[K\u001b[189CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[0m\u001b[27m\u001b[24m\u001b[202D"
+    ],
+    [
+      1.424638,
+      "\r\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[1B\u001b[7m--debug            -- Enable debug mode\u001b[K\u001b[0m\r\u001b[7m--debug            -- Enable debug mode\u001b[K\u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "\u001b[44mdocker-machine\u001b[49m --debug\u001b[K\u001b[189CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[0m\u001b[27m\u001b[24m\u001b[202D"
+    ],
+    [
+      0.000022,
+      "\u0008\u0008\u0008\u0008\u0008version"
+    ],
+    [
+      0.000599,
+      "\r\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[1B\u001b[0m--debug            -- Enable debug mode\u001b[K\r\u001b[7B\u001b[7m--version          -- print the version\u001b[K\u001b[0m\r\u001b[9A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[2C"
+    ],
+    [
+      0.000012,
+      "\u001b[44mdocker-machine\u001b[49m --version\u001b[K\u001b[187CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[0m\u001b[27m\u001b[24m\u001b[200D"
+    ],
+    [
+      0.333858,
+      "\r\r\n\u001b[J\u001b[A\u001b[26C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.483833,
+      "\u0008\u001b[0m \u0008\u001b[?2004l"
+    ],
+    [
+      0.000015,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.197386,
+      "Docker Machine Version:  0.7.0-dev, build 51417fe\r\n"
+    ],
+    [
+      0.001300,
+      "docker-machine version 0.7.0-dev, build 51417fe\r\n"
+    ],
+    [
+      0.001999,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                  \r \r"
+    ],
+    [
+      0.028519,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      0.000002,
+      "\u001b[?2004h"
+    ],
+    [
+      0.082120,
+      "\r\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;2;129;162;190m~/tmp/dockerfile\u001b[0m\u001b[00m \u001b[38;2;51;51;153m\r\n\u003e\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[211CDocker:\u001b[38;2;178;148;187mxhyve\u001b[00m \u001b[224D"
+    ],
+    [
+      2.144538,
+      "\u001b[44me\u001b[49m"
+    ],
+    [
+      0.222276,
+      "\u0008\u001b[44me\u001b[44mx\u001b[49m"
+    ],
+    [
+      0.238567,
+      "\u0008\u0008\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.028896,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44me\u001b[0m\u001b[39m\u001b[44mx\u001b[0m\u001b[39m\u001b[44mi\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.375298,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
