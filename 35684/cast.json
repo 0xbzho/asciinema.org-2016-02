@@ -1,0 +1,6686 @@
+{
+  "version": 1,
+  "width": 174,
+  "height": 42,
+  "duration": 380.290944,
+  "command": "./run.sh --video 5",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.663816,
+      " export SHUTIT_BACKUP_PS1_origin_prompt=$PS1 \u0026\u0026 PS1='ORIGIN_ENV#qbpXg8Ph\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.071381,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.026292,
+      "imiell@rothko:/space/git/shutit-docker-1_10$  "
+    ],
+    [
+      0.000175,
+      "export SHUTIT_BA"
+    ],
+    [
+      0.000189,
+      "CKUP_PS1_ori"
+    ],
+    [
+      0.000206,
+      "gin_pr \rompt=$PS1 "
+    ],
+    [
+      0.000167,
+      "\u0026\u0026 PS1='ORIGIN_ENV"
+    ],
+    [
+      0.000183,
+      "#qbpXg8Ph\u003e ' \u0026"
+    ],
+    [
+      0.000210,
+      "\u0026 unset PRO"
+    ],
+    [
+      0.000163,
+      "MPT_COMMAN"
+    ],
+    [
+      0.000234,
+      "D \u0026\u0026 stt"
+    ],
+    [
+      0.000222,
+      "y col"
+    ],
+    [
+      0.000204,
+      "s 32 \r0\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001130,
+      "ORIGIN_ENV#qbpXg8Ph\u003e "
+    ],
+    [
+      0.101064,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILNEXIST-FILFIN\r\r\nORIGIN_ENV#qbpXg8Ph\u003e "
+    ],
+    [
+      0.101340,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001575,
+      "ORIGIN_ENV#qbpXg8Ph\u003e "
+    ],
+    [
+      0.100757,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.003358,
+      "ORIGIN_ENV#qbpXg8Ph\u003e "
+    ],
+    [
+      0.100727,
+      "touch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.001489,
+      "ORIGIN_ENV#qbpXg8Ph\u003e "
+    ],
+    [
+      0.101025,
+      " export SHUTIT_BACKUP_PS1_root=$PS1 \r \u0026\u0026 PS1='default#JMlkaCJV\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001602,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100922,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.100672,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000232,
+      "FILEXIST-FILFIN\r\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.100638,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001812,
+      "ORIGIN_ENV\r\r\n"
+    ],
+    [
+      0.000221,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100664,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000207,
+      "FILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000038,
+      "\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.100676,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000250,
+      "FILEXIST-FILFIN\r\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.100597,
+      " cat /etc/issue\r\r\n"
+    ],
+    [
+      0.000765,
+      "Ubuntu 15.10 \\n \\l\r\r\n\r\r\n"
+    ],
+    [
+      0.000250,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100848,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001862,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100824,
+      "chmod -R 777 /tmp/shutit_imiell\r\r\n"
+    ],
+    [
+      0.002960,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100647,
+      "touch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/4V1F2yzK\r\r\n"
+    ],
+    [
+      0.001409,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.102836,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000216,
+      "FILNEXIST-FILFIN\r\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.100920,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000166,
+      "FILNEXIST-FILFIN\r\r\ndefault#JMlkaCJV\u003e "
+    ],
+    [
+      0.058050,
+      "bash"
+    ],
+    [
+      0.050171,
+      "\r\n"
+    ],
+    [
+      0.000885,
+      "bash\r\r\n"
+    ],
+    [
+      0.187636,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.020305,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.100944,
+      " export SHUTIT_BACKUP_PS1_LCLoXhIM=$PS1 \u0026\u0026 PS1='shutit.tk.setup#UOnL8cPj\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000924,
+      "shutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100783,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100748,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000188,
+      "FILEXIST-FILFIN\r\r\nshutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100646,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001789,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000424,
+      "shutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100753,
+      "cd\r\r\n"
+    ],
+    [
+      0.000314,
+      "shutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100732,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000277,
+      "shutit.tk.setup#UOnL8cPj\u003e "
+    ],
+    [
+      0.100714,
+      "exit\r\r\n"
+    ],
+    [
+      0.000182,
+      "exit\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000760,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100724,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000208,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.052074,
+      "bash"
+    ],
+    [
+      0.050126,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "bash\r\r\n"
+    ],
+    [
+      0.209051,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.023403,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.101176,
+      " export SHUTIT_BACKUP_PS1_6edLdQcr=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001444,
+      "tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100955,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100628,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000162,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100592,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001875,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000451,
+      "tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100832,
+      "cd\r\r\n"
+    ],
+    [
+      0.000299,
+      "tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100676,
+      "cd /space/git/shutit-docker-1_10/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000373,
+      "tk.shutit.vagrant.vagrant.vagrant#ddJZ6w8N\u003e "
+    ],
+    [
+      0.100805,
+      "exit\r\r\n"
+    ],
+    [
+      0.000146,
+      "exit\r\r\n"
+    ],
+    [
+      0.001006,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100868,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000247,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.050752,
+      "bash"
+    ],
+    [
+      0.050124,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "bash\r\r\n"
+    ],
+    [
+      0.211671,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.024387,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.100981,
+      " export SHUTIT_BACKUP_PS1_tGLKvfTe=$PS1 \u0026\u0026 PS1='shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001461,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100832,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000010,
+      "FILEXIST-FILFIN\r\r\nshutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100597,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000192,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000222,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100593,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001927,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000473,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100748,
+      "cd\r\r\n"
+    ],
+    [
+      0.000312,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100777,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000277,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#KPvjS4Qr\u003e "
+    ],
+    [
+      0.100688,
+      "exit\r\r\n"
+    ],
+    [
+      0.000300,
+      "exit\r\r\n"
+    ],
+    [
+      0.001549,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100708,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000182,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.109527,
+      "cd /home/imiell/.local/lib/python2.7/site-packages\r\r\n"
+    ],
+    [
+      0.000216,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.050542,
+      "bash"
+    ],
+    [
+      0.050128,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "bash\r\r\n"
+    ],
+    [
+      0.209494,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.018497,
+      "imiell@rothko:~/.local/lib/python2.7/site-packages$ "
+    ],
+    [
+      0.101061,
+      " export SHUTIT_BACKUP_PS1_pOybERaK=$PS1 \u0026\u0026 PS1='shutit.tk.setup#YZ165Aaq\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001227,
+      "shutit.tk.setup#YZ165Aaq\u003e "
+    ],
+    [
+      0.100952,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#YZ165Aaq\u003e "
+    ],
+    [
+      0.100615,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000296,
+      "FILEXIST-FILFIN\r\r\nshutit.tk.setup#YZ165Aaq\u003e "
+    ],
+    [
+      0.100597,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001851,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000366,
+      "shutit.tk.setup#YZ165Aaq\u003e "
+    ],
+    [
+      0.100751,
+      "cd\r\r\n"
+    ],
+    [
+      0.000276,
+      "shutit.tk.setup#YZ165Aaq\u003e "
+    ],
+    [
+      0.100934,
+      "exit\r\r\n"
+    ],
+    [
+      0.000175,
+      "exit\r\r\n"
+    ],
+    [
+      0.000830,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100752,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000148,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.102567,
+      "cd /space/git/shutit-docker-1_10/shutit-library/vagrant\r\r\n"
+    ],
+    [
+      0.000151,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.050588,
+      "bash"
+    ],
+    [
+      0.050118,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "bash\r\r\n"
+    ],
+    [
+      0.211080,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.019710,
+      "imiell@rothko:/space/git/shutit-docker-1_10/shutit-library/vagrant$ "
+    ],
+    [
+      0.100890,
+      " export SHUTIT_BACKUP_PS1_EFryYjLQ=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001733,
+      "tk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100724,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100554,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000208,
+      "FILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100500,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001712,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000386,
+      "tk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100605,
+      "cd\r\r\n"
+    ],
+    [
+      0.000217,
+      "tk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100580,
+      "command -v vagrant\r\r\n"
+    ],
+    [
+      0.000159,
+      "/usr/bin/vagrant\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "tk.shutit.vagrant.vagrant.vagrant#u58SyHUO\u003e "
+    ],
+    [
+      0.100605,
+      "exit\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "exit\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100544,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000243,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.100721,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000210,
+      "default#JMlkaCJV\u003e "
+    ],
+    [
+      0.050561,
+      "bash"
+    ],
+    [
+      0.050130,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "bash\r\r\n"
+    ],
+    [
+      0.210857,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.025697,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.101206,
+      " export SHUTIT_BACKUP_PS1_u7LnGZnl=$PS1 \u0026\u0026 PS1='shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001393,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100882,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100534,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000250,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000202,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100615,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001712,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000461,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100815,
+      "cd\r\r\n"
+    ],
+    [
+      0.000198,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100848,
+      "rm -rf /tmp/docker1_10\r\r\n"
+    ],
+    [
+      0.002106,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100560,
+      "vagrant box list 2\u003e/dev/null | grep ubuntu/vivid64\r\r\n"
+    ],
+    [
+      1.014015,
+      "\u001b[01;31m\u001b[Kubuntu/vivid64\u001b[m\u001b[K                                                                      (virtualbox, 20160203.0.0)\r\r\n"
+    ],
+    [
+      0.030501,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.000303,
+      "\r\n\u001b[31m\r\n================================================================================\r\nvagrant up\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000023,
+      "mkdir /tmp/docker1_10 \u0026\u0026 cd /tmp/docker1_10 \u0026\u0026 vagrant init ubuntu/vivid64 \u0026\u0026 vagrant up\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105658,
+      "mkdir /tmp/docker1_10 \u0026\u0026 cd /tmp/docker1_10 \u0026\u0026 vagrant init ubuntu/vivid64 \u0026\u0026 vagrant up\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.161180,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.288674,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.247205,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\r\nready to `vagrant up` your first virtual environment! Please read\r\r\nthe comments in the Vagrantfile as well as documentation on\r\r\n"
+    ],
+    [
+      0.000007,
+      "`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\r\n"
+    ],
+    [
+      0.169666,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.327167,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.899868,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\r\n"
+    ],
+    [
+      0.256335,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/vivid64'...\u001b[0m\r\r\n"
+    ],
+    [
+      6.348398,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      13.045758,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000362,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\r\n"
+    ],
+    [
+      0.294287,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/vivid64' is up to date...\u001b[0m\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.006457,
+      "\u001b[1m==\u003e default: Setting the name of the VM: docker1_10_default_1454762645247_22316\u001b[0m\r\r\n"
+    ],
+    [
+      0.332300,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\r\n"
+    ],
+    [
+      0.384606,
+      "\u001b[1m==\u003e default: Fixed port collision for 22 =\u003e 2222. Now on port 2200.\u001b[0m\r\r\n"
+    ],
+    [
+      0.395101,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\r\n"
+    ],
+    [
+      0.132780,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\r\n"
+    ],
+    [
+      0.123211,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\r\n"
+    ],
+    [
+      0.077608,
+      "\u001b[0m    default: 22 =\u003e 2200 (adapter 1)\u001b[0m\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.498149,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.341625,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.005401,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.177488,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2200\u001b[0m\r\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      15.137016,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\r\n"
+    ],
+    [
+      4.451329,
+      "\u001b[0m    default: \r\r\n"
+    ],
+    [
+      0.000006,
+      "    default: Vagrant insecure key detected. Vagrant will automatically replace\r\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\r\n"
+    ],
+    [
+      0.776420,
+      "\u001b[0m    default: \r\r\n    default: Inserting generated public key within guest...\u001b[0m\r\r\n"
+    ],
+    [
+      0.352630,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\r\n"
+    ],
+    [
+      0.190674,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\r\n"
+    ],
+    [
+      0.923569,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\r\n"
+    ],
+    [
+      0.000662,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\r\n"
+    ],
+    [
+      0.058284,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r"
+    ],
+    [
+      0.000009,
+      "\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\r\n    default: prevent things such as shared folders from working properly. If you see\r\r\n    default: shared folder errors, please make sure the guest additions within the\r\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\r\n    default: your host and reload your VM.\r\r\n    default: \r\r\n"
+    ],
+    [
+      0.000010,
+      "    default: Guest Additions Version: 4.3.36\r\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\r\n"
+    ],
+    [
+      0.075684,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[0m    default: /vagrant =\u003e /tmp/docker1_10\u001b[0m\r\r\n"
+    ],
+    [
+      0.800443,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      5.001310,
+      "\r\n\u001b[31m\r\n================================================================================\r\nLog into the VM\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000015,
+      "vagrant ssh\", as user: \"root\"\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.055423,
+      "vagrant ssh"
+    ],
+    [
+      0.050160,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "vagrant ssh\r\r\n"
+    ],
+    [
+      0.213982,
+      "/opt/vagrant/embedded/gems/gems/vagrant-1.7.4/lib/vagrant/pre-rubygems.rb:31: warning: Insecure world writable dir /space in PATH, mode 040777\r\r\n"
+    ],
+    [
+      0.330915,
+      "/opt/vagrant/embedded/gems/gems/bundler-1.10.5/lib/bundler/shared_helpers.rb:78: warning: Insecure world writable dir /space in PATH, mode 040777\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      2.534049,
+      "Welcome to Ubuntu 15.04 (GNU/Linux 3.19.0-49-generic x86_64)\r\r\n\r\r\n * Documentation:  https://help.ubuntu.com/\r\r\n\r\r\n  System information as of Sat Feb  6 12:44:43 UTC 2016\r\r\n\r\r\n"
+    ],
+    [
+      0.000009,
+      "  System load:  0.36              Processes:           77\r\r\n  Usage of /:   3.4% of 38.80GB   Users logged in:     0\r\r\n  Memory usage: 37%               IP address for eth0: 10.0.2.15\r\r\n  Swap usage:   0%\r\r\n\r\r\n  Graph this data and manage this system at:\r\r\n    https://landscape.canonical.com/\r\r\n\r\r\n  Get cloud support with Ubuntu Advantage Cloud Guest:\r\r\n    http://www.ubuntu.com/business/services/cloud\r\r\n\r\r\n0 packages can be updated.\r\r\n0 updates are security updates.\r\r\n\r\r\nYour Ubuntu release is not supported anymore.\r"
+    ],
+    [
+      0.000020,
+      "\r\nFor upgrade information, please visit:\r\r\nhttp://www.ubuntu.com/releaseendoflife\r\r\n\r\r\nNew release '15.10' available.\r\r\nRun 'do-release-upgrade' to upgrade to it.\r\r\n\r\r\n\r\r\n"
+    ],
+    [
+      0.017008,
+      "vagrant@vagrant-ubuntu-vivid-64:~$ "
+    ],
+    [
+      0.101100,
+      " export SHUTIT_BACKUP_PS1_1LHVS4sv=$PS1 \u0026\u0026 PS1='1LHVS4sv#OfODPdgu\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.000535,
+      "\r\r\n"
+    ],
+    [
+      0.037385,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100906,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000589,
+      "\r\r\nFILNEXIST-FILFIN\r\r\n1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100701,
+      " test -a /etc/issue \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000768,
+      "\r\r\nFILEXIST-FILFIN\r\r\n1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100617,
+      " cat /etc/issue"
+    ],
+    [
+      0.000863,
+      "\r\r\n"
+    ],
+    [
+      0.000965,
+      "Ubuntu 15.04 \\n \\l"
+    ],
+    [
+      0.000270,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100833,
+      "mkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id"
+    ],
+    [
+      0.001354,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.002186,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100751,
+      "chmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000927,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001429,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100690,
+      "touch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/gIiLwk6t"
+    ],
+    [
+      0.000747,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001186,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100691,
+      "cd"
+    ],
+    [
+      0.000664,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      5.052602,
+      "sudo su - root"
+    ],
+    [
+      0.050223,
+      "\r\nsudo su - root"
+    ],
+    [
+      0.001250,
+      "\r\r\n"
+    ],
+    [
+      0.071698,
+      "root@vagrant-ubuntu-vivid-64:~# "
+    ],
+    [
+      0.100933,
+      " export SHUTIT_BACKUP_PS1_8u61FGrv=$PS1 \u0026\u0026 PS1='8u61FGrv#FlrFhNou\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320"
+    ],
+    [
+      0.000604,
+      "\r\r\n"
+    ],
+    [
+      0.037044,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100840,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000647,
+      "\r\r\nFILEXIST-FILFIN\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100734,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000875,
+      "\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000026,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100601,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id"
+    ],
+    [
+      0.001161,
+      "\r\r\n"
+    ],
+    [
+      0.001842,
+      "gIiLwk6t"
+    ],
+    [
+      0.000185,
+      "\r\r\n"
+    ],
+    [
+      0.000589,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100669,
+      " test -a /cygdrive \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN"
+    ],
+    [
+      0.000786,
+      "\r\r\nFILNEXIST-FILFIN\r"
+    ],
+    [
+      0.000005,
+      "\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100795,
+      "cd"
+    ],
+    [
+      0.000804,
+      "\r\r\n"
+    ],
+    [
+      0.000006,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100727,
+      "curl -sSL -O https://get.docker.com/builds/Linux/x86_64/docker-1.10.0 \u0026\u0026 chmod +x docker-1.10.0 \u0026\u0026 sudo mv docker-1.10.0 /usr/bin/docker"
+    ],
+    [
+      0.001161,
+      "\r\r\n"
+    ],
+    [
+      4.638254,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100788,
+      "chmod +x /usr/bin/docker"
+    ],
+    [
+      0.001057,
+      "\r\r\n"
+    ],
+    [
+      0.001262,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.000239,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000007,
+      "================================================================================\r\nCreate the subuid file for namespace support\r\n================================================================================\r\nCommand to be run is:\r\n\tSending contents to path: /etc/subuid\r\n================================================================================\r\n\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      5.105575,
+      "whoami"
+    ],
+    [
+      0.001027,
+      "\r\r\n"
+    ],
+    [
+      0.001910,
+      "root"
+    ],
+    [
+      0.000177,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000472,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100674,
+      "groups | cut -f 1 -d ' '"
+    ],
+    [
+      0.001134,
+      "\r\r\n"
+    ],
+    [
+      0.002848,
+      "root"
+    ],
+    [
+      0.000277,
+      "\r\r\n"
+    ],
+    [
+      0.000584,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100871,
+      "bind '\\C-i:self-insert' "
+    ],
+    [
+      0.000796,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100799,
+      "head   -c -1 \u003e /etc/subuid \u003c\u003c 'END_cu4y2l5O'\r\r\n\u003e dockremap:10000:1000\r\r\n\u003e END_cu4y2l5O"
+    ],
+    [
+      0.001109,
+      "\r\r\n"
+    ],
+    [
+      0.002284,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100775,
+      "bind '\\C-i:complete' "
+    ],
+    [
+      0.000873,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005399,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate the subgid file for namespace support\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000016,
+      "\tSending contents to path: /etc/subgid\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105484,
+      "whoami"
+    ],
+    [
+      0.000933,
+      "\r\r\n"
+    ],
+    [
+      0.001338,
+      "root"
+    ],
+    [
+      0.000202,
+      "\r\r\n"
+    ],
+    [
+      0.000461,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100638,
+      "groups | cut -f 1 -d ' '"
+    ],
+    [
+      0.001095,
+      "\r\r\n"
+    ],
+    [
+      0.002756,
+      "root"
+    ],
+    [
+      0.000217,
+      "\r\r\n"
+    ],
+    [
+      0.000607,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100764,
+      "bind '\\C-i:self-insert' "
+    ],
+    [
+      0.000962,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100700,
+      "head   -c -1 \u003e /etc/subgid \u003c\u003c 'END_t9dtVGt7'\r\r\n\u003e dockremap:10000:1000\r\r\n\u003e END_t9dtVGt7"
+    ],
+    [
+      0.001148,
+      "\r\r\n"
+    ],
+    [
+      0.002267,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100763,
+      "bind '\\C-i:complete' "
+    ],
+    [
+      0.001139,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005480,
+      "\r\n\u001b[31m\r\n================================================================================\r\nStart the docker daemon with user namespace support\r\n================================================================================\r\nCommand to be run is:\r\n\tnohup docker daemon --userns-remap=default \u0026\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105448,
+      "nohup docker daemon --userns-remap=default \u0026"
+    ],
+    [
+      0.000882,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n[1] 1589"
+    ],
+    [
+      0.000312,
+      "\r"
+    ],
+    [
+      0.000016,
+      "\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005352,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRun a container as root for thirty seconds\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker run -d --user=root --name sleeper busybox sleep 30\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.101879,
+      "nohup: ignoring input and appending output to ‘nohup.out’\r\r\ndocker run -d --user=root --name sleeper busybox sleep 30"
+    ],
+    [
+      0.001517,
+      "\r\r\n"
+    ],
+    [
+      0.055028,
+      "Unable to find image 'busybox:latest' locally"
+    ],
+    [
+      0.000176,
+      "\r\r\n"
+    ],
+    [
+      1.894286,
+      "latest: "
+    ],
+    [
+      0.000458,
+      "Pulling from library/busybox\r\r\n\u001b[0B"
+    ],
+    [
+      0.001790,
+      "\r\r\n\u001b[0A\u001b[2K\reeee0535bf3c: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000730,
+      "\r\r\n\u001b[0A\u001b[2K\ra3ed95caeb02: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      1.069237,
+      "\u001b[1A"
+    ],
+    [
+      0.000235,
+      "\u001b[2K\ra3ed95caeb02: Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000499,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Verifying Checksum \r\u001b[1B"
+    ],
+    [
+      0.000318,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Download complete \r\u001b[1B"
+    ],
+    [
+      0.009593,
+      "\u001b[2A"
+    ],
+    [
+      0.000337,
+      "\u001b[2K\reeee0535bf3c: Downloading [=\u003e                                                 ] 15.88 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.005380,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [==\u003e                                                ] 32.27 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004812,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [===\u003e                                               ] 48.65 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.004093,
+      "\u001b[2A"
+    ],
+    [
+      0.000185,
+      "\u001b[2K\reeee0535bf3c: Downloading [====\u003e                                              ] 64.63 kB/675.8 kB\r"
+    ],
+    [
+      0.000209,
+      "\u001b[2B"
+    ],
+    [
+      0.001771,
+      "\u001b[2A"
+    ],
+    [
+      0.000258,
+      "\u001b[2K\reeee0535bf3c: Downloading [======\u003e                                            ] 81.42 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002539,
+      "\u001b[2A"
+    ],
+    [
+      0.000249,
+      "\u001b[2K\reeee0535bf3c: Downloading [=======\u003e                                           ]  97.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002462,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [========\u003e                                          ] 114.2 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002576,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=========\u003e                                         ] 130.2 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002559,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [==========\u003e                                        ] 146.5 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.003099,
+      "\u001b[2A"
+    ],
+    [
+      0.000367,
+      "\u001b[2K\reeee0535bf3c: Downloading [============\u003e                                      ] 162.9 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002143,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=============\u003e                                     ] 179.3 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002170,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [==============\u003e                                    ] 195.7 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.003272,
+      "\u001b[2A"
+    ],
+    [
+      0.000207,
+      "\u001b[2K\reeee0535bf3c: Downloading [===============\u003e                                   ] 212.1 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002249,
+      "\u001b[2A"
+    ],
+    [
+      0.000216,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000226,
+      "eeee0535bf3c: Downloading [================\u003e                                  ] 228.5 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002560,
+      "\u001b[2A"
+    ],
+    [
+      0.000191,
+      "\u001b[2K\reeee0535bf3c: Downloading [==================\u003e                                ] 244.9 kB/675.8 kB\r"
+    ],
+    [
+      0.000213,
+      "\u001b[2B"
+    ],
+    [
+      0.001072,
+      "\u001b[2A"
+    ],
+    [
+      0.000316,
+      "\u001b[2K\reeee0535bf3c: Downloading [===================\u003e                               ] 261.2 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002301,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [====================\u003e                              ] 277.6 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002274,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=====================\u003e                             ]   294 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002051,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [======================\u003e                            ] 310.4 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002651,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [========================\u003e                          ] 326.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002117,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=========================\u003e                         ] 343.2 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002367,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [==========================\u003e                        ] 359.5 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002490,
+      "\u001b[2A"
+    ],
+    [
+      0.000322,
+      "\u001b[2K\reeee0535bf3c: Downloading [===========================\u003e                       ] 375.9 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001127,
+      "\u001b[2A"
+    ],
+    [
+      0.000230,
+      "\u001b[2K\reeee0535bf3c: Downloading [=============================\u003e                     ] 392.3 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001891,
+      "\u001b[2A"
+    ],
+    [
+      0.000326,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000296,
+      "eeee0535bf3c: Downloading [==============================\u003e                    ] 408.7 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001657,
+      "\u001b[2A"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000218,
+      "eeee0535bf3c: Downloading [===============================\u003e                   ] 425.1 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001992,
+      "\u001b[2A"
+    ],
+    [
+      0.000197,
+      "\u001b[2K\reeee0535bf3c: Downloading [================================\u003e                  ] 441.5 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001903,
+      "\u001b[2A"
+    ],
+    [
+      0.000204,
+      "\u001b[2K\reeee0535bf3c: Downloading [=================================\u003e                 ] 457.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002056,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [===================================\u003e               ] 474.2 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001985,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: "
+    ],
+    [
+      0.000259,
+      "Downloading [====================================\u003e              ] 490.6 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001429,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=====================================\u003e             ]   507 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002279,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [======================================\u003e            ] 523.4 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002217,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=======================================\u003e           ] 539.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002331,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=========================================\u003e         ] 556.1 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001850,
+      "\u001b[2A"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\reeee0535bf3c: Downloading [==========================================\u003e        ] 572.5 kB/675.8 kB\r"
+    ],
+    [
+      0.000184,
+      "\u001b[2B"
+    ],
+    [
+      0.001861,
+      "\u001b[2A"
+    ],
+    [
+      0.000265,
+      "\u001b[2K\reeee0535bf3c: Downloading [===========================================\u003e       ] 588.9 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.001348,
+      "\u001b[2A"
+    ],
+    [
+      0.000212,
+      "\u001b[2K\reeee0535bf3c: Downloading [============================================\u003e      ] 605.3 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002084,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=============================================\u003e     ] 621.7 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002448,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [===============================================\u003e   ] 638.1 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002031,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [================================================\u003e  ] 654.5 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.002038,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Downloading [=================================================\u003e ] 670.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000675,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Verifying Checksum \r\u001b[2B"
+    ],
+    [
+      0.000262,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Download complete \r\u001b[2B"
+    ],
+    [
+      0.000834,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Extracting [==\u003e                                                ] 32.77 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.047060,
+      "\u001b[2A"
+    ],
+    [
+      0.000170,
+      "\u001b[2K\reeee0535bf3c: "
+    ],
+    [
+      0.000177,
+      "Extracting [=======\u003e                                           ]  98.3 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.003834,
+      "\u001b[2A"
+    ],
+    [
+      0.000261,
+      "\u001b[2K\reeee0535bf3c: Extracting [============\u003e                                      ] 163.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.009674,
+      "\u001b[2A"
+    ],
+    [
+      0.000179,
+      "\u001b[2K\reeee0535bf3c: Extracting [================\u003e                                  ] 229.4 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.003886,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Extracting [=====================\u003e                             ] 294.9 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000195,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Extracting [==========================\u003e                        ] 360.4 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.000276,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Extracting [===============================\u003e                   ]   426 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.024662,
+      "\u001b[2A"
+    ],
+    [
+      0.000165,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000359,
+      "eeee0535bf3c: "
+    ],
+    [
+      0.000284,
+      "Extracting [====================================\u003e              ] 491.5 kB/675.8 kB\r"
+    ],
+    [
+      0.000168,
+      "\u001b[2B"
+    ],
+    [
+      0.000178,
+      "\u001b[2A"
+    ],
+    [
+      0.000176,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000179,
+      "eeee0535bf3c: "
+    ],
+    [
+      0.000175,
+      "Extracting [=========================================\u003e         ] 557.1 kB/675.8 kB\r"
+    ],
+    [
+      0.000178,
+      "\u001b[2B\u001b[2A"
+    ],
+    [
+      0.000170,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000176,
+      "eeee0535bf3c: "
+    ],
+    [
+      0.000177,
+      "Extracting [==============================================\u003e    ] 622.6 kB/675.8 kB\r"
+    ],
+    [
+      0.000174,
+      "\u001b[2B"
+    ],
+    [
+      0.000174,
+      "\u001b[2A"
+    ],
+    [
+      0.000177,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000172,
+      "eeee0535bf3c: "
+    ],
+    [
+      0.000175,
+      "Extracting [================================================\u003e  ] 655.4 kB/675.8 kB\r\u001b[2B\u001b[2A"
+    ],
+    [
+      0.000178,
+      "\u001b[2K\reeee0535bf3c: Extracting [==================================================\u003e] 675.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.013329,
+      "\u001b[2A"
+    ],
+    [
+      0.000256,
+      "\u001b[2K\reeee0535bf3c: Extracting [==================================================\u003e] 675.8 kB/675.8 kB\r\u001b[2B"
+    ],
+    [
+      0.014312,
+      "\u001b[2A"
+    ],
+    [
+      0.000377,
+      "\u001b[2K\reeee0535bf3c: "
+    ],
+    [
+      0.000207,
+      "Pull complete \r"
+    ],
+    [
+      0.000206,
+      "\u001b[2B"
+    ],
+    [
+      0.001223,
+      "\u001b[2A\u001b[2K\reeee0535bf3c: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.000604,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.022384,
+      "\u001b[1A"
+    ],
+    [
+      0.000186,
+      "\u001b[2K\ra3ed95caeb02: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.022672,
+      "\u001b[1A"
+    ],
+    [
+      0.000185,
+      "\u001b[2K\ra3ed95caeb02: Pull complete \r\u001b[1B\u001b[1A\u001b[2K\ra3ed95caeb02: Pull complete \r\u001b[1B"
+    ],
+    [
+      0.000814,
+      "Digest: sha256:c1bc9b4bffe665bf014a305cc6cf3bca0e6effeb69d681d7a208ce741dad58e0\r\r\nStatus: Downloaded newer image for busybox:latest\r\r\n"
+    ],
+    [
+      0.038424,
+      "b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f"
+    ],
+    [
+      0.000198,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.089216,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.003481,
+      "\r\n\u001b[31m\r\n================================================================================\r\nSleep is running as root in the container...\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000032,
+      "docker exec sleeper ps -a\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105613,
+      "docker exec sleeper ps -a"
+    ],
+    [
+      0.001022,
+      "\r\r\n"
+    ],
+    [
+      0.110869,
+      "PID   USER     TIME   COMMAND\r\r\n    1 root       0:00 sleep 30\r\r\n    5 root       0:00 ps -a\r\r\n"
+    ],
+    [
+      0.000228,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005373,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000025,
+      "\r\n================================================================================\r\n...but not as root on the host.\r\n================================================================================\r\nCommand to be run is:\r\n\tps -ef | grep sleep\r\n"
+    ],
+    [
+      0.000011,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      5.105646,
+      "ps -ef | grep sleep"
+    ],
+    [
+      0.001231,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.016210,
+      "dockrem+  1797  1589  0 12:45 ?        00:00:00 \u001b[01;31m\u001b[Ksleep\u001b[m\u001b[K 30"
+    ],
+    [
+      0.000272,
+      "\r\r\nroot      1819  1557  0 12:45 pts/0    00:00:00 grep --color=auto \u001b[01;31m\u001b[Ksleep\u001b[m\u001b[K\r\r\n"
+    ],
+    [
+      0.000791,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005425,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRemove the sleeper container\r\n"
+    ],
+    [
+      0.000014,
+      "================================================================================\r\nCommand to be run is:\r\n\tdocker rm -f sleeper\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105830,
+      "docker rm -f sleeper"
+    ],
+    [
+      0.001223,
+      "\r\r\n"
+    ],
+    [
+      0.774881,
+      "sleeper\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000544,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005407,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate the stresser script.\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000022,
+      "Sending contents to path: stresser.sh\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105463,
+      "whoami"
+    ],
+    [
+      0.001558,
+      "\r\r\n"
+    ],
+    [
+      0.001521,
+      "root"
+    ],
+    [
+      0.000166,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000460,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100602,
+      "groups | cut -f 1 -d ' '"
+    ],
+    [
+      0.001040,
+      "\r\r\n"
+    ],
+    [
+      0.003284,
+      "root"
+    ],
+    [
+      0.000192,
+      "\r\r\n"
+    ],
+    [
+      0.000541,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100766,
+      "bind '\\C-i:self-insert' "
+    ],
+    [
+      0.000532,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100698,
+      "head   -c -1 \u003e stresser.sh \u003c\u003c 'END_P3Di10AC'\r\r\n"
+    ],
+    [
+      0.000010,
+      "\u003e while /bin/true\r\r\n\u003e do\r\r\n\u003e       echo stressing\r\r\n\u003e       stress --cpu 1 --timeout 100\r\r\n\u003e       echo done stressing\r\r\n\u003e       sleep 1\r\r\n\u003e done\r\r\n\u003e END_P3Di10AC"
+    ],
+    [
+      0.001024,
+      "\r\r\n"
+    ],
+    [
+      0.001931,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100831,
+      "bind '\\C-i:complete' "
+    ],
+    [
+      0.000904,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005376,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate the stresser image Dockerfile\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000012,
+      "\tSending contents to path: Dockerfile\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105468,
+      "whoami"
+    ],
+    [
+      0.001072,
+      "\r\r\n"
+    ],
+    [
+      0.001667,
+      "root"
+    ],
+    [
+      0.000307,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000678,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100556,
+      "groups | cut -f 1 -d ' '"
+    ],
+    [
+      0.001016,
+      "\r\r\n"
+    ],
+    [
+      0.002951,
+      "root"
+    ],
+    [
+      0.000243,
+      "\r\r\n"
+    ],
+    [
+      0.000617,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100797,
+      "bind '\\C-i:self-insert' "
+    ],
+    [
+      0.000938,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100749,
+      "head   -c -1 \u003e Dockerfile \u003c\u003c 'END_Iu4xi5kh'\r\r\n\u003e FROM debian\r\r\n\u003e RUN apt-get update \u0026\u0026 apt-get install stress\r"
+    ],
+    [
+      0.000013,
+      "\r\n\u003e ADD stresser.sh /stresser.sh\r\r\n\u003e RUN chmod +x stresser.sh\r\r\n\u003e CMD /bin/bash -c /stresser.sh\r\r\n\u003e END_Iu4xi5kh"
+    ],
+    [
+      0.000877,
+      "\r\r\n"
+    ],
+    [
+      0.001776,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.100832,
+      "bind '\\C-i:complete' "
+    ],
+    [
+      0.000908,
+      "\r\r\n8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005369,
+      "\r\n\u001b[31m\r\n================================================================================\r\nBuild the stresser container"
+    ],
+    [
+      0.000013,
+      "\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker build -t stress .\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105777,
+      "docker build -t stress ."
+    ],
+    [
+      0.000884,
+      "\r\r\n"
+    ],
+    [
+      0.045486,
+      "Sending build context to Docker daemon 12.29 kB\r"
+    ],
+    [
+      0.000242,
+      "\r"
+    ],
+    [
+      0.000228,
+      "\r\r\n"
+    ],
+    [
+      0.052388,
+      "Step 1 : FROM debian"
+    ],
+    [
+      0.000216,
+      "\r\r\n"
+    ],
+    [
+      1.814105,
+      "latest: "
+    ],
+    [
+      0.000205,
+      "Pulling from library/debian\r\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0B"
+    ],
+    [
+      0.001564,
+      "\r\r\n\u001b[0A\u001b[2K\r03e1855d4f31: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000428,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0A\u001b[2K\ra3ed95caeb02: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.648603,
+      "\u001b[1A"
+    ],
+    [
+      0.000262,
+      "\u001b[2K\ra3ed95caeb02: Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000580,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Verifying Checksum \r\u001b[1B"
+    ],
+    [
+      0.000417,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Download complete \r\u001b[1B"
+    ],
+    [
+      0.091193,
+      "\u001b[2A"
+    ],
+    [
+      0.000308,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000479,
+      "Downloading [\u003e                                                  ] 523.2 kB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066002,
+      "\u001b[2A"
+    ],
+    [
+      0.000531,
+      "\u001b[2K\r03e1855d4f31: Downloading [=\u003e                                                 ] 1.048 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067009,
+      "\u001b[2A"
+    ],
+    [
+      0.000221,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000611,
+      "03e1855d4f31: Downloading [=\u003e                                                 ] 1.572 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066987,
+      "\u001b[2A"
+    ],
+    [
+      0.000362,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000240,
+      "Downloading [==\u003e                                                ] 2.096 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067015,
+      "\u001b[2A"
+    ],
+    [
+      0.000224,
+      "\u001b[2K\r03e1855d4f31: Downloading [==\u003e                                                ]  2.62 MB/51.36 MB\r"
+    ],
+    [
+      0.000390,
+      "\u001b[2B"
+    ],
+    [
+      0.066932,
+      "\u001b[2A"
+    ],
+    [
+      0.000238,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000386,
+      "03e1855d4f31: Downloading [===\u003e                                               ] 3.145 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067363,
+      "\u001b[2A"
+    ],
+    [
+      0.000233,
+      "\u001b[2K\r03e1855d4f31: Downloading [===\u003e                                               ] 3.669 MB/51.36 MB\r"
+    ],
+    [
+      0.000411,
+      "\u001b[2B"
+    ],
+    [
+      0.066903,
+      "\u001b[2A"
+    ],
+    [
+      0.000420,
+      "\u001b[2K\r03e1855d4f31: Downloading [====\u003e                                              ] 4.189 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066807,
+      "\u001b[2A"
+    ],
+    [
+      0.000279,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000511,
+      "03e1855d4f31: Downloading [====\u003e                                              ] 4.713 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067856,
+      "\u001b[2A"
+    ],
+    [
+      0.000451,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000520,
+      "03e1855d4f31: Downloading [=====\u003e                                             ] 5.242 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066691,
+      "\u001b[2A"
+    ],
+    [
+      0.000232,
+      "\u001b[2K\r03e1855d4f31: Downloading [=====\u003e                                             ] 5.762 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067686,
+      "\u001b[2A"
+    ],
+    [
+      0.000317,
+      "\u001b[2K\r03e1855d4f31: Downloading [======\u003e                                            ]  6.29 MB/51.36 MB\r"
+    ],
+    [
+      0.000472,
+      "\u001b[2B"
+    ],
+    [
+      0.067648,
+      "\u001b[2A"
+    ],
+    [
+      0.000219,
+      "\u001b[2K\r03e1855d4f31: Downloading [======\u003e                                            ] 6.815 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067457,
+      "\u001b[2A"
+    ],
+    [
+      0.000472,
+      "\u001b[2K\r03e1855d4f31: Downloading [=======\u003e                                           ] 7.339 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.128406,
+      "\u001b[2A"
+    ],
+    [
+      0.000217,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000211,
+      "03e1855d4f31: "
+    ],
+    [
+      0.001057,
+      "Downloading [=======\u003e                                           ] 7.863 MB/51.36 MB\r"
+    ],
+    [
+      0.000187,
+      "\u001b[2B"
+    ],
+    [
+      0.051274,
+      "\u001b[2A"
+    ],
+    [
+      0.000466,
+      "\u001b[2K\r03e1855d4f31: Downloading [========\u003e                                          ] 8.388 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.026001,
+      "\u001b[2A"
+    ],
+    [
+      0.000392,
+      "\u001b[2K\r03e1855d4f31: Downloading [========\u003e                                          ] 8.904 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.059418,
+      "\u001b[2A"
+    ],
+    [
+      0.000203,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000342,
+      "03e1855d4f31: Downloading [=========\u003e                                         ]  9.42 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067142,
+      "\u001b[2A"
+    ],
+    [
+      0.000305,
+      "\u001b[2K\r03e1855d4f31: Downloading [=========\u003e                                         ] 9.944 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068936,
+      "\u001b[2A"
+    ],
+    [
+      0.000349,
+      "\u001b[2K\r03e1855d4f31: Downloading [==========\u003e                                        ] 10.47 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.065384,
+      "\u001b[2A"
+    ],
+    [
+      0.001746,
+      "\u001b[2K\r03e1855d4f31: Downloading [==========\u003e                                        ] 10.98 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066261,
+      "\u001b[2A"
+    ],
+    [
+      0.000454,
+      "\u001b[2K\r03e1855d4f31: Downloading [===========\u003e                                       ]  11.5 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067597,
+      "\u001b[2A"
+    ],
+    [
+      0.000212,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000775,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000205,
+      "Downloading [===========\u003e                                       ] 12.03 MB/51.36 MB\r"
+    ],
+    [
+      0.000506,
+      "\u001b[2B"
+    ],
+    [
+      0.065397,
+      "\u001b[2A"
+    ],
+    [
+      0.000194,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000203,
+      "03e1855d4f31: Downloading [============\u003e                                      ] 12.56 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066737,
+      "\u001b[2A"
+    ],
+    [
+      0.000395,
+      "\u001b[2K\r03e1855d4f31: Downloading [============\u003e                                      ] 13.07 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067025,
+      "\u001b[2A"
+    ],
+    [
+      0.000301,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============\u003e                                     ]  13.6 MB/51.36 MB\r"
+    ],
+    [
+      0.000263,
+      "\u001b[2B"
+    ],
+    [
+      0.067301,
+      "\u001b[2A"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============\u003e                                     ] 14.12 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.113152,
+      "\u001b[2A"
+    ],
+    [
+      0.002638,
+      "\u001b[2K\r03e1855d4f31: Downloading [==============\u003e                                    ] 14.65 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      1.671383,
+      "\u001b[2A"
+    ],
+    [
+      0.000227,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000358,
+      "Downloading [==============\u003e                                    ] 15.17 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.025845,
+      "\u001b[2A"
+    ],
+    [
+      0.000360,
+      "\u001b[2K\r03e1855d4f31: Downloading [===============\u003e                                   ] 15.69 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.021231,
+      "\u001b[2A"
+    ],
+    [
+      0.000201,
+      "\u001b[2K\r03e1855d4f31: Downloading [===============\u003e                                   ] 16.22 MB/51.36 MB\r"
+    ],
+    [
+      0.000195,
+      "\u001b[2B"
+    ],
+    [
+      0.021385,
+      "\u001b[2A"
+    ],
+    [
+      0.000260,
+      "\u001b[2K\r03e1855d4f31: Downloading [================\u003e                                  ] 16.74 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.017918,
+      "\u001b[2A"
+    ],
+    [
+      0.000272,
+      "\u001b[2K\r03e1855d4f31: Downloading [================\u003e                                  ] 17.26 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.015839,
+      "\u001b[2A"
+    ],
+    [
+      0.000239,
+      "\u001b[2K\r03e1855d4f31: Downloading [=================\u003e                                 ] 17.78 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.044482,
+      "\u001b[2A"
+    ],
+    [
+      0.000465,
+      "\u001b[2K\r03e1855d4f31: Downloading [=================\u003e                                 ]  18.3 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066400,
+      "\u001b[2A"
+    ],
+    [
+      0.000180,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000278,
+      "03e1855d4f31: Downloading [==================\u003e                                ] 18.82 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067349,
+      "\u001b[2A"
+    ],
+    [
+      0.000341,
+      "\u001b[2K\r03e1855d4f31: Downloading [==================\u003e                                ] 19.35 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067759,
+      "\u001b[2A"
+    ],
+    [
+      0.000209,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000413,
+      "03e1855d4f31: Downloading [===================\u003e                               ] 19.87 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067140,
+      "\u001b[2A"
+    ],
+    [
+      0.000369,
+      "\u001b[2K\r03e1855d4f31: Downloading [===================\u003e                               ]  20.4 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067308,
+      "\u001b[2A"
+    ],
+    [
+      0.000303,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000478,
+      "03e1855d4f31: Downloading [====================\u003e                              ] 20.93 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067747,
+      "\u001b[2A"
+    ],
+    [
+      0.003440,
+      "\u001b[2K\r03e1855d4f31: Downloading [====================\u003e                              ] 21.45 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.064307,
+      "\u001b[2A"
+    ],
+    [
+      0.000336,
+      "\u001b[2K\r03e1855d4f31: Downloading [=====================\u003e                             ] 21.97 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066581,
+      "\u001b[2A"
+    ],
+    [
+      0.000183,
+      "\u001b[2K\r03e1855d4f31: Downloading [=====================\u003e                             ] 22.49 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.070137,
+      "\u001b[2A"
+    ],
+    [
+      0.000548,
+      "\u001b[2K\r03e1855d4f31: Downloading [======================\u003e                            ] 23.02 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.065323,
+      "\u001b[2A"
+    ],
+    [
+      0.000210,
+      "\u001b[2K\r03e1855d4f31: Downloading [======================\u003e                            ] 23.54 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066502,
+      "\u001b[2A"
+    ],
+    [
+      0.000265,
+      "\u001b[2K\r03e1855d4f31: Downloading [=======================\u003e                           ] 24.06 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068037,
+      "\u001b[2A"
+    ],
+    [
+      0.000207,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000391,
+      "03e1855d4f31: Downloading [=======================\u003e                           ] 24.59 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067393,
+      "\u001b[2A"
+    ],
+    [
+      0.000119,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000369,
+      "03e1855d4f31: Downloading [========================\u003e                          ] 25.12 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067351,
+      "\u001b[2A"
+    ],
+    [
+      0.000321,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000221,
+      "03e1855d4f31: Downloading [========================\u003e                          ] 25.64 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067267,
+      "\u001b[2A"
+    ],
+    [
+      0.000240,
+      "\u001b[2K\r03e1855d4f31: Downloading [=========================\u003e                         ] 26.16 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067202,
+      "\u001b[2A"
+    ],
+    [
+      0.000587,
+      "\u001b[2K\r03e1855d4f31: Downloading [=========================\u003e                         ] 26.68 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067036,
+      "\u001b[2A"
+    ],
+    [
+      0.000172,
+      "\u001b[2K\r03e1855d4f31: Downloading [==========================\u003e                        ] 27.21 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067991,
+      "\u001b[2A"
+    ],
+    [
+      0.000481,
+      "\u001b[2K\r03e1855d4f31: Downloading [===========================\u003e                       ] 27.74 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067554,
+      "\u001b[2A"
+    ],
+    [
+      0.000443,
+      "\u001b[2K\r03e1855d4f31: Downloading [===========================\u003e                       ] 28.26 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066865,
+      "\u001b[2A"
+    ],
+    [
+      0.000334,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000351,
+      "03e1855d4f31: Downloading [============================\u003e                      ] 28.79 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067267,
+      "\u001b[2A"
+    ],
+    [
+      0.000401,
+      "\u001b[2K\r03e1855d4f31: Downloading [============================\u003e                      ] 29.31 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067835,
+      "\u001b[2A"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============================\u003e                     ] 29.83 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067670,
+      "\u001b[2A"
+    ],
+    [
+      0.000403,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============================\u003e                     ] 30.36 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.079175,
+      "\u001b[2A"
+    ],
+    [
+      0.000196,
+      "\u001b[2K\r"
+    ],
+    [
+      0.003385,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000250,
+      "Downloading [==============================\u003e                    ] 30.89 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.052124,
+      "\u001b[2A"
+    ],
+    [
+      0.000181,
+      "\u001b[2K\r03e1855d4f31: Downloading [==============================\u003e                    ] 31.41 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067154,
+      "\u001b[2A"
+    ],
+    [
+      0.000235,
+      "\u001b[2K\r03e1855d4f31: Downloading [===============================\u003e                   ] 31.93 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067788,
+      "\u001b[2A"
+    ],
+    [
+      0.000295,
+      "\u001b[2K\r03e1855d4f31: Downloading [===============================\u003e                   ] 32.46 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067199,
+      "\u001b[2A"
+    ],
+    [
+      0.000180,
+      "\u001b[2K\r03e1855d4f31: Downloading [================================\u003e                  ] 32.98 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067256,
+      "\u001b[2A"
+    ],
+    [
+      0.000304,
+      "\u001b[2K\r03e1855d4f31: Downloading [================================\u003e                  ]  33.5 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068293,
+      "\u001b[2A"
+    ],
+    [
+      0.000423,
+      "\u001b[2K\r03e1855d4f31: Downloading [=================================\u003e                 ] 34.03 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066891,
+      "\u001b[2A"
+    ],
+    [
+      0.000183,
+      "\u001b[2K\r03e1855d4f31: Downloading [=================================\u003e                 ] 34.55 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067600,
+      "\u001b[2A"
+    ],
+    [
+      0.000182,
+      "\u001b[2K\r03e1855d4f31: Downloading [==================================\u003e                ] 35.08 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067613,
+      "\u001b[2A"
+    ],
+    [
+      0.000182,
+      "\u001b[2K\r03e1855d4f31: Downloading [==================================\u003e                ]  35.6 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067637,
+      "\u001b[2A"
+    ],
+    [
+      0.000213,
+      "\u001b[2K\r03e1855d4f31: Downloading [===================================\u003e               ] 36.13 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067220,
+      "\u001b[2A"
+    ],
+    [
+      0.000345,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000340,
+      "03e1855d4f31: Downloading [===================================\u003e               ] 36.65 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067533,
+      "\u001b[2A"
+    ],
+    [
+      0.000209,
+      "\u001b[2K\r03e1855d4f31: Downloading [====================================\u003e              ] 37.17 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067432,
+      "\u001b[2A"
+    ],
+    [
+      0.000372,
+      "\u001b[2K\r03e1855d4f31: Downloading [====================================\u003e              ]  37.7 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067181,
+      "\u001b[2A"
+    ],
+    [
+      0.000307,
+      "\u001b[2K\r03e1855d4f31: Downloading [=====================================\u003e             ] 38.22 MB/51.36 MB\r"
+    ],
+    [
+      0.000278,
+      "\u001b[2B"
+    ],
+    [
+      0.068467,
+      "\u001b[2A"
+    ],
+    [
+      0.000277,
+      "\u001b[2K\r03e1855d4f31: Downloading [=====================================\u003e             ] 38.75 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066743,
+      "\u001b[2A"
+    ],
+    [
+      0.000199,
+      "\u001b[2K\r03e1855d4f31: Downloading [======================================\u003e            ] 39.27 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067404,
+      "\u001b[2A"
+    ],
+    [
+      0.000203,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000226,
+      "Downloading [======================================\u003e            ]  39.8 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067774,
+      "\u001b[2A"
+    ],
+    [
+      0.000296,
+      "\u001b[2K\r03e1855d4f31: Downloading [=======================================\u003e           ] 40.32 MB/51.36 MB\r"
+    ],
+    [
+      0.000189,
+      "\u001b[2B"
+    ],
+    [
+      0.066767,
+      "\u001b[2A"
+    ],
+    [
+      0.000192,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000180,
+      "03e1855d4f31: Downloading [=======================================\u003e           ] 40.84 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067591,
+      "\u001b[2A"
+    ],
+    [
+      0.000304,
+      "\u001b[2K\r03e1855d4f31: Downloading [========================================\u003e          ] 41.37 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067495,
+      "\u001b[2A"
+    ],
+    [
+      0.000695,
+      "\u001b[2K\r03e1855d4f31: Downloading [========================================\u003e          ] 41.89 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066719,
+      "\u001b[2A"
+    ],
+    [
+      0.000391,
+      "\u001b[2K\r03e1855d4f31: Downloading [=========================================\u003e         ] 42.42 MB/51.36 MB\r"
+    ],
+    [
+      0.000236,
+      "\u001b[2B"
+    ],
+    [
+      0.067340,
+      "\u001b[2A"
+    ],
+    [
+      0.000189,
+      "\u001b[2K\r03e1855d4f31: Downloading [=========================================\u003e         ] 42.94 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067669,
+      "\u001b[2A"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000221,
+      "03e1855d4f31: Downloading [==========================================\u003e        ] 43.47 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067689,
+      "\u001b[2A"
+    ],
+    [
+      0.000365,
+      "\u001b[2K\r03e1855d4f31: Downloading [==========================================\u003e        ] 43.99 MB/51.36 MB\r"
+    ],
+    [
+      0.000223,
+      "\u001b[2B"
+    ],
+    [
+      0.090878,
+      "\u001b[2A"
+    ],
+    [
+      0.000248,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000212,
+      "03e1855d4f31: "
+    ],
+    [
+      0.002036,
+      "Downloading [===========================================\u003e       ] 44.51 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.043660,
+      "\u001b[2A"
+    ],
+    [
+      0.000337,
+      "\u001b[2K\r03e1855d4f31: Downloading [===========================================\u003e       ] 45.04 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068137,
+      "\u001b[2A"
+    ],
+    [
+      0.000242,
+      "\u001b[2K\r03e1855d4f31: Downloading [============================================\u003e      ] 45.56 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068062,
+      "\u001b[2A"
+    ],
+    [
+      0.000258,
+      "\u001b[2K\r03e1855d4f31: Downloading [============================================\u003e      ] 46.09 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067781,
+      "\u001b[2A"
+    ],
+    [
+      0.000392,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============================================\u003e     ] 46.61 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066929,
+      "\u001b[2A"
+    ],
+    [
+      0.000267,
+      "\u001b[2K\r03e1855d4f31: Downloading [=============================================\u003e     ] 47.14 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068047,
+      "\u001b[2A"
+    ],
+    [
+      0.000366,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000272,
+      "03e1855d4f31: Downloading [==============================================\u003e    ] 47.66 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067308,
+      "\u001b[2A"
+    ],
+    [
+      0.000204,
+      "\u001b[2K\r03e1855d4f31: Downloading [==============================================\u003e    ] 48.19 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067208,
+      "\u001b[2A"
+    ],
+    [
+      0.000209,
+      "\u001b[2K\r03e1855d4f31: Downloading [===============================================\u003e   ] 48.71 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067291,
+      "\u001b[2A"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000177,
+      "03e1855d4f31: Downloading [===============================================\u003e   ] 49.23 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067607,
+      "\u001b[2A"
+    ],
+    [
+      0.000182,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000212,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000363,
+      "Downloading [================================================\u003e  ] 49.76 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.066968,
+      "\u001b[2A"
+    ],
+    [
+      0.000296,
+      "\u001b[2K\r03e1855d4f31: Downloading [================================================\u003e  ] 50.28 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067314,
+      "\u001b[2A"
+    ],
+    [
+      0.000207,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000186,
+      "03e1855d4f31: Downloading [=================================================\u003e ] 50.81 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.067421,
+      "\u001b[2A"
+    ],
+    [
+      0.000212,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000378,
+      "03e1855d4f31: Downloading [=================================================\u003e ] 51.33 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.003715,
+      "\u001b[2A\u001b[2K\r03e1855d4f31: Verifying Checksum \r\u001b[2B"
+    ],
+    [
+      0.000170,
+      "\u001b[2A\u001b[2K\r03e1855d4f31: Download complete \r\u001b[2B"
+    ],
+    [
+      0.066950,
+      "\u001b[2A"
+    ],
+    [
+      0.000190,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001947,
+      "03e1855d4f31: Extracting [\u003e                                                  ] 524.3 kB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.029446,
+      "\u001b[2A"
+    ],
+    [
+      0.002033,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000219,
+      "03e1855d4f31: Extracting [=\u003e                                                 ] 1.049 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.028049,
+      "\u001b[2A"
+    ],
+    [
+      0.000387,
+      "\u001b[2K\r03e1855d4f31: Extracting [=\u003e                                                 ] 1.573 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.031422,
+      "\u001b[2A"
+    ],
+    [
+      0.000120,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002648,
+      "03e1855d4f31: Extracting [==\u003e                                                ] 2.097 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.028656,
+      "\u001b[2A"
+    ],
+    [
+      0.000191,
+      "\u001b[2K\r03e1855d4f31: Extracting [==\u003e                                                ] 2.621 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.050841,
+      "\u001b[2A"
+    ],
+    [
+      0.000207,
+      "\u001b[2K\r03e1855d4f31: Extracting [===\u003e                                               ] 3.146 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.117766,
+      "\u001b[2A"
+    ],
+    [
+      0.000164,
+      "\u001b[2K\r"
+    ],
+    [
+      0.003150,
+      "03e1855d4f31: Extracting [===\u003e                                               ]  3.67 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.027778,
+      "\u001b[2A"
+    ],
+    [
+      0.000916,
+      "\u001b[2K\r03e1855d4f31: Extracting [====\u003e                                              ] 4.194 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.029673,
+      "\u001b[2A"
+    ],
+    [
+      0.000159,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002276,
+      "03e1855d4f31: Extracting [====\u003e                                              ] 4.719 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.027053,
+      "\u001b[2A"
+    ],
+    [
+      0.000186,
+      "\u001b[2K\r03e1855d4f31: Extracting [=====\u003e                                             ] 5.243 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.030411,
+      "\u001b[2A"
+    ],
+    [
+      0.000182,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000216,
+      "03e1855d4f31: "
+    ],
+    [
+      0.001871,
+      "Extracting [=====\u003e                                             ] 5.767 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.029780,
+      "\u001b[2A"
+    ],
+    [
+      0.000171,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000207,
+      "03e1855d4f31: Extracting [======\u003e                                            ] 6.291 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.059713,
+      "\u001b[2A"
+    ],
+    [
+      0.000277,
+      "\u001b[2K\r03e1855d4f31: Extracting [======\u003e                                            ] 6.816 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.106776,
+      "\u001b[2A"
+    ],
+    [
+      0.002375,
+      "\u001b[2K\r03e1855d4f31: Extracting [=======\u003e                                           ]  7.34 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036636,
+      "\u001b[2A"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001779,
+      "03e1855d4f31: Extracting [=======\u003e                                           ] 7.864 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.053310,
+      "\u001b[2A"
+    ],
+    [
+      0.000216,
+      "\u001b[2K\r03e1855d4f31: Extracting [========\u003e                                          ] 8.389 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.043401,
+      "\u001b[2A"
+    ],
+    [
+      0.000193,
+      "\u001b[2K\r03e1855d4f31: Extracting [========\u003e                                          ] 8.913 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.025126,
+      "\u001b[2A"
+    ],
+    [
+      0.000199,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000203,
+      "03e1855d4f31: Extracting [=========\u003e                                         ] 9.437 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.038972,
+      "\u001b[2A"
+    ],
+    [
+      0.000383,
+      "\u001b[2K\r03e1855d4f31: Extracting [=========\u003e                                         ] 9.961 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.030020,
+      "\u001b[2A"
+    ],
+    [
+      0.000157,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000176,
+      "03e1855d4f31: Extracting [==========\u003e                                        ] 10.49 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.027158,
+      "\u001b[2A"
+    ],
+    [
+      0.002402,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001478,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000195,
+      "Extracting [==========\u003e                                        ] 11.01 MB/51.36 MB\r"
+    ],
+    [
+      0.000198,
+      "\u001b[2B"
+    ],
+    [
+      0.020521,
+      "\u001b[2A"
+    ],
+    [
+      0.000190,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000213,
+      "03e1855d4f31: Extracting [===========\u003e                                       ] 11.53 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.034337,
+      "\u001b[2A"
+    ],
+    [
+      0.000200,
+      "\u001b[2K\r03e1855d4f31: Extracting [===========\u003e                                       ] 12.06 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032935,
+      "\u001b[2A"
+    ],
+    [
+      0.000202,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000197,
+      "03e1855d4f31: Extracting [============\u003e                                      ] 12.58 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.038730,
+      "\u001b[2A"
+    ],
+    [
+      0.001470,
+      "\u001b[2K\r03e1855d4f31: Extracting [============\u003e                                      ] 13.11 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.065627,
+      "\u001b[2A"
+    ],
+    [
+      0.002332,
+      "\u001b[2K\r03e1855d4f31: Extracting [=============\u003e                                     ] 13.63 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.031135,
+      "\u001b[2A"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000202,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000139,
+      "Extracting [=============\u003e                                     ] 14.16 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036896,
+      "\u001b[2A"
+    ],
+    [
+      0.000186,
+      "\u001b[2K\r03e1855d4f31: Extracting [==============\u003e                                    ] 14.68 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036886,
+      "\u001b[2A"
+    ],
+    [
+      0.000197,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002161,
+      "03e1855d4f31: Extracting [==============\u003e                                    ]  15.2 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032843,
+      "\u001b[2A"
+    ],
+    [
+      0.000205,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000164,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000729,
+      "Extracting [===============\u003e                                   ] 15.73 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032880,
+      "\u001b[2A"
+    ],
+    [
+      0.000201,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002012,
+      "03e1855d4f31: Extracting [===============\u003e                                   ] 16.25 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.039753,
+      "\u001b[2A"
+    ],
+    [
+      0.000160,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.001797,
+      "Extracting [================\u003e                                  ] 16.78 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.052042,
+      "\u001b[2A"
+    ],
+    [
+      0.002395,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000158,
+      "03e1855d4f31: Extracting [================\u003e                                  ]  17.3 MB/51.36 MB\r"
+    ],
+    [
+      0.000179,
+      "\u001b[2B"
+    ],
+    [
+      0.032673,
+      "\u001b[2A"
+    ],
+    [
+      0.000188,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001680,
+      "03e1855d4f31: Extracting [=================\u003e                                 ] 17.83 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032592,
+      "\u001b[2A"
+    ],
+    [
+      0.000175,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000239,
+      "Extracting [=================\u003e                                 ] 18.35 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036360,
+      "\u001b[2A"
+    ],
+    [
+      0.002764,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001226,
+      "03e1855d4f31: Extracting [==================\u003e                                ] 18.87 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.026755,
+      "\u001b[2A"
+    ],
+    [
+      0.000184,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000859,
+      "03e1855d4f31: Extracting [==================\u003e                                ]  19.4 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032782,
+      "\u001b[2A"
+    ],
+    [
+      0.001446,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001104,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000242,
+      "Extracting [===================\u003e                               ] 19.92 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.035726,
+      "\u001b[2A"
+    ],
+    [
+      0.000194,
+      "\u001b[2K\r03e1855d4f31: Extracting [===================\u003e                               ] 20.45 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.050737,
+      "\u001b[2A"
+    ],
+    [
+      0.001762,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000216,
+      "03e1855d4f31: Extracting [====================\u003e                              ] 20.97 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.034613,
+      "\u001b[2A"
+    ],
+    [
+      0.001546,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000167,
+      "03e1855d4f31: Extracting [====================\u003e                              ]  21.5 MB/51.36 MB\r"
+    ],
+    [
+      0.000198,
+      "\u001b[2B"
+    ],
+    [
+      0.058527,
+      "\u001b[2A"
+    ],
+    [
+      0.000233,
+      "\u001b[2K\r03e1855d4f31: Extracting [=====================\u003e                             ] 22.02 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.049101,
+      "\u001b[2A"
+    ],
+    [
+      0.002815,
+      "\u001b[2K\r03e1855d4f31: Extracting [=====================\u003e                             ] 22.54 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.041634,
+      "\u001b[2A"
+    ],
+    [
+      0.000171,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.002697,
+      "Extracting [======================\u003e                            ] 23.07 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.026225,
+      "\u001b[2A"
+    ],
+    [
+      0.000209,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000168,
+      "03e1855d4f31: Extracting [======================\u003e                            ] 23.59 MB/51.36 MB\r"
+    ],
+    [
+      0.000158,
+      "\u001b[2B"
+    ],
+    [
+      0.030234,
+      "\u001b[2A"
+    ],
+    [
+      0.002207,
+      "\u001b[2K\r03e1855d4f31: Extracting [=======================\u003e                           ] 24.12 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.028571,
+      "\u001b[2A"
+    ],
+    [
+      0.002353,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000194,
+      "03e1855d4f31: "
+    ],
+    [
+      0.001089,
+      "Extracting [=======================\u003e                           ] 24.64 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.025962,
+      "\u001b[2A"
+    ],
+    [
+      0.000238,
+      "\u001b[2K\r03e1855d4f31: Extracting [========================\u003e                          ] 25.17 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.032187,
+      "\u001b[2A"
+    ],
+    [
+      0.000200,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002281,
+      "03e1855d4f31: Extracting [=========================\u003e                         ] 25.69 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.031209,
+      "\u001b[2A"
+    ],
+    [
+      0.000196,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001942,
+      "03e1855d4f31: Extracting [=========================\u003e                         ] 26.21 MB/51.36 MB\r"
+    ],
+    [
+      0.000195,
+      "\u001b[2B"
+    ],
+    [
+      0.046937,
+      "\u001b[2A"
+    ],
+    [
+      0.000155,
+      "\u001b[2K\r"
+    ],
+    [
+      0.003209,
+      "03e1855d4f31: Extracting [==========================\u003e                        ] 26.74 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.068066,
+      "\u001b[2A"
+    ],
+    [
+      0.000298,
+      "\u001b[2K\r03e1855d4f31: Extracting [==========================\u003e                        ] 27.26 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.062171,
+      "\u001b[2A"
+    ],
+    [
+      0.000211,
+      "\u001b[2K\r03e1855d4f31: Extracting [===========================\u003e                       ] 27.79 MB/51.36 MB\r"
+    ],
+    [
+      0.000176,
+      "\u001b[2B"
+    ],
+    [
+      0.018296,
+      "\u001b[2A"
+    ],
+    [
+      0.000236,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001402,
+      "03e1855d4f31: Extracting [===========================\u003e                       ] 28.31 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.013381,
+      "\u001b[2A"
+    ],
+    [
+      0.000176,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000183,
+      "03e1855d4f31: Extracting [============================\u003e                      ] 28.84 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.006660,
+      "\u001b[2A"
+    ],
+    [
+      0.000182,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000179,
+      "03e1855d4f31: Extracting [============================\u003e                      ] 29.36 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.014773,
+      "\u001b[2A"
+    ],
+    [
+      0.000170,
+      "\u001b[2K\r03e1855d4f31: Extracting [=============================\u003e                     ] 29.88 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.019284,
+      "\u001b[2A"
+    ],
+    [
+      0.001536,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000224,
+      "03e1855d4f31: Extracting [=============================\u003e                     ] 30.41 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.016048,
+      "\u001b[2A"
+    ],
+    [
+      0.000194,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001413,
+      "03e1855d4f31: Extracting [==============================\u003e                    ] 30.93 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.015066,
+      "\u001b[2A"
+    ],
+    [
+      0.000208,
+      "\u001b[2K\r03e1855d4f31: Extracting [==============================\u003e                    ] 31.46 MB/51.36 MB\r"
+    ],
+    [
+      0.000167,
+      "\u001b[2B"
+    ],
+    [
+      0.020219,
+      "\u001b[2A"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000169,
+      "03e1855d4f31: Extracting [===============================\u003e                   ] 31.98 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.021268,
+      "\u001b[2A"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000167,
+      "03e1855d4f31: Extracting [===============================\u003e                   ] 32.51 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.030632,
+      "\u001b[2A"
+    ],
+    [
+      0.000201,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000181,
+      "03e1855d4f31: Extracting [================================\u003e                  ] 33.03 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.017677,
+      "\u001b[2A"
+    ],
+    [
+      0.001302,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000571,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000216,
+      "Extracting [================================\u003e                  ] 33.55 MB/51.36 MB\r"
+    ],
+    [
+      0.000175,
+      "\u001b[2B"
+    ],
+    [
+      0.010440,
+      "\u001b[2A"
+    ],
+    [
+      0.000202,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001573,
+      "03e1855d4f31: Extracting [=================================\u003e                 ] 34.08 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.022087,
+      "\u001b[2A"
+    ],
+    [
+      0.000210,
+      "\u001b[2K\r03e1855d4f31: Extracting [=================================\u003e                 ]  34.6 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.024274,
+      "\u001b[2A"
+    ],
+    [
+      0.000197,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002101,
+      "03e1855d4f31: Extracting [==================================\u003e                ] 35.13 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.013769,
+      "\u001b[2A"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001849,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000183,
+      "Extracting [==================================\u003e                ] 35.65 MB/51.36 MB\r"
+    ],
+    [
+      0.000176,
+      "\u001b[2B"
+    ],
+    [
+      0.047486,
+      "\u001b[2A"
+    ],
+    [
+      0.001400,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000211,
+      "03e1855d4f31: Extracting [===================================\u003e               ] 36.18 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036534,
+      "\u001b[2A"
+    ],
+    [
+      0.002312,
+      "\u001b[2K\r03e1855d4f31: Extracting [===================================\u003e               ]  36.7 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.036190,
+      "\u001b[2A"
+    ],
+    [
+      0.002129,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000185,
+      "03e1855d4f31: Extracting [====================================\u003e              ] 37.22 MB/51.36 MB\r"
+    ],
+    [
+      0.001143,
+      "\u001b[2B"
+    ],
+    [
+      0.046788,
+      "\u001b[2A"
+    ],
+    [
+      0.002153,
+      "\u001b[2K\r03e1855d4f31: Extracting [====================================\u003e              ] 37.75 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.037916,
+      "\u001b[2A"
+    ],
+    [
+      0.000208,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000197,
+      "03e1855d4f31: Extracting [=====================================\u003e             ] 38.27 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.037338,
+      "\u001b[2A"
+    ],
+    [
+      0.000164,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001774,
+      "03e1855d4f31: Extracting [=====================================\u003e             ]  38.8 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.038339,
+      "\u001b[2A"
+    ],
+    [
+      0.000338,
+      "\u001b[2K\r03e1855d4f31: Extracting [======================================\u003e            ] 39.32 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.077006,
+      "\u001b[2A"
+    ],
+    [
+      0.001427,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000253,
+      "03e1855d4f31: "
+    ],
+    [
+      0.000390,
+      "Extracting [======================================\u003e            ] 39.85 MB/51.36 MB\r"
+    ],
+    [
+      0.000835,
+      "\u001b[2B"
+    ],
+    [
+      0.044149,
+      "\u001b[2A"
+    ],
+    [
+      0.000172,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000296,
+      "03e1855d4f31: Extracting [=======================================\u003e           ] 40.37 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.040478,
+      "\u001b[2A"
+    ],
+    [
+      0.000775,
+      "\u001b[2K\r03e1855d4f31: Extracting [=======================================\u003e           ] 40.89 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.044200,
+      "\u001b[2A"
+    ],
+    [
+      0.002180,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000181,
+      "03e1855d4f31: Extracting [========================================\u003e          ] 41.42 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.039923,
+      "\u001b[2A"
+    ],
+    [
+      0.001533,
+      "\u001b[2K\r03e1855d4f31: Extracting [========================================\u003e          ] 41.94 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.037966,
+      "\u001b[2A"
+    ],
+    [
+      0.002044,
+      "\u001b[2K\r03e1855d4f31: Extracting [=========================================\u003e         ] 42.47 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.049814,
+      "\u001b[2A"
+    ],
+    [
+      0.001776,
+      "\u001b[2K\r03e1855d4f31: Extracting [=========================================\u003e         ] 42.99 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.060597,
+      "\u001b[2A"
+    ],
+    [
+      0.001608,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000259,
+      "03e1855d4f31: Extracting [==========================================\u003e        ] 43.52 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.038989,
+      "\u001b[2A"
+    ],
+    [
+      0.001243,
+      "\u001b[2K\r03e1855d4f31: Extracting [==========================================\u003e        ] 44.04 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.039485,
+      "\u001b[2A"
+    ],
+    [
+      0.000235,
+      "\u001b[2K\r03e1855d4f31: Extracting [===========================================\u003e       ] 44.56 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.041122,
+      "\u001b[2A"
+    ],
+    [
+      0.000205,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000194,
+      "03e1855d4f31: Extracting [===========================================\u003e       ] 45.09 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.039582,
+      "\u001b[2A"
+    ],
+    [
+      0.000190,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000178,
+      "03e1855d4f31: Extracting [============================================\u003e      ] 45.61 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.034615,
+      "\u001b[2A"
+    ],
+    [
+      0.000169,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000177,
+      "Extracting [============================================\u003e      ] 46.14 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.047461,
+      "\u001b[2A"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000992,
+      "Extracting [=============================================\u003e     ] 46.66 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.052645,
+      "\u001b[2A"
+    ],
+    [
+      0.000192,
+      "\u001b[2K\r03e1855d4f31: Extracting [=============================================\u003e     ] 47.19 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.039296,
+      "\u001b[2A"
+    ],
+    [
+      0.002761,
+      "\u001b[2K\r03e1855d4f31: "
+    ],
+    [
+      0.000192,
+      "Extracting [==============================================\u003e    ] 47.71 MB/51.36 MB\r"
+    ],
+    [
+      0.000562,
+      "\u001b[2B"
+    ],
+    [
+      0.109724,
+      "\u001b[2A"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002080,
+      "03e1855d4f31: Extracting [==============================================\u003e    ] 48.23 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.041329,
+      "\u001b[2A"
+    ],
+    [
+      0.000224,
+      "\u001b[2K\r"
+    ],
+    [
+      0.002431,
+      "03e1855d4f31: Extracting [===============================================\u003e   ] 48.76 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.070024,
+      "\u001b[2A"
+    ],
+    [
+      0.001843,
+      "\u001b[2K\r"
+    ],
+    [
+      0.003823,
+      "03e1855d4f31: Extracting [===============================================\u003e   ] 49.28 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.056202,
+      "\u001b[2A"
+    ],
+    [
+      0.001552,
+      "\u001b[2K\r03e1855d4f31: Extracting [================================================\u003e  ] 49.81 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.334388,
+      "\u001b[2A"
+    ],
+    [
+      0.004975,
+      "\u001b[2K\r03e1855d4f31: Extracting [================================================\u003e  ] 50.33 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.074021,
+      "\u001b[2A"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001313,
+      "03e1855d4f31: Extracting [=================================================\u003e ] 50.86 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.126025,
+      "\u001b[2A"
+    ],
+    [
+      0.000210,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000205,
+      "03e1855d4f31: Extracting [==================================================\u003e] 51.36 MB/51.36 MB\r\u001b[2B"
+    ],
+    [
+      0.146180,
+      "\u001b[2A"
+    ],
+    [
+      0.000372,
+      "\u001b[2K\r03e1855d4f31: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.000494,
+      "\u001b[2A\u001b[2K\r03e1855d4f31: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.000621,
+      "\u001b[1A\u001b[2K\ra3ed95caeb02: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.029333,
+      "\u001b[1A"
+    ],
+    [
+      0.000211,
+      "\u001b[2K\ra3ed95caeb02: Extracting [==================================================\u003e]     32 B/32 B\r"
+    ],
+    [
+      0.000193,
+      "\u001b[1B"
+    ],
+    [
+      0.023540,
+      "\u001b[1A"
+    ],
+    [
+      0.000214,
+      "\u001b[2K\ra3ed95caeb02: Pull complete \r\u001b[1B\u001b[1A\u001b[2K\ra3ed95caeb02: Pull complete \r\u001b[1B"
+    ],
+    [
+      0.000592,
+      "Digest: sha256:d2ea9df44c61c1e3042c20dd42bf57a86bd48bb428e154bdd1d1003fad6810a4\r\r\n"
+    ],
+    [
+      0.000668,
+      "Status: Downloaded newer image for debian:latest\r\r\n"
+    ],
+    [
+      0.000367,
+      " ---\u003e 9a02f494bef8\r\r\n"
+    ],
+    [
+      0.000295,
+      "Step 2 : RUN apt-get update \u0026\u0026 apt-get install stress\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.044053,
+      " ---\u003e Running in 75cbee57b556"
+    ],
+    [
+      0.000220,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.231673,
+      "Get:1 http://security.debian.org jessie/updates InRelease [63.1 kB]\r\r\n"
+    ],
+    [
+      0.028089,
+      "Ign http://httpredir.debian.org jessie InRelease\r\r\n"
+    ],
+    [
+      0.007629,
+      "Get:2 http://httpredir.debian.org jessie-updates InRelease [136 kB]\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.055560,
+      "Get:3 http://httpredir.debian.org jessie Release.gpg [2373 B]\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.011819,
+      "Get:4 http://security.debian.org jessie/updates/main amd64 Packages [253 kB]\r\r\n"
+    ],
+    [
+      0.016041,
+      "Get:5 http://httpredir.debian.org jessie Release [148 kB]\r\r\n"
+    ],
+    [
+      0.042886,
+      "Get:6 http://httpredir.debian.org jessie-updates/main amd64 Packages [3619 B]\r\r\n"
+    ],
+    [
+      0.031876,
+      "Get:7 http://httpredir.debian.org jessie/main amd64 Packages [9034 kB]\r\r\n"
+    ],
+    [
+      1.729588,
+      "Fetched 9641 kB in 2s (4779 kB/s)\r"
+    ],
+    [
+      0.000007,
+      "\r\nReading package lists..."
+    ],
+    [
+      0.742162,
+      "\r\r\nReading package lists..."
+    ],
+    [
+      0.732373,
+      "\r\r\n"
+    ],
+    [
+      0.003999,
+      "Building dependency tree..."
+    ],
+    [
+      0.094224,
+      "\r\r\n"
+    ],
+    [
+      0.059479,
+      "The following NEW packages will be installed:\r\r\n  stress\r\r\n"
+    ],
+    [
+      0.435686,
+      "0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.\r\r\nNeed to get 20.5 kB of archives.\r\r\nAfter this operation, 94.2 kB of additional disk space will be used.\r\r\nGet:1 http://httpredir.debian.org/debian/ jessie/main stress amd64 1.0.1-1 [20.5 kB]\r\r\n"
+    ],
+    [
+      0.134318,
+      "\u001b[91mdebconf: delaying package configuration, since apt-utils is not installed\r\r\n\u001b[0m"
+    ],
+    [
+      0.009915,
+      "Fetched 20.5 kB in 0s (62.9 kB/s)\r\r\n"
+    ],
+    [
+      0.019697,
+      "Selecting previously unselected package stress.\r\r\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... 7531 files and directories currently installed.)\r\r\r\nPreparing to unpack .../stress_1.0.1-1_amd64.deb ...\r\r\r\n"
+    ],
+    [
+      0.008120,
+      "Unpacking stress (1.0.1-1) ...\r\r\r\n"
+    ],
+    [
+      0.015821,
+      "Setting up stress (1.0.1-1) ...\r\r\r\n"
+    ],
+    [
+      0.663435,
+      " ---\u003e fa670899bae1"
+    ],
+    [
+      0.000201,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.630267,
+      "Removing intermediate container 75cbee57b556"
+    ],
+    [
+      0.000208,
+      "\r\r\n"
+    ],
+    [
+      0.000343,
+      "Step 3 : ADD stresser.sh /stresser.sh\r\r\n"
+    ],
+    [
+      0.503747,
+      " ---\u003e 750309d28fb1"
+    ],
+    [
+      0.000194,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.566486,
+      "Removing intermediate container 52f7af577c9b"
+    ],
+    [
+      0.000194,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000416,
+      "Step 4 : RUN chmod +x stresser.sh\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.058740,
+      " ---\u003e Running in d448dce856b2"
+    ],
+    [
+      0.000208,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.584796,
+      " ---\u003e d29338a439cb"
+    ],
+    [
+      0.001238,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.571614,
+      "Removing intermediate container d448dce856b2"
+    ],
+    [
+      0.000265,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000360,
+      "Step 5 : CMD /bin/bash -c /stresser.sh\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.058299,
+      " ---\u003e Running in 0abe41b296b1"
+    ],
+    [
+      0.000242,
+      "\r\r\n"
+    ],
+    [
+      0.678795,
+      " ---\u003e 3745d0caa754"
+    ],
+    [
+      0.000203,
+      "\r\r\n"
+    ],
+    [
+      0.697797,
+      "Removing intermediate container 0abe41b296b1\r\r\n"
+    ],
+    [
+      0.000011,
+      "Successfully built 3745d0caa754\r\r\n"
+    ],
+    [
+      0.003971,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005467,
+      "\r\n\u001b[31m\r\n================================================================================\r\nRun up the stresser cotainer\r\n================================================================================\r\nCommand to be run is:\r\n"
+    ],
+    [
+      0.000015,
+      "\tdocker run -d --name stresser stress\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105644,
+      "docker run -d --name stresser stress"
+    ],
+    [
+      0.000913,
+      "\r\r\n"
+    ],
+    [
+      0.103898,
+      "95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431"
+    ],
+    [
+      0.000191,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.106114,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.003941,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000010,
+      "\r\n================================================================================\r\nCPU is stressed!\r\n================================================================================\r\nCommand to be run is:\r\n\tsleep 2 \u0026\u0026 top -b | head\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102124,
+      "sleep 2 \u0026\u0026 top -b | head"
+    ],
+    [
+      0.001257,
+      "\r\r\n"
+    ],
+    [
+      2.185857,
+      "top - 12:47:24 up 3 min,  1 user,  load average: 0.88, 0.31, 0.12\r\r\nTasks:  96 total,   4 running,  92 sleeping,   0 stopped,   0 zombie\r\r\n"
+    ],
+    [
+      0.000519,
+      "%Cpu(s):  9.6 us,  4.9 sy,  0.5 ni, 83.4 id,  0.1 wa,  0.0 hi,  1.5 si,  0.0 st"
+    ],
+    [
+      0.000371,
+      "\r\r\nKiB Mem:    500816 total,   412860 used,    87956 free,    13496 buffers\r\r\nKiB Swap:        0 total,        0 used,        0 free.   200548 cached Mem\r\r\n\r\r\n  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND\r\r\n 2378 dockrem+  20   0    7172     88      0 R 93.9  0.0   0:12.22 stress\r\r\n    1 root      20   0   35060   5184   3676 S  0.0  1.0   0:00.97 systemd\r\r\n    2 root      20   0       0      0      0 S  0.0  0.0   0:00.00 kthreadd\r\r\n"
+    ],
+    [
+      0.007590,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.003693,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDynamically limit the CPU of the running container to half a CPU\r\n================================================================================\r\n"
+    ],
+    [
+      0.000011,
+      "Command to be run is:\r\n\tdocker update --cpu-period 50000 --cpu-quota 25000 stresser\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103772,
+      "docker update --cpu-period 50000 --cpu-quota 25000 stresser"
+    ],
+    [
+      0.002925,
+      "\r\r\n"
+    ],
+    [
+      0.049764,
+      "stresser"
+    ],
+    [
+      0.000180,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001051,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.000910,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000017,
+      "\r\n================================================================================\r\nCPU is less stressed\r\n================================================================================\r\nCommand to be run is:\r\n\tsleep 2 \u0026\u0026 top -b | head\r\n"
+    ],
+    [
+      0.000015,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.104965,
+      "sleep 2 \u0026\u0026 top -b | head"
+    ],
+    [
+      0.002076,
+      "\r\r\n"
+    ],
+    [
+      2.159483,
+      "top - 12:47:47 up 3 min,  1 user,  load average: 0.92, 0.36, 0.14"
+    ],
+    [
+      0.011347,
+      "\r\r\n"
+    ],
+    [
+      0.000013,
+      "Tasks:  96 total,   3 running,  93 sleeping,   0 stopped,   0 zombie\r\r\n"
+    ],
+    [
+      0.000928,
+      "%Cpu(s): 14.3 us,  4.5 sy,  0.5 ni, 79.2 id,  0.1 wa,  0.0 hi,  1.3 si,  0.0 st"
+    ],
+    [
+      0.000293,
+      "\r\r\nKiB Mem:    500816 total,   412748 used,    88068 free,    13512 buffers\r"
+    ],
+    [
+      0.000014,
+      "\r\nKiB Swap:        0 total,        0 used,        0 free.   200556 cached Mem\r\r\n\r\r\n  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND\r\r\n 2378 dockrem+  20   0    7172     88      0 R 45.7  0.0   0:28.45 stress\r\r\n  154 root      20   0       0      0      0 S  6.5  0.0   0:00.31 kworker/u2:2\r\r\n"
+    ],
+    [
+      0.000013,
+      "    1 root      20   0   35060   5184   3676 S  0.0  1.0   0:00.97 systemd\r\r\n"
+    ],
+    [
+      0.001362,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.105779,
+      "docker rm -f stresser"
+    ],
+    [
+      0.001984,
+      "\r\r\n"
+    ],
+    [
+      0.870495,
+      "stresser"
+    ],
+    [
+      0.003479,
+      "\r\r\n"
+    ],
+    [
+      0.000600,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      0.000254,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000008,
+      "\r\n================================================================================\r\nMore useful output in docker events.\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker events --since 0 --until 1\r\n================================================================================"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103601,
+      "docker events --since 0 --until 1"
+    ],
+    [
+      0.001025,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.043524,
+      "2016-02-06T12:45:34.832764852Z "
+    ],
+    [
+      0.000213,
+      "image pull busybox:latest"
+    ],
+    [
+      0.000196,
+      " (name=busybox)"
+    ],
+    [
+      0.000204,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000326,
+      "2016-02-06T12:45:34.871592855Z "
+    ],
+    [
+      0.000240,
+      "container create b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f"
+    ],
+    [
+      0.000247,
+      " (image=busybox, name=sleeper)"
+    ],
+    [
+      0.000185,
+      "\r\r\n"
+    ],
+    [
+      0.000301,
+      "2016-02-06T12:45:34.896804159Z "
+    ],
+    [
+      0.000204,
+      "network connect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc"
+    ],
+    [
+      0.000203,
+      " (container=b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f, name=bridge, type=bridge)"
+    ],
+    [
+      0.000203,
+      "\r\r\n"
+    ],
+    [
+      0.000342,
+      "2016-02-06T12:45:34.901514801Z "
+    ],
+    [
+      0.000200,
+      "container start b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f"
+    ],
+    [
+      0.000205,
+      " (image=busybox, name=sleeper)"
+    ],
+    [
+      0.000206,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "2016-02-06T12:45:45.121552468Z "
+    ],
+    [
+      0.000219,
+      "container exec_create: ps -a b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f"
+    ],
+    [
+      0.000211,
+      " (image=busybox, name=sleeper)"
+    ],
+    [
+      0.000203,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000314,
+      "2016-02-06T12:45:45.122086912Z container exec_start: ps -a b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f (image=busybox, name=sleeper)\r"
+    ],
+    [
+      0.000009,
+      "\r\n2016-02-06T12:46:04.970562808Z container die b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f"
+    ],
+    [
+      0.000249,
+      " (image=busybox, name=sleeper)\r"
+    ],
+    [
+      0.000007,
+      "\r\n2016-02-06T12:46:05.010896052Z "
+    ],
+    [
+      0.000686,
+      "network disconnect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (type=bridge, container=b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f, name=bridge)\r\r\n"
+    ],
+    [
+      0.000010,
+      "2016-02-06T12:46:06.199189701Z container destroy b90f15616e0ff941afd854f6637f881cf7138e5f4d47c26b534c6135aaee595f (image=busybox, name=sleeper)\r\r\n2016-02-06T12:46:52.583453598Z image pull debian:latest (name=debian)\r\r\n2016-02-06T12:46:52.627584366Z container create 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r"
+    ],
+    [
+      0.000013,
+      "\r\n2016-02-06T12:46:52.637866059Z container attach 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r\r\n2016-02-06T12:46:52.644494422Z network connect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (type=bridge, container=75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f81"
+    ],
+    [
+      0.000008,
+      "80bf34, name=bridge)\r\r\n"
+    ],
+    [
+      0.000008,
+      "2016-02-06T12:46:52.648396592Z "
+    ],
+    [
+      0.000718,
+      "container start 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r"
+    ],
+    [
+      0.000018,
+      "\r\n2016-02-06T12:46:57.086305703Z container die 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r\r\n2016-02-06T12:46:57.124730229Z network disconnect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (name=bridge, type=bridge, container=75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34)\r\r\n2016-02-06T12:46:57.678806454Z container commit 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r\r\n"
+    ],
+    [
+      0.000010,
+      "2016-02-06T12:46:58.332986808Z container destroy 75cbee57b556006194f0976fe1ba073343d142d7232c8106f5e7e06f8180bf34 (image=sha256:9a02f494bef8d0d088ee7533aa1ba4aaa1dbf38a97192d36fa79a51279bc04de, name=dreamy_curie)\r\r\n"
+    ],
+    [
+      0.000007,
+      "2016-02-06T12:46:58.370938168Z "
+    ],
+    [
+      0.000216,
+      "container create 52f7af577c9b02514439e29a0c1b136daf652983f626020d37b91c8897bde903 (image=sha256:fa670899bae15fe5bd7004087c550f389312afdea76249fae1f27279c1b57e49, name=nostalgic_mccarthy)\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000513,
+      "2016-02-06T12:46:58.810643457Z container commit 52f7af577c9b02514439e29a0c1b136daf652983f626020d37b91c8897bde903 (image=sha256:fa670899bae15fe5bd7004087c550f389312afdea76249fae1f27279c1b57e49, name=nostalgic_mccarthy)\r\r\n"
+    ],
+    [
+      0.000008,
+      "2016-02-06T12:46:59.404294441Z container destroy 52f7af577c9b02514439e29a0c1b136daf652983f626020d37b91c8897bde903 (image=sha256:fa670899bae15fe5bd7004087c550f389312afdea76249fae1f27279c1b57e49, name=nostalgic_mccarthy)\r\r\n2016-02-06T12:46:59.462587618Z container create d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2, name=hopeful_shaw)\r\r\n"
+    ],
+    [
+      0.000012,
+      "2016-02-06T12:46:59.476313924Z container attach d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2, name=hopeful_shaw)"
+    ],
+    [
+      0.000381,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n2016-02-06T12:46:59.482020738Z network connect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (container=d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f, name=bridge, type=bridge)\r\r\n"
+    ],
+    [
+      0.000010,
+      "2016-02-06T12:46:59.487874258Z "
+    ],
+    [
+      0.000459,
+      "container start d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (name=hopeful_shaw, image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2)\r\r\n2016-02-06T12:46:59.578299469Z container die d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2, name=hopeful_shaw)\r\r\n2016-02-06T12:46:59.606815373Z "
+    ],
+    [
+      0.003105,
+      "network disconnect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (container=d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f, name=bridge, type=bridge)\r"
+    ],
+    [
+      0.000016,
+      "\r\n2016-02-06T12:47:00.022238490Z container commit d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2, name=hopeful_shaw)\r\r\n2016-02-06T12:47:00.618056703Z container destroy d448dce856b23a585dd80ec436b0003206d51d09fa1f366ae0072d891d97c76f (image=sha256:750309d28fb1669b7219c8c3dfebd7f678077c35502e97afd917971523b89ff2, name=hopeful_shaw)\r\r\n2016-02-06T12:47:00.679804148Z container create 0abe41b296b151228fb184391d66094cfb147f02e8f1e365711a6b5559081930 (name=dreamy_lovelace, image=sha256:d29338a439cbc8853497b3c8672302006d377e1b04892b0b2dc08b30af362b45)\r\r\n2016-02-06T12:47:01.091656080Z container commit 0abe41b296b151228fb184391d66094cfb147f02e8f1e365711a6b5559081930 (image=sha256:d29338a439cbc8853497b3c8672302006d377e1b04892b0b2dc08b30af362b45, name=dreamy_lovelace)\r\r\n2016-02-06T12:47:02.055860087Z container destroy 0abe41b296b151228fb184391d66094cfb147f02e8f1e365711a6b5559081930 (image=sha256:d29338a439cbc8853497b3c8672302006d377e1b04892b0b2dc08b30af362b45, name=dreamy_lovelace)\r\r\n2016-02-06T12:47:02.057414393Z image tag sha256:3745d0caa7543914f17ea3bcbb5571f37b70270a4d402b8de41c69c8a14f785b (name=stress:latest)\r\r\n2016-02-06T12:47:12.275879334Z container create 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n2016-02-06T12:47:12.296320975Z network connect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (type=bridge, container=95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431, name=bridge)\r\r\n2016-02-06T12:47:12.300363238Z container start 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n2016-02-06T12:47:34.840143499Z container update 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n2016-02-06T12:47:52.305920731Z container kill 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n2016-02-06T12:47:52.318722489Z container die 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n2016-02-06T12:47:52.341537800Z "
+    ],
+    [
+      0.001160,
+      "network disconnect c99bee777056bed6bff34099926783358f88eb1e0c6a30bac0e17c488e8026cc (name=bridge, type=bridge, container=95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431)\r"
+    ],
+    [
+      0.000010,
+      "\r\n2016-02-06T12:47:53.106006400Z container destroy 95799995657d6b5389d5de78cd361868c071b98ce3ae1a488731ac5bd59b4431 (image=stress, name=stresser)\r\r\n"
+    ],
+    [
+      0.000360,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.001014,
+      "\r\n\u001b[31m\r\n"
+    ],
+    [
+      0.000013,
+      "================================================================================\r\nMore useful information in docker info\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker info\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.102972,
+      "docker info"
+    ],
+    [
+      0.000873,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.048678,
+      "Containers: 0"
+    ],
+    [
+      0.000228,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      " Running: 0"
+    ],
+    [
+      0.000176,
+      "\r\r\n"
+    ],
+    [
+      0.000230,
+      " Paused: 0"
+    ],
+    [
+      0.000253,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      " Stopped: 0"
+    ],
+    [
+      0.000299,
+      "\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000243,
+      "Images: 6"
+    ],
+    [
+      0.000187,
+      "\r\r\n"
+    ],
+    [
+      0.000255,
+      "Server Version: 1.10.0"
+    ],
+    [
+      0.000246,
+      "\r\r\n"
+    ],
+    [
+      0.000241,
+      "Storage Driver: devicemapper"
+    ],
+    [
+      0.000185,
+      "\r\r\n"
+    ],
+    [
+      0.000261,
+      " Pool Name: docker-8:1-495141-pool"
+    ],
+    [
+      0.000197,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      " Pool Blocksize: 65.54 kB"
+    ],
+    [
+      0.000282,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      " Base Device Size: 10.74 GB"
+    ],
+    [
+      0.000204,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      " Backing Filesystem: ext4"
+    ],
+    [
+      0.000206,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      " Data file: /dev/loop0"
+    ],
+    [
+      0.000207,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000340,
+      " Metadata file: /dev/loop1\r"
+    ],
+    [
+      0.000006,
+      "\r\n Data Space Used: 473.5 MB\r\r\n Data Space Total: 107.4 GB\r\r\n"
+    ],
+    [
+      0.000006,
+      " Data Space Available: 39.72 GB\r\r\n Metadata Space Used: 995.3 kB\r"
+    ],
+    [
+      0.000015,
+      "\r\n Metadata Space Total: 2.147 GB\r\r\n"
+    ],
+    [
+      0.000005,
+      " Metadata Space Available: 2.146 GB\r\r\n Udev Sync Supported: false\r"
+    ],
+    [
+      0.000004,
+      "\r\n Deferred Removal Enabled: false\r\r\n"
+    ],
+    [
+      0.000004,
+      " Deferred Deletion Enabled: false\r\r\n"
+    ],
+    [
+      0.000005,
+      " Deferred Deleted Device Count: 0"
+    ],
+    [
+      0.000380,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n Data loop file: /var/lib/docker/10000.10000/devicemapper/devicemapper/data\r\r\n WARNING: Usage of loopback devices is strongly discouraged for production use. Either use `--storage-opt dm.thinpooldev` or use `--storage-opt dm.no_warn_on_loop_devices=true` to suppress this warning.\r"
+    ],
+    [
+      0.000006,
+      "\r\n Metadata loop file: /var/lib/docker/10000.10000/devicemapper/devicemapper/metadata\r\r\n Library Version: 1.02.82 (2013-10-04)\r"
+    ],
+    [
+      0.000015,
+      "\r\nExecution Driver: native-0.2\r\r\n"
+    ],
+    [
+      0.000005,
+      "Logging Driver: json-file\r\r\nPlugins: \r"
+    ],
+    [
+      0.000005,
+      "\r\n Volume: local\r\r\n"
+    ],
+    [
+      0.000005,
+      " Network: null host bridge\r\r\nKernel Version: 3.19.0-49-generic\r"
+    ],
+    [
+      0.000005,
+      "\r\nOperating System: Ubuntu 15.04\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "OSType: linux"
+    ],
+    [
+      0.001263,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\nArchitecture: x86_64\r\r\nCPUs: 1\r\r\n"
+    ],
+    [
+      0.000005,
+      "Total Memory: 489.1 MiB\r\r\n"
+    ],
+    [
+      0.000014,
+      "Name: vagrant-ubuntu-vivid-64\r\r\nID: LDS7:FBR4:QAXN:P75U:PICE:BZMW:CBMM:MTOT:CCX6:XNCS:PAEN:2X3G\r"
+    ],
+    [
+      0.000005,
+      "\r\nWARNING: No swap limit support\r\r\n"
+    ],
+    [
+      0.000380,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.003894,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000017,
+      "\r\n================================================================================\r\nCreate an in-memory filesystem with --tmpfs\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker run --tmpfs /mytmpfs debian bash -c 'mount | grep mytmpfs'\r\n"
+    ],
+    [
+      0.000012,
+      "================================================================================\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.102816,
+      "docker run --tmpfs /mytmpfs debian bash -c 'mount | grep mytmpfs'"
+    ],
+    [
+      0.000988,
+      "\r\r\n"
+    ],
+    [
+      0.239880,
+      "tmpfs on /mytmpfs type tmpfs (rw,nosuid,nodev,noexec,relatime,size=65536k,uid=10000,gid=10000)\r\r\n"
+    ],
+    [
+      0.047216,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.001734,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate an internal docker network\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker network create --internal mynet"
+    ],
+    [
+      0.000013,
+      "\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103534,
+      "docker network create --internal mynet"
+    ],
+    [
+      0.001118,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.085418,
+      "6baa315c44b3e5d1d006408ab83b82f66841e83de5292fd0ccf7f78f3f90dd9c"
+    ],
+    [
+      0.000217,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001201,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.002675,
+      "\r\n\u001b[31m\r\n================================================================================\r\nlist our available networks\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker network ls"
+    ],
+    [
+      0.000019,
+      "\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105214,
+      "docker network ls"
+    ],
+    [
+      0.001048,
+      "\r\r\n"
+    ],
+    [
+      0.050640,
+      "NETWORK ID"
+    ],
+    [
+      0.000207,
+      "        "
+    ],
+    [
+      0.000253,
+      "  "
+    ],
+    [
+      0.000239,
+      "NAME"
+    ],
+    [
+      0.000218,
+      "        "
+    ],
+    [
+      0.000185,
+      "        "
+    ],
+    [
+      0.000191,
+      "DRIVER"
+    ],
+    [
+      0.000187,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "8c72efc12bfd"
+    ],
+    [
+      0.000201,
+      "        "
+    ],
+    [
+      0.000197,
+      "none"
+    ],
+    [
+      0.000190,
+      "        "
+    ],
+    [
+      0.000188,
+      "        "
+    ],
+    [
+      0.000190,
+      "null"
+    ],
+    [
+      0.000189,
+      "        "
+    ],
+    [
+      0.000196,
+      "        "
+    ],
+    [
+      0.000186,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "fcb718108429"
+    ],
+    [
+      0.000187,
+      "        "
+    ],
+    [
+      0.000189,
+      "host"
+    ],
+    [
+      0.000190,
+      "        "
+    ],
+    [
+      0.000191,
+      "        "
+    ],
+    [
+      0.000188,
+      "host"
+    ],
+    [
+      0.000200,
+      "        "
+    ],
+    [
+      0.000187,
+      "        "
+    ],
+    [
+      0.000190,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "c99bee777056"
+    ],
+    [
+      0.000273,
+      "        "
+    ],
+    [
+      0.000288,
+      "bridge"
+    ],
+    [
+      0.000157,
+      "        "
+    ],
+    [
+      0.000190,
+      "      "
+    ],
+    [
+      0.000277,
+      "bridge              \r\r\n"
+    ],
+    [
+      0.000007,
+      "6baa315c44b3        mynet               bridge              \r\r\n"
+    ],
+    [
+      0.001264,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.005154,
+      "\r\n\u001b[31m\r\n================================================================================\r\nCreate a container\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000013,
+      "docker run -d --name sleeper debian sleep infinity\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.104412,
+      "docker run -d --name sleeper debian sleep infinity"
+    ],
+    [
+      0.001170,
+      "\r\r\n"
+    ],
+    [
+      0.111601,
+      "0fcc6e1c294f2554d6d235057f5dfe114ab7f91398fd791cc54b628bfd710e0e"
+    ],
+    [
+      0.000189,
+      "\r\r\n"
+    ],
+    [
+      0.110945,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.001632,
+      "\r\n\u001b[31m"
+    ],
+    [
+      0.000018,
+      "\r\n================================================================================\r\nIt can ping the outside world.\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker exec -ti sleeper ping -W 1 -c 3 google.com\r\n================================================================================\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.100691,
+      "docker exec -ti sleeper ping -W 1 -c 3 google.com"
+    ],
+    [
+      0.001209,
+      "\r\r\n"
+    ],
+    [
+      0.134265,
+      "PING google.com (216.58.198.110): 56 data bytes\r\r\r\n"
+    ],
+    [
+      0.004531,
+      "64 bytes from 216.58.198.110: icmp_seq=0 ttl=61 time=4.585 ms\r\r\r\n"
+    ],
+    [
+      1.001876,
+      "64 bytes from 216.58.198.110: icmp_seq=1 ttl=61 time=5.183 ms\r\r\r\n"
+    ],
+    [
+      1.001289,
+      "64 bytes from 216.58.198.110: icmp_seq=2 ttl=61 time=5.180 ms\r\r\r\n--- google.com ping statistics ---\r\r\r\n3 packets transmitted, 3 packets received, 0% packet loss\r\r\r\nround-trip min/avg/max/stddev = 4.585/4.983/5.183/0.281 ms\r\r\r\n"
+    ],
+    [
+      0.003584,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.004639,
+      "\r\n\u001b[31m\r\n================================================================================\r\nDisconnect the default open network bridge.\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000025,
+      "docker network disconnect bridge sleeper\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.103938,
+      "docker network disconnect bridge sleeper"
+    ],
+    [
+      0.000812,
+      "\r\r\n"
+    ],
+    [
+      0.081579,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.001028,
+      "\r\n\u001b[31m\r\n================================================================================\r\nConnect our internal network bridge\r\n================================================================================\r\nCommand to be run is:\r\n\tdocker network connect mynet sleeper"
+    ],
+    [
+      0.000027,
+      "\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.105647,
+      "docker network connect mynet sleeper"
+    ],
+    [
+      0.001125,
+      "\r\r\n"
+    ],
+    [
+      0.114206,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.003339,
+      "\r\n\u001b[31m\r\n================================================================================\r\nWe can no longer access the outside world from this network.\r\n================================================================================\r\nCommand to be run is:\r\n\t"
+    ],
+    [
+      0.000014,
+      "docker exec -ti sleeper ping -W 1 -c 3 google.com\r\n================================================================================\r\n\u001b[0m\r\n"
+    ],
+    [
+      5.100788,
+      "docker exec -ti sleeper ping -W 1 -c 3 google.com"
+    ],
+    [
+      0.001082,
+      "\r\r\n"
+    ],
+    [
+      0.131868,
+      "PING google.com (216.58.198.110): 56 data bytes\r\r\r\n"
+    ],
+    [
+      4.005116,
+      "--- google.com ping statistics ---\r"
+    ],
+    [
+      0.000969,
+      "\r\r\n3 packets transmitted, 0 packets received, 100% packet loss\r\r\r\n"
+    ],
+    [
+      0.002382,
+      "8u61FGrv#FlrFhNou\u003e "
+    ],
+    [
+      5.104597,
+      "exit"
+    ],
+    [
+      0.002810,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\nlogout\r\r\n"
+    ],
+    [
+      0.005261,
+      "1LHVS4sv#OfODPdgu\u003e "
+    ],
+    [
+      0.100850,
+      "exit"
+    ],
+    [
+      0.001348,
+      "\r\r\n"
+    ],
+    [
+      0.000012,
+      "logout\r\r\n"
+    ],
+    [
+      0.002241,
+      "Connection to 127.0.0.1 closed.\r\r\r\n"
+    ],
+    [
+      0.001325,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.100899,
+      "cd /space/git/shutit-docker-1_10\r\r\n"
+    ],
+    [
+      0.000257,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.102648,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/build_db/module_record \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000213,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000227,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.101200,
+      " test -a /root/start_ssh_server.sh \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000190,
+      "FILNEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000249,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.055176,
+      "bash"
+    ],
+    [
+      0.050108,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "bash\r\r\n"
+    ],
+    [
+      0.237790,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.021690,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.101130,
+      " export SHUTIT_BACKUP_PS1_6who45IO=$PS1 \u0026\u0026 PS1='shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001246,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e "
+    ],
+    [
+      0.100902,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000198,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e "
+    ],
+    [
+      0.100627,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000194,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000206,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e "
+    ],
+    [
+      0.100669,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001782,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000337,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e "
+    ],
+    [
+      0.100699,
+      "cd\r\r\n"
+    ],
+    [
+      0.000200,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#2dfCVc1Z\u003e "
+    ],
+    [
+      0.100661,
+      "exit\r\r\n"
+    ],
+    [
+      0.000218,
+      "exit\r\r\n"
+    ],
+    [
+      0.000769,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.050657,
+      "bash"
+    ],
+    [
+      0.050092,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "bash\r\r\n"
+    ],
+    [
+      0.220549,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.019247,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.100960,
+      " export SHUTIT_BACKUP_PS1_ZPf16Y6z=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001267,
+      "tk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e "
+    ],
+    [
+      0.100848,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e "
+    ],
+    [
+      0.100625,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000247,
+      "FILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e "
+    ],
+    [
+      0.100655,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001759,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000484,
+      "tk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e "
+    ],
+    [
+      0.100793,
+      "cd\r\r\n"
+    ],
+    [
+      0.000184,
+      "tk.shutit.vagrant.vagrant.vagrant#jzO4gnek\u003e "
+    ],
+    [
+      0.100752,
+      "exit\r\r\n"
+    ],
+    [
+      0.000206,
+      "exit\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000970,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.050708,
+      "bash"
+    ],
+    [
+      0.050128,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "bash\r\r\n"
+    ],
+    [
+      0.220613,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.027067,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.100964,
+      " export SHUTIT_BACKUP_PS1_n5bUbYAn=$PS1 \u0026\u0026 PS1='shutit.tk.setup#jK4tE2MC\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001475,
+      "shutit.tk.setup#jK4tE2MC\u003e "
+    ],
+    [
+      0.100870,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#jK4tE2MC\u003e "
+    ],
+    [
+      0.100582,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000144,
+      "FILEXIST-FILFIN\r\r\n"
+    ],
+    [
+      0.000011,
+      "shutit.tk.setup#jK4tE2MC\u003e "
+    ],
+    [
+      0.100633,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001879,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000374,
+      "shutit.tk.setup#jK4tE2MC\u003e "
+    ],
+    [
+      0.100765,
+      "cd\r\r\n"
+    ],
+    [
+      0.000279,
+      "shutit.tk.setup#jK4tE2MC\u003e "
+    ],
+    [
+      0.100725,
+      "exit\r\r\n"
+    ],
+    [
+      0.000194,
+      "exit\r\r\n"
+    ],
+    [
+      0.000993,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.055076,
+      "bash"
+    ],
+    [
+      0.050112,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "bash\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.187158,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.017297,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.100854,
+      " export SHUTIT_BACKUP_PS1_tHBh07Hm=$PS1 \u0026\u0026 PS1='tk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001098,
+      "tk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e "
+    ],
+    [
+      0.100906,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\ntk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e "
+    ],
+    [
+      0.100565,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000176,
+      "FILEXIST-FILFIN\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "tk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e "
+    ],
+    [
+      0.100581,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001603,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000294,
+      "tk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e "
+    ],
+    [
+      0.100623,
+      "cd\r\r\n"
+    ],
+    [
+      0.000254,
+      "tk.shutit.vagrant.vagrant.vagrant#V0ne2Xeh\u003e "
+    ],
+    [
+      0.100581,
+      "exit\r\r\nexit\r\r\n"
+    ],
+    [
+      0.001056,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.050549,
+      "bash"
+    ],
+    [
+      0.050125,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "bash\r\r\n"
+    ],
+    [
+      0.210469,
+      "/dev/pts/19: 0 [174x43 xterm] (utf8) \r\r\n"
+    ],
+    [
+      0.027983,
+      "imiell@rothko:/space/git/shutit-docker-1_10$ "
+    ],
+    [
+      0.101047,
+      " export SHUTIT_BACKUP_PS1_OHD4mGF7=$PS1 \u0026\u0026 PS1='shutit.tk.setup#PXks3o9L\u003e ' \u0026\u0026 unset PROMPT_COMMAND \u0026\u0026 stty cols 320\r\r\n"
+    ],
+    [
+      0.001563,
+      "shutit.tk.setup#PXks3o9L\u003e "
+    ],
+    [
+      0.100895,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\nFILEXIST-FILFIN\r\r\nshutit.tk.setup#PXks3o9L\u003e "
+    ],
+    [
+      0.100629,
+      " test -d /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id \u0026\u0026 echo FILEXIST-\"\"FILFIN || echo FILNEXIST-\"\"FILFIN\r\r\n"
+    ],
+    [
+      0.000185,
+      "FILEXIST-FILFIN\r\r\nshutit.tk.setup#PXks3o9L\u003e "
+    ],
+    [
+      0.100560,
+      " ls /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\r\n"
+    ],
+    [
+      0.001810,
+      "4V1F2yzK  \u001b[0m\u001b[01;32mORIGIN_ENV\u001b[0m\r\r\n"
+    ],
+    [
+      0.000380,
+      "shutit.tk.setup#PXks3o9L\u003e "
+    ],
+    [
+      0.100704,
+      "cd\r\r\n"
+    ],
+    [
+      0.000252,
+      "shutit.tk.setup#PXks3o9L\u003e "
+    ],
+    [
+      0.100605,
+      "exit\r\r\n"
+    ],
+    [
+      0.000255,
+      "exit\r\r\n"
+    ],
+    [
+      0.000917,
+      "shutit.docker_1.9.docker_1_10.docker_1_10#0tzAheFn\u003e "
+    ],
+    [
+      0.050437,
+      "exit"
+    ],
+    [
+      0.050112,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "\u001b[32m################################################################################\r\n"
+    ],
+    [
+      0.000013,
+      "# COMMAND HISTORY BEGIN rothko_imiell_1454762606.81.810679\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\nchmod -R 777 /tmp/shutit_imiell\r\ntouch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/ORIGIN_ENV"
+    ],
+    [
+      0.000014,
+      "\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id\r\nchmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000012,
+      "\r\ntouch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/4V1F2yzK\r\n"
+    ],
+    [
+      0.000011,
+      "bash\r\ncd"
+    ],
+    [
+      0.000010,
+      "\r\ncd /home/imiell/.local/lib/python2.7/site-packages"
+    ],
+    [
+      0.000010,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.000010,
+      "cd /space/git/shutit-docker-1_10\r\n"
+    ],
+    [
+      0.000010,
+      "bash\r\ncd"
+    ],
+    [
+      0.000010,
+      "\r\ncd /space/git/shutit-docker-1_10/shutit-library/vagrant"
+    ],
+    [
+      0.000010,
+      "\r\nexit"
+    ],
+    [
+      0.000010,
+      "\r\ncd /space/git/shutit-docker-1_10\r\n"
+    ],
+    [
+      0.000009,
+      "bash\r\n"
+    ],
+    [
+      0.000009,
+      "cd\r\n"
+    ],
+    [
+      0.000009,
+      "cd /space/git/shutit-docker-1_10\r\n"
+    ],
+    [
+      0.000010,
+      "exit\r\ncd /space/git/shutit-docker-1_10"
+    ],
+    [
+      0.000010,
+      "\r\ncd /home/imiell/.local/lib/python2.7/site-packages"
+    ],
+    [
+      0.000010,
+      "\r\nbash"
+    ],
+    [
+      0.000010,
+      "\r\ncd\r\n"
+    ],
+    [
+      0.000010,
+      "exit\r\n"
+    ],
+    [
+      0.000008,
+      "cd /space/git/shutit-docker-1_10\r\ncd /space/git/shutit-docker-1_10/shutit-library/vagrant"
+    ],
+    [
+      0.000009,
+      "\r\nbash"
+    ],
+    [
+      0.000008,
+      "\r\ncd"
+    ],
+    [
+      0.000008,
+      "\r\nexit"
+    ],
+    [
+      0.000009,
+      "\r\ncd /space/git/shutit-docker-1_10"
+    ],
+    [
+      0.000009,
+      "\r\ncd /space/gi"
+    ],
+    [
+      0.000009,
+      "t/shutit-docker-1_10"
+    ],
+    [
+      0.000008,
+      "\r\nbash"
+    ],
+    [
+      0.000009,
+      "\r\ncd"
+    ],
+    [
+      0.000009,
+      "\r\nrm -rf /tmp/docker1_10"
+    ],
+    [
+      0.000010,
+      "\r\nmkdir /tmp/docker1_10 \u0026\u0026 cd /tmp/docker1_10 \u0026\u0026 vagrant init ubuntu/vivid64 \u0026\u0026 vagrant up"
+    ],
+    [
+      0.000009,
+      "\r\nvagrant ssh"
+    ],
+    [
+      0.000009,
+      "\r\nmkdir -p /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id"
+    ],
+    [
+      0.000009,
+      "\r\nchmod -R 777 /tmp/shutit_imiell"
+    ],
+    [
+      0.000009,
+      "\r\ntouch /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/environment_id/gIiLwk6t"
+    ],
+    [
+      0.000009,
+      "\r\ncd"
+    ],
+    [
+      0.000008,
+      "\r\nsudo su - root"
+    ],
+    [
+      0.000008,
+      "\r\ncd"
+    ],
+    [
+      0.000009,
+      "\r\ncurl -sSL -O https://get.docker.com/builds/Linux/x86_64/docker-1.10.0 \u0026\u0026 chmod +x docker-1.10.0 \u0026\u0026 sudo mv docker-1.10.0 /usr/bin/docker"
+    ],
+    [
+      0.000009,
+      "\r\nchmod +x /usr/bin/docker"
+    ],
+    [
+      0.000008,
+      "\r\nbind '\\C-i:self-insert' "
+    ],
+    [
+      0.000008,
+      "\r\nhead   -c -1 \u003e /etc/subuid \u003c\u003c 'END_cu4y2l5O'"
+    ],
+    [
+      0.000008,
+      "\r\ndockremap:10000:1000"
+    ],
+    [
+      0.000010,
+      "\r\nEND_cu4y2l5O"
+    ],
+    [
+      0.000009,
+      "\r\nbind '\\C-i:complete' \r\n"
+    ],
+    [
+      0.000009,
+      "bind '\\C-i:self-insert' \r\n"
+    ],
+    [
+      0.000009,
+      "head   -c -1 \u003e /etc/subgid \u003c\u003c 'END_t9dtVGt7'\r\n"
+    ],
+    [
+      0.000010,
+      "dockremap:10000:1000\r\n"
+    ],
+    [
+      0.000010,
+      "END_t9dtVGt7\r\nbind '\\C-i:complete' "
+    ],
+    [
+      0.000009,
+      "\r\nnohup docker daemon --userns-remap=default \u0026"
+    ],
+    [
+      0.000009,
+      "\r\ndocker run -d --user=root --name sleeper busybox sleep 30"
+    ],
+    [
+      0.000009,
+      "\r\ndocker exec sleeper ps -a"
+    ],
+    [
+      0.000009,
+      "\r\nps -ef | grep sleep\r\n"
+    ],
+    [
+      0.000009,
+      "docker rm -f sleeper\r\n"
+    ],
+    [
+      0.000009,
+      "bind '\\C-i:self-insert' \r\n"
+    ],
+    [
+      0.000010,
+      "head   -c -1 \u003e stresser.sh \u003c\u003c 'END_P3Di10AC'\r\n"
+    ],
+    [
+      0.000010,
+      "while /bin/true\r\n"
+    ],
+    [
+      0.000009,
+      "do\r\n\t"
+    ],
+    [
+      0.000008,
+      "echo stressing\r\n"
+    ],
+    [
+      0.000009,
+      "\tstress --cpu 1 --timeout 100"
+    ],
+    [
+      0.000009,
+      "\r\n\t"
+    ],
+    [
+      0.000009,
+      "echo done stressing\r\n"
+    ],
+    [
+      0.000009,
+      "\tsleep 1\r\n"
+    ],
+    [
+      0.000009,
+      "done\r\n"
+    ],
+    [
+      0.000012,
+      "END_P3Di10AC\r\nbind '\\C-i:complete' "
+    ],
+    [
+      0.000010,
+      "\r\nbind '\\C-i:self-insert' "
+    ],
+    [
+      0.000009,
+      "\r\nhead   -c -1 \u003e Dockerfile \u003c\u003c 'END_Iu4xi5kh'"
+    ],
+    [
+      0.000009,
+      "\r\nFROM debian"
+    ],
+    [
+      0.000009,
+      "\r\nRUN apt-get update \u0026\u0026 apt-get install stress"
+    ],
+    [
+      0.000008,
+      "\r\nADD stresser.sh /stresser.sh"
+    ],
+    [
+      0.000009,
+      "\r\nRUN chmod +x stresser.sh"
+    ],
+    [
+      0.000009,
+      "\r\nCMD /bin/bash -c /stresser.sh"
+    ],
+    [
+      0.000009,
+      "\r\nEND_Iu4xi5kh"
+    ],
+    [
+      0.000009,
+      "\r\nbind '\\C-i:complete' "
+    ],
+    [
+      0.000009,
+      "\r\ndocker build -t stress ."
+    ],
+    [
+      0.000008,
+      "\r\ndocker run -d --name stresser stress"
+    ],
+    [
+      0.000008,
+      "\r\nsleep 2 \u0026\u0026 top -b | head"
+    ],
+    [
+      0.000010,
+      "\r\ndocker update --cpu-period 50000 --cpu-quota 25000 stresser"
+    ],
+    [
+      0.000009,
+      "\r\nsleep 2 \u0026\u0026 top -b | head\r\n"
+    ],
+    [
+      0.000010,
+      "docker rm -f stresser\r\n"
+    ],
+    [
+      0.000009,
+      "docker events --since 0 --until 1\r\n"
+    ],
+    [
+      0.000009,
+      "docker info\r\n"
+    ],
+    [
+      0.000010,
+      "docker run --tmpfs /mytmpfs debian bash -c 'mount | grep mytmpfs'\r\n"
+    ],
+    [
+      0.000009,
+      "docker network create --internal mynet\r\ndocker network ls"
+    ],
+    [
+      0.000009,
+      "\r\ndocker run -d --name sleeper debian sleep infinity"
+    ],
+    [
+      0.000009,
+      "\r\ndocker exec -ti sleeper ping -W 1 -c 3 google.com"
+    ],
+    [
+      0.000009,
+      "\r\ndocker network disconnect bridge sleeper"
+    ],
+    [
+      0.000009,
+      "\r\ndocker network connect mynet sleeper"
+    ],
+    [
+      0.000009,
+      "\r\ndocker exec -ti sleeper ping -W 1 -c 3 google.com"
+    ],
+    [
+      0.000009,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.000009,
+      "exit\r\n"
+    ],
+    [
+      0.000009,
+      "cd /space/git/shutit-docker-1_10\r\n"
+    ],
+    [
+      0.000009,
+      "bash\r\n"
+    ],
+    [
+      0.000008,
+      "cd\r\n"
+    ],
+    [
+      0.000009,
+      "exi"
+    ],
+    [
+      0.000009,
+      "t\r\n"
+    ],
+    [
+      0.000010,
+      "bash\r\n"
+    ],
+    [
+      0.000010,
+      "cd\r\n"
+    ],
+    [
+      0.000009,
+      "exit"
+    ],
+    [
+      0.000010,
+      "\r\nbash"
+    ],
+    [
+      0.000009,
+      "\r\ncd"
+    ],
+    [
+      0.000010,
+      "\r\nexit"
+    ],
+    [
+      0.000010,
+      "\r\nbash"
+    ],
+    [
+      0.000010,
+      "\r\ncd"
+    ],
+    [
+      0.000010,
+      "\r\nexit"
+    ],
+    [
+      0.000010,
+      "\r\nbash"
+    ],
+    [
+      0.000010,
+      "\r\ncd"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "exit\r\n"
+    ],
+    [
+      0.000009,
+      "# COMMAND HISTORY END rothko_imiell_1454762606.81.810679\r\n"
+    ],
+    [
+      0.000010,
+      "################################################################################"
+    ],
+    [
+      0.000010,
+      "\r\n################################################################################"
+    ],
+    [
+      0.000010,
+      "\r\n# BUILD REPORT FOR BUILD BEGIN rothko_imiell_1454762606.81.810679"
+    ],
+    [
+      0.000010,
+      "\r\n# #Module: N/A (END)"
+    ],
+    [
+      0.000010,
+      "\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "Building: shutit.tk.setup with run order: 0"
+    ],
+    [
+      0.000010,
+      "\r\nCompleted module: shutit.tk.setup"
+    ],
+    [
+      0.000010,
+      "\r\nBuilding: tk.shutit.vagrant.vagrant.vagrant with run order: 0.94124715199999997583546473833848722279071807861328125"
+    ],
+    [
+      0.000011,
+      "\r\nCompleted module: tk.shutit.vagrant.vagrant.vagrant"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Building: shutit.docker_1.9.docker_1_10.docker_1_10 with run order: 1113159394\r\n"
+    ],
+    [
+      0.000010,
+      "Completed module: shutit.docker_1.9.docker_1_10.docker_1_10\r\n"
+    ],
+    [
+      0.000010,
+      "# BUILD REPORT FOR BUILD END rothko_imiell_1454762606.81.810679\r\n"
+    ],
+    [
+      0.000010,
+      "###############################################################################\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[31mBuild log file: /tmp/shutit_imiell/rothko_imiell_1454762606.81.810679/shutit_build.log\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ]
+  ]
+}
