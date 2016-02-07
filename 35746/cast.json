@@ -1,0 +1,1910 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 158.614551,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.100990,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000063,
+      "\u001b]2;abiola@Abiolas-MBP: ~\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.017819,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000023,
+      "\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.816300,
+      "r"
+    ],
+    [
+      0.063223,
+      "\u0008ru"
+    ],
+    [
+      0.151674,
+      "n"
+    ],
+    [
+      0.080039,
+      "c"
+    ],
+    [
+      0.120171,
+      "m"
+    ],
+    [
+      0.244533,
+      "d\u001b[1m \u001b[0m"
+    ],
+    [
+      1.019330,
+      "\u0008\u001b[0m d"
+    ],
+    [
+      0.103972,
+      "o"
+    ],
+    [
+      0.071912,
+      "c"
+    ],
+    [
+      0.112317,
+      "k"
+    ],
+    [
+      0.063987,
+      "e"
+    ],
+    [
+      0.071854,
+      "r"
+    ],
+    [
+      0.648140,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000086,
+      "\r\r\n"
+    ],
+    [
+      0.011547,
+      "\u001b]2;runcmd docker\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;runcmd\u0007"
+    ],
+    [
+      0.022336,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      1.566358,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "docker\u003e p"
+    ],
+    [
+      0.079688,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "docker\u003e ps"
+    ],
+    [
+      0.727811,
+      "\u001b[J\u001b[2K\rdocker\u003e ps"
+    ],
+    [
+      0.000011,
+      "\u001b[J\u001b[2K\rdocker\u003e ps\r\n"
+    ],
+    [
+      0.156209,
+      "CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              "
+    ],
+    [
+      0.000010,
+      "PORTS               NAMES\r\n"
+    ],
+    [
+      0.001233,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      1.634504,
+      "\u001b[J\u001b[2K\rdocker\u003e r"
+    ],
+    [
+      0.095716,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "docker\u003e ru"
+    ],
+    [
+      0.136510,
+      "\u001b[J\u001b[2K\rdocker\u003e run"
+    ],
+    [
+      0.127756,
+      "\u001b[J\u001b[2K\rdocker\u003e run "
+    ],
+    [
+      0.600215,
+      "\u001b[J\u001b[2K\rdocker\u003e run -"
+    ],
+    [
+      0.239692,
+      "\u001b[J\u001b[2K\rdocker\u003e run -i"
+    ],
+    [
+      0.071973,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "docker\u003e run -it"
+    ],
+    [
+      0.079826,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "docker\u003e run -it "
+    ],
+    [
+      0.136228,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it a"
+    ],
+    [
+      0.072035,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it al"
+    ],
+    [
+      0.200156,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it alp"
+    ],
+    [
+      0.135833,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "docker\u003e run -it alpi"
+    ],
+    [
+      0.087432,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it alpin"
+    ],
+    [
+      0.080220,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "docker\u003e run -it alpine"
+    ],
+    [
+      0.112254,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it alpine "
+    ],
+    [
+      1.304145,
+      "\u001b[J\u001b[2K\rdocker\u003e run -it alpine \u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000044,
+      "docker\u003e run -it alpine \r\n"
+    ],
+    [
+      0.027753,
+      "docker: Error response from daemon: No command specified.\r\nSee 'docker run --help'.\r\n"
+    ],
+    [
+      0.001199,
+      "Error: exit status 125\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      0.802856,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000009,
+      "docker\u003e run -it alpine "
+    ],
+    [
+      1.383618,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000019,
+      "docker\u003e run -it alpine s"
+    ],
+    [
+      0.112197,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000016,
+      "docker\u003e run -it alpine sh"
+    ],
+    [
+      0.575688,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "docker\u003e run -it alpine sh\u001b[J\u001b[2K\rdocker\u003e run -it alpine sh\r\n"
+    ],
+    [
+      0.100092,
+      "/ # \u001b[6n"
+    ],
+    [
+      0.000206,
+      "\r/ # \u001b[J"
+    ],
+    [
+      3.459900,
+      "c"
+    ],
+    [
+      0.112248,
+      "l"
+    ],
+    [
+      0.104328,
+      "e"
+    ],
+    [
+      0.119922,
+      "a"
+    ],
+    [
+      0.071797,
+      "r"
+    ],
+    [
+      0.992401,
+      "\r\n\u001b[H\u001b[J/ # \u001b[6n"
+    ],
+    [
+      5.679406,
+      "u"
+    ],
+    [
+      0.167873,
+      "n"
+    ],
+    [
+      0.488408,
+      "a"
+    ],
+    [
+      0.399158,
+      "m"
+    ],
+    [
+      0.528672,
+      "e"
+    ],
+    [
+      0.119958,
+      " "
+    ],
+    [
+      0.143665,
+      "-"
+    ],
+    [
+      0.088302,
+      "a"
+    ],
+    [
+      0.168132,
+      "\r\n"
+    ],
+    [
+      0.021248,
+      "Linux 35f3bdc880a9 4.1.17-boot2docker #1 SMP Mon Feb 1 16:37:01 UTC 2016 x86_64 Linux\r\n/ # \u001b[6n"
+    ],
+    [
+      3.450824,
+      "e"
+    ],
+    [
+      0.255683,
+      "x"
+    ],
+    [
+      1.279668,
+      "i"
+    ],
+    [
+      0.087728,
+      "t"
+    ],
+    [
+      0.312440,
+      "\r\n"
+    ],
+    [
+      0.096342,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      5.342715,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000011,
+      "docker\u003e ."
+    ],
+    [
+      0.264366,
+      "\u001b[J\u001b[2K\rdocker\u003e .h"
+    ],
+    [
+      0.087756,
+      "\u001b[J\u001b[2K\rdocker\u003e .he"
+    ],
+    [
+      0.095834,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "docker\u003e .hel"
+    ],
+    [
+      0.152079,
+      "\u001b[J\u001b[2K\rdocker\u003e .help"
+    ],
+    [
+      0.327822,
+      "\u001b[J\u001b[2K\rdocker\u003e .help"
+    ],
+    [
+      0.000005,
+      "\u001b[J\u001b[2K\rdocker\u003e .help\r\n"
+    ],
+    [
+      0.000138,
+      ".env    list/add environment variable\r\n.switch switch to another command.\r\n.clear  clear screen.\r\n.help   show this help\r\n\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      3.447847,
+      "\u001b[J\u001b[2K\rdocker\u003e ."
+    ],
+    [
+      0.239995,
+      "\u001b[J\u001b[2K\rdocker\u003e .c"
+    ],
+    [
+      0.103900,
+      "\u001b[J\u001b[2K\rdocker\u003e .cl"
+    ],
+    [
+      0.112385,
+      "\u001b[J\u001b[2K\rdocker\u003e .cle"
+    ],
+    [
+      0.119865,
+      "\u001b[J\u001b[2K\rdocker\u003e .clea"
+    ],
+    [
+      0.040098,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000010,
+      "docker\u003e .clear"
+    ],
+    [
+      0.583840,
+      "\u001b[J\u001b[2K\rdocker\u003e .clear"
+    ],
+    [
+      0.000011,
+      "\u001b[J\u001b[2K\rdocker\u003e .clear\r\n"
+    ],
+    [
+      0.004043,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000186,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      1.219516,
+      "\u001b[J\u001b[2K\rdocker\u003e ."
+    ],
+    [
+      0.104268,
+      "\u001b[J\u001b[2K\rdocker\u003e .e"
+    ],
+    [
+      0.111895,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000014,
+      "docker\u003e .eh"
+    ],
+    [
+      0.560188,
+      "\u001b[J\u001b[2K\rdocker\u003e .e"
+    ],
+    [
+      0.127870,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000019,
+      "docker\u003e ."
+    ],
+    [
+      0.263710,
+      "\u001b[J\u001b[2K\rdocker\u003e .h"
+    ],
+    [
+      0.144230,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "docker\u003e .he"
+    ],
+    [
+      0.135741,
+      "\u001b[J\u001b[2K\rdocker\u003e .hel"
+    ],
+    [
+      0.328189,
+      "\u001b[J\u001b[2K\rdocker\u003e .help "
+    ],
+    [
+      1.671714,
+      "\u001b[J\u001b[2K\rdocker\u003e .help "
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\rdocker\u003e .help \r\n"
+    ],
+    [
+      0.000194,
+      ".env    list/add environment variable\r\n.switch switch to another command.\r\n.clear  clear screen.\r\n.help   show this help\r\n\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      0.535932,
+      "\u001b[J\u001b[2K\rdocker\u003e ."
+    ],
+    [
+      0.831964,
+      "\r\n\u001b[J.clear    .switch   .help     .env      .exit     \u001b[1A\r\u001b[9C"
+    ],
+    [
+      0.000025,
+      "\u001b[J\u001b[2K\rdocker\u003e .\r\n\u001b[J.clear    .switch   .help     .env      .exit     \u001b[1A\r\u001b[9C"
+    ],
+    [
+      1.071744,
+      "\r\n\u001b[J.clear    .switch   .help     .env      .exit     \u001b[1A\r\u001b[9C"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[J\u001b[30;47m.clear  \u001b[0m  .switch   .help     .env      .exit     \u001b[1A\r\u001b[9C"
+    ],
+    [
+      0.000003,
+      "\u001b[J\u001b[2K\rdocker\u003e ."
+    ],
+    [
+      0.000017,
+      "\r\n\u001b[J\u001b[30;47m.clear  \u001b[0m  .switch   .help     .env      .exit     \u001b[1A\r\u001b[9C"
+    ],
+    [
+      3.351862,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000012,
+      "docker\u003e .clear \u001b[J\u001b[2K\rdocker\u003e .clear "
+    ],
+    [
+      0.984201,
+      "\u001b[J\u001b[2K\rdocker\u003e .clear \u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000011,
+      "docker\u003e .clear \r\n"
+    ],
+    [
+      0.004015,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000242,
+      "\u001b[J\u001b[2K\rdocker\u003e "
+    ],
+    [
+      0.507636,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "docker\u003e ."
+    ],
+    [
+      0.423781,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "docker\u003e .w"
+    ],
+    [
+      0.376234,
+      "\u001b[J\u001b[2K\rdocker\u003e ."
+    ],
+    [
+      0.055879,
+      "\u001b[J\u001b[2K\rdocker\u003e .s"
+    ],
+    [
+      0.152216,
+      "\u001b[J\u001b[2K\rdocker\u003e .sw"
+    ],
+    [
+      0.135969,
+      "\u001b[J\u001b[2K\rdocker\u003e .swi"
+    ],
+    [
+      0.127541,
+      "\u001b[J\u001b[2K\rdocker\u003e .swit"
+    ],
+    [
+      0.224517,
+      "\u001b[J\u001b[2K\rdocker\u003e .switc"
+    ],
+    [
+      0.055560,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch"
+    ],
+    [
+      0.128160,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch "
+    ],
+    [
+      0.271906,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "docker\u003e .switch e"
+    ],
+    [
+      0.159992,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch ec"
+    ],
+    [
+      0.088217,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch ech"
+    ],
+    [
+      0.104040,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch echo"
+    ],
+    [
+      0.871967,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch echo"
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\rdocker\u003e .switch echo\r\n"
+    ],
+    [
+      0.004643,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000238,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      4.090702,
+      "\u001b[J\u001b[2K\recho\u003e ."
+    ],
+    [
+      0.351938,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e .e"
+    ],
+    [
+      0.168000,
+      "\u001b[J\u001b[2K\recho\u003e .en"
+    ],
+    [
+      0.119989,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env"
+    ],
+    [
+      0.512167,
+      "\u001b[J\u001b[2K\recho\u003e .env "
+    ],
+    [
+      1.575779,
+      "\u001b[J\u001b[2K\recho\u003e .env $"
+    ],
+    [
+      0.255841,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000013,
+      "echo\u003e .env $N"
+    ],
+    [
+      0.047692,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "echo\u003e .env $NA"
+    ],
+    [
+      0.144756,
+      "\u001b[J\u001b[2K\recho\u003e .env $NAM"
+    ],
+    [
+      0.103674,
+      "\u001b[J\u001b[2K\recho\u003e .env $NAME"
+    ],
+    [
+      2.431717,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "echo\u003e .env $NAM"
+    ],
+    [
+      0.128064,
+      "\u001b[J\u001b[2K\recho\u003e .env $NA"
+    ],
+    [
+      0.128314,
+      "\u001b[J\u001b[2K\recho\u003e .env $N"
+    ],
+    [
+      0.143847,
+      "\u001b[J\u001b[2K\recho\u003e .env $"
+    ],
+    [
+      0.151831,
+      "\u001b[J\u001b[2K\recho\u003e .env "
+    ],
+    [
+      0.488078,
+      "\u001b[J\u001b[2K\recho\u003e .env N"
+    ],
+    [
+      0.263930,
+      "\u001b[J\u001b[2K\recho\u003e .env NA"
+    ],
+    [
+      0.136137,
+      "\u001b[J\u001b[2K\recho\u003e .env NAM"
+    ],
+    [
+      0.192201,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME"
+    ],
+    [
+      0.800140,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME "
+    ],
+    [
+      0.311850,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \""
+    ],
+    [
+      0.303684,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e .env NAME \"T"
+    ],
+    [
+      0.096281,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000015,
+      "echo\u003e .env NAME \"Th"
+    ],
+    [
+      0.063833,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME \"The"
+    ],
+    [
+      0.104020,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The "
+    ],
+    [
+      0.120278,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e .env NAME \"The c"
+    ],
+    [
+      0.103656,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .env NAME \"The co"
+    ],
+    [
+      0.128086,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e .env NAME \"The coo"
+    ],
+    [
+      0.167850,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e .env NAME \"The cool"
+    ],
+    [
+      0.104084,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The cool "
+    ],
+    [
+      0.056065,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME \"The cool g"
+    ],
+    [
+      0.103775,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The cool gu"
+    ],
+    [
+      0.168437,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The cool guy"
+    ],
+    [
+      0.543383,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .env NAME \"The cool guy\""
+    ],
+    [
+      0.440059,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The cool guy\""
+    ],
+    [
+      0.000012,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME \"The cool guy\"\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      1.631868,
+      "\u001b[J\u001b[2K\recho\u003e $"
+    ],
+    [
+      0.247687,
+      "\u001b[J\u001b[2K\recho\u003e $N"
+    ],
+    [
+      0.064362,
+      "\u001b[J\u001b[2K\recho\u003e $NA"
+    ],
+    [
+      0.120109,
+      "\u001b[J\u001b[2K\recho\u003e $NAM"
+    ],
+    [
+      0.119870,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e $NAME"
+    ],
+    [
+      0.447850,
+      "\u001b[J\u001b[2K\recho\u003e $NAME"
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000016,
+      "echo\u003e $NAME\r\n"
+    ],
+    [
+      0.003938,
+      "The cool guy\r\n"
+    ],
+    [
+      0.000270,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      2.259933,
+      "\u001b[J\u001b[2K\recho\u003e ."
+    ],
+    [
+      0.095796,
+      "\u001b[J\u001b[2K\recho\u003e .e"
+    ],
+    [
+      0.216173,
+      "\u001b[J\u001b[2K\recho\u003e .en"
+    ],
+    [
+      0.391812,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env"
+    ],
+    [
+      1.928175,
+      "\u001b[J\u001b[2K\recho\u003e .env"
+    ],
+    [
+      0.000010,
+      "\u001b[J\u001b[2K\recho\u003e .env\r\n"
+    ],
+    [
+      0.000180,
+      "NAME=The cool guy\r\n\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      1.095601,
+      "\u001b[J\u001b[2K\recho\u003e ."
+    ],
+    [
+      0.183838,
+      "\u001b[J\u001b[2K\recho\u003e .e"
+    ],
+    [
+      0.120103,
+      "\u001b[J\u001b[2K\recho\u003e .en"
+    ],
+    [
+      0.095899,
+      "\u001b[J\u001b[2K\recho\u003e .env"
+    ],
+    [
+      0.144043,
+      "\u001b[J\u001b[2K\recho\u003e .env "
+    ],
+    [
+      0.600050,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env N"
+    ],
+    [
+      0.063944,
+      "\u001b[J\u001b[2K\recho\u003e .env NA"
+    ],
+    [
+      0.135809,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .env NAM"
+    ],
+    [
+      0.096190,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME"
+    ],
+    [
+      0.279741,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME="
+    ],
+    [
+      1.216061,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=T"
+    ],
+    [
+      0.096028,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=Th"
+    ],
+    [
+      0.071805,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The"
+    ],
+    [
+      0.128674,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The "
+    ],
+    [
+      4.343372,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008"
+    ],
+    [
+      0.500402,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e .env NAME=The \u0008\u0008"
+    ],
+    [
+      0.084885,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008"
+    ],
+    [
+      0.083251,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME=The \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083576,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000014,
+      "echo\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.084612,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083908,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083704,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.892069,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.500589,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.084291,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME=The \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083611,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.083930,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=The \u0008\u0008\u0008"
+    ],
+    [
+      0.084826,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000010,
+      "echo\u003e .env NAME=The \u0008\u0008"
+    ],
+    [
+      0.084186,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .env NAME=The \u0008"
+    ],
+    [
+      0.534097,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=TheC \u0008"
+    ],
+    [
+      0.103920,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME=TheCo \u0008"
+    ],
+    [
+      0.120069,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000016,
+      "echo\u003e .env NAME=TheCoo \u0008"
+    ],
+    [
+      0.167923,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000010,
+      "echo\u003e .env NAME=TheCool \u0008"
+    ],
+    [
+      0.392044,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME=TheCoolG \u0008"
+    ],
+    [
+      0.111737,
+      "\u001b[J\u001b[2K\recho\u003e .env NAME=TheCoolGu \u0008"
+    ],
+    [
+      0.152015,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .env NAME=TheCoolGuy \u0008"
+    ],
+    [
+      1.543834,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000010,
+      "echo\u003e .env NAME=TheCoolGuy \u001b[J\u001b[2K\recho\u003e .env NAME=TheCoolGuy \r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "echo\u003e "
+    ],
+    [
+      1.000126,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e ."
+    ],
+    [
+      0.119689,
+      "\u001b[J\u001b[2K\recho\u003e .e"
+    ],
+    [
+      0.136115,
+      "\u001b[J\u001b[2K\recho\u003e .en"
+    ],
+    [
+      0.087945,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e .env"
+    ],
+    [
+      0.368162,
+      "\u001b[J\u001b[2K\recho\u003e .env\u001b[J\u001b[2K\recho\u003e .env\r\n"
+    ],
+    [
+      0.000218,
+      "NAME=TheCoolGuy\r\n\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      2.767614,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e $"
+    ],
+    [
+      0.263915,
+      "\u001b[J\u001b[2K\recho\u003e $N"
+    ],
+    [
+      0.079911,
+      "\u001b[J\u001b[2K\recho\u003e $NA"
+    ],
+    [
+      0.128327,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e $NAM"
+    ],
+    [
+      0.087455,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e $NAME"
+    ],
+    [
+      0.392024,
+      "\u001b[J\u001b[2K\recho\u003e $NAME"
+    ],
+    [
+      0.000006,
+      "\u001b[J\u001b[2K\recho\u003e $NAME\r\n"
+    ],
+    [
+      0.003825,
+      "TheCoolGuy\r\n"
+    ],
+    [
+      0.000202,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      3.939855,
+      "\u001b[J\u001b[2K\recho\u003e \u003c"
+    ],
+    [
+      1.192079,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      1.087893,
+      "\u001b[J\u001b[2K\recho\u003e T"
+    ],
+    [
+      0.072061,
+      "\u001b[J\u001b[2K\recho\u003e Th"
+    ],
+    [
+      0.064184,
+      "\u001b[J\u001b[2K\recho\u003e Thi"
+    ],
+    [
+      0.095572,
+      "\u001b[J\u001b[2K\recho\u003e This"
+    ],
+    [
+      0.136521,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e This "
+    ],
+    [
+      0.103663,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "echo\u003e This i"
+    ],
+    [
+      0.104229,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e This is"
+    ],
+    [
+      0.088000,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000009,
+      "echo\u003e This is "
+    ],
+    [
+      0.583746,
+      "\u001b[J\u001b[2K\recho\u003e This is m"
+    ],
+    [
+      0.191970,
+      "\u001b[J\u001b[2K\recho\u003e This is mu"
+    ],
+    [
+      0.159833,
+      "\u001b[J\u001b[2K\recho\u003e This is mul"
+    ],
+    [
+      0.144376,
+      "\u001b[J\u001b[2K\recho\u003e This is mult"
+    ],
+    [
+      0.095666,
+      "\u001b[J\u001b[2K\recho\u003e This is multi"
+    ],
+    [
+      0.128319,
+      "\u001b[J\u001b[2K\recho\u003e This is multip"
+    ],
+    [
+      0.168057,
+      "\u001b[J\u001b[2K\recho\u003e This is multipl"
+    ],
+    [
+      0.111820,
+      "\u001b[J\u001b[2K\recho\u003e This is multiple"
+    ],
+    [
+      0.591748,
+      "\u001b[J\u001b[2K\recho\u003e This is multiple "
+    ],
+    [
+      0.136443,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e This is multiple \\"
+    ],
+    [
+      0.903527,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e This is multiple \\\u001b[J\u001b[2K\recho\u003e This is multiple \\\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "... "
+    ],
+    [
+      0.416276,
+      "\u001b[J\u001b[2K\r... l"
+    ],
+    [
+      0.103660,
+      "\u001b[J\u001b[2K\r... li"
+    ],
+    [
+      0.104110,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "... lin"
+    ],
+    [
+      0.072108,
+      "\u001b[J\u001b[2K\r... line"
+    ],
+    [
+      0.191965,
+      "\u001b[J\u001b[2K\r... lines"
+    ],
+    [
+      0.456005,
+      "\u001b[J\u001b[2K\r... lines."
+    ],
+    [
+      1.783822,
+      "\u001b[J\u001b[2K\r... lines."
+    ],
+    [
+      0.000006,
+      "\u001b[J\u001b[2K\r... lines.\r\n"
+    ],
+    [
+      0.003673,
+      "This is multiple lines.\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "echo\u003e "
+    ],
+    [
+      1.556019,
+      "\u001b[J\u001b[2K\recho\u003e T"
+    ],
+    [
+      0.128053,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "echo\u003e Th"
+    ],
+    [
+      0.048058,
+      "\u001b[J\u001b[2K\recho\u003e Thi"
+    ],
+    [
+      0.095737,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e This"
+    ],
+    [
+      0.744164,
+      "\u001b[J\u001b[2K\recho\u003e This "
+    ],
+    [
+      0.135602,
+      "\u001b[J\u001b[2K\recho\u003e This i"
+    ],
+    [
+      0.088183,
+      "\u001b[J\u001b[2K\recho\u003e This is"
+    ],
+    [
+      0.880202,
+      "\u001b[J\u001b[2K\recho\u003e This is "
+    ],
+    [
+      0.423686,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c"
+    ],
+    [
+      0.144500,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c"
+    ],
+    [
+      1.327554,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003cE"
+    ],
+    [
+      0.800283,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c"
+    ],
+    [
+      0.272081,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c "
+    ],
+    [
+      0.207728,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c E"
+    ],
+    [
+      0.151960,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c EO"
+    ],
+    [
+      0.135791,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c EOF"
+    ],
+    [
+      0.424193,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c EOF"
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\recho\u003e This is \u003c\u003c EOF\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[J\u001b[2K\r... "
+    ],
+    [
+      0.687855,
+      "\u001b[J\u001b[2K\r... a"
+    ],
+    [
+      0.087985,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "... al"
+    ],
+    [
+      0.111977,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "... als"
+    ],
+    [
+      0.087750,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "... also"
+    ],
+    [
+      0.119973,
+      "\u001b[J\u001b[2K\r... also "
+    ],
+    [
+      0.136026,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "... also m"
+    ],
+    [
+      0.208144,
+      "\u001b[J\u001b[2K\r... also mu"
+    ],
+    [
+      0.151959,
+      "\u001b[J\u001b[2K\r... also mul"
+    ],
+    [
+      0.103921,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "... also mult"
+    ],
+    [
+      0.056128,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000028,
+      "... also multi"
+    ],
+    [
+      0.136115,
+      "\u001b[J\u001b[2K\r... also multip"
+    ],
+    [
+      0.183832,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "... also multipl"
+    ],
+    [
+      0.088250,
+      "\u001b[J\u001b[2K\r... also multiple"
+    ],
+    [
+      0.095611,
+      "\u001b[J\u001b[2K\r... also multiple "
+    ],
+    [
+      0.167882,
+      "\u001b[J\u001b[2K\r... also multiple l"
+    ],
+    [
+      0.119975,
+      "\u001b[J\u001b[2K\r... also multiple li"
+    ],
+    [
+      0.096314,
+      "\u001b[J\u001b[2K\r... also multiple lin"
+    ],
+    [
+      0.080234,
+      "\u001b[J\u001b[2K\r... also multiple line"
+    ],
+    [
+      0.167645,
+      "\u001b[J\u001b[2K\r... also multiple lines"
+    ],
+    [
+      2.671944,
+      "\u001b[J\u001b[2K\r... also multiple lines"
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\r... also multiple lines\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[J\u001b[2K\r... "
+    ],
+    [
+      0.991730,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "... E"
+    ],
+    [
+      0.136004,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "... EO"
+    ],
+    [
+      0.152104,
+      "\u001b[J\u001b[2K\r... EOF"
+    ],
+    [
+      0.591978,
+      "\u001b[J\u001b[2K\r... EOF"
+    ],
+    [
+      0.000008,
+      "\u001b[J\u001b[2K\r... EOF\r\n"
+    ],
+    [
+      0.004330,
+      "This is also multiple lines\r\n\r\n"
+    ],
+    [
+      0.000314,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      2.731268,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000009,
+      "echo\u003e ."
+    ],
+    [
+      0.175627,
+      "\u001b[J\u001b[2K\recho\u003e .c"
+    ],
+    [
+      0.088333,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000011,
+      "echo\u003e .cl"
+    ],
+    [
+      0.079855,
+      "\u001b[J\u001b[2K\recho\u003e .cle"
+    ],
+    [
+      0.095914,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000009,
+      "echo\u003e .clea"
+    ],
+    [
+      0.064130,
+      "\u001b[J\u001b[2K\recho\u003e .clear"
+    ],
+    [
+      1.215965,
+      "\u001b[J\u001b[2K\recho\u003e .clear"
+    ],
+    [
+      0.000010,
+      "\u001b[J\u001b[2K\recho\u003e .clear\r\n"
+    ],
+    [
+      0.004642,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000228,
+      "\u001b[J\u001b[2K\recho\u003e "
+    ],
+    [
+      2.435150,
+      "\u001b[J\u001b[2K\recho\u003e ."
+    ],
+    [
+      3.543562,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .s"
+    ],
+    [
+      0.463957,
+      "\u001b[J\u001b[2K\recho\u003e .sw"
+    ],
+    [
+      0.167914,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "echo\u003e .swi"
+    ],
+    [
+      0.088279,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "echo\u003e .swit"
+    ],
+    [
+      0.216108,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000008,
+      "echo\u003e .switc"
+    ],
+    [
+      0.111961,
+      "\u001b[J\u001b[2K\recho\u003e .switch"
+    ],
+    [
+      1.079655,
+      "\u001b[J\u001b[2K\recho\u003e .switch "
+    ],
+    [
+      1.488101,
+      "\u001b[J\u001b[2K\recho\u003e .switch g"
+    ],
+    [
+      0.111662,
+      "\u001b[J\u001b[2K\recho\u003e .switch go"
+    ],
+    [
+      0.272439,
+      "\u001b[J\u001b[2K\recho\u003e .switch go\u001b[J\u001b[2K\recho\u003e .switch go\r\n"
+    ],
+    [
+      0.003884,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000225,
+      "\u001b[J\u001b[2K\rgo\u003e "
+    ],
+    [
+      1.939620,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "go\u003e v"
+    ],
+    [
+      0.104327,
+      "\u001b[J\u001b[2K\rgo\u003e ve"
+    ],
+    [
+      0.079844,
+      "\u001b[J\u001b[2K\rgo\u003e ver"
+    ],
+    [
+      0.111948,
+      "\u001b[J\u001b[2K\rgo\u003e vers"
+    ],
+    [
+      0.128035,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "go\u003e versi"
+    ],
+    [
+      0.080091,
+      "\u001b[J\u001b[2K\rgo\u003e versio"
+    ],
+    [
+      0.063621,
+      "\u001b[J\u001b[2K\rgo\u003e version"
+    ],
+    [
+      0.311954,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000007,
+      "go\u003e version"
+    ],
+    [
+      0.000026,
+      "\u001b[J\u001b[2K\rgo\u003e version\r\n"
+    ],
+    [
+      0.132075,
+      "go version go1.5.2 darwin/amd64\r\n"
+    ],
+    [
+      0.000960,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "go\u003e "
+    ],
+    [
+      4.722931,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "go\u003e ."
+    ],
+    [
+      1.519946,
+      "\u001b[J\u001b[2K\rgo\u003e .e"
+    ],
+    [
+      0.751967,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000005,
+      "go\u003e .ex"
+    ],
+    [
+      0.263833,
+      "\u001b[J\u001b[2K\rgo\u003e .exi"
+    ],
+    [
+      0.104335,
+      "\u001b[J\u001b[2K\rgo\u003e .exit"
+    ],
+    [
+      0.455885,
+      "\u001b[J\u001b[2K\r"
+    ],
+    [
+      0.000011,
+      "go\u003e .exit\u001b[J\u001b[2K\rgo\u003e .exit\r\n"
+    ],
+    [
+      0.002282,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000108,
+      "\u001b]2;abiola@Abiolas-MBP: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.014231,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000083,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.343735,
+      "e"
+    ],
+    [
+      0.167400,
+      "\u0008ex"
+    ],
+    [
+      0.127943,
+      "i"
+    ],
+    [
+      0.072225,
+      "t"
+    ],
+    [
+      0.184018,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000054,
+      "\r\r\n"
+    ],
+    [
+      0.012199,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
