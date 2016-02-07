@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "width": 116,
+  "height": 24,
+  "duration": 5.481082,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "ansi",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.051073,
+      "\u001b]7;file://Samet-MacBook-Pro.local/Users/sametaydemir\u0007"
+    ],
+    [
+      0.060383,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;sametaydemir@Samet-MacBook-Pro\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.002536,
+      "\u001b]7;file://Samet-MacBook-Pro.local/Users/sametaydemir\u0007"
+    ],
+    [
+      0.012960,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      1.119099,
+      "f"
+    ],
+    [
+      0.207173,
+      "\u001b[Dfr"
+    ],
+    [
+      0.079866,
+      "e"
+    ],
+    [
+      0.152066,
+      "e"
+    ],
+    [
+      0.248081,
+      "b"
+    ],
+    [
+      0.143896,
+      "o"
+    ],
+    [
+      0.128067,
+      "o"
+    ],
+    [
+      0.512016,
+      "k"
+    ],
+    [
+      0.303673,
+      "\r\r\n"
+    ],
+    [
+      0.000711,
+      "\u001b]2;freebook\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;freebook\u0007"
+    ],
+    [
+      1.150493,
+      "\t\r\n"
+    ],
+    [
+      0.000462,
+      "📚  \u001b[31m\u001b[1mResponsive Web Design with AngularJS\u001b[22m\u001b[39m\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[34m\u001b[4mhttps://www.packtpub.com/packt/offers/free-learning\u001b[24m\u001b[39m\r\n"
+    ],
+    [
+      0.000027,
+      "\t\r\n"
+    ],
+    [
+      0.004816,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[0m                                                                                                                  \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b]2;sametaydemir@Samet-MacBook-Pro\u0007"
+    ],
+    [
+      0.000050,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.002437,
+      "\u001b]7;file://Samet-MacBook-Pro.local/Users/sametaydemir\u0007"
+    ],
+    [
+      0.013503,
+      "\r\u001b[0m\u001b[m\u001b[m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      1.283687,
+      "\r\r\n"
+    ]
+  ]
+}
