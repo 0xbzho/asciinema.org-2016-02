@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 25,
+  "duration": 10.418443,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.235385,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b]2;ahmed@ahmedseref: ~/workspace/repos/pjson\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..e/repos/pjson\u0007"
+    ],
+    [
+      0.189423,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mpjson \u001b[01;34mgit:(\u001b[31mrelease/0.1.0\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000044,
+      "\u001b[K\u001b[42Cgit:(\u001b[31m\u001b[01;35mrelease/0.1.0\u001b[00m↑12\u001b[00m|\u001b[31m●1\u001b[00m\u001b[34m✚5\u001b[00m\u001b[00m\u001b[00m\u001b[68D"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.200357,
+      "m"
+    ],
+    [
+      0.206169,
+      "\u0008ma"
+    ],
+    [
+      0.088047,
+      "k"
+    ],
+    [
+      0.159877,
+      "e"
+    ],
+    [
+      0.503820,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000129,
+      "\r\r\n"
+    ],
+    [
+      0.003853,
+      "\u001b]2;make\u0007\u001b]1;make\u0007"
+    ],
+    [
+      0.015466,
+      "cat examples/dummy.json | python -m pjson.filter \"response/name\" | ccat\r\n"
+    ],
+    [
+      0.105514,
+      "\u001b[31m{\u001b[39;49;00m\r\n  "
+    ],
+    [
+      0.000013,
+      "\u001b[33m\"response.name\"\u001b[39;49;00m\u001b[31m:\u001b[39;49;00m \u001b[33m\"-K7BZvTYh1EAAAYabROO\"\u001b[39;49;00m\r\n\u001b[31m}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.002248,
+      "cat examples/dummy.json | python -m pjson.extract \"response/name\" | ccat\r\n"
+    ],
+    [
+      0.097255,
+      "\u001b[33m\"-K7BZvTYh1EAAAYabROO\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.001626,
+      "curl -s https://publicdata-airports.firebaseio.com/.json | python -m pjson.filter \"ATL/status/ reason\" | ccat\r\n"
+    ],
+    [
+      1.242140,
+      "\u001b[31m{\u001b[39;49;00m\r\n  \u001b[33m\"ATL.status.reason\"\u001b[39;49;00m"
+    ],
+    [
+      0.000012,
+      "\u001b[31m:\u001b[39;49;00m \u001b[33m\"No known delays for this airport.\"\u001b[39;49;00m\r\n\u001b[31m}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.001917,
+      "curl -s https://publicdata-airports.firebaseio.com/.json | python -m pjson.extract \"ATL/status/ reason\" | ccat\r\n"
+    ],
+    [
+      1.131642,
+      "\u001b[33m\"No known delays for this airport.\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.001806,
+      "curl -s https://publicdata-airports.firebaseio.com/.json | python -m pjson.filter \"ATL/weather/weather\" | ccat\r\n"
+    ],
+    [
+      1.378646,
+      "\u001b[31m{\u001b[39;49;00m\r\n  \u001b[33m\"ATL.weather.weather\"\u001b[39;49;00m\u001b[31m:\u001b[39;49;00m \u001b[33m\"A Few Clouds\"\u001b[39;49;00m\r\n\u001b[31m}\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.002483,
+      "curl -s https://publicdata-airports.firebaseio.com/.json | python -m pjson.extract \"ATL/weather/weather\" | ccat\r\n"
+    ],
+    [
+      1.230233,
+      "\u001b[33m\"A Few Clouds\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.002415,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000063,
+      "\u001b]2;ahmed@ahmedseref: ~/workspace/repos/pjson\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;..e/repos/pjson\u0007"
+    ],
+    [
+      0.187933,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mpjson \u001b[01;34mgit:(\u001b[31mrelease/0.1.0\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[42Cgit:(\u001b[31m\u001b[01;35mrelease/0.1.0\u001b[00m↑12\u001b[00m|\u001b[31m●1\u001b[00m\u001b[34m✚5\u001b[00m\u001b[00m\u001b[00m\u001b[68D"
+    ],
+    [
+      0.000046,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.414740,
+      "\r\r\n"
+    ]
+  ]
+}
