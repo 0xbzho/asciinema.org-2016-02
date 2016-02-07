@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 30,
+  "duration": 49.755798,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.116797,
+      "\u001b[0;36m~/source/bsdgames-osx\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.258469,
+      "w"
+    ],
+    [
+      0.247051,
+      "u"
+    ],
+    [
+      0.343281,
+      "m"
+    ],
+    [
+      0.234003,
+      "p/"
+    ],
+    [
+      0.841317,
+      "w"
+    ],
+    [
+      0.075521,
+      "u"
+    ],
+    [
+      0.252880,
+      "m"
+    ],
+    [
+      0.096009,
+      "p"
+    ],
+    [
+      0.046539,
+      " "
+    ],
+    [
+      0.706677,
+      "\r\n"
+    ],
+    [
+      0.006700,
+      "Instructions? (y-n) "
+    ],
+    [
+      1.359196,
+      "y"
+    ],
+    [
+      0.419009,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "Sorry, but the instruction file seems to have disappeared in a\r\npuff of greasy black smoke! (poof)\r\n"
+    ],
+    [
+      0.000101,
+      "\r\nYou're in a cave with 20 rooms and 3 tunnels leading from each room.\r\nThere are 3 bats and 3 pits scattered throughout the cave, and your\r\n"
+    ],
+    [
+      0.000009,
+      "quiver holds 5 custom super anti-evil Wumpus arrows.  Good luck.\r\n\r\nYou are in room 15 of the cave, and have 5 arrows left.\r\n"
+    ],
+    [
+      0.000061,
+      "*rustle* *rustle* (must be bats nearby)\r\n*whoosh* (I feel a draft from some pits).\r\nThere are tunnels to rooms 6, 4, and 7.\r\nMove or shoot? (m-s) "
+    ],
+    [
+      11.371711,
+      "m"
+    ],
+    [
+      0.453104,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "To which room do you wish to move? "
+    ],
+    [
+      2.040580,
+      "6"
+    ],
+    [
+      0.191097,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "*AAAUUUUGGGGGHHHHHhhhhhhhhhh...*\r\nThe whistling sound and updraft as you walked into this room of the\r\ncave apparently wasn't enough to clue you in to the presence of the\r\n"
+    ],
+    [
+      0.000063,
+      "bottomless pit.  You have a lot of time to reflect on this error as\r\nyou fall many miles to the core of the earth.  Look on the bright side;\r\nyou can at least find out if Jules Verne was right...\r\n\r\nCare to play another game? (y-n) "
+    ],
+    [
+      5.823427,
+      "y"
+    ],
+    [
+      0.518306,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "In the same cave? (y-n) "
+    ],
+    [
+      2.887993,
+      "y"
+    ],
+    [
+      0.368435,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\r\nYou are in room 15 of the cave, and have 5 arrows left.\r\n*whoosh* (I feel a draft from some pits).\r\n"
+    ],
+    [
+      0.000021,
+      "*sniff* (I can smell the evil Wumpus nearby!)\r\nThere are tunnels to rooms 6, 4, and 7.\r\nMove or shoot? (m-s) "
+    ],
+    [
+      2.530455,
+      "m"
+    ],
+    [
+      0.536030,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "To which room do you wish to move? "
+    ],
+    [
+      1.665093,
+      "4"
+    ],
+    [
+      0.261593,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "*AAAUUUUGGGGGHHHHHhhhhhhhhhh...*\r\nThe whistling sound and updraft as you walked into this room of the\r\ncave apparently wasn't enough to clue you in to the presence of the\r\nbottomless pit.  You have a lot of time to reflect on this error as\r\nyou fall many miles to the core of the earth.  Look on the bright side;\r\n"
+    ],
+    [
+      0.000052,
+      "you can at least find out if Jules Verne was right...\r\n\r\nCare to play another game? (y-n) "
+    ],
+    [
+      2.140239,
+      "y"
+    ],
+    [
+      0.363867,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "In the same cave? (y-n) "
+    ],
+    [
+      1.824891,
+      "y"
+    ],
+    [
+      0.649989,
+      "\u0008 \u0008"
+    ],
+    [
+      0.335913,
+      "n"
+    ],
+    [
+      0.349215,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\r\nYou are in room 19 of the cave, and have 5 arrows left.\r\n*rustle* *rustle* (must be bats nearby)\r\n"
+    ],
+    [
+      0.000010,
+      "*whoosh* (I feel a draft from some pits).\r\nThere are tunnels to rooms 7, 11, and 2.\r\nMove or shoot? (m-s) "
+    ],
+    [
+      1.530423,
+      "s"
+    ],
+    [
+      0.368678,
+      "\r\n"
+    ],
+    [
+      0.000237,
+      "The arrow falls to the ground at your feet!\r\n\r\nYou are in room 19 of the cave, and have 5 arrows left.\r\n*rustle* *rustle* (must be bats nearby)\r\n*whoosh* (I feel a draft from some pits).\r\nThere are tunnels to rooms 7, 11, and 2.\r\nMove or shoot? (m-s) "
+    ],
+    [
+      3.206452,
+      "m"
+    ],
+    [
+      0.386371,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "To which room do you wish to move? "
+    ],
+    [
+      0.975389,
+      "1"
+    ],
+    [
+      0.149057,
+      "1"
+    ],
+    [
+      0.176346,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "*AAAUUUUGGGGGHHHHHhhhhhhhhhh...*\r\nThe whistling sound and updraft as you walked into this room of the\r\ncave apparently wasn't enough to clue you in to the presence of the\r\nbottomless pit.  You have a lot of time to reflect on this error as\r\nyou fall many miles to the core of the earth.  Look on the bright side;\r\nyou can at least find out if Jules Verne was right...\r\n\r\nCare to play another game? (y-n) "
+    ],
+    [
+      1.723566,
+      "n"
+    ],
+    [
+      0.344819,
+      "\r\n"
+    ],
+    [
+      0.005423,
+      "\u001b[0;36m~/source/bsdgames-osx\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      0.568800,
+      "exit\r\n"
+    ]
+  ]
+}
