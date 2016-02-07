@@ -1,0 +1,3790 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 22,
+  "duration": 146.070663,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.087761,
+      "$ "
+    ],
+    [
+      2.692482,
+      "g"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.000012,
+      " "
+    ],
+    [
+      0.000029,
+      "c"
+    ],
+    [
+      0.000027,
+      "l"
+    ],
+    [
+      0.000025,
+      "o"
+    ],
+    [
+      0.000026,
+      "n"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000046,
+      " "
+    ],
+    [
+      0.000013,
+      "h"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000038,
+      "t"
+    ],
+    [
+      0.000060,
+      "p"
+    ],
+    [
+      0.000030,
+      "s"
+    ],
+    [
+      0.000027,
+      ":"
+    ],
+    [
+      0.000036,
+      "/"
+    ],
+    [
+      0.000027,
+      "/"
+    ],
+    [
+      0.000032,
+      "g"
+    ],
+    [
+      0.000035,
+      "i"
+    ],
+    [
+      0.000031,
+      "t"
+    ],
+    [
+      0.000036,
+      "h"
+    ],
+    [
+      0.000062,
+      "u"
+    ],
+    [
+      0.000037,
+      "b"
+    ],
+    [
+      0.000032,
+      "."
+    ],
+    [
+      0.000038,
+      "c"
+    ],
+    [
+      0.000033,
+      "o"
+    ],
+    [
+      0.000039,
+      "m"
+    ],
+    [
+      0.000037,
+      "/"
+    ],
+    [
+      0.000039,
+      "s"
+    ],
+    [
+      0.000039,
+      "s"
+    ],
+    [
+      0.000034,
+      "e"
+    ],
+    [
+      0.000058,
+      "b"
+    ],
+    [
+      0.000051,
+      "b"
+    ],
+    [
+      0.000041,
+      "a"
+    ],
+    [
+      0.000040,
+      "s"
+    ],
+    [
+      0.000041,
+      "s"
+    ],
+    [
+      0.000056,
+      "/"
+    ],
+    [
+      0.000057,
+      "d"
+    ],
+    [
+      0.000055,
+      "o"
+    ],
+    [
+      0.000057,
+      "c"
+    ],
+    [
+      0.000057,
+      "k"
+    ],
+    [
+      0.000072,
+      "e"
+    ],
+    [
+      0.000072,
+      "r"
+    ],
+    [
+      0.000061,
+      "-"
+    ],
+    [
+      0.000044,
+      "m"
+    ],
+    [
+      0.000043,
+      "i"
+    ],
+    [
+      0.000045,
+      "n"
+    ],
+    [
+      0.000045,
+      "e"
+    ],
+    [
+      0.000070,
+      "c"
+    ],
+    [
+      0.000077,
+      "r"
+    ],
+    [
+      0.000059,
+      "a"
+    ],
+    [
+      0.000028,
+      "f"
+    ],
+    [
+      0.000042,
+      "t"
+    ],
+    [
+      0.000026,
+      "."
+    ],
+    [
+      0.000045,
+      "g"
+    ],
+    [
+      0.000026,
+      "i"
+    ],
+    [
+      0.000052,
+      "t"
+    ],
+    [
+      1.463949,
+      "\r\n"
+    ],
+    [
+      0.002459,
+      "Clonar en «docker-minecraft»...\r\n"
+    ],
+    [
+      2.168789,
+      "remote: Counting objects: 283, done.\u001b[K\r\n"
+    ],
+    [
+      0.173541,
+      "Receiving objects:   0% (1/283)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:   1% (3/283)   \r"
+    ],
+    [
+      0.000133,
+      "Receiving objects:   2% (6/283)   \r"
+    ],
+    [
+      0.000093,
+      "Receiving objects:   3% (9/283)   \r"
+    ],
+    [
+      0.000128,
+      "Receiving objects:   4% (12/283)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:   5% (15/283)   \r"
+    ],
+    [
+      0.000090,
+      "Receiving objects:   6% (17/283)   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:   7% (20/283)   \r"
+    ],
+    [
+      0.000134,
+      "Receiving objects:   8% (23/283)   \r"
+    ],
+    [
+      0.000210,
+      "Receiving objects:   9% (26/283)   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  10% (29/283)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  11% (32/283)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  12% (34/283)   \r"
+    ],
+    [
+      0.000093,
+      "Receiving objects:  13% (37/283)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  14% (40/283)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  15% (43/283)   \r"
+    ],
+    [
+      0.000090,
+      "Receiving objects:  16% (46/283)   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  17% (49/283)   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:  18% (51/283)   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:  19% (54/283)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  20% (57/283)   \r"
+    ],
+    [
+      0.000116,
+      "Receiving objects:  21% (60/283)   \r"
+    ],
+    [
+      0.000015,
+      "remote: Total 283 (delta 2), reused 2 (delta 2), pack-reused 280\u001b[K\r\n"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  22% (63/283)   \r"
+    ],
+    [
+      0.000121,
+      "Receiving objects:  23% (66/283)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  24% (68/283)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  25% (71/283)   \r"
+    ],
+    [
+      0.000107,
+      "Receiving objects:  26% (74/283)   \r"
+    ],
+    [
+      0.000306,
+      "Receiving objects:  27% (77/283)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  28% (80/283)   \r"
+    ],
+    [
+      0.000145,
+      "Receiving objects:  29% (83/283)   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  30% (85/283)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  31% (88/283)   \r"
+    ],
+    [
+      0.000267,
+      "Receiving objects:  32% (91/283)   \r"
+    ],
+    [
+      0.000123,
+      "Receiving objects:  33% (94/283)   \r"
+    ],
+    [
+      0.000450,
+      "Receiving objects:  34% (97/283)   \r"
+    ],
+    [
+      0.000260,
+      "Receiving objects:  35% (100/283)   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  36% (102/283)   \rReceiving objects:  37% (105/283)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  38% (108/283)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  39% (111/283)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  40% (114/283)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  41% (117/283)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  42% (119/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  43% (122/283)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  44% (125/283)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  45% (128/283)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  46% (131/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  47% (134/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  48% (136/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  49% (139/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  50% (142/283)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  51% (145/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  52% (148/283)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  53% (150/283)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  54% (153/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  55% (156/283)   \r"
+    ],
+    [
+      0.000117,
+      "Receiving objects:  56% (159/283)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  57% (162/283)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  58% (165/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  59% (167/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  60% (170/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  61% (173/283)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  62% (176/283)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  63% (179/283)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  64% (182/283)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  65% (184/283)   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  66% (187/283)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  67% (190/283)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  68% (193/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  69% (196/283)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  70% (199/283)   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  71% (201/283)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  72% (204/283)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  73% (207/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  74% (210/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  75% (213/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  76% (216/283)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  77% (218/283)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  78% (221/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  79% (224/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  80% (227/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  81% (230/283)   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  82% (233/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  83% (235/283)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  84% (238/283)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  85% (241/283)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  86% (244/283)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  87% (247/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  88% (250/283)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  89% (252/283)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  90% (255/283)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  91% (258/283)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  92% (261/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  93% (264/283)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  94% (267/283)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  95% (269/283)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  96% (272/283)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  97% (275/283)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  98% (278/283)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  99% (281/283)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects: 100% (283/283)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects: 100% (283/283), 30.40 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000410,
+      "Resolving deltas:   0% (0/175)   \r"
+    ],
+    [
+      0.000318,
+      "Resolving deltas:   1% (2/175)   \r"
+    ],
+    [
+      0.000284,
+      "Resolving deltas:   2% (4/175)   \r"
+    ],
+    [
+      0.001550,
+      "Resolving deltas:  29% (51/175)   \r"
+    ],
+    [
+      0.000135,
+      "Resolving deltas:  32% (56/175)   \r"
+    ],
+    [
+      0.000560,
+      "Resolving deltas:  42% (74/175)   \r"
+    ],
+    [
+      0.000330,
+      "Resolving deltas:  48% (85/175)   \r"
+    ],
+    [
+      0.000011,
+      "Resolving deltas:  49% (86/175)   \r"
+    ],
+    [
+      0.000779,
+      "Resolving deltas:  63% (111/175)   \r"
+    ],
+    [
+      0.000809,
+      "Resolving deltas:  77% (135/175)   \r"
+    ],
+    [
+      0.000564,
+      "Resolving deltas:  86% (151/175)   \r"
+    ],
+    [
+      0.000176,
+      "Resolving deltas:  90% (158/175)   \r"
+    ],
+    [
+      0.000385,
+      "Resolving deltas:  94% (166/175)   \r"
+    ],
+    [
+      0.000236,
+      "Resolving deltas: 100% (175/175)   \r"
+    ],
+    [
+      0.000038,
+      "Resolving deltas: 100% (175/175), done."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.121376,
+      "Checking connectivity... "
+    ],
+    [
+      0.002462,
+      "hecho.\r\n"
+    ],
+    [
+      0.013913,
+      "$ "
+    ],
+    [
+      1.026989,
+      "l"
+    ],
+    [
+      0.084679,
+      "s"
+    ],
+    [
+      0.127052,
+      " "
+    ],
+    [
+      0.052796,
+      "-"
+    ],
+    [
+      0.074334,
+      "l"
+    ],
+    [
+      0.481009,
+      "\r\n"
+    ],
+    [
+      0.003331,
+      "total 4\r\n"
+    ],
+    [
+      0.000104,
+      "drwxrwxr-x 3 ssebbass ssebbass 4096 feb  7 14:02 \u001b[0m\u001b[01;34mdocker-minecraft\u001b[0m\r\n"
+    ],
+    [
+      0.000450,
+      "$ "
+    ],
+    [
+      0.612906,
+      "c"
+    ],
+    [
+      0.079502,
+      "d"
+    ],
+    [
+      0.157831,
+      " "
+    ],
+    [
+      0.120784,
+      "d"
+    ],
+    [
+      0.089960,
+      "o"
+    ],
+    [
+      0.159413,
+      "cker-minecraft/"
+    ],
+    [
+      0.388124,
+      "\r\n"
+    ],
+    [
+      0.000384,
+      "$ "
+    ],
+    [
+      1.073331,
+      "l"
+    ],
+    [
+      0.079347,
+      "s"
+    ],
+    [
+      0.142689,
+      " "
+    ],
+    [
+      0.053074,
+      "-"
+    ],
+    [
+      0.068889,
+      "l"
+    ],
+    [
+      0.226739,
+      "\r\n"
+    ],
+    [
+      0.003345,
+      "total 32\r\n"
+    ],
+    [
+      0.000185,
+      "-rw-rw-r-- 1 ssebbass ssebbass   497 feb  7 14:02 Dockerfile\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-rw-r-- 1 ssebbass ssebbass 11358 feb  7 14:02 LICENSE\r\n-rw-rw-r-- 1 ssebbass ssebbass  3190 feb  7 14:02 minecraft.sh\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-rw-r-- 1 ssebbass ssebbass   840 feb  7 14:02 README.md\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-rw-r-- 1 ssebbass ssebbass    89 feb  7 14:02 run.sh"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-rw-r-- 1 ssebbass ssebbass   669 feb  7 14:02 server.properties\r\n"
+    ],
+    [
+      0.000589,
+      "$ "
+    ],
+    [
+      1.110511,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "$ "
+    ],
+    [
+      0.149852,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "$ "
+    ],
+    [
+      0.159733,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "$ "
+    ],
+    [
+      0.154517,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "$ "
+    ],
+    [
+      0.142428,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "$ "
+    ],
+    [
+      0.141488,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "$ "
+    ],
+    [
+      0.136545,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "$ "
+    ],
+    [
+      6.760748,
+      "d"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000034,
+      "k"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000046,
+      "r"
+    ],
+    [
+      0.000036,
+      " "
+    ],
+    [
+      0.000026,
+      "b"
+    ],
+    [
+      0.000038,
+      "u"
+    ],
+    [
+      0.000046,
+      "i"
+    ],
+    [
+      0.000032,
+      "l"
+    ],
+    [
+      0.000048,
+      "d"
+    ],
+    [
+      0.000038,
+      " "
+    ],
+    [
+      0.000028,
+      "-"
+    ],
+    [
+      0.000033,
+      "t"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000056,
+      "s"
+    ],
+    [
+      0.000029,
+      "s"
+    ],
+    [
+      0.000062,
+      "e"
+    ],
+    [
+      0.000028,
+      "b"
+    ],
+    [
+      0.000059,
+      "b"
+    ],
+    [
+      0.000034,
+      "a"
+    ],
+    [
+      0.000030,
+      "s"
+    ],
+    [
+      0.000035,
+      "s"
+    ],
+    [
+      0.000058,
+      "/"
+    ],
+    [
+      0.000033,
+      "d"
+    ],
+    [
+      0.000036,
+      "o"
+    ],
+    [
+      0.000046,
+      "c"
+    ],
+    [
+      0.000059,
+      "k"
+    ],
+    [
+      0.000059,
+      "e"
+    ],
+    [
+      0.000065,
+      "r"
+    ],
+    [
+      0.000051,
+      "-"
+    ],
+    [
+      0.000051,
+      "m"
+    ],
+    [
+      0.000065,
+      "i"
+    ],
+    [
+      0.000065,
+      "n"
+    ],
+    [
+      0.000038,
+      "e"
+    ],
+    [
+      0.000038,
+      "c"
+    ],
+    [
+      0.000039,
+      "r"
+    ],
+    [
+      0.000039,
+      "a"
+    ],
+    [
+      0.000040,
+      "f"
+    ],
+    [
+      0.000040,
+      "t"
+    ],
+    [
+      0.000041,
+      " "
+    ],
+    [
+      0.000041,
+      "."
+    ],
+    [
+      2.546358,
+      "}"
+    ],
+    [
+      0.677583,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.874508,
+      "\r\n"
+    ],
+    [
+      0.059388,
+      "Sending build context to Docker daemon 22.02 kB\r"
+    ],
+    [
+      0.000027,
+      "Sending build context to Docker daemon 22.02 kB\r\r\r\n"
+    ],
+    [
+      0.056127,
+      "Step 1 : FROM java:jre\r\n"
+    ],
+    [
+      0.000193,
+      " ---\u003e 5b5803cfdd21\r\n"
+    ],
+    [
+      0.000054,
+      "Step 2 : MAINTAINER sSeBBaSs (ssebbass@gmail.com)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.245682,
+      " ---\u003e Running in 02ca02668d04"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.099932,
+      " ---\u003e cbe245a841ad"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.112968,
+      "Removing intermediate container 02ca02668d04"
+    ],
+    [
+      0.000018,
+      "\r\nStep 3 : EXPOSE 25565\r\n"
+    ],
+    [
+      0.228272,
+      " ---\u003e Running in 678425b45601"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.143376,
+      " ---\u003e 531ef7d5dfe9"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.113315,
+      "Removing intermediate container 678425b45601\r\n"
+    ],
+    [
+      0.000035,
+      "Step 4 : RUN apt-get update \u0026\u0026 apt-get install -y --no-install-recommends   imagemagick   \u0026\u0026 apt-get clean   \u0026\u0026 rm -rf /var/lib/apt/lists/*\r\n"
+    ],
+    [
+      0.292151,
+      " ---\u003e Running in d430fdc03b6f\r\n"
+    ],
+    [
+      1.411705,
+      "Get:1 http://security.debian.org jessie/updates InRelease [63.1 kB]\r\n"
+    ],
+    [
+      0.425175,
+      "Ign http://httpredir.debian.org jessie InRelease"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.335137,
+      "Get:2 http://httpredir.debian.org jessie-updates InRelease [136 kB]\r\n"
+    ],
+    [
+      0.380200,
+      "Get:3 http://security.debian.org jessie/updates/main amd64 Packages [254 kB]"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.803483,
+      "Get:4 http://httpredir.debian.org jessie-backports InRelease [166 kB]\r\n"
+    ],
+    [
+      0.786606,
+      "Get:5 http://httpredir.debian.org jessie Release.gpg [2373 B]\r\n"
+    ],
+    [
+      0.178609,
+      "Get:6 http://httpredir.debian.org jessie-updates/main amd64 Packages [3619 B]\r\n"
+    ],
+    [
+      0.239858,
+      "Get:7 http://httpredir.debian.org jessie-backports/main amd64 Packages [532 kB]"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.670460,
+      "Get:8 http://httpredir.debian.org jessie Release [148 kB]\r\n"
+    ],
+    [
+      0.813056,
+      "Get:9 http://httpredir.debian.org jessie/main amd64 Packages [9034 kB]\r\n"
+    ],
+    [
+      11.286147,
+      "Fetched 10.3 MB in 17s (592 kB/s)\r\nReading package lists..."
+    ],
+    [
+      0.999672,
+      "\r\n"
+    ],
+    [
+      0.192923,
+      "Reading package lists..."
+    ],
+    [
+      1.025249,
+      "\r\n"
+    ],
+    [
+      0.097392,
+      "Building dependency tree..."
+    ],
+    [
+      0.127205,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Reading state information..."
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.080487,
+      "The following extra packages will be installed:\r\n  hicolor-icon-theme imagemagick-6.q16 imagemagick-common libfftw3-double3\r\n  libglib2.0-0 libgomp1 libjbig0 liblqr-1-0 libltdl7 libmagickcore-6.q16-2\r\n  libmagickwand-6.q16-2 libtiff5 libxml2\r\n"
+    ],
+    [
+      0.000872,
+      "Suggested packages:"
+    ],
+    [
+      0.000007,
+      "\r\n  imagemagick-doc autotrace cups-bsd lpr lprng enscript ffmpeg gimp gnuplot\r\n  grads graphviz groff-base hp2xx html2ps libwmf-bin mplayer povray radiance\r\n  sane-utils texlive-base-bin transfig ufraw-batch xdg-utils libfftw3-bin\r\n  libfftw3-dev\r\nRecommended packages:\r\n"
+    ],
+    [
+      0.000004,
+      "  libmagickcore-6.q16-2-extra ghostscript netpbm libglib2.0-data\r\n  shared-mime-info xdg-user-dirs gsfonts xml-core"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001236,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000006,
+      "\r\n  hicolor-icon-theme imagemagick imagemagick-6.q16 imagemagick-common\r\n  libfftw3-double3 libglib2.0-0 libgomp1 libjbig0 liblqr-1-0 libltdl7\r\n  libmagickcore-6.q16-2 libmagickwand-6.q16-2 libtiff5 libxml2\r\n"
+    ],
+    [
+      1.371496,
+      "0 upgraded, 14 newly installed, 0 to remove and 6 not upgraded.\r\nNeed to get 7180 kB of archives.\r\nAfter this operation, 20.2 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000021,
+      "Get:1 http://security.debian.org/ jessie/updates/main libtiff5 amd64 4.0.3-12.3+deb8u1 [213 kB]\r\n"
+    ],
+    [
+      0.562915,
+      "Get:2 http://httpredir.debian.org/debian/ jessie/main libxml2 amd64 2.9.1+dfsg1-5+deb8u1 [801 kB]\r\n"
+    ],
+    [
+      0.727573,
+      "Get:3 http://httpredir.debian.org/debian/ jessie/main imagemagick-common all 8:6.8.9.9-5 [148 kB]\r\n"
+    ],
+    [
+      0.512967,
+      "Get:4 http://httpredir.debian.org/debian/ jessie/main libfftw3-double3 amd64 3.3.4-2 [722 kB]"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.663340,
+      "Get:5 http://httpredir.debian.org/debian/ jessie/main libglib2.0-0 amd64 2.42.1-1 [2401 kB]"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.176845,
+      "Get:6 http://httpredir.debian.org/debian/ jessie/main libgomp1 amd64 4.9.2-10 [37.8 kB]\r\n"
+    ],
+    [
+      0.227919,
+      "Get:7 http://httpredir.debian.org/debian/ jessie/main liblqr-1-0 amd64 0.4.2-2 [24.6 kB]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      1.137914,
+      "Get:8 http://httpredir.debian.org/debian/ jessie/main libjbig0 amd64 2.1-3.1 [30.7 kB]\r\n"
+    ],
+    [
+      0.665071,
+      "Get:9 http://httpredir.debian.org/debian/ jessie/main libltdl7 amd64 2.4.2-1.11 [45.2 kB]"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.124232,
+      "Get:10 http://httpredir.debian.org/debian/ jessie/main libmagickcore-6.q16-2 amd64 8:6.8.9.9-5 [1677 kB]\r\n"
+    ],
+    [
+      0.041487,
+      "Get:11 http://httpredir.debian.org/debian/ jessie/main imagemagick-6.q16 amd64 8:6.8.9.9-5 [512 kB]\r\n"
+    ],
+    [
+      15.782278,
+      "Get:12 http://httpredir.debian.org/debian/ jessie/main libmagickwand-6.q16-2 amd64 8:6.8.9.9-5 [404 kB]"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      6.229529,
+      "Get:13 http://httpredir.debian.org/debian/ jessie/main hicolor-icon-theme all 0.13-1 [8600 B]\r\n"
+    ],
+    [
+      0.206594,
+      "Get:14 http://httpredir.debian.org/debian/ jessie/main imagemagick amd64 8:6.8.9.9-5 [155 kB]\r\n"
+    ],
+    [
+      2.119405,
+      "\u001b[91mdebconf: delaying package configuration, since apt-utils is not installed\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.009873,
+      "Fetched 7180 kB in 29s (244 kB/s)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.309181,
+      "Selecting previously unselected package libxml2:amd64.\r\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r"
+    ],
+    [
+      0.000084,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001339,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000819,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000219,
+      "(Reading database ... 35%\r(Reading database ... 40%\r"
+    ],
+    [
+      0.000033,
+      "(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r"
+    ],
+    [
+      0.000026,
+      "(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... "
+    ],
+    [
+      0.000029,
+      "9084 files and directories currently installed.)\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000927,
+      "Preparing to unpack .../libxml2_2.9.1+dfsg1-5+deb8u1_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.055360,
+      "Unpacking libxml2:amd64 (2.9.1+dfsg1-5+deb8u1) ...\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.572845,
+      "Selecting previously unselected package imagemagick-common.\r"
+    ],
+    [
+      0.000019,
+      "\r\nPreparing to unpack .../imagemagick-common_8%3a6.8.9.9-5_all.deb ...\r\r\n"
+    ],
+    [
+      0.111601,
+      "Unpacking imagemagick-common (8:6.8.9.9-5) ...\r\r\n"
+    ],
+    [
+      0.482719,
+      "Selecting previously unselected package libgomp1:amd64.\r\r\n"
+    ],
+    [
+      0.000021,
+      "Preparing to unpack .../libgomp1_4.9.2-10_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.065672,
+      "Unpacking libgomp1:amd64 (4.9.2-10) ...\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.431163,
+      "Selecting previously unselected package libfftw3-double3:amd64.\r"
+    ],
+    [
+      0.000026,
+      "\r\nPreparing to unpack .../libfftw3-double3_3.3.4-2_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.049970,
+      "Unpacking libfftw3-double3:amd64 (3.3.4-2) ...\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.579042,
+      "Selecting previously unselected package libglib2.0-0:amd64.\r\r\n"
+    ],
+    [
+      0.000019,
+      "Preparing to unpack .../libglib2.0-0_2.42.1-1_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.048649,
+      "Unpacking libglib2.0-0:amd64 (2.42.1-1) ...\r\r\n"
+    ],
+    [
+      0.634710,
+      "Selecting previously unselected package liblqr-1-0:amd64.\r"
+    ],
+    [
+      0.000016,
+      "\r\nPreparing to unpack .../liblqr-1-0_0.4.2-2_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.059386,
+      "Unpacking liblqr-1-0:amd64 (0.4.2-2) ...\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.457026,
+      "Selecting previously unselected package libltdl7:amd64.\r\r\n"
+    ],
+    [
+      0.000018,
+      "Preparing to unpack .../libltdl7_2.4.2-1.11_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.048566,
+      "Unpacking libltdl7:amd64 (2.4.2-1.11) ...\r\r\n"
+    ],
+    [
+      0.478047,
+      "Selecting previously unselected package libjbig0:amd64.\r\r\nPreparing to unpack .../libjbig0_2.1-3.1_amd64.deb ...\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.059391,
+      "Unpacking libjbig0:amd64 (2.1-3.1) ...\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.480001,
+      "Selecting previously unselected package libtiff5:amd64.\r"
+    ],
+    [
+      0.000016,
+      "\r\nPreparing to unpack .../libtiff5_4.0.3-12.3+deb8u1_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.059220,
+      "Unpacking libtiff5:amd64 (4.0.3-12.3+deb8u1) ...\r\r\n"
+    ],
+    [
+      0.522259,
+      "Selecting previously unselected package libmagickcore-6.q16-2:amd64.\r\r\nPreparing to unpack .../libmagickcore-6.q16-2_8%3a6.8.9.9-5_amd64.deb ...\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.048354,
+      "Unpacking libmagickcore-6.q16-2:amd64 (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.691558,
+      "Selecting previously unselected package libmagickwand-6.q16-2:amd64.\r"
+    ],
+    [
+      0.000022,
+      "\r\nPreparing to unpack .../libmagickwand-6.q16-2_8%3a6.8.9.9-5_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.059360,
+      "Unpacking libmagickwand-6.q16-2:amd64 (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.438458,
+      "Selecting previously unselected package hicolor-icon-theme.\r\r\n"
+    ],
+    [
+      0.000026,
+      "Preparing to unpack .../hicolor-icon-theme_0.13-1_all.deb ...\r\r\n"
+    ],
+    [
+      0.054389,
+      "Unpacking hicolor-icon-theme (0.13-1) ...\r\r\n"
+    ],
+    [
+      0.453229,
+      "Selecting previously unselected package imagemagick-6.q16.\r\r\nPreparing to unpack .../imagemagick-6.q16_8%3a6.8.9.9-5_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.047791,
+      "Unpacking imagemagick-6.q16 (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.468466,
+      "Selecting previously unselected package imagemagick.\r"
+    ],
+    [
+      0.000016,
+      "\r\nPreparing to unpack .../imagemagick_8%3a6.8.9.9-5_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.048064,
+      "Unpacking imagemagick (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.445312,
+      "Setting up libxml2:amd64 (2.9.1+dfsg1-5+deb8u1) ...\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.297343,
+      "Setting up imagemagick-common (8:6.8.9.9-5) ...\r\r\n"
+    ],
+    [
+      1.022742,
+      "Setting up libgomp1:amd64 (4.9.2-10) ...\r\r\n"
+    ],
+    [
+      0.224446,
+      "Setting up libfftw3-double3:amd64 (3.3.4-2) ...\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.248893,
+      "Setting up libglib2.0-0:amd64 (2.42.1-1) ...\r\r\n"
+    ],
+    [
+      0.154852,
+      "No schema files found: doing nothing.\r\r\n"
+    ],
+    [
+      0.080830,
+      "Setting up liblqr-1-0:amd64 (0.4.2-2) ...\r"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.224403,
+      "Setting up libltdl7:amd64 (2.4.2-1.11) ...\r"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.224495,
+      "Setting up libjbig0:amd64 (2.1-3.1) ...\r"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.226587,
+      "Setting up libtiff5:amd64 (4.0.3-12.3+deb8u1) ...\r\r\n"
+    ],
+    [
+      0.235448,
+      "Setting up libmagickcore-6.q16-2:amd64 (8:6.8.9.9-5) ...\r\r\n"
+    ],
+    [
+      0.224526,
+      "Setting up libmagickwand-6.q16-2:amd64 (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.224496,
+      "Setting up hicolor-icon-theme (0.13-1) ...\r\r\n"
+    ],
+    [
+      0.192461,
+      "Setting up imagemagick-6.q16 (8:6.8.9.9-5) ...\r"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.201783,
+      "Setting up imagemagick (8:6.8.9.9-5) ...\r\r\n"
+    ],
+    [
+      0.127938,
+      "update-alternatives: using /usr/bin/compare-im6 to provide /usr/bin/compare (compare) in auto mode\r\r\n"
+    ],
+    [
+      0.039114,
+      "update-alternatives: using /usr/bin/animate-im6 to provide /usr/bin/animate (animate) in auto mode\r\r\n"
+    ],
+    [
+      0.038415,
+      "update-alternatives: using /usr/bin/convert-im6 to provide /usr/bin/convert (convert) in auto mode\r\r\n"
+    ],
+    [
+      0.089504,
+      "update-alternatives: using /usr/bin/composite-im6 to provide /usr/bin/composite (composite) in auto mode\r\r\n"
+    ],
+    [
+      0.040200,
+      "update-alternatives: using /usr/bin/conjure-im6 to provide /usr/bin/conjure (conjure) in auto mode\r\r\n"
+    ],
+    [
+      0.056315,
+      "update-alternatives: using /usr/bin/import-im6 to provide /usr/bin/import (import) in auto mode\r\r\n"
+    ],
+    [
+      0.045574,
+      "update-alternatives: using /usr/bin/identify-im6 to provide /usr/bin/identify (identify) in auto mode\r\r\n"
+    ],
+    [
+      0.055752,
+      "update-alternatives: using /usr/bin/stream-im6 to provide /usr/bin/stream (stream) in auto mode\r\r\n"
+    ],
+    [
+      0.056745,
+      "update-alternatives: using /usr/bin/display-im6 to provide /usr/bin/display (display) in auto mode\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.045167,
+      "update-alternatives: using /usr/bin/montage-im6 to provide /usr/bin/montage (montage) in auto mode\r\r\n"
+    ],
+    [
+      0.045619,
+      "update-alternatives: using /usr/bin/mogrify-im6 to provide /usr/bin/mogrify (mogrify) in auto mode\r\r\n"
+    ],
+    [
+      0.114881,
+      "Processing triggers for libc-bin (2.19-18+deb8u2) ...\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      1.464054,
+      " ---\u003e 7d6a0b1bd979"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.152561,
+      "Removing intermediate container d430fdc03b6f"
+    ],
+    [
+      0.000013,
+      "\r\nStep 5 : COPY minecraft.sh /minecraft.sh\r\n"
+    ],
+    [
+      0.590653,
+      " ---\u003e ee8c6a2d29bd\r\n"
+    ],
+    [
+      0.119934,
+      "Removing intermediate container 6e1b7a28753d\r\n"
+    ],
+    [
+      0.000076,
+      "Step 6 : COPY run.sh /run.sh\r\n"
+    ],
+    [
+      0.387162,
+      " ---\u003e 25fed6fdc0d0\r\n"
+    ],
+    [
+      0.142011,
+      "Removing intermediate container 7896d523ff7f\r\nStep 7 : VOLUME /srv\r\n"
+    ],
+    [
+      0.253113,
+      " ---\u003e Running in 7809f2214173"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.121660,
+      " ---\u003e 5652e53dc752"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.107661,
+      "Removing intermediate container 7809f2214173\r\n"
+    ],
+    [
+      0.000013,
+      "Step 8 : COPY server.properties /tmp/server.properties\r\n"
+    ],
+    [
+      0.366491,
+      " ---\u003e 24ccd2f252de\r\n"
+    ],
+    [
+      0.141631,
+      "Removing intermediate container 0db2ecc564bc\r\n"
+    ],
+    [
+      0.000015,
+      "Step 9 : WORKDIR /srv\r\n"
+    ],
+    [
+      0.209012,
+      " ---\u003e Running in 64ea9edf20eb"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.099557,
+      " ---\u003e a77bdd3d5e56"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.121725,
+      "Removing intermediate container 64ea9edf20eb"
+    ],
+    [
+      0.000021,
+      "\r\nStep 10 : RUN chmod +x /minecraft.sh   \u0026\u0026 chmod +x /run.sh\r\n"
+    ],
+    [
+      0.219962,
+      " ---\u003e Running in 8a35b31b93ed\r\n"
+    ],
+    [
+      1.264015,
+      " ---\u003e 12c297c96232\r\n"
+    ],
+    [
+      0.130282,
+      "Removing intermediate container 8a35b31b93ed"
+    ],
+    [
+      0.000016,
+      "\r\nStep 11 : CMD /run.sh\r\n"
+    ],
+    [
+      0.222585,
+      " ---\u003e Running in 4c0ee45a7904"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.100105,
+      " ---\u003e 84f2cf69c03e\r\n"
+    ],
+    [
+      0.107168,
+      "Removing intermediate container 4c0ee45a7904\r\n"
+    ],
+    [
+      0.000013,
+      "Successfully built 84f2cf69c03e\r\n"
+    ],
+    [
+      0.002178,
+      "$ "
+    ],
+    [
+      3.567194,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "$ "
+    ],
+    [
+      0.162977,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "$ "
+    ],
+    [
+      0.151063,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "$ "
+    ],
+    [
+      0.134279,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "$ "
+    ],
+    [
+      0.473057,
+      "d"
+    ],
+    [
+      0.127166,
+      "o"
+    ],
+    [
+      0.413112,
+      "c"
+    ],
+    [
+      0.105968,
+      "k"
+    ],
+    [
+      0.143276,
+      "e"
+    ],
+    [
+      0.105961,
+      "r"
+    ],
+    [
+      0.197495,
+      " "
+    ],
+    [
+      0.262357,
+      "i"
+    ],
+    [
+      0.154019,
+      "m"
+    ],
+    [
+      0.133259,
+      "a"
+    ],
+    [
+      0.148189,
+      "g"
+    ],
+    [
+      0.138026,
+      "e"
+    ],
+    [
+      0.147836,
+      "s"
+    ],
+    [
+      1.500386,
+      "\r\n"
+    ],
+    [
+      0.070446,
+      "REPOSITORY"
+    ],
+    [
+      0.000011,
+      "                  TAG                 "
+    ],
+    [
+      0.000006,
+      "IMAGE ID"
+    ],
+    [
+      0.000005,
+      "            "
+    ],
+    [
+      0.000006,
+      "CREATED"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000005,
+      "     VIRTUAL SIZE"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "ssebbass/docker-minecraft"
+    ],
+    [
+      0.000005,
+      "   latest"
+    ],
+    [
+      0.000005,
+      "              "
+    ],
+    [
+      0.000005,
+      "84f2cf69c03e"
+    ],
+    [
+      0.000021,
+      "        "
+    ],
+    [
+      0.000006,
+      "8 seconds ago       "
+    ],
+    [
+      0.000005,
+      "329.6 MB\r\n"
+    ],
+    [
+      0.000005,
+      "java"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000029,
+      "                jre                 5b5803cfdd21"
+    ],
+    [
+      0.000005,
+      "        5 days ago        "
+    ],
+    [
+      0.000005,
+      "  "
+    ],
+    [
+      0.000020,
+      "310.5 MB\r\n"
+    ],
+    [
+      0.001413,
+      "$ "
+    ],
+    [
+      3.910134,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "$ "
+    ],
+    [
+      0.149913,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "$ "
+    ],
+    [
+      0.145998,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "$ "
+    ],
+    [
+      0.134233,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "$ "
+    ],
+    [
+      2.219611,
+      "d"
+    ],
+    [
+      0.105865,
+      "o"
+    ],
+    [
+      0.144364,
+      "c"
+    ],
+    [
+      0.106101,
+      "k"
+    ],
+    [
+      0.089964,
+      "e"
+    ],
+    [
+      0.095328,
+      "r"
+    ],
+    [
+      0.074115,
+      " "
+    ],
+    [
+      0.233220,
+      "p"
+    ],
+    [
+      0.114018,
+      "s"
+    ],
+    [
+      0.508086,
+      "\r\n"
+    ],
+    [
+      0.061114,
+      "CONTAINER ID"
+    ],
+    [
+      0.000013,
+      "        IMAGE               COMMAND             CREATED             "
+    ],
+    [
+      0.000006,
+      "STATUS        "
+    ],
+    [
+      0.000006,
+      "      "
+    ],
+    [
+      0.000005,
+      "PORTS        "
+    ],
+    [
+      0.000005,
+      "       "
+    ],
+    [
+      0.000017,
+      "NAMES"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001510,
+      "$ "
+    ],
+    [
+      6.258365,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "$ "
+    ],
+    [
+      0.193921,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "$ "
+    ],
+    [
+      0.124073,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "$ "
+    ],
+    [
+      0.137990,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "$ "
+    ],
+    [
+      0.142994,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "$ "
+    ],
+    [
+      6.871620,
+      "do"
+    ],
+    [
+      0.000016,
+      "cke"
+    ],
+    [
+      0.000009,
+      "r"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000026,
+      "r"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000077,
+      "n "
+    ],
+    [
+      0.000012,
+      "\\\r\n"
+    ],
+    [
+      0.000174,
+      "\u003e  "
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      0.000009,
+      "d"
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000016,
+      "\\"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u003e "
+    ],
+    [
+      0.000023,
+      " "
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000013,
+      "p"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000014,
+      "2"
+    ],
+    [
+      0.000014,
+      "5"
+    ],
+    [
+      0.000015,
+      "5"
+    ],
+    [
+      0.000015,
+      "6"
+    ],
+    [
+      0.000015,
+      "5"
+    ],
+    [
+      0.000016,
+      ":"
+    ],
+    [
+      0.000016,
+      "2"
+    ],
+    [
+      0.000016,
+      "5"
+    ],
+    [
+      0.000075,
+      "5"
+    ],
+    [
+      0.000043,
+      "65"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000024,
+      "\\"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\u003e   "
+    ],
+    [
+      0.000016,
+      "-v "
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000008,
+      "h"
+    ],
+    [
+      0.000021,
+      "o"
+    ],
+    [
+      0.000009,
+      "m"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000024,
+      "/"
+    ],
+    [
+      0.000032,
+      "u"
+    ],
+    [
+      0.000026,
+      "b"
+    ],
+    [
+      0.000009,
+      "u"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000021,
+      "t"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000050,
+      "/"
+    ],
+    [
+      0.000024,
+      "m"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000024,
+      "n"
+    ],
+    [
+      0.000024,
+      "e"
+    ],
+    [
+      0.000024,
+      "c"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000025,
+      "a"
+    ],
+    [
+      0.000026,
+      "f"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000026,
+      ":"
+    ],
+    [
+      0.000031,
+      "/"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000034,
+      "r"
+    ],
+    [
+      0.000051,
+      "v"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000029,
+      "\\"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000016,
+      " "
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000017,
+      " "
+    ],
+    [
+      0.000016,
+      "D"
+    ],
+    [
+      0.000018,
+      "I"
+    ],
+    [
+      0.000016,
+      "F"
+    ],
+    [
+      0.000019,
+      "F"
+    ],
+    [
+      0.000018,
+      "I"
+    ],
+    [
+      0.000018,
+      "C"
+    ],
+    [
+      0.000019,
+      "U"
+    ],
+    [
+      0.000020,
+      "L"
+    ],
+    [
+      0.000020,
+      "T"
+    ],
+    [
+      0.000020,
+      "Y"
+    ],
+    [
+      0.000020,
+      "="
+    ],
+    [
+      0.000021,
+      "2"
+    ],
+    [
+      0.000021,
+      " "
+    ],
+    [
+      0.000023,
+      "\\"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000016,
+      " "
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000046,
+      "e"
+    ],
+    [
+      0.000017,
+      " "
+    ],
+    [
+      0.000017,
+      "G"
+    ],
+    [
+      0.000016,
+      "R"
+    ],
+    [
+      0.000019,
+      "A"
+    ],
+    [
+      0.000017,
+      "V"
+    ],
+    [
+      0.000019,
+      "A"
+    ],
+    [
+      0.000018,
+      "T"
+    ],
+    [
+      0.000019,
+      "A"
+    ],
+    [
+      0.000019,
+      "R"
+    ],
+    [
+      0.000020,
+      "="
+    ],
+    [
+      0.000021,
+      "\""
+    ],
+    [
+      0.000020,
+      "y"
+    ],
+    [
+      0.000021,
+      "o"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000022,
+      "m"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000029,
+      "l"
+    ],
+    [
+      0.000019,
+      "@"
+    ],
+    [
+      0.000024,
+      "y"
+    ],
+    [
+      0.000053,
+      "o"
+    ],
+    [
+      0.000028,
+      "u"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000026,
+      "d"
+    ],
+    [
+      0.000030,
+      "o"
+    ],
+    [
+      0.000055,
+      "m"
+    ],
+    [
+      0.000031,
+      "a"
+    ],
+    [
+      0.000025,
+      "i"
+    ],
+    [
+      0.000031,
+      "n"
+    ],
+    [
+      0.000027,
+      "."
+    ],
+    [
+      0.000033,
+      "c"
+    ],
+    [
+      0.000028,
+      "o"
+    ],
+    [
+      0.000033,
+      "m"
+    ],
+    [
+      0.000029,
+      "\""
+    ],
+    [
+      0.000034,
+      " "
+    ],
+    [
+      0.000031,
+      "\\"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000046,
+      "-"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000021,
+      " "
+    ],
+    [
+      0.000023,
+      "O"
+    ],
+    [
+      0.000037,
+      "P"
+    ],
+    [
+      0.000016,
+      "S"
+    ],
+    [
+      0.000019,
+      "="
+    ],
+    [
+      0.000018,
+      "\""
+    ],
+    [
+      0.000018,
+      "a"
+    ],
+    [
+      0.000019,
+      "d"
+    ],
+    [
+      0.000019,
+      "m"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000020,
+      "n"
+    ],
+    [
+      0.000020,
+      "1"
+    ],
+    [
+      0.000049,
+      ","
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000031,
+      "d"
+    ],
+    [
+      0.000040,
+      "m"
+    ],
+    [
+      0.000024,
+      "i"
+    ],
+    [
+      0.000024,
+      "n"
+    ],
+    [
+      0.000024,
+      "2"
+    ],
+    [
+      0.000024,
+      "\""
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000026,
+      "\\"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\u003e "
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000017,
+      " "
+    ],
+    [
+      0.000015,
+      "M"
+    ],
+    [
+      0.000019,
+      "O"
+    ],
+    [
+      0.000015,
+      "T"
+    ],
+    [
+      0.000019,
+      "D"
+    ],
+    [
+      0.000018,
+      "="
+    ],
+    [
+      0.000018,
+      "\""
+    ],
+    [
+      0.000019,
+      "D"
+    ],
+    [
+      0.000019,
+      "o"
+    ],
+    [
+      0.000020,
+      "c"
+    ],
+    [
+      0.000020,
+      "k"
+    ],
+    [
+      0.000022,
+      "e"
+    ],
+    [
+      0.000021,
+      "r"
+    ],
+    [
+      0.000021,
+      " "
+    ],
+    [
+      0.000023,
+      "M"
+    ],
+    [
+      0.000022,
+      "i"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000029,
+      "e"
+    ],
+    [
+      0.000019,
+      "c"
+    ],
+    [
+      0.000029,
+      "r"
+    ],
+    [
+      0.000020,
+      "a"
+    ],
+    [
+      0.000026,
+      "f"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000027,
+      "!"
+    ],
+    [
+      0.000030,
+      "\""
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000032,
+      "\\"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000023,
+      " "
+    ],
+    [
+      0.000019,
+      "-"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000021,
+      " "
+    ],
+    [
+      0.000008,
+      "M"
+    ],
+    [
+      0.000022,
+      "A"
+    ],
+    [
+      0.000017,
+      "P"
+    ],
+    [
+      0.000019,
+      "="
+    ],
+    [
+      0.000018,
+      "\""
+    ],
+    [
+      0.000019,
+      "S"
+    ],
+    [
+      0.000019,
+      "o"
+    ],
+    [
+      0.000020,
+      "m"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000020,
+      " "
+    ],
+    [
+      0.000021,
+      "m"
+    ],
+    [
+      0.000021,
+      "a"
+    ],
+    [
+      0.000022,
+      "p"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000017,
+      "f"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000019,
+      "l"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000020,
+      "\""
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000026,
+      "\\"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u003e "
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      0.000016,
+      "n"
+    ],
+    [
+      0.000024,
+      "a"
+    ],
+    [
+      0.000025,
+      "m"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000021,
+      " "
+    ],
+    [
+      0.000017,
+      "m"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000020,
+      "c"
+    ],
+    [
+      0.000020,
+      "r"
+    ],
+    [
+      0.000021,
+      "a"
+    ],
+    [
+      0.000021,
+      "f"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000024,
+      "\\"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u003e "
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000010,
+      "E"
+    ],
+    [
+      0.000021,
+      "U"
+    ],
+    [
+      0.000015,
+      "L"
+    ],
+    [
+      0.000019,
+      "A"
+    ],
+    [
+      0.000018,
+      "="
+    ],
+    [
+      0.000019,
+      "t"
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000020,
+      "u"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000020,
+      " "
+    ],
+    [
+      0.000021,
+      "\\"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000016,
+      " "
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000010,
+      "M"
+    ],
+    [
+      0.000021,
+      "O"
+    ],
+    [
+      0.000016,
+      "D"
+    ],
+    [
+      0.000019,
+      "E"
+    ],
+    [
+      0.000018,
+      "="
+    ],
+    [
+      0.000019,
+      "f"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000019,
+      "l"
+    ],
+    [
+      0.000020,
+      "s"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000021,
+      "\\"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000017,
+      " "
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000033,
+      "-"
+    ],
+    [
+      0.000013,
+      "r"
+    ],
+    [
+      0.000015,
+      "e"
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000015,
+      "t"
+    ],
+    [
+      0.000014,
+      "a"
+    ],
+    [
+      0.000017,
+      "r"
+    ],
+    [
+      0.000016,
+      "t"
+    ],
+    [
+      0.000016,
+      "="
+    ],
+    [
+      0.000031,
+      "a"
+    ],
+    [
+      0.000016,
+      "l"
+    ],
+    [
+      0.000016,
+      "w"
+    ],
+    [
+      0.000017,
+      "a"
+    ],
+    [
+      0.000017,
+      "y"
+    ],
+    [
+      0.000018,
+      "s"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000033,
+      "\\"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "\u003e "
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000014,
+      " "
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000014,
+      "e"
+    ],
+    [
+      0.000015,
+      "b"
+    ],
+    [
+      0.000013,
+      "b"
+    ],
+    [
+      0.000016,
+      "a"
+    ],
+    [
+      0.000016,
+      "s"
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000017,
+      "/"
+    ],
+    [
+      0.000016,
+      "d"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000017,
+      "c"
+    ],
+    [
+      0.000018,
+      "k"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000018,
+      "-"
+    ],
+    [
+      0.000037,
+      "m"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000024,
+      "n"
+    ],
+    [
+      0.000036,
+      "e"
+    ],
+    [
+      0.000021,
+      "c"
+    ],
+    [
+      0.000021,
+      "r"
+    ],
+    [
+      0.000022,
+      "a"
+    ],
+    [
+      0.000022,
+      "f"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      3.687021,
+      "\r\n"
+    ],
+    [
+      0.323056,
+      "4acb124913a5101071804f302268527ce26a7cefb14e2c5de0f5ef2f55f0a13a\r\n"
+    ],
+    [
+      0.485050,
+      "$ "
+    ],
+    [
+      1.610649,
+      "d"
+    ],
+    [
+      0.137239,
+      "o"
+    ],
+    [
+      0.283505,
+      "c"
+    ],
+    [
+      0.090273,
+      "k"
+    ],
+    [
+      0.105735,
+      "e"
+    ],
+    [
+      0.089901,
+      "r"
+    ],
+    [
+      0.090068,
+      " "
+    ],
+    [
+      0.127259,
+      "p"
+    ],
+    [
+      0.126929,
+      "s"
+    ],
+    [
+      0.663175,
+      "\r\n"
+    ],
+    [
+      0.064099,
+      "CONTAINER ID"
+    ],
+    [
+      0.000020,
+      "        IMAGE                       COMMAND             CREATED             STATUS        "
+    ],
+    [
+      0.000019,
+      "      PORTS                      "
+    ],
+    [
+      0.000011,
+      "NAMES\r\n4acb124913a5"
+    ],
+    [
+      0.000010,
+      "        ssebbass/docker-minecraft   "
+    ],
+    [
+      0.000009,
+      "\"/run.sh\"        "
+    ],
+    [
+      0.000009,
+      "   4 seconds ago       "
+    ],
+    [
+      0.000008,
+      "Up 3 seconds        "
+    ],
+    [
+      0.000009,
+      "0.0.0.0:25565-\u003e25565/tcp   "
+    ],
+    [
+      0.000008,
+      "minecraft\r\n"
+    ],
+    [
+      0.001846,
+      "$ "
+    ],
+    [
+      2.479313,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "$ "
+    ],
+    [
+      0.163740,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "$ "
+    ],
+    [
+      0.138356,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "$ "
+    ],
+    [
+      0.144065,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "$ "
+    ],
+    [
+      0.142155,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "$ "
+    ],
+    [
+      4.668559,
+      "n"
+    ],
+    [
+      0.000035,
+      "etstat -an |"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000010,
+      "g"
+    ],
+    [
+      0.000036,
+      "r"
+    ],
+    [
+      0.000047,
+      "e"
+    ],
+    [
+      0.000011,
+      "p"
+    ],
+    [
+      0.000085,
+      " "
+    ],
+    [
+      0.000014,
+      "25"
+    ],
+    [
+      0.000054,
+      "5"
+    ],
+    [
+      0.000011,
+      "6"
+    ],
+    [
+      0.000089,
+      "5"
+    ],
+    [
+      0.831918,
+      "\r\n"
+    ],
+    [
+      0.004144,
+      "tcp6       0      0 :::\u001b[01;31m\u001b[K25565\u001b[m\u001b[K                :::*                    ESCUCHAR   \r\n"
+    ],
+    [
+      0.007220,
+      "$ "
+    ],
+    [
+      1.175143,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "$ "
+    ],
+    [
+      0.170298,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "$ "
+    ],
+    [
+      0.160514,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "$ "
+    ],
+    [
+      0.149247,
+      "\r\n"
+    ],
+    [
+      0.000816,
+      "$ "
+    ],
+    [
+      0.157311,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "$ "
+    ],
+    [
+      0.154032,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "$ "
+    ],
+    [
+      1.065907,
+      "exit\r\n"
+    ]
+  ]
+}
