@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "width": 91,
+  "height": 27,
+  "duration": 55.797188,
+  "command": "/nix/store/548wfw1i43glkx8lkyjmbg59h6127qky-bash-4.3-p39/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/nix/store/548wfw1i43glkx8lkyjmbg59h6127qky-bash-4.3-p39/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009378,
+      "\\[\u001b]2;mmailhot-nixos:mmailhot:~/Development/D/femto-chat\u0007\\]\r\n\\[\u001b[1;32m\\][mmailhot@mmailhot-nixos:~/Development/D/femto-chat]$\\[\u001b[0m\\] "
+    ],
+    [
+      2.263063,
+      "."
+    ],
+    [
+      0.082601,
+      "/"
+    ],
+    [
+      0.147942,
+      "f"
+    ],
+    [
+      0.090355,
+      "e"
+    ],
+    [
+      0.067589,
+      "m"
+    ],
+    [
+      0.079507,
+      "t"
+    ],
+    [
+      0.102833,
+      "o"
+    ],
+    [
+      0.280539,
+      "-"
+    ],
+    [
+      0.399540,
+      "c"
+    ],
+    [
+      0.156932,
+      "h"
+    ],
+    [
+      0.058500,
+      "a"
+    ],
+    [
+      0.057255,
+      "t"
+    ],
+    [
+      0.130074,
+      " "
+    ],
+    [
+      2.783359,
+      "c"
+    ],
+    [
+      0.311343,
+      "h"
+    ],
+    [
+      0.049073,
+      "a"
+    ],
+    [
+      0.058541,
+      "t"
+    ],
+    [
+      0.137103,
+      "."
+    ],
+    [
+      0.157683,
+      "f"
+    ],
+    [
+      0.106987,
+      "e"
+    ],
+    [
+      0.175687,
+      "e"
+    ],
+    [
+      0.223070,
+      "n"
+    ],
+    [
+      0.045955,
+      "o"
+    ],
+    [
+      0.404108,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152869,
+      "\u0008 \u0008"
+    ],
+    [
+      0.153813,
+      "\u0008 \u0008"
+    ],
+    [
+      0.271305,
+      "\u0008 \u0008"
+    ],
+    [
+      0.174228,
+      "r"
+    ],
+    [
+      0.099807,
+      "e"
+    ],
+    [
+      0.165768,
+      "e"
+    ],
+    [
+      0.160993,
+      "n"
+    ],
+    [
+      0.056888,
+      "o"
+    ],
+    [
+      0.318319,
+      "d"
+    ],
+    [
+      0.072666,
+      "e"
+    ],
+    [
+      0.184285,
+      "."
+    ],
+    [
+      0.141196,
+      "n"
+    ],
+    [
+      0.049585,
+      "e"
+    ],
+    [
+      0.078276,
+      "t"
+    ],
+    [
+      0.140681,
+      " "
+    ],
+    [
+      0.600541,
+      "c"
+    ],
+    [
+      0.182081,
+      "s"
+    ],
+    [
+      0.183877,
+      "c"
+    ],
+    [
+      0.133972,
+      " "
+    ],
+    [
+      0.330096,
+      "D"
+    ],
+    [
+      0.372653,
+      "I"
+    ],
+    [
+      0.155406,
+      "r"
+    ],
+    [
+      0.186357,
+      "c"
+    ],
+    [
+      0.255007,
+      "C"
+    ],
+    [
+      0.166307,
+      "l"
+    ],
+    [
+      0.180815,
+      "i"
+    ],
+    [
+      0.083794,
+      "e"
+    ],
+    [
+      0.070614,
+      "n"
+    ],
+    [
+      0.099585,
+      "t"
+    ],
+    [
+      0.131290,
+      "\r\n"
+    ],
+    [
+      0.686147,
+      "\u001b[?1049h\u001b[1;27r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2J"
+    ],
+    [
+      0.000886,
+      "\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[2;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[3;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[9;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[10;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[11;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[12;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[13;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[14;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[15;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[16;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[17;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[18;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[19;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[20;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[21;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[22;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[23;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[24;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B\u001b[25d\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[26;1H\u001b(0\u001b[0mx\u001b(B\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[27;1H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[?7lj\u001b[?7h\u001b(B\r\u001b[25d\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.000242,
+      "\u001b[26;2H"
+    ],
+    [
+      0.051788,
+      "\u001b[23d*** Looking up your hostname...\u001b[H"
+    ],
+    [
+      0.052647,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B*** Checking Ident\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051089,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B*** Found your hostname\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      5.798022,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B*** No Ident response\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.865479,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- Welcome to rajaniemi.freenode.net in Helsinki, Finland.  Our thanks to\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050661,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- Aalto University for sponsoring this server!\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050537,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051344,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- RAJANIEMI, Hannu  (1978-). Born in Ylivieska, Finland, Rajaniemi is the\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051588,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- author of two novels and several short stories, and his debut novel 'The\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051341,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- Quantum Thief' was nominated for the 2011 Locus Award for Best First\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051378,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- Novel.  Rajaniemi lives in Edinburgh, Scotland where he is founding\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051105,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- director of ThinkTank Maths, a commercial research organisation.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051486,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050617,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051102,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- Welcome to freenode - supporting the free and open source\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051238,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- software communities since 1998.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050724,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050647,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- By connecting to freenode you indicate that you have read and\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051592,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- accept our policies as set out on http://www.freenode.net\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050895,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- freenode runs an open proxy scanner. Please join #freenode for\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.052071,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- any network-related questions or queries, where a number of\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050491,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- volunteer staff and helpful users will be happy to assist you.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050738,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051015,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- You can meet us at FOSSCON (http://www.fosscon.org) where we get\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.052337,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- together with like-minded FOSS enthusiasts for talks and\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051360,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- real-life collaboration.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051327,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051048,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- We would like to thank Private Internet Access\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051507,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- (https://www.privateinternetaccess.com/) and the other\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051357,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- organisations that help keep freenode and our other projects\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051822,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- running for their sustained support.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050938,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.051378,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- In particular we would like to thank the sponsor\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050982,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B- of this server, details of which can be found above.\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.050907,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B-\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.103178,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(BConnecting\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      3.613395,
+      "\u001b[2;23r\u001b[23;1H\u001b[2S\u001b[1;27r\u001b[22;1H\u001b(0\u001b[0mx\u001b(BUniversity of Waterloo Computer Science Club | Office: Open | Code of Conduct: http://bit\u001b(0\u001b[0mx\u001b(B\u001b[23;1H\u001b(0\u001b[0mx\u001b(B.ly/csc-coc\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      3.943693,
+      "\u001b[26;2HI"
+    ],
+    [
+      0.215799,
+      "t"
+    ],
+    [
+      0.159519,
+      " "
+    ],
+    [
+      0.077609,
+      "w"
+    ],
+    [
+      0.119108,
+      "o"
+    ],
+    [
+      0.087253,
+      "r"
+    ],
+    [
+      0.132640,
+      "k"
+    ],
+    [
+      0.085600,
+      "s"
+    ],
+    [
+      0.557368,
+      ","
+    ],
+    [
+      0.082806,
+      " "
+    ],
+    [
+      0.073823,
+      "a"
+    ],
+    [
+      0.131299,
+      "n"
+    ],
+    [
+      0.045069,
+      "d"
+    ],
+    [
+      0.113968,
+      " "
+    ],
+    [
+      0.197082,
+      "I"
+    ],
+    [
+      0.093060,
+      " "
+    ],
+    [
+      0.115787,
+      "c"
+    ],
+    [
+      0.088184,
+      "a"
+    ],
+    [
+      0.110372,
+      "n"
+    ],
+    [
+      0.072393,
+      " "
+    ],
+    [
+      0.101265,
+      "s"
+    ],
+    [
+      0.057603,
+      "e"
+    ],
+    [
+      0.047909,
+      "n"
+    ],
+    [
+      0.141982,
+      "d"
+    ],
+    [
+      0.102949,
+      " "
+    ],
+    [
+      0.258191,
+      "m"
+    ],
+    [
+      0.066980,
+      "e"
+    ],
+    [
+      0.133284,
+      "s"
+    ],
+    [
+      0.150012,
+      "s"
+    ],
+    [
+      0.170562,
+      "a"
+    ],
+    [
+      0.101326,
+      "g"
+    ],
+    [
+      0.102520,
+      "e"
+    ],
+    [
+      0.972609,
+      "s"
+    ],
+    [
+      0.522097,
+      "!"
+    ],
+    [
+      1.126491,
+      "\r\u001b[C\u001b[34X"
+    ],
+    [
+      0.000235,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B[DIrcClient]: It works, and I can send messages!\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      5.129417,
+      "\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B[mnmailho]: And also receive them\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      3.022548,
+      "\u001b[26;2HH"
+    ],
+    [
+      0.118501,
+      "o"
+    ],
+    [
+      0.116714,
+      "r"
+    ],
+    [
+      0.143054,
+      "r"
+    ],
+    [
+      0.118684,
+      "a"
+    ],
+    [
+      1.451654,
+      "y"
+    ],
+    [
+      0.555129,
+      "!"
+    ],
+    [
+      0.531580,
+      "\r\u001b[C       \r\u001b[C\u001b[2;23r\u001b[23;1H\n\u001b[1;27r\u001b[23;1H\u001b(0\u001b[0mx\u001b(B[DIrcClient]: Horray!\u001b[91G\u001b(0\u001b[0mx\u001b(B\u001b[1;1H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      3.192388,
+      "Received signal 2. Shutting down.\nThere were still 1 tasks running at exit.\n\u001b[27;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000491,
+      "\\[\u001b]2;mmailhot-nixos:mmailhot:~/Development/D/femto-chat\u0007\\]\r\n\\[\u001b[1;32m\\][mmailhot@mmailhot-nixos:~/Development/D/femto-chat]$\\[\u001b[0m\\] "
+    ],
+    [
+      2.082692,
+      "e"
+    ],
+    [
+      0.611819,
+      "x"
+    ],
+    [
+      0.494852,
+      "i"
+    ],
+    [
+      0.398283,
+      "t"
+    ],
+    [
+      0.778439,
+      "\r\n"
+    ],
+    [
+      0.001813,
+      "exit\r\n"
+    ]
+  ]
+}
