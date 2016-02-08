@@ -1,0 +1,1090 @@
+{
+  "version": 1,
+  "width": 190,
+  "height": 52,
+  "duration": 63.036009,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.048339,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.006959,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.075989,
+      "d"
+    ],
+    [
+      0.158723,
+      "\u0008do"
+    ],
+    [
+      0.110424,
+      "c"
+    ],
+    [
+      0.078126,
+      "k"
+    ],
+    [
+      0.076827,
+      "e"
+    ],
+    [
+      0.041729,
+      "r"
+    ],
+    [
+      0.550800,
+      "-"
+    ],
+    [
+      0.111066,
+      "c"
+    ],
+    [
+      0.114477,
+      "o"
+    ],
+    [
+      0.112963,
+      "m"
+    ],
+    [
+      0.139470,
+      "p"
+    ],
+    [
+      0.078250,
+      "o"
+    ],
+    [
+      0.134823,
+      "s"
+    ],
+    [
+      0.052281,
+      "e"
+    ],
+    [
+      0.158383,
+      " "
+    ],
+    [
+      0.280880,
+      "u"
+    ],
+    [
+      0.087192,
+      "p"
+    ],
+    [
+      0.283352,
+      " "
+    ],
+    [
+      0.111134,
+      "-"
+    ],
+    [
+      0.110749,
+      "d"
+    ],
+    [
+      0.133950,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;docker-compose up -d\u0007\u001b]1;docker-compose\u0007"
+    ],
+    [
+      0.242240,
+      "clair is up-to-date\r\n"
+    ],
+    [
+      0.000037,
+      "hyperclair_dev is up-to-date\r\n"
+    ],
+    [
+      0.000035,
+      "registry is up-to-date\r\n"
+    ],
+    [
+      0.000034,
+      "auth is up-to-date\r\n"
+    ],
+    [
+      0.000033,
+      "hyperclair is up-to-date\r\n"
+    ],
+    [
+      0.015308,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.006600,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.314381,
+      "d"
+    ],
+    [
+      0.141487,
+      "\u0008do"
+    ],
+    [
+      0.110533,
+      "c"
+    ],
+    [
+      0.087154,
+      "k"
+    ],
+    [
+      0.102106,
+      "e"
+    ],
+    [
+      0.034347,
+      "r"
+    ],
+    [
+      0.086120,
+      " "
+    ],
+    [
+      0.201473,
+      "p"
+    ],
+    [
+      0.118518,
+      "s"
+    ],
+    [
+      0.232973,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;docker ps\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.024648,
+      "CONTAINER ID"
+    ],
+    [
+      0.000004,
+      "        IMAGE                         COMMAND                  CREATED             "
+    ],
+    [
+      0.000008,
+      "STATUS              PORTS                        "
+    ],
+    [
+      0.000002,
+      "      "
+    ],
+    [
+      0.000002,
+      "NAMES"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "d18f99924116"
+    ],
+    [
+      0.000001,
+      "        "
+    ],
+    [
+      0.000001,
+      "contrib_hyperclair"
+    ],
+    [
+      0.000025,
+      "            \"go run main.go serve\"   2 minutes ago       Up 2 minutes        0.0.0.0:9999-\u003e9999/tcp             hyperclair\r\n"
+    ],
+    [
+      0.000003,
+      "4ee68fa7c4f4        cesanta/docker_auth           \"/auth_server /config\""
+    ],
+    [
+      0.000006,
+      "   6 hours ago         Up 6 hours"
+    ],
+    [
+      0.000001,
+      "        "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "0.0.0.0:5001-\u003e5001/tcp"
+    ],
+    [
+      0.000001,
+      "        "
+    ],
+    [
+      0.000009,
+      "     "
+    ],
+    [
+      0.000006,
+      "auth\r\n1cce5a3dfd22        registry:2.2.1        "
+    ],
+    [
+      0.000001,
+      "        \"/bin/registry /etc/d\"   6 hours ago"
+    ],
+    [
+      0.000006,
+      "         "
+    ],
+    [
+      0.000001,
+      "Up 6 hours        "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000005,
+      "0.0.0.0:5000-\u003e5000/tcp"
+    ],
+    [
+      0.000007,
+      "             registry\r\n74fb1158ef25        contrib_hyperclair_dev"
+    ],
+    [
+      0.000001,
+      "        "
+    ],
+    [
+      0.000002,
+      "\"/bin/sh -c bash\""
+    ],
+    [
+      0.000001,
+      "        "
+    ],
+    [
+      0.000015,
+      "6 hours ago         Up 6 hours          9999/tcp                "
+    ],
+    [
+      0.000001,
+      "           "
+    ],
+    [
+      0.000001,
+      "hyperclair_dev"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "3694cc54d57e        quay.io/coreos/clair:latest   \"clair --config=/conf\"   6 hours ago         Up 6 hours          0.0.0.0:6060-6061-\u003e6060-6061/tcp   clair\r\n"
+    ],
+    [
+      0.001075,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.007814,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.217363,
+      "h"
+    ],
+    [
+      0.139357,
+      "\u0008hy"
+    ],
+    [
+      0.391596,
+      "p"
+    ],
+    [
+      0.100966,
+      "e"
+    ],
+    [
+      0.097042,
+      "r"
+    ],
+    [
+      0.204827,
+      "clair"
+    ],
+    [
+      0.719159,
+      " "
+    ],
+    [
+      0.450590,
+      "v"
+    ],
+    [
+      0.129964,
+      "e"
+    ],
+    [
+      0.184628,
+      "r"
+    ],
+    [
+      0.192011,
+      "s"
+    ],
+    [
+      0.105422,
+      "i"
+    ],
+    [
+      0.096739,
+      "o"
+    ],
+    [
+      0.059723,
+      "n"
+    ],
+    [
+      0.361487,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\r\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b]2;hyperclair version\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.004969,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      0.001477,
+      "{\r\n\t\"APIVersion\": \"1\",\r\n\t\"Clair\": {\r\n\t\t\"APIVersion\": \"1\",\r\n\t\t"
+    ],
+    [
+      0.000003,
+      "\"EngineVersion\": \"1\"\r\n\t}\r\n}\r\n"
+    ],
+    [
+      0.000649,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.009689,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.257369,
+      "h"
+    ],
+    [
+      0.130389,
+      "\u0008hy"
+    ],
+    [
+      0.445334,
+      "p"
+    ],
+    [
+      0.092127,
+      "e"
+    ],
+    [
+      0.076666,
+      "r"
+    ],
+    [
+      0.158464,
+      "clair"
+    ],
+    [
+      0.705410,
+      " "
+    ],
+    [
+      1.212291,
+      "h"
+    ],
+    [
+      0.236900,
+      "e"
+    ],
+    [
+      0.174154,
+      "a"
+    ],
+    [
+      0.178246,
+      "l"
+    ],
+    [
+      0.290197,
+      "t"
+    ],
+    [
+      0.121894,
+      "h"
+    ],
+    [
+      0.419467,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001151,
+      "\u001b]2;hyperclair health\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.007098,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      0.034915,
+      "{\r\n\t\"clair\": {\r\n\t\t\"database\": {\r\n\t\t"
+    ],
+    [
+      0.000011,
+      "\t\"IsHealthy\": true\r\n\t\t},\r\n\t\t\"updater\": {\r\n\t"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      "\"Details\": {"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\"LatestSuccessfulUpdate\": \"2016-02-08T13:20:48Z\""
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      "},"
+    ],
+    [
+      0.000064,
+      "\r\n\t\t\t\"IsHealthy\": true\r\n\t\t}\r\n\t"
+    ],
+    [
+      0.000008,
+      "},\r\n\t\"database\": {\r\n\t\t\"IsHealthy\": true\r\n"
+    ],
+    [
+      0.000031,
+      "\t}\r\n}\r\n"
+    ],
+    [
+      0.001774,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.018300,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.945462,
+      "h"
+    ],
+    [
+      0.121417,
+      "\u0008hy"
+    ],
+    [
+      0.400655,
+      "p"
+    ],
+    [
+      0.092078,
+      "e"
+    ],
+    [
+      0.070387,
+      "r"
+    ],
+    [
+      0.147174,
+      "clair"
+    ],
+    [
+      0.722962,
+      " "
+    ],
+    [
+      0.837524,
+      "p"
+    ],
+    [
+      0.299325,
+      "u"
+    ],
+    [
+      0.283825,
+      "l"
+    ],
+    [
+      0.122032,
+      "l"
+    ],
+    [
+      0.399843,
+      " "
+    ],
+    [
+      0.250678,
+      "registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      0.547424,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000071,
+      "\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001104,
+      "\u001b]2;hyperclair pull registry:5000/jgsqware/ubuntu-git\u0007"
+    ],
+    [
+      0.000028,
+      "\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.010031,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.073322,
+      "Layers found: 5\r\nLayer: sha256:13be4a52fdee2f6c44948b99b5b65ec703b1ca76c1ab5d2d90ae9bf18347082e\r\nLayer: sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4\r\nLayer: sha256:27aa681c95e5165caf287dcfe896532df4ae8b10e099500f2f8f71acf4002a89\r\nLayer: sha256:9e0bc8a71bde464f710bc2b593a1fc21521517671e918687892303151331fa56\r\nLayer: sha256:d89e1bee20d9cb344674e213b581f14fbd8e70274ecf9d10c514bab78a307845\r\n"
+    ],
+    [
+      0.000550,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.006927,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.489875,
+      "h"
+    ],
+    [
+      0.121410,
+      "\u0008hy"
+    ],
+    [
+      0.382721,
+      "p"
+    ],
+    [
+      0.058734,
+      "e"
+    ],
+    [
+      0.083025,
+      "r"
+    ],
+    [
+      0.140525,
+      "clair"
+    ],
+    [
+      0.588982,
+      " "
+    ],
+    [
+      0.416513,
+      "p"
+    ],
+    [
+      0.254467,
+      "u"
+    ],
+    [
+      0.111018,
+      "s"
+    ],
+    [
+      0.113965,
+      "h"
+    ],
+    [
+      0.168069,
+      " "
+    ],
+    [
+      0.634540,
+      "registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      0.566661,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000548,
+      "\u001b]2;hyperclair push registry:5000/jgsqware/ubuntu-git\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.005469,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      4.071766,
+      "All is ok\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.007069,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.032497,
+      "h"
+    ],
+    [
+      0.130378,
+      "\u0008hy"
+    ],
+    [
+      0.373774,
+      "p"
+    ],
+    [
+      0.065217,
+      "e"
+    ],
+    [
+      0.067808,
+      "r"
+    ],
+    [
+      0.722919,
+      "clair"
+    ],
+    [
+      1.063946,
+      " "
+    ],
+    [
+      0.637249,
+      "a"
+    ],
+    [
+      0.159232,
+      "n"
+    ],
+    [
+      0.092539,
+      "a"
+    ],
+    [
+      0.115526,
+      "l"
+    ],
+    [
+      0.201030,
+      "y"
+    ],
+    [
+      0.066382,
+      "s"
+    ],
+    [
+      0.148696,
+      "e"
+    ],
+    [
+      0.151214,
+      " "
+    ],
+    [
+      0.553871,
+      "registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      0.459124,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000024,
+      "\r\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b]2;hyperclair analyse registry:5000/jgsqware/ubuntu-git\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.002867,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      0.272641,
+      "Image Analysis:\t registry:5000/jgsqware/ubuntu-git:latest\r\n\r\nAnalysis [sha256:d89e1] found 60 vulnerabilities.\r\nAnalysis [sha256:9e0bc] found 0 vulnerabilities.\r\nAnalysis [sha256:27aa6] found 0 vulnerabilities.\r\nAnalysis [sha256:a3ed9] found 0 vulnerabilities.\r\n"
+    ],
+    [
+      0.000620,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.007606,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.358661,
+      "h"
+    ],
+    [
+      0.130544,
+      "\u0008hy"
+    ],
+    [
+      0.248365,
+      "p"
+    ],
+    [
+      0.154833,
+      "e"
+    ],
+    [
+      0.088167,
+      "r"
+    ],
+    [
+      0.387734,
+      "c"
+    ],
+    [
+      0.293501,
+      "l"
+    ],
+    [
+      0.109748,
+      "a"
+    ],
+    [
+      0.132750,
+      "i"
+    ],
+    [
+      0.102198,
+      "r"
+    ],
+    [
+      0.778022,
+      " "
+    ],
+    [
+      0.459412,
+      "r"
+    ],
+    [
+      0.078330,
+      "e"
+    ],
+    [
+      0.113116,
+      "p"
+    ],
+    [
+      0.069239,
+      "o"
+    ],
+    [
+      0.100518,
+      "r"
+    ],
+    [
+      0.121300,
+      "t"
+    ],
+    [
+      1.279430,
+      " "
+    ],
+    [
+      0.688753,
+      "-f json registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      0.703510,
+      "\u001b[41D\u001b[7P\u001b[34C       \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.702203,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;hyperclair report registry:5000/jgsqware/ubuntu-git\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.008357,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      0.100643,
+      "HTML report at ./reports/html/analysis-jgsqware-ubuntu-git-latest.html\r\n"
+    ],
+    [
+      0.000767,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.008888,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.781021,
+      "h"
+    ],
+    [
+      0.130512,
+      "\u0008hy"
+    ],
+    [
+      0.364480,
+      "p"
+    ],
+    [
+      0.092078,
+      "e"
+    ],
+    [
+      0.070205,
+      "r"
+    ],
+    [
+      0.505439,
+      "clair"
+    ],
+    [
+      0.553191,
+      " "
+    ],
+    [
+      0.190689,
+      "r"
+    ],
+    [
+      0.094701,
+      "e"
+    ],
+    [
+      0.132210,
+      "p"
+    ],
+    [
+      0.096014,
+      "o"
+    ],
+    [
+      0.386993,
+      "r"
+    ],
+    [
+      0.211022,
+      "t"
+    ],
+    [
+      0.177711,
+      " "
+    ],
+    [
+      0.213856,
+      " registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      0.283079,
+      "\u001b[34D-f json registry:5000/jgsqware/ubuntu-git"
+    ],
+    [
+      1.283085,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000020,
+      "\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000559,
+      "\u001b]2;hyperclair report -f json registry:5000/jgsqware/ubuntu-git\u0007\u001b]1;hyperclair\u0007"
+    ],
+    [
+      0.005374,
+      "Using config file: /home/juliengarcia/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib/.hyperclair.yml\r\n"
+    ],
+    [
+      0.082858,
+      "JSON report at ./reports/json/analysis-jgsqware-ubuntu-git-latest.json"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000638,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.007277,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.384786,
+      "l"
+    ],
+    [
+      0.127773,
+      "\u0008ls"
+    ],
+    [
+      1.441272,
+      " "
+    ],
+    [
+      0.404339,
+      "."
+    ],
+    [
+      0.166899,
+      "/"
+    ],
+    [
+      0.413495,
+      "r"
+    ],
+    [
+      0.060164,
+      "e"
+    ],
+    [
+      0.148711,
+      "p"
+    ],
+    [
+      0.086884,
+      "o"
+    ],
+    [
+      0.090364,
+      "rts\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.379073,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000036,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000019,
+      "\r\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b]2;ls --color=tty ./reports\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.000950,
+      "\u001b[0m\u001b[01;34mhtml\u001b[0m  \u001b[01;34mjson\u001b[0m\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000058,
+      "\u001b]2;juliengarcia@jgg-wemanity: ~/workspace/go/src/github.com/wemanity-belgium/hyperclair/contrib\u0007"
+    ],
+    [
+      0.000002,
+      "\u001b]1;..clair/contrib\u0007"
+    ],
+    [
+      0.007068,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;045m\u001b[39m\u001b[49m\u001b[0m\u001b[01;32m➜ \u001b[01;32m \u001b[36mcontrib \u001b[01;34mgit:(\u001b[31mdevelop\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.752410,
+      "\r\r\n"
+    ]
+  ]
+}
