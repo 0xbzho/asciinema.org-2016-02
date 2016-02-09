@@ -1,0 +1,774 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 29,
+  "duration": 68.966569,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.131337,
+      "\u001b[0;36m~/Downloads/nettoe-1.5.1/src\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.378430,
+      "."
+    ],
+    [
+      0.168013,
+      "/"
+    ],
+    [
+      0.229983,
+      "n"
+    ],
+    [
+      0.095956,
+      "e"
+    ],
+    [
+      0.106813,
+      "t"
+    ],
+    [
+      0.114322,
+      "t"
+    ],
+    [
+      0.107881,
+      "oe "
+    ],
+    [
+      0.367550,
+      "\r\n"
+    ],
+    [
+      0.003581,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000007,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+-----------------------------------------------------------+\r\n\u001b[39m\u001b[49m\u001b[m\r\n   [ \u001b[1m\u001b[31mMain Menu\u001b[m ]\r\n\r\n   (\u001b[1m\u001b[31m1\u001b[m) Player vs \u001b[1m\u001b[34mC\u001b[mPU\r\n   (\u001b[1m\u001b[31m2\u001b[m) Player vs \u001b[1m\u001b[34mP\u001b[mlayer\r\n"
+    ],
+    [
+      0.000003,
+      "   (\u001b[1m\u001b[31m3\u001b[m) Two players over \u001b[1m\u001b[34mn\u001b[metwork\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "   (\u001b[1m\u001b[31m4\u001b[m) \u001b[1m\u001b[34mI\u001b[mnfo\r\n"
+    ],
+    [
+      0.000003,
+      "   (\u001b[1m\u001b[31mq\u001b[m) \u001b[1m\u001b[34mQ\u001b[muit\r\n\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000011,
+      " Choose an action: \u001b[1m\u001b[31m"
+    ],
+    [
+      1.584895,
+      "4"
+    ],
+    [
+      0.131575,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000006,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n"
+    ],
+    [
+      0.000004,
+      "+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[39m\u001b[49m\u001b[m netToe is a Tic Tac Toe-like game for Linux and UNIX.    \r\n"
+    ],
+    [
+      0.000005,
+      " It is possible to play it against the computer, another  \r\n player on the same PC, or against another player over    \r\n"
+    ],
+    [
+      0.000005,
+      " a network (Internet, and everything using TCP/IP).       \r\n To play it over a network you must first set up a server.\r\n"
+    ],
+    [
+      0.000004,
+      " This is done in the network game options menu, selecting \r\n \"Host the game\". Then the (remote) second player must  \r\n"
+    ],
+    [
+      0.000004,
+      " connect to the server by typing its IP address, or name. \r\n"
+    ],
+    [
+      0.000004,
+      " That should be enough for you to have some leisure.      \r\n For a detailed guide on HOW TO PLAY, and for other info, \r\n"
+    ],
+    [
+      0.000018,
+      " do read the manual page \u001b[1m\u001b[34mnettoe\u001b[m(6).\r\n\r\n netToe 1.5.1 (March 21th, 2014)\r\n Copyright 2000,2001 Gabriele Giorgetti\r\n"
+    ],
+    [
+      0.000004,
+      "           2009-2014 Mats Erik Andersson\r\n http://nettoe.sourceforge.net/\r\n\r\n"
+    ],
+    [
+      0.000051,
+      " Press\u001b[1m\u001b[31m enter\u001b[m to go back to the main menu. "
+    ],
+    [
+      3.603399,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000007,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n"
+    ],
+    [
+      0.000017,
+      "+-----------------------------------------------------------+\r\n\u001b[39m\u001b[49m\u001b[m\r\n   [ \u001b[1m\u001b[31mMain Menu\u001b[m ]\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "   (\u001b[1m\u001b[31m1\u001b[m) Player vs \u001b[1m\u001b[34mC\u001b[mPU\r\n"
+    ],
+    [
+      0.000049,
+      "   (\u001b[1m\u001b[31m2\u001b[m) Player vs \u001b[1m\u001b[34mP\u001b[mlayer\r\n"
+    ],
+    [
+      0.000008,
+      "   (\u001b[1m\u001b[31m3\u001b[m) Two players over \u001b[1m\u001b[34mn\u001b[metwork\r\n\r\n   (\u001b[1m\u001b[31m4\u001b[m) \u001b[1m\u001b[34mI\u001b[mnfo\r\n   (\u001b[1m\u001b[31mq\u001b[m) \u001b[1m\u001b[34mQ\u001b[muit\r\n\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000005,
+      " Choose an action: \u001b[1m\u001b[31m"
+    ],
+    [
+      1.113533,
+      "1"
+    ],
+    [
+      0.477033,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000033,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[39m\u001b[49m\u001b[m\r\n   [ \u001b[1m\u001b[31mLevel of difficulty\u001b[m ]\r\n\r\n   (\u001b[1m\u001b[31m1\u001b[m) \u001b[1m\u001b[34mW\u001b[meak \r\n"
+    ],
+    [
+      0.000032,
+      "   (\u001b[1m\u001b[31m2\u001b[m) \u001b[1m\u001b[34mN\u001b[mormal\r\n"
+    ],
+    [
+      0.000010,
+      "   (\u001b[1m\u001b[31m3\u001b[m) \u001b[1m\u001b[34mB\u001b[metter\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "   (\u001b[1m\u001b[31mq\u001b[m) \u001b[1m\u001b[34mR\u001b[meturn to \u001b[1m\u001b[34mm\u001b[main menu\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1m\u001b[34m\r\n Choice: \u001b[1m\u001b[31m"
+    ],
+    [
+      2.284851,
+      "1"
+    ],
+    [
+      0.169872,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[39m\u001b[49m\u001b[m\r\n"
+    ],
+    [
+      0.000012,
+      " Please state your name: \u001b[1m\u001b[34m"
+    ],
+    [
+      0.979919,
+      "s"
+    ],
+    [
+      0.241931,
+      "e"
+    ],
+    [
+      0.123269,
+      "r"
+    ],
+    [
+      0.095886,
+      "g"
+    ],
+    [
+      0.048144,
+      "e"
+    ],
+    [
+      0.075897,
+      "y"
+    ],
+    [
+      0.160079,
+      "b"
+    ],
+    [
+      0.375689,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[39m\u001b[49m\u001b[m\r\n"
+    ],
+    [
+      1.004359,
+      " Who will start first ?  You will begin ! \u001b[39m\u001b[49m"
+    ],
+    [
+      1.526458,
+      "\r\n"
+    ],
+    [
+      1.474063,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000064,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n           |   |           |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n           |   |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000023,
+      "           |   |           |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 0,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000018,
+      " sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      5.036952,
+      "a"
+    ],
+    [
+      0.215673,
+      "1"
+    ],
+    [
+      0.168877,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.004078,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000018,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000045,
+      "         X |   |           |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000006,
+      "           | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000005,
+      "           |   |           |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 0,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      2.839196,
+      "c"
+    ],
+    [
+      0.687574,
+      "2"
+    ],
+    [
+      0.206923,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.001119,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n         X |   | O         |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n           | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000057,
+      "           | X |           |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 0,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000022,
+      " sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      7.054331,
+      "c"
+    ],
+    [
+      0.351249,
+      "1"
+    ],
+    [
+      0.485346,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.004343,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n         X |   | O         |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000042,
+      "           | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n         X | X | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 0,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      2.486908,
+      "b"
+    ],
+    [
+      0.284176,
+      "1"
+    ],
+    [
+      0.219748,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000055,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000023,
+      "         X |   | O         |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000020,
+      "         X | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000021,
+      "         X | X | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m\r\n You win !\r\n\u001b[39m\u001b[49m\u001b[m\r\n Do you want to play again ? [y/n]: "
+    ],
+    [
+      1.811900,
+      "y"
+    ],
+    [
+      0.292956,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[39m\u001b[49m\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.003850,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n           |   |           |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000006,
+      "           | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000038,
+      "           |   |           |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n"
+    ],
+    [
+      0.000016,
+      "+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      3.592629,
+      "a"
+    ],
+    [
+      0.318724,
+      "1"
+    ],
+    [
+      0.499633,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.004721,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n         X |   |           |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n           | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000009,
+      "           |   | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      2.953934,
+      "c"
+    ],
+    [
+      0.844461,
+      "1"
+    ],
+    [
+      0.735844,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.000687,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n         X |   |           |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n         O | O |           |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000005,
+      "         X |   | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      2.656835,
+      "b"
+    ],
+    [
+      0.511288,
+      "3"
+    ],
+    [
+      0.203945,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.002535,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000019,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000059,
+      "         X |   | O         |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000029,
+      "         O | O | X         |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000030,
+      "         X |   | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[39m\u001b[49m\u0007\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000041,
+      " sergeyb\u001b[m, playing X, it is your turn: "
+    ],
+    [
+      1.737060,
+      "c"
+    ],
+    [
+      0.512354,
+      "2"
+    ],
+    [
+      0.216625,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "\r\n Computer is considering its move ...\r\n"
+    ],
+    [
+      1.004241,
+      "\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000036,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+--------------------------+--------------------------------+\r\n\u001b[39m\u001b[49m\u001b[1m\u001b[31m        Current game\u001b[m       |        \u001b[1m\u001b[31mCoordinate matrix\r\n\u001b[m           |   |           |              |    |    \r\n"
+    ],
+    [
+      0.000033,
+      "         X | O | O         |\u001b[1m\u001b[34m           a1\u001b[m |\u001b[1m\u001b[34m a2\u001b[m |\u001b[1m\u001b[34m a3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000034,
+      "         O | O | X         |\u001b[1m\u001b[34m           b1\u001b[m |\u001b[1m\u001b[34m b2\u001b[m |\u001b[1m\u001b[34m b3 \r\n\u001b[m        ---|---|---        |          ----|----|---- \r\n"
+    ],
+    [
+      0.000011,
+      "         X | X | O         |\u001b[1m\u001b[34m           c1\u001b[m |\u001b[1m\u001b[34m c2\u001b[m |\u001b[1m\u001b[34m c3 \r\n\u001b[m           |   |           |              |    |    \r\n\u001b[39m\u001b[49m\u001b[m+--------------------------+--------------------------------+\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u001b[31m  Score:\u001b[1m\u001b[34m sergeyb\u001b[m 1,\u001b[1m\u001b[34m Computer\u001b[m 0.\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[39m\u001b[49m\r\n This is a draw !\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[39m\u001b[49m\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      " Do you want to play again ? [y/n]: "
+    ],
+    [
+      2.670088,
+      "n"
+    ],
+    [
+      0.194594,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[m+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000008,
+      "|\u001b[1m\u001b[34m netToe 1.5.1 \u001b[m|-XOX-OXO-OOO-XXX-|\u001b[1m\u001b[34m The Net Tic Tac Toe Game \u001b[m|\r\n+-----------------------------------------------------------+\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[39m\u001b[49m\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      "   [ \u001b[1m\u001b[31mMain Menu\u001b[m ]\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "   (\u001b[1m\u001b[31m1\u001b[m) Player vs \u001b[1m\u001b[34mC\u001b[mPU\r\n"
+    ],
+    [
+      0.000005,
+      "   (\u001b[1m\u001b[31m2\u001b[m) Player vs \u001b[1m\u001b[34mP\u001b[mlayer\r\n"
+    ],
+    [
+      0.000017,
+      "   (\u001b[1m\u001b[31m3\u001b[m) Two players over \u001b[1m\u001b[34mn\u001b[metwork\r\n\r\n"
+    ],
+    [
+      0.000016,
+      "   (\u001b[1m\u001b[31m4\u001b[m) \u001b[1m\u001b[34mI\u001b[mnfo\r\n"
+    ],
+    [
+      0.000004,
+      "   (\u001b[1m\u001b[31mq\u001b[m) \u001b[1m\u001b[34mQ\u001b[muit\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000005,
+      " Choose an action: \u001b[1m\u001b[31m"
+    ],
+    [
+      1.297055,
+      "q"
+    ],
+    [
+      0.496862,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[39m\u001b[49m\u001b[m\r\n Goodbye !\r\n\r\nnetToe Copyright 2000,2001 Gabriele Giorgetti\r\n"
+    ],
+    [
+      0.000020,
+      "       Copyright 2009-2014 Mats Erik Andersson\r\nnetToe project homepage: http://nettoe.sourceforge.net/\r\n\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[39m\u001b[49m"
+    ],
+    [
+      0.005263,
+      "\u001b[0;36m~/Downloads/nettoe-1.5.1/src\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.171633,
+      "exit\r\n"
+    ]
+  ]
+}
