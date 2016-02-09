@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "width": 167,
+  "height": 44,
+  "duration": 55.122272,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.135442,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000025,
+      "\u001b]2;foiki@foiki-ubuntu: ~/dev/gaas-client\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;..v/gaas-client\u0007"
+    ],
+    [
+      0.026895,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~/dev/gaas-client\u001b[00m  \u001b[33m‹master*› \u001b[00m\u001b[00m\r\n╰─\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.777696,
+      "d"
+    ],
+    [
+      0.202811,
+      "\u0008db"
+    ],
+    [
+      0.185510,
+      "w"
+    ],
+    [
+      0.195250,
+      "e"
+    ],
+    [
+      0.183677,
+      "b"
+    ],
+    [
+      0.178328,
+      "b"
+    ],
+    [
+      0.094304,
+      " "
+    ],
+    [
+      0.391713,
+      "l"
+    ],
+    [
+      0.182035,
+      "o"
+    ],
+    [
+      0.166285,
+      "g"
+    ],
+    [
+      0.085014,
+      "i"
+    ],
+    [
+      0.106692,
+      "n"
+    ],
+    [
+      0.226808,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;dbwebb login\u0007\u001b]1;dbwebb\u0007"
+    ],
+    [
+      0.041214,
+      "I will now login to the server 'ssh.student.bth.se' as 'jokd13' using ssh-keys if available.\r\n"
+    ],
+    [
+      0.417306,
+      "\r\n"
+    ],
+    [
+      0.006543,
+      "The programs included with the Debian GNU/Linux system are free software;\r\n"
+    ],
+    [
+      0.000716,
+      "the exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright."
+    ],
+    [
+      0.000592,
+      "\r\n\r\n"
+    ],
+    [
+      0.000447,
+      "Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\n"
+    ],
+    [
+      0.006939,
+      "permitted by applicable law.\r\n"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000334,
+      "========================================================================"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.003578,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "This is a server for:\r\n\r\n"
+    ],
+    [
+      0.000078,
+      "ssh.student.bth.se"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000281,
+      "sftp.student.bth.se"
+    ],
+    [
+      0.000967,
+      "\r\n"
+    ],
+    [
+      0.000618,
+      "\r\nnodejs2.student.bth.se\r\n\r\nIf you need help or have questions please contact IT Helpdesk.\r\n\r\n        http://www.bth.se/ithelpdesk\r\n\r\n//IT Department\r\n\r\nYou have mail.\r\nLast login: Tue Feb  9 13:13:53 2016 from lb-float-sk.net.bth.se\r\r\n"
+    ],
+    [
+      0.005138,
+      "jokd13@sweet: "
+    ],
+    [
+      0.760935,
+      "s"
+    ],
+    [
+      0.072999,
+      "o"
+    ],
+    [
+      0.107652,
+      "u"
+    ],
+    [
+      0.063976,
+      "r"
+    ],
+    [
+      0.199778,
+      "c"
+    ],
+    [
+      0.045672,
+      "e"
+    ],
+    [
+      0.049321,
+      " "
+    ],
+    [
+      0.196902,
+      "."
+    ],
+    [
+      0.288672,
+      "z"
+    ],
+    [
+      0.377395,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.081975,
+      "c"
+    ],
+    [
+      0.101490,
+      "s"
+    ],
+    [
+      0.604017,
+      "hrc "
+    ],
+    [
+      0.745590,
+      "\r\r\n"
+    ],
+    [
+      0.004186,
+      "jokd13@sweet: "
+    ],
+    [
+      2.212914,
+      "a"
+    ],
+    [
+      0.780557,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.311233,
+      "p"
+    ],
+    [
+      0.237928,
+      "o"
+    ],
+    [
+      0.042444,
+      "\r"
+    ],
+    [
+      0.003443,
+      "\r\npod2html   pod2latex  pod2man    pod2readme pod2text   pod2usage  podchecker podselect  popd       potatoe    \r"
+    ],
+    [
+      0.000394,
+      "\r\njokd13@sweet: po"
+    ],
+    [
+      3.017454,
+      "t"
+    ],
+    [
+      0.197516,
+      "a"
+    ],
+    [
+      0.129301,
+      "t"
+    ],
+    [
+      0.230605,
+      "o"
+    ],
+    [
+      0.371034,
+      "e "
+    ],
+    [
+      10.549936,
+      "dabc15"
+    ],
+    [
+      0.644662,
+      "\r\r\n"
+    ],
+    [
+      0.009867,
+      "[sudo] password for jokd13: "
+    ],
+    [
+      3.034157,
+      "\r\n"
+    ],
+    [
+      0.473109,
+      "/home/saxon/students/20151/dabc15/dbwebb-kurser\r\n"
+    ],
+    [
+      0.014793,
+      "drwxr-xr-x 3 dabc15 dbwebb-kurser 4096 jan 15 11:06 .\r\ndrwx--x--x 6 dabc15         20151 4096 jan 15 15:18 ..\r\ndrwxr-xr-x 4 dabc15 dbwebb-kurser 4096 jan 17 11:28 python\r\n"
+    ],
+    [
+      0.001511,
+      "jokd13@sweet: "
+    ],
+    [
+      1.632366,
+      "e"
+    ],
+    [
+      0.540101,
+      "x"
+    ],
+    [
+      0.127016,
+      "i"
+    ],
+    [
+      0.155831,
+      "t"
+    ],
+    [
+      0.131113,
+      "\r\r\nlogout\r\n"
+    ],
+    [
+      0.006253,
+      "Connection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000788,
+      "\u001b[1;37;40mDONE\u001b[0m to establish the connection.\r\n"
+    ],
+    [
+      0.001153,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r\u001b]2;foiki@foiki-ubuntu: ~/dev/gaas-client\u0007\u001b]1;..v/gaas-client\u0007"
+    ],
+    [
+      0.026511,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~/dev/gaas-client\u001b[00m  \u001b[33m‹master*› \u001b[00m\u001b[00m\r\n"
+    ],
+    [
+      0.000010,
+      "╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.895938,
+      "d"
+    ],
+    [
+      0.201770,
+      "\u0008db"
+    ],
+    [
+      0.181091,
+      "w"
+    ],
+    [
+      0.204057,
+      "e"
+    ],
+    [
+      0.231919,
+      "b"
+    ],
+    [
+      0.182808,
+      "b"
+    ],
+    [
+      0.114924,
+      " "
+    ],
+    [
+      0.336460,
+      "r"
+    ],
+    [
+      0.138198,
+      "u"
+    ],
+    [
+      0.074123,
+      "n"
+    ],
+    [
+      0.122119,
+      " "
+    ],
+    [
+      2.102762,
+      "p"
+    ],
+    [
+      0.191995,
+      "o"
+    ],
+    [
+      0.170897,
+      "t"
+    ],
+    [
+      0.213790,
+      "a"
+    ],
+    [
+      0.440336,
+      "t"
+    ],
+    [
+      0.111790,
+      "o"
+    ],
+    [
+      0.649951,
+      "e"
+    ],
+    [
+      0.397123,
+      " "
+    ],
+    [
+      1.065980,
+      "dabc15"
+    ],
+    [
+      6.618548,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;dbwebb run potatoe dabc15\u0007\u001b]1;dbwebb\u0007"
+    ],
+    [
+      0.055128,
+      "I will now login to the server 'ssh.student.bth.se' as 'jokd13' and execute the command 'potatoe dabc15'.\r\n"
+    ],
+    [
+      0.462456,
+      "[sudo] password for jokd13: "
+    ],
+    [
+      2.154266,
+      "\r\n"
+    ],
+    [
+      0.417513,
+      "/home/saxon/students/20151/dabc15/dbwebb-kurser\r\n"
+    ],
+    [
+      0.006740,
+      "drwxr-xr-x 3 dabc15 dbwebb-kurser 4096 jan 15 11:06 ."
+    ],
+    [
+      0.000676,
+      "\r\ndrwx--x--x 6 dabc15         20151 4096 jan 15 15:18 .."
+    ],
+    [
+      0.000495,
+      "\r\n"
+    ],
+    [
+      0.001490,
+      "drwxr-xr-x 4 dabc15 dbwebb-kurser 4096 jan 17 11:28 python"
+    ],
+    [
+      0.001686,
+      "\r\nConnection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.001910,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r\u001b]2;foiki@foiki-ubuntu: ~/dev/gaas-client\u0007\u001b]1;..v/gaas-client\u0007"
+    ],
+    [
+      0.044202,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~/dev/gaas-client\u001b[00m  \u001b[33m‹master*› \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000041,
+      "\r\n╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000130,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.907262,
+      "e"
+    ],
+    [
+      0.318858,
+      "\u0008ei"
+    ],
+    [
+      0.420782,
+      "\u0008\u0008e \u0008"
+    ],
+    [
+      0.123481,
+      "\u0008ex"
+    ],
+    [
+      0.084726,
+      "i"
+    ],
+    [
+      0.116428,
+      "t"
+    ],
+    [
+      0.140367,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
