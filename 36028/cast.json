@@ -1,0 +1,870 @@
+{
+  "version": 1,
+  "width": 87,
+  "height": 28,
+  "duration": 96.480020,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.027446,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000057,
+      "bash-3.2$ "
+    ],
+    [
+      1.668023,
+      "i"
+    ],
+    [
+      0.088023,
+      "e"
+    ],
+    [
+      0.207436,
+      "x"
+    ],
+    [
+      0.144581,
+      "\r\n"
+    ],
+    [
+      0.251343,
+      "Erlang/OTP 18 [erts-7.2.1] [source] [64-bit] [smp:4:4] [async-threads:10] [hipe] [kernel-poll:false] [dtrace]\r\n\r\n"
+    ],
+    [
+      0.214104,
+      "Interactive Elixir (1.2.1) - press Ctrl+C to exit (type h() ENTER for help)\r\n"
+    ],
+    [
+      0.041290,
+      "iex(1)\u003e "
+    ],
+    [
+      1.941522,
+      "h"
+    ],
+    [
+      0.240018,
+      " "
+    ],
+    [
+      0.367797,
+      "E"
+    ],
+    [
+      0.128320,
+      "n"
+    ],
+    [
+      0.207429,
+      "u"
+    ],
+    [
+      0.248278,
+      "m"
+    ],
+    [
+      0.512209,
+      "\r\n"
+    ],
+    [
+      0.053026,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.004450,
+      "\u001b[7m\u001b[33m                                      Enum                                      \u001b[0m\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.012698,
+      "Provides a set of algorithms that enumerate over enumerables according to the\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mEnumerable\u001b[0m protocol.\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[36m\u001b[1m┃ iex\u003e Enum.map([1, 2, 3], fn(x) -\u003e x * 2 end)\r\n┃ [2, 4, 6]\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000442,
+      "Some particular types, like dictionaries, yield a specific format on\r\n"
+    ],
+    [
+      0.000071,
+      "enumeration. For dicts, the argument is always a \u001b[36m{key, value}\u001b[0m tuple:\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[36m\u001b[1m┃ iex\u003e dict = %{a: 1, b: 2}\r\n┃ iex\u003e Enum.map(dict, fn {k, v} -\u003e {k, v * 2} end)\r\n┃ [a: 2, b: 4]\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000544,
+      "Note that the functions in the \u001b[36mEnum\u001b[0m module are eager: they always start the\r\n"
+    ],
+    [
+      0.000079,
+      "enumeration of the given enumerable. The \u001b[36mStream\u001b[0m module allows lazy enumeration\r\n"
+    ],
+    [
+      0.000080,
+      "of enumerables and provides infinite streams.\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000485,
+      "Since the majority of the functions in \u001b[36mEnum\u001b[0m enumerate the whole enumerable and\r\n"
+    ],
+    [
+      0.000078,
+      "return a list as result, infinite streams need to be carefully used with such\r\n"
+    ],
+    [
+      0.000108,
+      "functions, as they can potentially run forever. For example:\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[36m\u001b[1m┃ Enum.each Stream.cycle([1, 2, 3]), \u0026IO.puts(\u00261)\u001b[0m\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.003606,
+      "iex(2)\u003e "
+    ],
+    [
+      2.731394,
+      "i"
+    ],
+    [
+      0.224328,
+      " "
+    ],
+    [
+      0.351862,
+      "E"
+    ],
+    [
+      0.143763,
+      "n"
+    ],
+    [
+      0.208265,
+      "u"
+    ],
+    [
+      0.231846,
+      "m"
+    ],
+    [
+      0.296331,
+      "\r\n"
+    ],
+    [
+      0.012993,
+      "\u001b[33mTerm\u001b[0m\r\n\u001b[22m  Enum\u001b[0m\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[33mData type\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[22m  Atom\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[33mModule bytecode\u001b[0m\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[22m  /usr/local/Cellar/elixir/1.2.1/bin/../lib/elixir/ebin/Elixir.Enum.beam\u001b[0m\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[33mSource\u001b[0m\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[22m  /private/tmp/elixir20160114-36266-14ock67/elixir-1.2.1/lib/elixir/lib/enum.ex\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[33mVersion\u001b[0m\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[22m  [307473950447051182561456487100319206796]\u001b[0m\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[33mCompile time\u001b[0m\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[22m  2016-1-14 23:30:47\u001b[0m\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[33mCompile options\u001b[0m\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[22m  [:debug_info]\u001b[0m\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[33mDescription\u001b[0m\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[22m  Use h(Enum) to access its documentation.\r\n  Call Enum.module_info() to access metadata.\u001b[0m\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[33mRaw representation\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[22m  :\"Elixir.Enum\"\u001b[0m\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[33mReference modules\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[22m  Module, Atom\u001b[0m\r\n"
+    ],
+    [
+      0.000148,
+      "iex(3)\u003e "
+    ],
+    [
+      1.273084,
+      "i"
+    ],
+    [
+      0.999908,
+      " "
+    ],
+    [
+      0.584028,
+      "E"
+    ],
+    [
+      0.216253,
+      "n"
+    ],
+    [
+      0.199545,
+      "u"
+    ],
+    [
+      0.208320,
+      "m"
+    ],
+    [
+      1.071662,
+      "."
+    ],
+    [
+      0.183970,
+      "m"
+    ],
+    [
+      0.203159,
+      "\r\nmap/2           map_join/3      map_reduce/3    max/1           \r\nmax_by/2        member?/2       min/1           min_by/2        \r\nmin_max/1       min_max_by/2    \r\n"
+    ],
+    [
+      0.000042,
+      "iex(3)\u003e i Enum.m"
+    ],
+    [
+      1.620814,
+      "a"
+    ],
+    [
+      0.128059,
+      "p"
+    ],
+    [
+      0.983854,
+      "_"
+    ],
+    [
+      0.304122,
+      "j"
+    ],
+    [
+      0.367639,
+      "i"
+    ],
+    [
+      0.616167,
+      "\u0008 \u0008"
+    ],
+    [
+      0.583935,
+      "o"
+    ],
+    [
+      0.112701,
+      "i"
+    ],
+    [
+      0.319453,
+      "n"
+    ],
+    [
+      1.519899,
+      "\r\n"
+    ],
+    [
+      0.010303,
+      "\u001b[31m** (UndefinedFunctionError) undefined function Enum.map_join/0\u001b[0m\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[31m    \u001b[31m\u001b[1m(elixir) \u001b[0m\u001b[31mEnum.map_join()\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000196,
+      "iex(3)\u003e "
+    ],
+    [
+      2.541494,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008        \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000017,
+      "iex(3)\u003e i Enum.map_join"
+    ],
+    [
+      0.247748,
+      "\u0008"
+    ],
+    [
+      0.251130,
+      "\u0008"
+    ],
+    [
+      0.034530,
+      "\u0008"
+    ],
+    [
+      0.034249,
+      "\u0008"
+    ],
+    [
+      0.033981,
+      "\u0008"
+    ],
+    [
+      0.034650,
+      "\u0008"
+    ],
+    [
+      0.034255,
+      "\u0008"
+    ],
+    [
+      0.034356,
+      "\u0008"
+    ],
+    [
+      0.034440,
+      "\u0008"
+    ],
+    [
+      0.034319,
+      "\u0008"
+    ],
+    [
+      0.034588,
+      "\u0008"
+    ],
+    [
+      0.033888,
+      "\u0008"
+    ],
+    [
+      0.034647,
+      "\u0008"
+    ],
+    [
+      0.034292,
+      "\u0008"
+    ],
+    [
+      0.632717,
+      "\u0008 Enum.map_join \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.312172,
+      "h Enum.map_join\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.671853,
+      "\u001b[C"
+    ],
+    [
+      0.250555,
+      "\u001b[C"
+    ],
+    [
+      0.033409,
+      "\u001b[C"
+    ],
+    [
+      0.033989,
+      "\u001b[C"
+    ],
+    [
+      0.033564,
+      "\u001b[C"
+    ],
+    [
+      0.034671,
+      "\u001b[C"
+    ],
+    [
+      0.034434,
+      "\u001b[C"
+    ],
+    [
+      0.034419,
+      "\u001b[C"
+    ],
+    [
+      0.034102,
+      "\u001b[C"
+    ],
+    [
+      0.034565,
+      "\u001b[C"
+    ],
+    [
+      0.034476,
+      "\u001b[C"
+    ],
+    [
+      0.034604,
+      "\u001b[C"
+    ],
+    [
+      0.034165,
+      "\u001b[C"
+    ],
+    [
+      0.033896,
+      "\u001b[C"
+    ],
+    [
+      0.034294,
+      "\u0007"
+    ],
+    [
+      0.033334,
+      "\u0007"
+    ],
+    [
+      0.034324,
+      "\u0007"
+    ],
+    [
+      0.034347,
+      "\u0007"
+    ],
+    [
+      0.315386,
+      "\r\n"
+    ],
+    [
+      0.008075,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[7m\u001b[33m                 def map_join(enumerable, joiner \\\\ \"\", mapper)                 \u001b[0m\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000324,
+      "Maps and joins the given enumerable in one pass.\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000774,
+      "\u001b[36mjoiner\u001b[0m can be either a binary or a list and the result will be of the same type\r\n"
+    ],
+    [
+      0.000060,
+      "as \u001b[36mjoiner\u001b[0m. If \u001b[36mjoiner\u001b[0m is not passed at all, it defaults to an empty binary.\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000355,
+      "All items in the enumerable must be convertible to a binary, otherwise an error\r\n"
+    ],
+    [
+      0.000104,
+      "is raised.\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[33mExamples\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[36m\u001b[1m┃ iex\u003e Enum.map_join([1, 2, 3], \u0026(\u00261 * 2))\r\n┃ \"246\"\r\n┃ \r\n┃ iex\u003e Enum.map_join([1, 2, 3], \" = \", \u0026(\u00261 * 2))\r\n┃ \"2 = 4 = 6\"\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000189,
+      "iex(4)\u003e "
+    ],
+    [
+      4.204827,
+      "E"
+    ],
+    [
+      0.199914,
+      "n"
+    ],
+    [
+      0.207780,
+      "u"
+    ],
+    [
+      0.216108,
+      "m"
+    ],
+    [
+      0.240186,
+      "."
+    ],
+    [
+      0.271737,
+      "m"
+    ],
+    [
+      0.183919,
+      "o"
+    ],
+    [
+      0.136277,
+      "d"
+    ],
+    [
+      0.639972,
+      "u"
+    ],
+    [
+      0.095679,
+      "l"
+    ],
+    [
+      0.167535,
+      "e"
+    ],
+    [
+      0.609059,
+      "_"
+    ],
+    [
+      0.447579,
+      "i"
+    ],
+    [
+      0.087883,
+      "n"
+    ],
+    [
+      0.271914,
+      "f"
+    ],
+    [
+      0.120244,
+      "o"
+    ],
+    [
+      0.424308,
+      "\r\n"
+    ],
+    [
+      0.006580,
+      "\u001b[33m[module: Enum,\r\n exports: [__info__: 1, join: 2, filter: 2, sort: 1, chunk_by: 2, reduce: 2,\r\n  uniq: 2, join: 1, with_index: 2, to_list: 1, scan: 2, find: 3, concat: 2,\r\n  sum: 1, at: 2, zip: 2, max_by: 2, count: 1, sort: 2, empty?: 1, random: 1,\r\n  shuffle: 1, reduce_while: 3, uniq_by: 2, find: 2, map_join: 2, drop_while: 2,\r\n  group_by: 3, count: 2, min_max_by: 2, min: 1, fetch!: 2, min_max: 1,\r\n  min_by: 2, concat: 1, any?: 2, reverse_slice: 3, dedup_by: 2, at: 3, uniq: 1,\r\n  unzip: 1, group_by: 2, dedup: 1, sort_by: 3, into: 2, take_every: 2,\r\n  flat_map_reduce: 3, take: 2, ...],\r\n attributes: [vsn: [307473950447051182561456487100319206796]],\r\n compile: [options: [:debug_info], version: '6.0.2',\r\n  time: {2016, 1, 14, 23, 30, 47},\r\n  source: '/private/tmp/elixir20160114-36266-14ock67/elixir-1.2.1/lib/elixir/lib/enum.ex'],\r\n native: false,\r\n md5: \u003c\u003c231, 81, 84, 46, 26, 203, 19, 30, 155, 70, 69, 155, 37, 247, 13, 140\u003e\u003e]\u001b[0m\r\n"
+    ],
+    [
+      0.000133,
+      "iex(5)\u003e "
+    ],
+    [
+      5.001114,
+      "c"
+    ],
+    [
+      0.127727,
+      "l"
+    ],
+    [
+      0.175876,
+      "e"
+    ],
+    [
+      0.119996,
+      "a"
+    ],
+    [
+      0.144194,
+      "r"
+    ],
+    [
+      0.152252,
+      "\r\n"
+    ],
+    [
+      0.000360,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000334,
+      "iex(6)\u003e "
+    ],
+    [
+      0.914385,
+      "\r\r\nBR"
+    ],
+    [
+      0.000014,
+      "EAK: (a)bo"
+    ],
+    [
+      0.000010,
+      "rt (c"
+    ],
+    [
+      0.000008,
+      ")ont"
+    ],
+    [
+      0.000007,
+      "inu"
+    ],
+    [
+      0.000006,
+      "e "
+    ],
+    [
+      0.000007,
+      "(p)"
+    ],
+    [
+      0.000007,
+      "roc"
+    ],
+    [
+      0.000007,
+      " in"
+    ],
+    [
+      0.000007,
+      "fo "
+    ],
+    [
+      0.000006,
+      "(i"
+    ],
+    [
+      0.000007,
+      ")nf"
+    ],
+    [
+      0.000006,
+      "o ("
+    ],
+    [
+      0.000007,
+      "l)o"
+    ],
+    [
+      0.000007,
+      "ade"
+    ],
+    [
+      0.000008,
+      "d\r\r\n"
+    ],
+    [
+      0.000007,
+      "   "
+    ],
+    [
+      0.000007,
+      "   "
+    ],
+    [
+      0.000006,
+      " (v"
+    ],
+    [
+      0.000007,
+      ")er"
+    ],
+    [
+      0.000007,
+      "si"
+    ],
+    [
+      0.000008,
+      "on"
+    ],
+    [
+      0.000008,
+      " (k"
+    ],
+    [
+      0.000007,
+      ")il"
+    ],
+    [
+      0.000006,
+      "l ("
+    ],
+    [
+      0.000008,
+      "D)b"
+    ],
+    [
+      0.000008,
+      "-tab"
+    ],
+    [
+      0.000008,
+      "les"
+    ],
+    [
+      0.000006,
+      " (d"
+    ],
+    [
+      0.000006,
+      ")is"
+    ],
+    [
+      0.000007,
+      "tr"
+    ],
+    [
+      0.000008,
+      "ibu"
+    ],
+    [
+      0.000009,
+      "tion"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.876136,
+      "^C"
+    ],
+    [
+      0.004696,
+      "bash-3.2$ "
+    ],
+    [
+      7.971500,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "bash-3.2$ "
+    ],
+    [
+      0.591548,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "bash-3.2$ "
+    ],
+    [
+      42.855567,
+      "e"
+    ],
+    [
+      0.214938,
+      "x"
+    ],
+    [
+      0.143878,
+      "i"
+    ],
+    [
+      0.168001,
+      "t"
+    ],
+    [
+      0.216217,
+      "\r\n"
+    ],
+    [
+      0.000235,
+      "exit\r\n"
+    ]
+  ]
+}
