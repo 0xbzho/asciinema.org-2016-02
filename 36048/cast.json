@@ -1,0 +1,2950 @@
+{
+  "version": 1,
+  "width": 141,
+  "height": 41,
+  "duration": 37.312735,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.342267,
+      "\u001b]0;visteon@visteon-OptiPlex-790: ~/rengaraj/Coma\u0007visteon@visteon-OptiPlex-790:~/rengaraj/Coma$ "
+    ],
+    [
+      0.633749,
+      "ls"
+    ],
+    [
+      0.336340,
+      "\u0008\u0008./buildSimpleCalculatorWT"
+    ],
+    [
+      2.447993,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008ls\u001b[K"
+    ],
+    [
+      0.912138,
+      "\u0008\u0008./buildSimpleCalculatorWT"
+    ],
+    [
+      0.499940,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008ls\u001b[K"
+    ],
+    [
+      0.029443,
+      "\u0008\u0008\u001b[K"
+    ],
+    [
+      0.031789,
+      "\u0007"
+    ],
+    [
+      0.027864,
+      "\u0007"
+    ],
+    [
+      0.030521,
+      "\u0007"
+    ],
+    [
+      0.029733,
+      "\u0007"
+    ],
+    [
+      0.029999,
+      "\u0007"
+    ],
+    [
+      0.030410,
+      "\u0007"
+    ],
+    [
+      0.030304,
+      "\u0007"
+    ],
+    [
+      0.030222,
+      "\u0007"
+    ],
+    [
+      0.030446,
+      "\u0007"
+    ],
+    [
+      0.030043,
+      "\u0007"
+    ],
+    [
+      1.056807,
+      "s"
+    ],
+    [
+      0.159835,
+      "u"
+    ],
+    [
+      0.127710,
+      "d"
+    ],
+    [
+      0.128321,
+      "o"
+    ],
+    [
+      0.464211,
+      " "
+    ],
+    [
+      0.559682,
+      "."
+    ],
+    [
+      0.191969,
+      "/"
+    ],
+    [
+      0.623849,
+      "b"
+    ],
+    [
+      0.223817,
+      "u"
+    ],
+    [
+      0.176242,
+      "i"
+    ],
+    [
+      0.162096,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "ld"
+    ],
+    [
+      0.436313,
+      "\u0007"
+    ],
+    [
+      0.480256,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "buildAll                 buildSimpleCalculator    buildSimpleCalculatorWT  buildTimerFSMExample     \r\n"
+    ],
+    [
+      0.000034,
+      "buildInfrastructure      buildSimpleCalculatorJQ  buildTimerExample        \r\n"
+    ],
+    [
+      0.000058,
+      "\u001b]0;visteon@visteon-OptiPlex-790: ~/rengaraj/Coma\u0007visteon@visteon-OptiPlex-790:~/rengaraj/Coma$ sudo ./build"
+    ],
+    [
+      1.241538,
+      "S"
+    ],
+    [
+      0.278945,
+      "\u0007impleCalculator"
+    ],
+    [
+      0.537559,
+      "\r\n"
+    ],
+    [
+      0.005203,
+      "[sudo] password for visteon: "
+    ],
+    [
+      2.276571,
+      "\r\n"
+    ],
+    [
+      0.086577,
+      "Bunny: \r\n"
+    ],
+    [
+      0.000007,
+      "Bunny: ------------------------------------------------------------------------------\r\nBunny:   Bunny 2.6.4, running from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny\"\r\n"
+    ],
+    [
+      0.000002,
+      "Bunny:   Using logfile: /home/visteon/rengaraj/Coma/Bunny.log\r\n"
+    ],
+    [
+      0.000013,
+      "Bunny:   Variant requested: X86Lin.Dbg"
+    ],
+    [
+      0.000003,
+      "\r\nBunny:   Starting at 17:34:11 / 2016-02-10\r\n"
+    ],
+    [
+      0.000041,
+      "Bunny: ------------------------------------------------------------------------------\r\nBunny: \r\n"
+    ],
+    [
+      0.056187,
+      "Bunny: Loading workspace settings from \"/home/visteon/rengaraj/Coma/WorkspaceSettings.set\" ...\r\n"
+    ],
+    [
+      0.000318,
+      "Bunny: Loading user settings from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny/UserSettings.set\" ...\r\n"
+    ],
+    [
+      0.000293,
+      "Bunny: using SOURCE_SPACE  = /home/visteon/rengaraj/Coma/SourceSpace\r\nBunny: using INTER_SPACE   = /home/visteon/rengaraj/Coma/InterSpace\r\nBunny: using PRODUCT_SPACE = /home/visteon/rengaraj/Coma/ProductSpace\r\n"
+    ],
+    [
+      0.000004,
+      "Bunny: using DELI_SPACE    = /home/visteon/rengaraj/Coma/DeliSpace\r\n"
+    ],
+    [
+      0.000252,
+      "Bunny: Loading project settings from \"/home/visteon/rengaraj/Coma/SourceSpace/ProjectSettings.set\" ...\r\n"
+    ],
+    [
+      0.000459,
+      "Bunny: Searching for bunions in sourceSpace (\"/home/visteon/rengaraj/Coma/SourceSpace\")\r\n"
+    ],
+    [
+      0.050898,
+      "Bunny: Searching for bunions in deliSpace (\"/home/visteon/rengaraj/Coma/DeliSpace/X86Lin.Dbg\")\r\n"
+    ],
+    [
+      0.006207,
+      "Bunny: \r\nBunny: Buns requested to build:\r\n"
+    ],
+    [
+      0.000007,
+      "Bunny:   SimpleCalculator.RootProcess\r\nBunny: \r\nBunny: Buns in this build (including dependencies):\r\n"
+    ],
+    [
+      0.000014,
+      "Bunny:   SimpleCalculator.RootProcess\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   SimpleCalculator.CalculatorClient"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Bunny:   SimpleCalculator.Globals\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny:   Infrastructure.ComaOnOff\r\n"
+    ],
+    [
+      0.000016,
+      "Bunny:   SimpleCalculator.CalculatorInterface\r\n"
+    ],
+    [
+      0.000002,
+      "Bunny:   Infrastructure.Coma\r\n"
+    ],
+    [
+      0.000043,
+      "Bunny:   Infrastructure.ComaHelpers\r\nBunny:   External.dbus\r\nBunny:   External.dbus-c++\r\nBunny:   Infrastructure.DebugHi"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Bunny:   Infrastructure.EarlyOnOff"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Bunny:   Infrastructure.Bali\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   Infrastructure.Debug\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny:   Infrastructure.Osal"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny:   Starter.StarterConnect"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   Starter.WatchdogProtocol"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny:   Infrastructure.Atoms"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   Starter.StarterAPI"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "Bunny: \r\n"
+    ],
+    [
+      0.000002,
+      "Bunny: ------------------------------------\r\n"
+    ],
+    [
+      0.000001,
+      "Bunny:   Performing incremental build ..."
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny: ------------------------------------"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Bunny: "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.009277,
+      "Bunny: \r\nBunny: ------------------------------------\r\nBunny:   Processing COMA dependencies ...\r\nBunny: ------------------------------------\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny: \r\n"
+    ],
+    [
+      0.008735,
+      "Bunny: Running backend (processing COMA dependencies)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "Bunny: PARALLEL_JOBS = 8\r\n"
+    ],
+    [
+      1.292475,
+      "Bunny: Running backend (\"build\") ...\r\n"
+    ],
+    [
+      0.000167,
+      "Bunny: PARALLEL_JOBS = 8\r\n"
+    ],
+    [
+      1.698384,
+      "Bunny: Building shared library: /home/visteon/rengaraj/Coma/ProductSpace/X86Lin.Dbg/Infrastructure/ComaOnOff/bin/libComaOnOff.so\r\n"
+    ],
+    [
+      0.182578,
+      "Bunny: Building target: /home/visteon/rengaraj/Coma/ProductSpace/X86Lin.Dbg/SimpleCalculator/RootProcess/bin/RootProcess"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.325383,
+      "Bunny: \r\nBunny: ------------------------------------------------------------------------------\r\nBunny:   Bunny 2.6.4, running from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny\"\r\nBunny:   Finished at 17:34:15 / 2016-02-10\r\n"
+    ],
+    [
+      0.000007,
+      "Bunny:   Used logfile: /home/visteon/rengaraj/Coma/Bunny.log\r\nBunny:   Variant requested was: X86Lin.Dbg\r\nBunny:   Bunny succeeded!\r\nBunny:   \r\nBunny:   "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Bunny:     @@@@@     @@     @@    @@ \r\n"
+    ],
+    [
+      0.000003,
+      "Bunny:   @@     @@   @@   @@     @@@@\r\n"
+    ],
+    [
+      0.000030,
+      "Bunny:   @@     @@   @@ @@       @@@@\r\nBunny:   @@     @@   @@@          @@ \r\nBunny:   @@     @@   @@ @@        @@ \r\nBunny:   @@     @@   @@   @@         \r\n"
+    ],
+    [
+      0.000004,
+      "Bunny:     @@@@@     @@     @@    @@ \r\n"
+    ],
+    [
+      0.000002,
+      "Bunny:   \r\n"
+    ],
+    [
+      0.000010,
+      "Bunny: ------------------------------------------------------------------------------"
+    ],
+    [
+      0.000028,
+      "\r\nBunny: \r\n"
+    ],
+    [
+      0.121736,
+      "Bunny: \r\nBunny: ------------------------------------------------------------------------------\r\nBunny:   Bunny 2.6.4, running from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny\"\r\n"
+    ],
+    [
+      0.000007,
+      "Bunny:   Using logfile: /home/visteon/rengaraj/Coma/Bunny.log\r\nBunny:   Variant requested: X86Lin.Dbg\r\nBunny:   Starting at 17:34:15 / 2016-02-10\r\nBunny: ------------------------------------------------------------------------------\r\nBunny: \r\n"
+    ],
+    [
+      0.045275,
+      "Bunny: Loading workspace settings from \"/home/visteon/rengaraj/Coma/WorkspaceSettings.set\" ..."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000311,
+      "Bunny: Loading user settings from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny/UserSettings.set\" ..."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "Bunny: using SOURCE_SPACE  = /home/visteon/rengaraj/Coma/SourceSpace"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny: using INTER_SPACE   = /home/visteon/rengaraj/Coma/InterSpace"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny: using PRODUCT_SPACE = /home/visteon/rengaraj/Coma/ProductSpace"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny: using DELI_SPACE    = /home/visteon/rengaraj/Coma/DeliSpace"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "Bunny: Loading project settings from \"/home/visteon/rengaraj/Coma/SourceSpace/ProjectSettings.set\" ..."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000415,
+      "Bunny: Searching for bunions in sourceSpace (\"/home/visteon/rengaraj/Coma/SourceSpace\")"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.048238,
+      "Bunny: Searching for bunions in deliSpace (\"/home/visteon/rengaraj/Coma/DeliSpace/X86Lin.Dbg\")\r\n"
+    ],
+    [
+      0.005851,
+      "Bunny: \r\nBunny: Buns requested to build:\r\nBunny:   SimpleCalculator.CalculatorProcess"
+    ],
+    [
+      0.000004,
+      "\r\nBunny: \r\nBunny: Buns in this build (including dependencies):\r\n"
+    ],
+    [
+      0.000031,
+      "Bunny:   SimpleCalculator.CalculatorProcess\r\n"
+    ],
+    [
+      0.000013,
+      "Bunny:   SimpleCalculator.Globals\r\n"
+    ],
+    [
+      0.000003,
+      "Bunny:   SimpleCalculator.MyCalculator"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "Bunny:   Infrastructure.ComaOnOff\r\nBunny:   SimpleCalculator.CalculatorInterface\r\n"
+    ],
+    [
+      0.000003,
+      "Bunny:   Infrastructure.Coma\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   Infrastructure.ComaHelpers"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Bunny:   External.dbus"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Bunny:   External.dbus-c++"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "Bunny:   Infrastructure.DebugHi"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Bunny:   Infrastructure.EarlyOnOff"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny:   Infrastructure.Bali"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "Bunny:   Infrastructure.Debug\r\nBunny:   Infrastructure.Osal\r\n"
+    ],
+    [
+      0.000003,
+      "Bunny:   Starter.StarterConnect\r\n"
+    ],
+    [
+      0.000017,
+      "Bunny:   Starter.WatchdogProtocol\r\n"
+    ],
+    [
+      0.000003,
+      "Bunny:   Infrastructure.Atoms\r\n"
+    ],
+    [
+      0.000029,
+      "Bunny:   Starter.StarterAPI\r\n"
+    ],
+    [
+      0.000044,
+      "Bunny: \r\nBunny: ------------------------------------\r\n"
+    ],
+    [
+      0.000002,
+      "Bunny:   Performing incremental build ...\r\n"
+    ],
+    [
+      0.000009,
+      "Bunny: ------------------------------------\r\n"
+    ],
+    [
+      0.000002,
+      "Bunny: "
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.008971,
+      "Bunny: \r\nBunny: ------------------------------------\r\nBunny:   Processing COMA dependencies ...\r\n"
+    ],
+    [
+      0.000006,
+      "Bunny: ------------------------------------\r\nBunny: \r\n"
+    ],
+    [
+      0.008707,
+      "Bunny: Running backend (processing COMA dependencies)\r\n"
+    ],
+    [
+      0.000055,
+      "Bunny: PARALLEL_JOBS = 8\r\n"
+    ],
+    [
+      1.304193,
+      "Bunny: Running backend (\"build\") ...\r\n"
+    ],
+    [
+      0.000197,
+      "Bunny: PARALLEL_JOBS = 8\r\n"
+    ],
+    [
+      1.715752,
+      "Bunny: Building shared library: /home/visteon/rengaraj/Coma/ProductSpace/X86Lin.Dbg/Infrastructure/Coma/bin/libComa.so\r\n"
+    ],
+    [
+      0.321478,
+      "Bunny: Building shared library: /home/visteon/rengaraj/Coma/ProductSpace/X86Lin.Dbg/Infrastructure/ComaOnOff/bin/libComaOnOff.so"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.178510,
+      "Bunny: Building target: /home/visteon/rengaraj/Coma/ProductSpace/X86Lin.Dbg/SimpleCalculator/CalculatorProcess/bin/CalculatorProcess\r\n"
+    ],
+    [
+      0.300755,
+      "Bunny: \r\nBunny: ------------------------------------------------------------------------------\r\nBunny:   Bunny 2.6.4, running from \"/home/visteon/rengaraj/Coma/Tools/Bunny/Bunny/Bunny\"\r\nBunny:   Finished at 17:34:19 / 2016-02-10\r\nBunny:   Used logfile: /home/visteon/rengaraj/Coma/Bunny.log\r\nBunny:   Variant requested was: X86Lin.Dbg\r\nBunny:   Bunny succeeded!\r\nBunny:   \r\nBunny:   \r\nBunny:     @@@@@     @@     @@    @@ \r\nBunny:   @@     @@   @@   @@     @@@@\r\nBunny:   @@     @@   @@ @@       @@@@\r\nBunny:   @@     @@   @@@          @@ \r\nBunny:   @@     @@   @@ @@        @@ \r\nBunny:   @@     @@   @@   @@         \r\nBunny:     @@@@@     @@     @@    @@ \r\nBunny:   \r\nBunny: ------------------------------------------------------------------------------\r\nBunny: \r\n"
+    ],
+    [
+      0.036454,
+      "\u001b]0;visteon@visteon-OptiPlex-790: ~/rengaraj/Coma\u0007visteon@visteon-OptiPlex-790:~/rengaraj/Coma$ "
+    ],
+    [
+      2.028900,
+      "."
+    ],
+    [
+      0.224241,
+      "/"
+    ],
+    [
+      0.720100,
+      "r"
+    ],
+    [
+      0.175745,
+      "u"
+    ],
+    [
+      0.192040,
+      "n"
+    ],
+    [
+      0.144151,
+      "SimpleCalculator "
+    ],
+    [
+      0.832374,
+      "\r\n"
+    ],
+    [
+      0.016766,
+      "Tracy v3.7.1_master, (C) 2015 Visteon.\r\n"
+    ],
+    [
+      0.000106,
+      "TraceServer: node ID= 0\r\nTraceServer: scope-file= \"/jci/trace/default.sco\"\r\nTraceServer: ring-file= \"/tmp/ringbuffer\" (max size= 33554432)\r\nTraceServer: output-file disabled\r\nTraceServer: tcp-port= 4461\r\n"
+    ],
+    [
+      0.011255,
+      "ScopeSettings: Scope settings file /jci/trace/default.sco does not exist. Ignored.\r\n"
+    ],
+    [
+      0.000310,
+      "Entering TraceReader main loop.\r\n"
+    ],
+    [
+      0.992503,
+      "Processing command line options ...\r\n"
+    ],
+    [
+      0.000142,
+      "OnOff: Starting early processes...\r\n"
+    ],
+    [
+      0.000184,
+      "OnOff: Spawned CrashDaemon (PID 8644)\r\n"
+    ],
+    [
+      0.002478,
+      "CrashDaemon v3.7.1_master, (C) 2015 Visteon."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "OnOff: Got CrashDaemon =\u003e 0\r\nOnOff: Starting normal processes...\r\n"
+    ],
+    [
+      0.000779,
+      "OnOff: Spawned CalculatorProcess (PID 8645)\r\n"
+    ],
+    [
+      0.003842,
+      "Processing command line options ..."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002843,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ./RootProcess (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000006,
+      "\r\n31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase::baseRun() start (system: 0.000),(user: 0.004)\r\n"
+    ],
+    [
+      0.000014,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.Watchdog}  Connection to master watchdog established. Sending heartbeats every 0ms"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.631  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.Watchdog}  Contact to system master: no. Update interval: 0ms"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# OnOffConfiguration: doEarlyOnOff (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# OnOffConfiguration: All early child processes spawned. (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.OnOffConfiguration}  RootProcess: (AppRoot) Starting child processes..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.631  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# OnOffConfiguration: doAppOnOff (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# CalculatorProcess (system: 0.000),(user: 0.000)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase::baseRun() start (system: 0.000),(user: 0.000)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.Watchdog}  Connection to master watchdog established. Sending heartbeats every 0ms"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.Watchdog}  Contact to system master: no. Update interval: 0ms"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: option parsing done (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Executing pre COMA init hook of SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Executing pre COMA init hook of InfrastructureCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: pre-COMA init hooks done (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.Transport.ConnectionTypeRegistry}  Registered connection factory for type \"N3JCI28IntraProcessConnectionParamsE\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.Transport.ConnectionTypeRegistry}  Registered connection factory for type \"N3JCI20DBusConnectionParamsE\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Initializing components ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.635  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: components initialized (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.635  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Initializing transport ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.009713,
+      "OnOff: Got CalculatorProcess =\u003e 0\r\n"
+    ],
+    [
+      1.006854,
+      "31:07:01.640  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: transport initialized (system: 0.000),(user: 0.004)\r\n31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Executing pre start hook of SimpleCalculatorCustomizer\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Executing pre start hook of InfrastructureCustomizer\r\n31:07:01.640  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: pre-COMA start hook done (system: 0.000),(user: 0.004)\r\n31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Starting transporter ...\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.640  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: transport started (system: 0.000),(user: 0.004)\r\n"
+    ],
+    [
+      0.000058,
+      "31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Starting components ...\r\n31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {global}  msc global comment: \"global phase info: start components\"\r\n31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessConfiguration}  SD file hash is 'a44071d29b7bf6965241717b6579a543'\r\n31:07:01.640  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ComponentWrapper}  start of component ProcessBroker_MyNode_CalculatorProcess @ N0 AP0 PR1 CC0 CI0 RI0"
+    ],
+    [
+      0.000007,
+      "\r\n31:07:01.640  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBroker: internalStartComponent (system: 0.000),(user: 0.004)\r\n"
+    ],
+    [
+      0.000026,
+      "31:07:01.641  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ComponentWrapper}  start of component MyCalculatorInstance @ N0 AP0 PR1 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000006,
+      "31:07:01.641  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# MyCalculatorWrapper: internalStartComponent (system: 0.000),(user: 0.004)\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.641  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# MyCalculatorWrapper: component created (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.641  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.Watchdog}  Thread 8649 registered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "31:07:01.647  DEBUG  (N:0,P: 8645,T: 8645)  {global}  msc global comment: \"global phase info: establish on/off connections\"\r\n"
+    ],
+    [
+      0.000005,
+      "31:07:01.647  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: onTransportReady (system: 0.004),(user: 0.008)\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.647  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.Watchdog}  Thread 8650 registered"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.647  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  signal ready returned from starter with failure\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.647  DEBUG  (N:0,P: 8645,T: 8645)  {Infrastructure.Coma.ProcessBase.main}  Executing main loops ..."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.647  INFO   (N:0,P: 8645,T: 8645)  {Infrastructure.Profiling}  #MARK# ProcessBase: entering main loop (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.648  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# OnOffConfiguration: All app child processes spawned. (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.648  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.OnOffConfiguration}  RootProcess: (AppRoot) Child processes up."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.648  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: option parsing done (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing pre COMA init hook of SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing pre COMA init hook of InfrastructureCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.648  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: pre-COMA init hooks done (system: 0.000),(user: 0.004)\r\n"
+    ],
+    [
+      0.000032,
+      "31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.Transport.ConnectionTypeRegistry}  Registered connection factory for type \"N3JCI28IntraProcessConnectionParamsE\"\r\n31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.Transport.ConnectionTypeRegistry}  Registered connection factory for type \"N3JCI20DBusConnectionParamsE\"\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Initializing components ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.648  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: components initialized (system: 0.000),(user: 0.004)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.648  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Initializing transport ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "31:07:01.651  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: transport initialized (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing pre start hook of SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing pre start hook of InfrastructureCustomizer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: pre-COMA start hook done (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Starting transporter ..."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: transport started (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Starting components ..."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {global}  msc global comment: \"global phase info: start components\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessConfiguration}  SD file hash is 'a44071d29b7bf6965241717b6579a543'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  start of component ProcessBroker_MyNode_RootProcess @ N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.651  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBroker: internalStartComponent (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.653  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  start of component CalculatorClientInstance @ N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.653  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# CalculatorClientWrapper: internalStartComponent (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.653  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# CalculatorClientWrapper: component created (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.653  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.Watchdog}  Thread 8653 registered"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.655  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  start of component MyNodeNodeOnOff @ N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.655  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# NodeOnOffWrapper: internalStartComponent (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.655  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# NodeOnOffWrapper: component created (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "31:07:01.655  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  start of component MyNodeRootProcessAppOnOff @ N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.655  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# AppOnOffWrapper: internalStartComponent (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.655  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.Watchdog}  Thread 8654 registered"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "31:07:01.655  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# AppOnOffWrapper: component created (system: 0.000),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {global}  msc global comment: \"global phase info: establish on/off connections\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessConfiguration}  N0 AP0 PR0 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI0 RI0 in OnOff"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessConfiguration}  N0 AP0 PR0 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.Watchdog}  Thread 8655 registered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessConfiguration}  N0 AP0 PR0 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR0 CC2 CI1 RI0\r\n31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff\r\n"
+    ],
+    [
+      0.000004,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessConfiguration}  N0 AP0 PR0 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.656  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: onTransportReady (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {global}  msc global comment: \"global phase info: start of on/off notifications with trigger to nodeOnOff\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 sending ComponentTrigger::FID_PERFORMACTION_REQ to N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message ComponentTrigger::FID_PERFORMACTION_REQ from N0 AP0 PR0 CC2 CI0 RI0 to N0 AP0 PR0 CC2 CI0 RI0 in OnOff"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.656  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR0 CC2 CI0 RI0 is in state srv_conn_Infrastructure.ComaOnOff.AppOnOff#0_to_N0_AP0_PR0_CC2_CI1_RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff::appOnOffServerConnected (roleID 0, component name Infrastructure.ComaOnOff.AppOnOff:MyNodeRootProcessAppOnOff)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI0 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR0 CC2 CI1 RI0 is in state cli_conn_Infrastructure.ComaOnOff.AppOnOff#0_to_N0_AP0_PR0_CC2_CI0_RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff::appOnOffClientConnected"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR0 CC2 CI1 RI0 is in state srv_conn_Infrastructure.ComaOnOff.CompOnOff#0_to_N0_AP0_PR1_CC0_CI0_RI0\r\n31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message\r\n31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0\r\n31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff::compOnOffServerConnected (roleID 0, component name Infrastructure.ComaOnOff.ProcessBroker:ProcessBroker_MyNode_CalculatorProcess) -\u003e ProcessBroker added\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR0 CC2 CI1 RI0 is in state srv_conn_Infrastructure.ComaOnOff.CompOnOff#0_to_N0_AP0_PR0_CC0_CI0_RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff::compOnOffServerConnected (roleID 1, component name Infrastructure.ComaOnOff.ProcessBroker:ProcessBroker_MyNode_RootProcess) -\u003e ProcessBroker added"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 received ComponentTrigger::FID_PERFORMACTION_REQ from N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.NodeOnOff}  Received Infrastructure::IComponentTrigger::FID_PERFORMACTION_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.Profiling}  #MARK# NodeOnOff: started (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff took over control."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff starting phase 1 of 2."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.NodeOnOff}  Sending Infrastructure::IAppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 sending AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_REQ to N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_REQ from N0 AP0 PR0 CC2 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: Initializing application with roleID 0 (requestID 1)."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_REQ from N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Received Infrastructure::IAppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.Profiling}  #MARK# AppOnOff: start (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Sending Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending CompOnOff::FID_ONOFFCOMPTASK_REQ to N0 AP0 PR1 CC0 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: Initializing component with roleID 0 (requestID 1)."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Sending Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending CompOnOff::FID_ONOFFCOMPTASK_REQ to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message CompOnOff::FID_ONOFFCOMPTASK_REQ from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: Initializing component with roleID 1 (requestID 2)."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  Deferring request"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received CompOnOff::FID_ONOFFCOMPTASK_REQ from N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8653)  {Infrastructure.Profiling}  #MARK# ProcessBroker: CompOnOff received (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_REQ\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  Deferring request\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message CompOnOff::FID_ONOFFCOMPTASK_REQ from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR1 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC0 CI0 RI0 received CompOnOff::FID_ONOFFCOMPTASK_REQ from N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  INFO   (N:0,P: 8645,T: 8649)  {Infrastructure.Profiling}  #MARK# ProcessBroker: CompOnOff received (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "31:07:01.657  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  Deferring request\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR0 CC1 CI0 RI0 is in state srv_conn_SimpleCalculator.CalculatorInterface.Calculator#0_to_N0_AP0_PR1_CC1_CI0_RI0\r\n"
+    ],
+    [
+      0.000015,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Sending SimpleCalculator::ICalculator::FID_ATTACH_TO_ATTR_REQ\r\n"
+    ],
+    [
+      0.000013,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending Calculator::FID_ATTACH_TO_ATTR_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR0 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  Restoring request"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.657  INFO   (N:0,P: 8641,T: 8653)  {Infrastructure.Profiling}  #MARK# ProcessBroker: done (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  ProcessBroker: Components initialized."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.ComaOnOff.ProcessBroker}  Sending Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_RESP"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.657  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC0 CI0 RI0 sending CompOnOff::FID_ONOFFCOMPTASK_RESP to N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  queuing message CompOnOff::FID_ONOFFCOMPTASK_RESP from N0 AP0 PR0 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received CompOnOff::FID_ONOFFCOMPTASK_RESP from N0 AP0 PR0 CC0 CI0 RI0\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC0 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR1 CC0 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Received Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: Component with roleID 1 initialized (responseID 2).\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ATTACH_TO_ATTR_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_REQ from N0 AP0 PR1 CC0 CI0 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  component N0 AP0 PR1 CC1 CI0 RI0 is in state cli_conn_SimpleCalculator.CalculatorInterface.Calculator#0_to_N0_AP0_PR0_CC1_CI0_RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending InternalConnect::FID_CONNECTSTATUSCHANGE_RESP to N0 AP0 PR1 CC0 CI0 RI0\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  queuing message InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR1 CC0 CI0 RI0 in __BrokerContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Processing message\r\n"
+    ],
+    [
+      0.000004,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message\r\n"
+    ],
+    [
+      0.000026,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC0 CI0 RI0 received InternalConnect::FID_CONNECTSTATUSCHANGE_RESP from N0 AP0 PR1 CC1 CI0 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received Calculator::FID_ATTACH_TO_ATTR_REQ from N0 AP0 PR0 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000015,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.ComaOnOff.ProcessBroker}  Received Infrastructure::IInternalConnect::FID_CONNECTSTATUSCHANGE_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  ReceivedSimpleCalculator::ICalculator::FID_ATTACH_TO_ATTR_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  Restoring request\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Sending SimpleCalculator::ICalculator::FID_ATTR_MEMORYVALUE_CHANGED\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending Calculator::FID_ATTR_MEMORYVALUE_CHANGED to N0 AP0 PR0 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000006,
+      "31:07:01.658  INFO   (N:0,P: 8645,T: 8649)  {Infrastructure.Profiling}  #MARK# ProcessBroker: done (system: 0.004),(user: 0.008)\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.ComaOnOff.ProcessBroker}  ProcessBroker: Components initialized."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.ComaOnOff.ProcessBroker}  Sending Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_RESP\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC0 CI0 RI0 sending CompOnOff::FID_ONOFFCOMPTASK_RESP to N0 AP0 PR0 CC2 CI1 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.658  DEBUG  (N:0,P: 8645,T: 8649)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ATTR_MEMORYVALUE_CHANGED from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received Calculator::FID_ATTR_MEMORYVALUE_CHANGED from N0 AP0 PR1 CC1 CI0 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received SimpleCalculator::ICalculator::FID_ATTR_MEMORYVALUE_CHANGED\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  The memory value is 0.\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message CompOnOff::FID_ONOFFCOMPTASK_RESP from N0 AP0 PR1 CC0 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received CompOnOff::FID_ONOFFCOMPTASK_RESP from N0 AP0 PR1 CC0 CI0 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Received Infrastructure::ICompOnOff::FID_ONOFFCOMPTASK_RESP\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: Component with roleID 0 initialized (responseID 1).\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: All components INITIALIZED."
+    ],
+    [
+      0.000006,
+      "\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  Restoring request\r\n"
+    ],
+    [
+      0.000013,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Sending Infrastructure::IAppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_RESP to N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_RESP from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC2 CI0 RI0 in OnOff\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 received AppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_RESP from N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.NodeOnOff}  Received Infrastructure::IAppOnOff::FID_ONOFFAPPTASKPROCESSBROKERS_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: Application with roleID 0 initialized (responseID 1)."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: All applications INITIALIZED."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff starting phase 2 of 2."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.NodeOnOff}  Sending Infrastructure::IAppOnOff::FID_ONOFFAPPTASK_REQ\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 sending AppOnOff::FID_ONOFFAPPTASK_REQ to N0 AP0 PR0 CC2 CI1 RI0\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message AppOnOff::FID_ONOFFAPPTASK_REQ from N0 AP0 PR0 CC2 CI0 RI0 to N0 AP0 PR0 CC2 CI1 RI0 in OnOff\r\n"
+    ],
+    [
+      0.000006,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: Initializing application with roleID 0 (requestID 2).\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message\r\n"
+    ],
+    [
+      0.000015,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 received AppOnOff::FID_ONOFFAPPTASK_REQ from N0 AP0 PR0 CC2 CI0 RI0\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Received Infrastructure::IAppOnOff::FID_ONOFFAPPTASK_REQ\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.Profiling}  #MARK# AppOnOff: start (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.Profiling}  #MARK# AppOnOff: done (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.AppOnOff.MyNodeRootProcessAppOnOff}  AppOnOff: Application initialized."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.AppOnOff}  Sending Infrastructure::IAppOnOff::FID_ONOFFAPPTASK_RESP"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI1 RI0 sending AppOnOff::FID_ONOFFAPPTASK_RESP to N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  queuing message AppOnOff::FID_ONOFFAPPTASK_RESP from N0 AP0 PR0 CC2 CI1 RI0 to N0 AP0 PR0 CC2 CI0 RI0 in OnOff"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC2 CI0 RI0 received AppOnOff::FID_ONOFFAPPTASK_RESP from N0 AP0 PR0 CC2 CI1 RI0\r\n"
+    ],
+    [
+      0.000005,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.ComaOnOff.NodeOnOff}  Received Infrastructure::IAppOnOff::FID_ONOFFAPPTASK_RESP\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: Application with roleID 0 initialized (responseID 2).\r\n"
+    ],
+    [
+      0.000021,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff: All applications INITIALIZED."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.NodeOnOff.MyNodeNodeOnOff}  NodeOnOff done."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8655)  {Infrastructure.Profiling}  #MARK# NodeOnOff: done (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {global}  msc global comment: \"global phase info: done with on/off notifications\""
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  signal ready returned from starter with failure"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing main loops ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  SimpleCalculatorCustomizer SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing main loop SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  INFO   (N:0,P: 8641,T: 8641)  {Infrastructure.Profiling}  #MARK# ProcessBase: entering main loop (system: 0.004),(user: 0.008)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending ComponentTrigger::FID_PERFORMACTION_REQ to N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentContainer}  queuing message ComponentTrigger::FID_PERFORMACTION_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received ComponentTrigger::FID_PERFORMACTION_REQ from N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received Infrastructure::IComponentTrigger::FID_PERFORMACTION_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Sending SimpleCalculator::ICalculator::FID_GET_ATTR_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending Calculator::FID_SET_ATTR_MEMORYVALUE_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message\r\n31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  performReq() called."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Sending SimpleCalculator::ICalculator::FID_ADD_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending Calculator::FID_ADD_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Sending SimpleCalculator::ICalculator::FID_ADD_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending Calculator::FID_ADD_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Sending SimpleCalculator::ICalculator::FID_ADD_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 sending Calculator::FID_ADD_REQ to N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.658  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_SET_ATTR_MEMORYVALUE_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received Calculator::FID_SET_ATTR_MEMORYVALUE_REQ from N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Received SimpleCalculator::ICalculator::FID_SET_ATTR_MEMORYVALUE_REQ"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Sending SimpleCalculator::ICalculator::FID_ATTR_MEMORYVALUE_CHANGED"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending Calculator::FID_ATTR_MEMORYVALUE_CHANGED to N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Received SimpleCalculator::ICalculator::FID_ADD_REQ\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Sending SimpleCalculator::ICalculator::FID_ADD_RESP\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending Calculator::FID_ADD_RESP to N0 AP0 PR0 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000003,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer"
+    ],
+    [
+      0.000048,
+      "\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Received SimpleCalculator::ICalculator::FID_ADD_REQ"
+    ],
+    [
+      0.000006,
+      "\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Sending SimpleCalculator::ICalculator::FID_ADD_RESP\r\n"
+    ],
+    [
+      0.000025,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending Calculator::FID_ADD_RESP to N0 AP0 PR0 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000004,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8647)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0 to N0 AP0 PR1 CC1 CI0 RI0 in CalculatorContainer\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentContainer}  CalculatorContainer: Processing message\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 received Calculator::FID_ADD_REQ from N0 AP0 PR0 CC1 CI0 RI0\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Received SimpleCalculator::ICalculator::FID_ADD_REQ\r\n31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {SimpleCalculator.MyCalculator.MyCalculator}  Sending SimpleCalculator::ICalculator::FID_ADD_RESP"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR1 CC1 CI0 RI0 sending Calculator::FID_ADD_RESP to N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "31:07:01.659  DEBUG  (N:0,P: 8645,T: 8650)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver}  QueingMessageSender::send, CIA.COMA.SimpleCalculator.MyNode.RootApp.RootProcess.CalculatorClientReceiver: queing forwarded message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ATTR_MEMORYVALUE_CHANGED from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received Calculator::FID_ATTR_MEMORYVALUE_CHANGED from N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer\r\n"
+    ],
+    [
+      0.000025,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received SimpleCalculator::ICalculator::FID_ATTR_MEMORYVALUE_CHANGED\r\n31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  The memory value is 1111."
+    ],
+    [
+      0.000008,
+      "\r\n31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received SimpleCalculator::ICalculator::FID_ADD_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  The sum is 42.\r\n31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  Found ID 1.\r\n31:07:01.659  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer\r\n"
+    ],
+    [
+      0.000006,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message\r\n31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received SimpleCalculator::ICalculator::FID_ADD_RESP\r\n"
+    ],
+    [
+      0.000008,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  The sum is 99."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  Found ID 2."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8651)  {Infrastructure.Coma.ComponentContainer}  queuing message Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0 to N0 AP0 PR0 CC1 CI0 RI0 in RootContainer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Processing message"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentWrapper}  N0 AP0 PR0 CC1 CI0 RI0 received Calculator::FID_ADD_RESP from N0 AP0 PR1 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClient}  Received SimpleCalculator::ICalculator::FID_ADD_RESP"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  The sum is 77."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  Found ID 3."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {SimpleCalculator.CalculatorClient.CalculatorClientInstance}  Test finished."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Stopping components ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.ComponentContainer}  __BrokerContainer: Terminate"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8653)  {Infrastructure.Coma.Watchdog}  Thread 8653 unregistered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  stop of component ProcessBroker_MyNode_RootProcess @ N0 AP0 PR0 CC0 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.ComponentContainer}  RootContainer: Terminate"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8654)  {Infrastructure.Coma.Watchdog}  Thread 8654 unregistered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  stop of component CalculatorClientInstance @ N0 AP0 PR0 CC1 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.ComponentContainer}  OnOff: Terminate"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8655)  {Infrastructure.Coma.Watchdog}  Thread 8655 unregistered"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  stop of component MyNodeNodeOnOff @ N0 AP0 PR0 CC2 CI0 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ComponentWrapper}  stop of component MyNodeRootProcessAppOnOff @ N0 AP0 PR0 CC2 CI1 RI0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Stopping transporter ..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8652)  {Infrastructure.Coma.IMessageSender.CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver}  QueingMessageSender::run, CIA.COMA.SimpleCalculator.MyNode.RootApp.CalculatorProcess.CalculatorReceiver: Terminate"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing post stop hook of SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing post stop hook of InfrastructureCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Cleaning up components..."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing post COMA cleanup hook of SimpleCalculatorCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.659  DEBUG  (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.ProcessBase.main}  Executing post COMA cleanup hook of InfrastructureCustomizer"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "31:07:01.727  WARN   (N:0,P: 8641,T: 8641)  {Infrastructure.Coma.Watchdog}  Watchdog has been stopped!"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.077596,
+      "   Caught SIGTERM. Terminating.\r\nCrashDaemon main exiting.\r\nTraceProxy::cleanup called!\r\nExiting TraceReader main loop.\r\n"
+    ],
+    [
+      0.001151,
+      "\u001b]0;visteon@visteon-OptiPlex-790: ~/rengaraj/Coma\u0007visteon@visteon-OptiPlex-790:~/rengaraj/Coma$ "
+    ],
+    [
+      0.000451,
+      "Tracy main exiting.\r\n"
+    ],
+    [
+      5.868368,
+      "\r\n\u001b]0;visteon@visteon-OptiPlex-790: ~/rengaraj/Coma\u0007visteon@visteon-OptiPlex-790:~/rengaraj/Coma$ "
+    ],
+    [
+      2.544237,
+      "exit\r\n"
+    ]
+  ]
+}
