@@ -1,0 +1,942 @@
+{
+  "version": 1,
+  "width": 174,
+  "height": 43,
+  "duration": 42.839945,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.029782,
+      "\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007"
+    ],
+    [
+      0.000230,
+      "[tutu@tutu-pc lola]$ "
+    ],
+    [
+      0.747509,
+      "l"
+    ],
+    [
+      0.111674,
+      "s"
+    ],
+    [
+      0.226258,
+      " "
+    ],
+    [
+      0.156245,
+      "*"
+    ],
+    [
+      0.654289,
+      "j"
+    ],
+    [
+      0.242288,
+      "s"
+    ],
+    [
+      0.125196,
+      "o"
+    ],
+    [
+      0.070956,
+      "n"
+    ],
+    [
+      0.516202,
+      "*"
+    ],
+    [
+      0.242930,
+      " "
+    ],
+    [
+      0.143906,
+      "-"
+    ],
+    [
+      0.494881,
+      "l"
+    ],
+    [
+      0.162418,
+      "\r\nlrwxrwxrwx 1 tutu tutu 22 10.02.2016 15:47 \u001b[0m\u001b[00;31mlibjsoncpp.so.0\u001b[0m -\u003e \u001b[00;32m/usr/lib/libjsoncpp.so\u001b[0m*\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007"
+    ],
+    [
+      0.000080,
+      "[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.408939,
+      " "
+    ],
+    [
+      0.136937,
+      "f"
+    ],
+    [
+      0.076688,
+      "a"
+    ],
+    [
+      0.141973,
+      "u"
+    ],
+    [
+      0.082167,
+      "t"
+    ],
+    [
+      0.134199,
+      " "
+    ],
+    [
+      0.150459,
+      "a"
+    ],
+    [
+      0.288813,
+      "j"
+    ],
+    [
+      0.158127,
+      "o"
+    ],
+    [
+      0.085236,
+      "u"
+    ],
+    [
+      0.088035,
+      "t"
+    ],
+    [
+      0.153486,
+      "e"
+    ],
+    [
+      0.086118,
+      "r"
+    ],
+    [
+      0.125162,
+      " "
+    ],
+    [
+      0.100410,
+      "l"
+    ],
+    [
+      0.112931,
+      "a"
+    ],
+    [
+      0.089876,
+      " "
+    ],
+    [
+      0.348095,
+      "l"
+    ],
+    [
+      0.263687,
+      "i"
+    ],
+    [
+      0.120849,
+      "b"
+    ],
+    [
+      0.910332,
+      "j"
+    ],
+    [
+      0.160726,
+      "s"
+    ],
+    [
+      0.126186,
+      "o"
+    ],
+    [
+      0.061499,
+      "n"
+    ],
+    [
+      0.229055,
+      " "
+    ],
+    [
+      0.163549,
+      "a"
+    ],
+    [
+      0.101607,
+      "u"
+    ],
+    [
+      0.157280,
+      "s"
+    ],
+    [
+      0.151017,
+      "s"
+    ],
+    [
+      0.675401,
+      "i"
+    ],
+    [
+      0.180980,
+      " "
+    ],
+    [
+      0.160960,
+      ":"
+    ],
+    [
+      0.254367,
+      ")"
+    ],
+    [
+      0.175031,
+      "\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      0.052265,
+      "/"
+    ],
+    [
+      0.209809,
+      "s"
+    ],
+    [
+      0.265171,
+      "e"
+    ],
+    [
+      0.073392,
+      "\u0007rver"
+    ],
+    [
+      0.540953,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.924] INFO: server:Core - Core constructed\r\n\u001b[0m"
+    ],
+    [
+      0.000101,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.925] INFO: server:main - Start server\r\n\u001b[0m"
+    ],
+    [
+      0.000106,
+      "\u001b[1;33m[10/02/2016 - 15:52:47.925] WARNING: server:main - Lock file is already existant\r\n\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\u001b[1;33m[10/02/2016 - 15:52:47.925] WARNING: server:main - Log module will NOT be started\r\n\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.925] INFO: server:DbManager - sqlite3 initialised\r\n\u001b[0m"
+    ],
+    [
+      0.000240,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.925] INFO: server:DbManager - Open connection on database '../database/vivoka.db'\r\n\u001b[0m"
+    ],
+    [
+      0.000173,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.925] INFO: server:DbManager - Connected to the database\r\n\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\u001b[0m[10/02/2016 - 15:52:47.926] DEBUG: server:DbManager - DB trace: PRAGMA foreign_keys = ON\r\n\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.926] INFO: server:DbManager - Foreign keys enabled\r\n\u001b[0m"
+    ],
+    [
+      0.000062,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.926] INFO: server:DbManager - Check database integrity\r\n\u001b[0m"
+    ],
+    [
+      0.000379,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.926] INFO: server:DbManager - Check 'action' table\r\n\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\u001b[0m[10/02/2016 - 15:52:47.926] DEBUG: server:DbManager - DB trace: PRAGMA table_info(action)\r\n\u001b[0m"
+    ],
+    [
+      0.000105,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.926] INFO: server:DbManager - Table 'action' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000074,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.926] INFO: server:DbManager - Check 'applications' table\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "\u001b[0m[10/02/2016 - 15:52:47.926] DEBUG: server:DbManager - DB trace: PRAGMA table_info(applications)\r\n\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'applications' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000050,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Check 'equipments' table\r\n\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\u001b[0m[10/02/2016 - 15:52:47.927] DEBUG: server:DbManager - DB trace: PRAGMA table_info(equipments)\r\n\u001b[0m"
+    ],
+    [
+      0.000075,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'equipments' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Check 'map_equipments' table\r\n\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\u001b[0m[10/02/2016 - 15:52:47.927] DEBUG: server:DbManager - DB trace: PRAGMA table_info(map_equipments)\r\n\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'map_equipments' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Check 'modules' table\r\n\u001b[0m"
+    ],
+    [
+      0.000032,
+      "\u001b[0m[10/02/2016 - 15:52:47.927] DEBUG: server:DbManager - DB trace: PRAGMA table_info(modules)\r\n\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'modules' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000047,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Check 'users' table\r\n\u001b[0m"
+    ],
+    [
+      0.000032,
+      "\u001b[0m[10/02/2016 - 15:52:47.927] DEBUG: server:DbManager - DB trace: PRAGMA table_info(users)\r\n\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'users' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Check 'value' table\r\n\u001b[0m"
+    ],
+    [
+      0.000032,
+      "\u001b[0m[10/02/2016 - 15:52:47.927] DEBUG: server:DbManager - DB trace: PRAGMA table_info(value)\r\n\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Table 'value' ok\r\n\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:DbManager - Database verified\r\n\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:main - Connection to the database successful\r\n\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.927] INFO: server:main - Starting local server on './server.sock'\r\n\u001b[0m"
+    ],
+    [
+      0.000209,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.928] INFO: server:main - Local server started\r\n\u001b[0m"
+    ],
+    [
+      0.000145,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.928] INFO: server:ModuleManager - Start 2 modules\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "\u001b[0m[10/02/2016 - 15:52:47.928] DEBUG: server:ProcessManager - Start process './external_communication' with argument '--log-socket=./log.sock --server-socket=./server.sock --http-port=8080 --local-level=DEBUG --local-echo=true --ignore-auth '\r\n\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.928] INFO: server:ModuleManager - Module './external_communication' started with argument '--log-socket=./log.sock --server-socket=./server.sock --http-port=8080 --local-level=DEBUG --local-echo=true --ignore-auth'\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "\u001b[0m[10/02/2016 - 15:52:47.928] DEBUG: server:ProcessManager - Start process './fake_module' with argument '--log-socket=./log.sock --server-socket=./server.sock --local-level=DEBUG --local-echo=true '\r\n\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.928] INFO: server:ModuleManager - Module './fake_module' started with argument '--log-socket=./log.sock --server-socket=./server.sock --local-level=DEBUG --local-echo=true'\r\n\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.928] INFO: server:Core - Start core\r\n\u001b[0m"
+    ],
+    [
+      0.002316,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.931] INFO: server:DbManager - Start DB thread\r\n\u001b[0m"
+    ],
+    [
+      0.000048,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.931] INFO: server:DbManager - Compile SQL statement\r\n\u001b[0m"
+    ],
+    [
+      0.000394,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.931] INFO: server:DbManager - Compilation finished in 0.370103 ms\r\n\u001b[0m"
+    ],
+    [
+      0.001966,
+      "\u001b[1;33m[10/02/2016 - 15:52:47.933] WARNING: fake:LogClient - Failed to open local socket: connect socket failed: No such file or directory\r\n\u001b[0m"
+    ],
+    [
+      0.000625,
+      "\u001b[1;33m[10/02/2016 - 15:52:47.933] WARNING: external_communication:LogClient - Failed to open local socket: connect socket failed: No such file or directory\r\n\u001b[0m"
+    ],
+    [
+      0.000087,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.934] INFO: external_communication:main - Try to contact server on './server.sock'\r\n\u001b[0m"
+    ],
+    [
+      0.000209,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.934] INFO: server:ModuleManager - New connection\r\n\u001b[0m"
+    ],
+    [
+      0.000164,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.934] INFO: external_communication:main - Connected to the server\r\n\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.934] INFO: external_communication:main - HTTP server started on port: 8080\r\n\u001b[0m"
+    ],
+    [
+      0.000467,
+      "./external_communication"
+    ],
+    [
+      0.000017,
+      ": "
+    ],
+    [
+      0.000015,
+      "symbol lookup error"
+    ],
+    [
+      0.000014,
+      ": "
+    ],
+    [
+      0.000014,
+      "./external_communication"
+    ],
+    [
+      0.000013,
+      ": "
+    ],
+    [
+      0.000015,
+      "undefined symbol: _ZN4Json5ValueC1ERKSs"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[1;33m[10/02/2016 - 15:52:47.935] WARNING: server:ModuleManager - Module '' is disconnected\r\n\u001b[0m"
+    ],
+    [
+      0.000063,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.934] INFO: fake:main - Try to contact server on './server.sock'\r\n\u001b[0m"
+    ],
+    [
+      0.000096,
+      "\u001b[1;37m[10/02/2016 - 15:52:47.935] INFO: fake:main - Connected to the server\r\n\u001b[0m"
+    ],
+    [
+      0.001504,
+      "./fake_module"
+    ],
+    [
+      0.000030,
+      ": "
+    ],
+    [
+      0.000024,
+      "symbol lookup error"
+    ],
+    [
+      0.000023,
+      ": "
+    ],
+    [
+      0.000023,
+      "./fake_module"
+    ],
+    [
+      0.000023,
+      ": "
+    ],
+    [
+      0.000023,
+      "undefined symbol: _ZN4Json5ValueC1ERKSs"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.039075,
+      "Segmentation fault (core dumped)\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.269557,
+      " "
+    ],
+    [
+      0.212116,
+      "j"
+    ],
+    [
+      0.061953,
+      "'"
+    ],
+    [
+      0.176999,
+      "a"
+    ],
+    [
+      0.118446,
+      "i"
+    ],
+    [
+      0.176601,
+      " "
+    ],
+    [
+      0.410182,
+      "a"
+    ],
+    [
+      0.258139,
+      "j"
+    ],
+    [
+      0.143933,
+      "o"
+    ],
+    [
+      0.083081,
+      "u"
+    ],
+    [
+      0.123810,
+      "t"
+    ],
+    [
+      0.115212,
+      "é"
+    ],
+    [
+      0.137008,
+      " "
+    ],
+    [
+      0.140193,
+      "l"
+    ],
+    [
+      0.121338,
+      "a"
+    ],
+    [
+      0.117918,
+      " "
+    ],
+    [
+      0.350248,
+      "b"
+    ],
+    [
+      0.258281,
+      "d"
+    ],
+    [
+      0.283338,
+      " "
+    ],
+    [
+      0.322950,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133137,
+      "d"
+    ],
+    [
+      0.143963,
+      "d"
+    ],
+    [
+      0.784189,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.206148,
+      " "
+    ],
+    [
+      0.292366,
+      "m"
+    ],
+    [
+      0.110541,
+      "a"
+    ],
+    [
+      0.141654,
+      "i"
+    ],
+    [
+      0.151248,
+      "s"
+    ],
+    [
+      0.249094,
+      " "
+    ],
+    [
+      1.000000,
+      "l"
+    ],
+    [
+      0.096567,
+      "a"
+    ],
+    [
+      0.153372,
+      " "
+    ],
+    [
+      1.000000,
+      "a"
+    ],
+    [
+      0.228046,
+      " "
+    ],
+    [
+      0.203565,
+      "f"
+    ],
+    [
+      0.203961,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111182,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.101041,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224372,
+      "c"
+    ],
+    [
+      0.101121,
+      "a"
+    ],
+    [
+      0.148687,
+      " "
+    ],
+    [
+      0.106915,
+      "f"
+    ],
+    [
+      0.047385,
+      "a"
+    ],
+    [
+      0.056192,
+      "i"
+    ],
+    [
+      0.051699,
+      "l"
+    ],
+    [
+      0.093147,
+      " "
+    ],
+    [
+      0.150854,
+      "j"
+    ],
+    [
+      0.111305,
+      "e"
+    ],
+    [
+      0.109575,
+      " "
+    ],
+    [
+      0.087520,
+      "c"
+    ],
+    [
+      0.121948,
+      " "
+    ],
+    [
+      0.115424,
+      "p"
+    ],
+    [
+      0.059748,
+      "a"
+    ],
+    [
+      0.116765,
+      "s"
+    ],
+    [
+      0.191066,
+      " "
+    ],
+    [
+      0.325731,
+      "p"
+    ],
+    [
+      0.404621,
+      "r"
+    ],
+    [
+      0.103858,
+      "k"
+    ],
+    [
+      0.321704,
+      "\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      0.618654,
+      "l"
+    ],
+    [
+      0.074149,
+      "s"
+    ],
+    [
+      0.201821,
+      " "
+    ],
+    [
+      0.477555,
+      "."
+    ],
+    [
+      0.112988,
+      "."
+    ],
+    [
+      0.205587,
+      "/"
+    ],
+    [
+      0.270611,
+      "d"
+    ],
+    [
+      0.225248,
+      "a"
+    ],
+    [
+      0.067262,
+      "tabase/"
+    ],
+    [
+      0.637649,
+      "\r\nvivoka.db\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "l"
+    ],
+    [
+      0.041103,
+      "s"
+    ],
+    [
+      0.136604,
+      "\r\n\u001b[0m\u001b[00;34mjasper\u001b[0m/            equipments.ini           \u001b[00;32mfake_module\u001b[0m*  \u001b[00;32mlibbox.so\u001b[0m*   \u001b[00;32mlibhttp_parser.so.2\u001b[0m*  \u001b[00;32mlibparse.so\u001b[0m*  \u001b[00;32mserver\u001b[0m*       vivoka\r\nconfiguration.ini  \u001b[00;32mexternal_communication\u001b[0m*  \u001b[00;32minit.sh\u001b[0m*      \u001b[00;32mlibhash.so\u001b[0m*  \u001b[00;31mlibjsoncpp.so.0\u001b[0m@      \u001b[00;32mlog\u001b[0m*          \u001b[01;35mserver.sock\u001b[0m=\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      0.592838,
+      "."
+    ],
+    [
+      0.040131,
+      "/"
+    ],
+    [
+      1.000000,
+      "f"
+    ],
+    [
+      0.093959,
+      "ake_module "
+    ],
+    [
+      0.473839,
+      "\r\n\u001b[1;33m[10/02/2016 - 15:53:10.129] WARNING: fake:LogClient - Failed to open local socket: connect socket failed: No such file or directory\r\n\u001b[0m\u001b[1;37m[10/02/2016 - 15:53:10.129] INFO: fake:main - Try to contact server on '../socket/server.sock'\r\n\u001b[0m\u001b[1;31m[10/02/2016 - 15:53:10.129] FATAL: fake:main - Fail to open local socket to server: connect socket failed: No such file or directory\r\n\u001b[0m\u001b[1;37m[10/02/2016 - 15:53:10.129] INFO: fake:Core - Core destructed\r\n\u001b[0m"
+    ],
+    [
+      0.000239,
+      "\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007"
+    ],
+    [
+      0.000097,
+      "[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.358946,
+      " "
+    ],
+    [
+      0.344053,
+      ":"
+    ],
+    [
+      0.465650,
+      "("
+    ],
+    [
+      0.142522,
+      "\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      0.212482,
+      "l"
+    ],
+    [
+      0.081656,
+      "s"
+    ],
+    [
+      0.081790,
+      "\r\n\u001b[0m\u001b[00;34mjasper\u001b[0m/            equipments.ini           \u001b[00;32mfake_module\u001b[0m*  \u001b[00;32mlibbox.so\u001b[0m*   \u001b[00;32mlibhttp_parser.so.2\u001b[0m*  \u001b[00;32mlibparse.so\u001b[0m*  \u001b[00;32mserver\u001b[0m*       vivoka\r\nconfiguration.ini  \u001b[00;32mexternal_communication\u001b[0m*  \u001b[00;32minit.sh\u001b[0m*      \u001b[00;32mlibhash.so\u001b[0m*  \u001b[00;31mlibjsoncpp.so.0\u001b[0m@      \u001b[00;32mlog\u001b[0m*          \u001b[01;35mserver.sock\u001b[0m=\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007"
+    ],
+    [
+      0.000069,
+      "[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      0.042154,
+      "/"
+    ],
+    [
+      0.127233,
+      "e"
+    ],
+    [
+      0.084904,
+      "xternal_communication "
+    ],
+    [
+      0.920136,
+      "\r\n\u001b[1;33m[10/02/2016 - 15:53:19.736] WARNING: external_communication:LogClient - Failed to open local socket: connect socket failed: No such file or directory\r\n\u001b[0m\u001b[1;37m[10/02/2016 - 15:53:19.736] INFO: external_communication:main - Try to contact server on '../socket/server.sock'\r\n\u001b[0m\u001b[1;31m[10/02/2016 - 15:53:19.736] FATAL: external_communication:main - Fail to open local socket to server: connect socket failed: No such file or directory\r\n\u001b[0m\u001b[1;37m[10/02/2016 - 15:53:19.736] INFO: external_communication:Core - Core destructed\r\n\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007"
+    ],
+    [
+      0.000085,
+      "[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.256784,
+      " "
+    ],
+    [
+      0.153904,
+      ":"
+    ],
+    [
+      1.000000,
+      ")"
+    ],
+    [
+      0.276394,
+      "\r\n\u001b]0;tutu@tutu-pc:~/vivoka/lola\u0007[tutu@tutu-pc lola]$ "
+    ],
+    [
+      1.000000,
+      "exit\r\n"
+    ]
+  ]
+}
