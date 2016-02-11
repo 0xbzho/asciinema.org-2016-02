@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "width": 131,
+  "height": 29,
+  "duration": 20.665780,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.676770,
+      "Do not do to others what angers you if done to you by others. - Socrates\r\n"
+    ],
+    [
+      0.277603,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                  \r \r"
+    ],
+    [
+      0.149570,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ...ts/Temp/m2-exp1 \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000040,
+      "\u001b[K\u001b[86C\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m amacgregor@Allans-MBP\u001b[49m\u001b[108D"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.198438,
+      "d"
+    ],
+    [
+      0.126835,
+      "\u0008do"
+    ],
+    [
+      0.175943,
+      "c"
+    ],
+    [
+      0.087882,
+      "k"
+    ],
+    [
+      0.167969,
+      "e"
+    ],
+    [
+      0.128065,
+      "r"
+    ],
+    [
+      0.820487,
+      "-"
+    ],
+    [
+      0.243085,
+      "c"
+    ],
+    [
+      0.268463,
+      "ompose\u001b[1m \u001b[0m"
+    ],
+    [
+      1.003996,
+      "\u0008\u001b[0m u"
+    ],
+    [
+      0.087736,
+      "p"
+    ],
+    [
+      0.407849,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.446182,
+      "Starting m2exp1_app_data_1\r\n"
+    ],
+    [
+      0.073306,
+      "Starting m2exp1_db_data_1\r\n"
+    ],
+    [
+      0.113485,
+      "Starting m2exp1_php_fpm_data_1\r\n"
+    ],
+    [
+      0.402373,
+      "Starting m2exp1_php_fpm_1\r\n"
+    ],
+    [
+      0.421371,
+      "Starting m2exp1_app_1\r\n"
+    ],
+    [
+      0.361490,
+      "Attaching to m2exp1_app_data_1, m2exp1_db_data_1, m2exp1_php_fpm_data_1, m2exp1_php_fpm_1, m2exp1_app_1\r\n"
+    ],
+    [
+      0.005978,
+      "\u001b[35mphp_fpm_1      | \u001b[0m/usr/lib/python2.7/dist-packages/supervisor/options.py:296: UserWarning: Supervisord is running as root and it is searching for its configuration file in default locations (including its current working directory); you probably want to specify a \"-c\" argument specifying an absolute path to a configuration file for improved security.\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[35mphp_fpm_1      | \u001b[0m  'Supervisord is running as root and it is searching '\r\n"
+    ],
+    [
+      0.001723,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:48,362 CRIT Supervisor running as root (no user in config file)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:48,362 WARN Included extra file \"/etc/supervisor/conf.d/supervisord-phpfpm5.6.conf\" during parsing\r\n\u001b[35mphp_fpm_1      | \u001b[0mUnlinking stale socket /var/run/supervisor.sock\r\n"
+    ],
+    [
+      0.031944,
+      "\u001b[31mapp_1          | \u001b[0mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message\r\n"
+    ],
+    [
+      0.001298,
+      "\u001b[31mapp_1          | \u001b[0mhttpd (pid 6) already running\r\n"
+    ],
+    [
+      0.003977,
+      "\u001b[32mm2exp1_php_fpm_data_1 exited with code 0\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.008610,
+      "\u001b[36mm2exp1_app_data_1 exited with code 0\r\n"
+    ],
+    [
+      0.000175,
+      "\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\u001b[33mm2exp1_db_data_1 exited with code 0\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.068140,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:48,674 INFO RPC interface 'supervisor' initialized\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:48,678 CRIT Server 'unix_http_server' running without any HTTP authentication checking\r\n\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:48,678 INFO supervisord started with pid 1\r\n"
+    ],
+    [
+      0.036511,
+      "\u001b[31mm2exp1_app_1 exited with code 0\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m"
+    ],
+    [
+      0.948045,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:49,681 INFO spawned: 'phpfpm5.6' with pid 10\r\n"
+    ],
+    [
+      1.037288,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:50,710 INFO success: phpfpm5.6 entered RUNNING state, process has stayed up for \u003e than 1 seconds (startsecs)\r\n"
+    ],
+    [
+      7.304201,
+      "^D\u0008\u0008"
+    ],
+    [
+      1.157440,
+      "^C"
+    ],
+    [
+      0.000010,
+      "Gracefully stopping... (press Ctrl+C again to force)\r\n"
+    ],
+    [
+      0.006856,
+      "Stopping m2exp1_php_fpm_1 ... \r\r\n"
+    ],
+    [
+      0.124412,
+      "\u001b[1A\u001b[2K\rStopping m2exp1_php_fpm_1 ... done\r\u001b[1B"
+    ],
+    [
+      0.000066,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:59,203 WARN received SIGTERM indicating exit request\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:59,203 INFO waiting for phpfpm5.6 to die\r\n\u001b[35mphp_fpm_1      | \u001b[0m2016-02-11 00:57:59,206 INFO stopped: phpfpm5.6 (exit status 0)\r\n\u001b[35mm2exp1_php_fpm_1 exited with code 0\r\n\u001b[0m"
+    ],
+    [
+      0.020152,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                  \r \r"
+    ],
+    [
+      0.068672,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ...ts/Temp/m2-exp1 \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[86C\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m amacgregor@Allans-MBP\u001b[49m\u001b[108D"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.171743,
+      "\r\r\n"
+    ]
+  ]
+}
