@@ -1,0 +1,4086 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 42,
+  "duration": 230.090213,
+  "command": "/bin/csh",
+  "title": "CBSD with 2 ips on different NIC's",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/csh"
+  },
+  "stdout": [
+    [
+      0.017328,
+      "oleg@gizmo:~ % "
+    ],
+    [
+      2.950625,
+      "s"
+    ],
+    [
+      0.119907,
+      "u"
+    ],
+    [
+      0.071928,
+      " "
+    ],
+    [
+      0.136023,
+      "-"
+    ],
+    [
+      0.224053,
+      "\r\r\n"
+    ],
+    [
+      0.001960,
+      "Password:"
+    ],
+    [
+      1.062019,
+      "\r\n"
+    ],
+    [
+      0.018602,
+      "root@gizmo:~ # "
+    ],
+    [
+      0.733369,
+      "i"
+    ],
+    [
+      0.087956,
+      "f"
+    ],
+    [
+      0.231974,
+      "c"
+    ],
+    [
+      0.080318,
+      "o"
+    ],
+    [
+      0.063701,
+      "n"
+    ],
+    [
+      0.080008,
+      "f"
+    ],
+    [
+      0.103951,
+      "i"
+    ],
+    [
+      0.088072,
+      "g"
+    ],
+    [
+      0.319961,
+      "\r\r\n"
+    ],
+    [
+      0.000826,
+      "re0: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000003,
+      "\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.000011,
+      "\tether d8:50:e6:53:91:0d\r\n"
+    ],
+    [
+      0.000006,
+      "\tinet 192.168.1.2 netmask 0xffffff00 broadcast 192.168.1.255 \r\n"
+    ],
+    [
+      0.000019,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000624,
+      "\tmedia: Ethernet autoselect (100baseTX \u003cfull-duplex\u003e)\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000316,
+      "re1: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000002,
+      "\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.000004,
+      "\tether 5c:d9:98:f5:a9:0f\r\n"
+    ],
+    [
+      0.000013,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000296,
+      "\tmedia: Ethernet autoselect (100baseTX \u003chalf-duplex\u003e)\r\n\tstatus: no carrier\r\n"
+    ],
+    [
+      0.000158,
+      "lo0: flags=8049\u003cUP,LOOPBACK,RUNNING,MULTICAST\u003e metric 0 mtu 16384\r\n"
+    ],
+    [
+      0.000002,
+      "\toptions=600003\u003cRXCSUM,TXCSUM,RXCSUM_IPV6,TXCSUM_IPV6\u003e\r\n"
+    ],
+    [
+      0.000013,
+      "\tinet6 ::1 prefixlen 128 \r\n"
+    ],
+    [
+      0.000021,
+      "\tinet6 fe80::1%lo0 prefixlen 64 scopeid 0x3 \r\n"
+    ],
+    [
+      0.000004,
+      "\tinet 127.0.0.1 netmask 0xff000000 \r\n"
+    ],
+    [
+      0.000006,
+      "\tnd6 options=21\u003cPERFORMNUD,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "\tgroups: lo \r\n"
+    ],
+    [
+      0.000007,
+      "vboxnet0: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000004,
+      "\tether 0a:00:27:00:00:00\r\n"
+    ],
+    [
+      0.000007,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000001,
+      "\tmedia: Ethernet autoselect\r\n"
+    ],
+    [
+      0.000001,
+      "\tstatus: active\r\n"
+    ],
+    [
+      0.000149,
+      "root@gizmo:~ # "
+    ],
+    [
+      5.253360,
+      "\""
+    ],
+    [
+      0.511956,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120011,
+      "e"
+    ],
+    [
+      0.087895,
+      "c"
+    ],
+    [
+      0.080075,
+      "h"
+    ],
+    [
+      0.056014,
+      "o"
+    ],
+    [
+      0.103993,
+      " "
+    ],
+    [
+      0.183987,
+      "\""
+    ],
+    [
+      0.487992,
+      "L"
+    ],
+    [
+      0.183981,
+      "e"
+    ],
+    [
+      0.176014,
+      "t"
+    ],
+    [
+      0.191988,
+      "s"
+    ],
+    [
+      0.271983,
+      " "
+    ],
+    [
+      2.504030,
+      "1"
+    ],
+    [
+      0.191927,
+      "9"
+    ],
+    [
+      0.079972,
+      "2"
+    ],
+    [
+      0.103964,
+      "."
+    ],
+    [
+      0.120058,
+      "1"
+    ],
+    [
+      0.223957,
+      "6"
+    ],
+    [
+      0.088037,
+      "8"
+    ],
+    [
+      0.087978,
+      "."
+    ],
+    [
+      0.143977,
+      "1"
+    ],
+    [
+      0.048009,
+      "."
+    ],
+    [
+      0.239996,
+      "1"
+    ],
+    [
+      0.111968,
+      "0"
+    ],
+    [
+      0.143981,
+      "0"
+    ],
+    [
+      0.488096,
+      " "
+    ],
+    [
+      0.183950,
+      "o"
+    ],
+    [
+      0.063949,
+      "n"
+    ],
+    [
+      0.087985,
+      " "
+    ],
+    [
+      0.464047,
+      "r"
+    ],
+    [
+      0.071960,
+      "e"
+    ],
+    [
+      0.279986,
+      "0"
+    ],
+    [
+      0.528051,
+      " "
+    ],
+    [
+      0.216367,
+      "a"
+    ],
+    [
+      0.095562,
+      "n"
+    ],
+    [
+      0.144016,
+      "d"
+    ],
+    [
+      0.119938,
+      " "
+    ],
+    [
+      1.408077,
+      "1"
+    ],
+    [
+      0.063957,
+      "0"
+    ],
+    [
+      0.159978,
+      "."
+    ],
+    [
+      0.112006,
+      "0"
+    ],
+    [
+      0.103943,
+      "."
+    ],
+    [
+      0.104012,
+      "0"
+    ],
+    [
+      0.704027,
+      "."
+    ],
+    [
+      0.159972,
+      "1"
+    ],
+    [
+      0.080014,
+      "0"
+    ],
+    [
+      0.143961,
+      "0"
+    ],
+    [
+      0.415907,
+      " "
+    ],
+    [
+      0.200045,
+      "o"
+    ],
+    [
+      0.112053,
+      "n"
+    ],
+    [
+      0.063981,
+      " "
+    ],
+    [
+      1.072066,
+      "r"
+    ],
+    [
+      0.047939,
+      "e"
+    ],
+    [
+      0.255967,
+      "1"
+    ],
+    [
+      3.239914,
+      "\""
+    ],
+    [
+      1.056040,
+      "\r\r\n"
+    ],
+    [
+      0.000037,
+      "Lets 192.168.1.100 on re0 and 10.0.0.100 on re1\r\n"
+    ],
+    [
+      0.000048,
+      "root@gizmo:~ # "
+    ],
+    [
+      2.599847,
+      "c"
+    ],
+    [
+      0.087918,
+      "b"
+    ],
+    [
+      0.103963,
+      "s"
+    ],
+    [
+      0.047992,
+      "d"
+    ],
+    [
+      0.064006,
+      " "
+    ],
+    [
+      0.088006,
+      "j"
+    ],
+    [
+      0.168033,
+      "c"
+    ],
+    [
+      0.111970,
+      "o"
+    ],
+    [
+      0.064028,
+      "n"
+    ],
+    [
+      0.087963,
+      "s"
+    ],
+    [
+      0.215988,
+      "t"
+    ],
+    [
+      0.072012,
+      "r"
+    ],
+    [
+      0.095923,
+      "u"
+    ],
+    [
+      0.096094,
+      "c"
+    ],
+    [
+      0.199985,
+      "t"
+    ],
+    [
+      0.071968,
+      "-"
+    ],
+    [
+      0.088076,
+      "t"
+    ],
+    [
+      0.151948,
+      "u"
+    ],
+    [
+      0.232026,
+      "i"
+    ],
+    [
+      0.816004,
+      "\r\r\n"
+    ],
+    [
+      0.194754,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001635,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000039,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000407,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000068,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000561,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                              \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m CBSD v10.2.1f \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for construct jail create config file \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[44m\u001b[1mA\u001b[33m\u001b[44m profile\u001b[m\u001b[30m\u001b[47m        \u001b[37m\u001b[44m\u001b[1mdefault\u001b[m\u001b[30m\u001b[47m                   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m pkglist\u001b[m\u001b[30m\u001b[47m        0                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m jname\u001b[m\u001b[30m\u001b[47m                                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m host_hostname\u001b[m\u001b[30m\u001b[47m  .my.domain                \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[m\u001b[30m\u001b[47m       DHCP                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n               "
+    ],
+    [
+      0.000248,
+      "                               \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m ver\u001b[m\u001b[30m\u001b[47m            11                        \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m baserw\u001b[m\u001b[30m\u001b[47m         [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m         [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m interface\u001b[m\u001b[30m\u001b[47m      auto                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m applytpl\u001b[m\u001b[30m\u001b[47m       [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m floatresolv\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m arch\u001b[m\u001b[30m\u001b[47m           amd64                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m vnet\u001b[m\u001b[30m\u001b[47m           [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m zfs_snapsrc\u001b[m\u001b[30m\u001b[47m                              \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                -                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m user_pw_root\u001b[m\u001b[30m\u001b[47m   Root Password             \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m2\u001b[34m\u001b[47m\u001b[1m add_user\u001b[m\u001b[30m\u001b[47m                                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m3\u001b[34m\u001b[47m\u001b[1m services\u001b[m\u001b[30m\u001b[47m       Services \u003e\u003e               \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m4\u001b[34m\u001b[47m\u001b[1m pkg_bootstrap\u001b[m\u001b[30m\u001b[47m  [X] Toggle pkg bootstrap  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m5\u001b[34m\u001b[47m\u001b[1m GO\u001b[m\u001b[30m\u001b[47m             PROCEED!                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                \u001b[30m\u001b[40m                                                  \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m Sel"
+    ],
+    [
+      0.000005,
+      "ect jail profile for jcreate\u001b[K\u001b[31;95H\u001b[39;49m\u001b[m\u001b[33;55H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m    \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e    \u003c\u001b[1m \u001b[m\u001b[31m\u001b[47mH\u001b[30m\u001b[47m\u001b[1melp \u001b[m\u001b[30m\u001b[47m\u003e\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.098455,
+      "\u001b[10;51H\u001b[31m\u001b[47mA\u001b[34m\u001b[47m\u001b[1m profile\u001b[10;68H\u001b[m\u001b[30m\u001b[47mdefault\u001b[11;51H\u001b[31m\u001b[44m\u001b[1mB\u001b[33m\u001b[44m pkglist\u001b[11;68H\u001b[37m\u001b[44m0\u001b[42;2H\u001b[m\u001b[37m\u001b[40mmark pkg for install from repo\u001b[K\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.199876,
+      "\u001b[11;51H\u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m pkglist\u001b[11;68H\u001b[m\u001b[30m\u001b[47m0\u001b[12;51H\u001b[31m\u001b[44m\u001b[1mC\u001b[33m\u001b[44m jname\u001b[12;68H\u001b[37m\u001b[44m \u001b[42;2H\u001b[m\u001b[37m\u001b[40mA short jail name\u001b[K\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.208220,
+      "\u001b[H\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[42;144H\u001b[39;49m\u001b[m\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.029290,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001404,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000034,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000352,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000169,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[25B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                           \u001b[m\u001b[30m\u001b[47mjail1                                                                                  \u001b[36m\u001b[44m\u001b[1m   \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                                                                                                                     \u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[30m\u001b[40m                                                                                             \u001b[36m\u001b[44m\u001b[K\u001b[20;33H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000121,
+      "\u001b[17;25H\u001b[37m\u001b[47m\u001b(0\u001b[1mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m jname \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b[39;49m\u001b(B\u001b[m\u001b[18;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m Jail name. Name must begin with a letter / a-z /  and not have any special symbols: -,.=% \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[19;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[20;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[20;115H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[21;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[22;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mtqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b[39;49m\u001b(B\u001b[m\u001b[23;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m                             \u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m               \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e                               \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[24;25H\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mm\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[39;49m\u001b(B\u001b[m\u001b[20;33H\u001b[30m\u001b[47m\u001b(0\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.768374,
+      "\u001b[25;119H\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.048458,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001619,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000036,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000405,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000562,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                              \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m CBSD v10.2.1f \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for construct jail create config file \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mA\u001b[34m\u001b[47m\u001b[1m profile\u001b[m\u001b[30m\u001b[47m        default                   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m pkglist\u001b[m\u001b[30m\u001b[47m        0                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[44m\u001b[1mC\u001b[33m\u001b[44m jname\u001b[m\u001b[30m\u001b[47m          \u001b[37m\u001b[44m\u001b[1mjail1\u001b[m\u001b[30m\u001b[47m                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m host_hostname\u001b[m\u001b[30m\u001b[47m  jail1.my.domain           \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[m\u001b[30m\u001b[47m       DHCP                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n               "
+    ],
+    [
+      0.000280,
+      "                               \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m ver\u001b[m\u001b[30m\u001b[47m            11                        \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m baserw\u001b[m\u001b[30m\u001b[47m         [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m         [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m interface\u001b[m\u001b[30m\u001b[47m      auto                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m applytpl\u001b[m\u001b[30m\u001b[47m       [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m floatresolv\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m arch\u001b[m\u001b[30m\u001b[47m           amd64                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m vnet\u001b[m\u001b[30m\u001b[47m           [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m zfs_snapsrc\u001b[m\u001b[30m\u001b[47m                              \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                -                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m user_pw_root\u001b[m\u001b[30m\u001b[47m   Root Password             \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m2\u001b[34m\u001b[47m\u001b[1m add_user\u001b[m\u001b[30m\u001b[47m                                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m3\u001b[34m\u001b[47m\u001b[1m services\u001b[m\u001b[30m\u001b[47m       Services \u003e\u003e               \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m4\u001b[34m\u001b[47m\u001b[1m pkg_bootstrap\u001b[m\u001b[30m\u001b[47m  [X] Toggle pkg bootstrap  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m5\u001b[34m\u001b[47m\u001b[1m GO\u001b[m\u001b[30m\u001b[47m             PROCEED!                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                \u001b[30m\u001b[40m                                                  \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m A s"
+    ],
+    [
+      0.000005,
+      "hort jail name\u001b[K\u001b[31;95H\u001b[39;49m\u001b[m\u001b[33;55H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m    \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e    \u003c\u001b[1m \u001b[m\u001b[31m\u001b[47mH\u001b[30m\u001b[47m\u001b[1melp \u001b[m\u001b[30m\u001b[47m\u003e\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.668552,
+      "\u001b[12;51H\u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m jname\u001b[12;68H\u001b[m\u001b[30m\u001b[47mjail1\u001b[13;51H\u001b[31m\u001b[44m\u001b[1mD\u001b[33m\u001b[44m host_hostname\u001b[m\u001b[30m\u001b[47m  \u001b[37m\u001b[44m\u001b[1mjail1.my.domain\u001b[42;2H\u001b[m\u001b[37m\u001b[40mFull (FQDN) jail hostname\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.239874,
+      "\u001b[13;51H\u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m host_hostname\u001b[m\u001b[30m\u001b[47m  jail1.my.domain\u001b[14;51H\u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44m ip4_addr\u001b[7C\u001b[37m\u001b[44mDHCP\u001b[42;2H\u001b[m\u001b[37m\u001b[40mAssing IP address\u001b[K\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.272225,
+      "\u001b[H\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[42;144H\u001b[39;49m\u001b[m\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006982,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001419,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000371,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000106,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000183,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[26B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m   \u001b[m\u001b[30m\u001b[47mDHCP                                                                                                                                    \u001b[36m\u001b[44m\u001b[1m   \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m                                                                                                                                              \u001b[30m\u001b[40m\u001b[K\r\n\u001b[36m\u001b[44m  \u001b[30m\u001b[40m\u001b[K\u001b[21;8H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000178,
+      "\r\u001b[4A\u001b[37m\u001b[47m\u001b(0\u001b[1mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m ip4_addr \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m Jail IP address from CBSD pool: 10.0.0.0/16 192.168.1.2/24. Use IP/PREFIX form. Comma-separated for aliases. 0 for disable IP creating by  \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m CBSD: useful for vnet Jails. Or DHCP for determine free IP automatically                                                                   \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\u001b[136C\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mtqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m                                                 \u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m                         \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e                                                  \u001b(0x\u001b[39;49m\u001b(B\u001b[m\r\n\u001b[30m\u001b[47m\u001b(0\u001b[37m\u001b[47m\u001b[1mm\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B[IP4 or IP6 Address]\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b[39;49m\u001b(B\u001b[m\u001b[21;8H\u001b[30m\u001b[47m\u001b(0\u001b[39;49m\u001b(B\u001b"
+    ],
+    [
+      0.000031,
+      "[m"
+    ],
+    [
+      1.278419,
+      "\u0008\u0008\u0008\u0008\u001b[30m\u001b[47m    \u0008\u0008\u0008\u0008\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000017,
+      "\u001b[24;54H"
+    ],
+    [
+      1.519955,
+      "\u0008\u0008\u0008\u001b[30m\u001b[47m\u003c\u001b[1m  \u001b[m\u001b[31m\u001b[47mO\u001b[30m\u001b[47m\u001b[1mK  \u001b[m\u001b[30m\u001b[47m\u003e\u001b[24;84H\u001b[37m\u001b[44m\u001b[1m\u003cC\u001b[33m\u001b[44mancel\u001b[37m\u001b[44m\u003e\u001b[7D\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.183899,
+      "\u001b[24;51H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[24;84H\u001b[m\u001b[30m\u001b[47m\u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[21;4H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.871965,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.151966,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.103992,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.143999,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.104047,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.167960,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.904147,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.183983,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.071853,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.136049,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.456059,
+      "\u001b[30m\u001b[47m,\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.551841,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.095984,
+      "\u001b[30m\u001b[47m9\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.104043,
+      "\u001b[30m\u001b[47m2\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.088042,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.120050,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.224042,
+      "\u001b[30m\u001b[47m6\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.071881,
+      "\u001b[30m\u001b[47m8\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.183958,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.152064,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.055892,
+      "\u001b[30m\u001b[47m.\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.304165,
+      "\u001b[30m\u001b[47m1\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.095888,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.136090,
+      "\u001b[30m\u001b[47m0\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.112058,
+      "\u001b[26;144H\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.052393,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001186,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000338,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000157,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[23B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                           \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m ip4_addr \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                           \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Probing for 10.0.0.100 availability. Please wait... \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                           \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                             \u001b[30m\u001b[40m                                                       \u001b[36m\u001b[44m\u001b[K\u001b[20;75H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000088,
+      "\u001b[23;100H"
+    ],
+    [
+      0.000002,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000006,
+      "\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      1.569934,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001293,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000329,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000159,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[23B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                          \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m ip4_addr \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Probing for 192.168.1.100 availability. Please wait... \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                          \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                            \u001b[30m\u001b[40m                                                          \u001b[36m\u001b[44m\u001b[K\u001b[20;76H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000089,
+      "\u001b[23;102H"
+    ],
+    [
+      0.000002,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000007,
+      "\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      1.559714,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001643,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000402,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000071,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000561,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                              \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m CBSD v10.2.1f \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for construct jail create config file \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mA\u001b[34m\u001b[47m\u001b[1m profile\u001b[m\u001b[30m\u001b[47m        default                   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m pkglist\u001b[m\u001b[30m\u001b[47m        0                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m jname\u001b[m\u001b[30m\u001b[47m          jail1                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m host_hostname\u001b[m\u001b[30m\u001b[47m  jail1.my.domain           \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[44m\u001b[1mE\u001b[33m\u001b[44m ip4_addr\u001b[m\u001b[30m\u001b[47m       \u001b[37m\u001b[44m\u001b[1m10.0.0.100,192.168.1.100\u001b[m\u001b[30m\u001b[47m  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n               "
+    ],
+    [
+      0.000262,
+      "                               \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m ver\u001b[m\u001b[30m\u001b[47m            11                        \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m baserw\u001b[m\u001b[30m\u001b[47m         [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m         [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m interface\u001b[m\u001b[30m\u001b[47m      auto                      \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m applytpl\u001b[m\u001b[30m\u001b[47m       [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m floatresolv\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m arch\u001b[m\u001b[30m\u001b[47m           amd64                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m vnet\u001b[m\u001b[30m\u001b[47m           [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m zfs_snapsrc\u001b[m\u001b[30m\u001b[47m                              \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                -                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m user_pw_root\u001b[m\u001b[30m\u001b[47m   Root Password             \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m2\u001b[34m\u001b[47m\u001b[1m add_user\u001b[m\u001b[30m\u001b[47m                                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m3\u001b[34m\u001b[47m\u001b[1m services\u001b[m\u001b[30m\u001b[47m       Services \u003e\u003e               \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m4\u001b[34m\u001b[47m\u001b[1m pkg_bootstrap\u001b[m\u001b[30m\u001b[47m  [X] Toggle pkg bootstrap  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m5\u001b[34m\u001b[47m\u001b[1m GO\u001b[m\u001b[30m\u001b[47m             PROCEED!                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                \u001b[30m\u001b[40m                                                  \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m Ass"
+    ],
+    [
+      0.000008,
+      "ing IP address\u001b[K\u001b[31;95H\u001b[39;49m\u001b[m\u001b[33;55H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m    \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e    \u003c\u001b[1m \u001b[m\u001b[31m\u001b[47mH\u001b[30m\u001b[47m\u001b[1melp \u001b[m\u001b[30m\u001b[47m\u003e\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      1.259105,
+      "\u001b[14;51H\u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[7C\u001b[m\u001b[30m\u001b[47m10.0.0.100,192.168.1.100\u001b[15;51H\u001b[31m\u001b[44m\u001b[1mF\u001b[33m\u001b[44m ver\u001b[15;68H\u001b[37m\u001b[44m11\u001b[42;2H\u001b[m\u001b[37m\u001b[40mchoose code base version\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.207881,
+      "\u001b[15;51H\u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m ver\u001b[15;68H\u001b[m\u001b[30m\u001b[47m11\u001b[16;51H\u001b[31m\u001b[44m\u001b[1mG\u001b[33m\u001b[44m baserw\u001b[16;68H\u001b[37m\u001b[44m[ ]\u001b[42;2H\u001b[m\u001b[37m\u001b[40mJail base is not read-only\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.167994,
+      "\u001b[16;51H\u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m baserw\u001b[16;68H\u001b[m\u001b[30m\u001b[47m[ ]\u001b[17;51H\u001b[31m\u001b[44m\u001b[1mH\u001b[33m\u001b[44m mount_ports\u001b[m\u001b[30m\u001b[47m    \u001b[37m\u001b[44m\u001b[1m[X]\u001b[42;2H\u001b[m\u001b[37m\u001b[40mMount for /usr/ports\u001b[K\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.144028,
+      "\u001b[17;51H\u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m    [X]\u001b[18;51H\u001b[31m\u001b[44m\u001b[1mI\u001b[33m\u001b[44m astart\u001b[18;68H\u001b[37m\u001b[44m[X]\u001b[42;2H\u001b[m\u001b[37m\u001b[40mAutostart with system\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.151923,
+      "\u001b[18;51H\u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m astart\u001b[18;68H\u001b[m\u001b[30m\u001b[47m[X]\u001b[19;51H\u001b[31m\u001b[44m\u001b[1mJ\u001b[33m\u001b[44m interface\u001b[6C\u001b[37m\u001b[44mauto\u001b[42;2H\u001b[m\u001b[37m\u001b[40mInterface selection and aliasing mode\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.264343,
+      "\u001b[H\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[42;144H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.039830,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001495,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000035,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000378,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000073,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000383,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m\u001b[K\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                          \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m interface \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Auto create and auto remove IP on selected NICs. 0 for disable, auto - for auto detect \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1mXIT\u001b[m\u001b[30m\u001b[47m     EXIT                                          \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[44m\u001b[1ma\u001b[33m\u001b[44muto\u001b[m\u001b[30m\u001b[47m     \u001b[37m\u001b[44m\u001b[1mauto\u001b[m\u001b[30m\u001b[47m                                          \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47md\u001b[34m\u001b[47m\u001b[1misable\u001b[m\u001b[30m\u001b[47m  disable                                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47m-\u001b[30m\u001b[47m        -                                             \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47mr\u001b[34m\u001b[47m\u001b[1m"
+    ],
+    [
+      0.000018,
+      "e0\u001b[m\u001b[30m\u001b[47m      re0 ( UP )                                    \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47mr\u001b[34m\u001b[47m\u001b[1me1\u001b[m\u001b[30m\u001b[47m      re1 ( DOWN )                                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B                             \u001b[31m\u001b[47ml\u001b[34m\u001b[47m\u001b[1mo0\u001b[m\u001b[30m\u001b[47m      lo0 ( NO STATE )                              \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                                                        \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                          \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                            \u001b[30m\u001b[40m                                                                                          \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m Recommended: determine nic for jail IP via route table.\u001b[K\u001b[24;115H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000051,
+      "\u001b[26;55H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[26;77H\u001b[m\u001b[30m\u001b[47m\u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e\u001b[26;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.461748,
+      "\u001b[18;59H\u001b[31m\u001b[47ma\u001b[34m\u001b[47m\u001b[1muto\u001b[m\u001b[30m\u001b[47m     auto\u001b[19;59H\u001b[31m\u001b[44m\u001b[1md\u001b[33m\u001b[44misable\u001b[m\u001b[30m\u001b[47m  \u001b[37m\u001b[44m\u001b[1mdisable\u001b[42;2H\u001b[m\u001b[37m\u001b[40mDo not create/remove IP automatically: IP of jail must be already initialized or for vnet mode\u001b[26;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.231945,
+      "\u001b[H\n\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[42;144H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000005,
+      "\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.012503,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001667,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000405,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000563,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[36m\u001b[44m\u001b[1m jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                              \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m CBSD v10.2.1f \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m Use menu for construct jail create config file \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[37m\u001b[47m\u001b[1mk\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mA\u001b[34m\u001b[47m\u001b[1m profile\u001b[m\u001b[30m\u001b[47m        default                   \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mB\u001b[34m\u001b[47m\u001b[1m pkglist\u001b[m\u001b[30m\u001b[47m        0                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mC\u001b[34m\u001b[47m\u001b[1m jname\u001b[m\u001b[30m\u001b[47m          jail1                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mD\u001b[34m\u001b[47m\u001b[1m host_hostname\u001b[m\u001b[30m\u001b[47m  jail1.my.domain           \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mE\u001b[34m\u001b[47m\u001b[1m ip4_addr\u001b[m\u001b[30m\u001b[47m       10.0.0.100,192.168.1.100  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                          "
+    ],
+    [
+      0.000250,
+      "    \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mF\u001b[34m\u001b[47m\u001b[1m ver\u001b[m\u001b[30m\u001b[47m            11                        \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mG\u001b[34m\u001b[47m\u001b[1m baserw\u001b[m\u001b[30m\u001b[47m         [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mH\u001b[34m\u001b[47m\u001b[1m mount_ports\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mI\u001b[34m\u001b[47m\u001b[1m astart\u001b[m\u001b[30m\u001b[47m         [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[44m\u001b[1mJ\u001b[33m\u001b[44m interface\u001b[m\u001b[30m\u001b[47m      \u001b[37m\u001b[44m\u001b[1m0\u001b[m\u001b[30m\u001b[47m                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mK\u001b[34m\u001b[47m\u001b[1m applytpl\u001b[m\u001b[30m\u001b[47m       [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mL\u001b[34m\u001b[47m\u001b[1m floatresolv\u001b[m\u001b[30m\u001b[47m    [X]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mM\u001b[34m\u001b[47m\u001b[1m arch\u001b[m\u001b[30m\u001b[47m           amd64                     \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mN\u001b[34m\u001b[47m\u001b[1m vnet\u001b[m\u001b[30m\u001b[47m           [ ]                       \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47mO\u001b[34m\u001b[47m\u001b[1m zfs_snapsrc\u001b[m\u001b[30m\u001b[47m                              \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m-\u001b[30m\u001b[47m                -                         \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m1\u001b[34m\u001b[47m\u001b[1m user_pw_root\u001b[m\u001b[30m\u001b[47m   Root Password             \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m2\u001b[34m\u001b[47m\u001b[1m add_user\u001b[m\u001b[30m\u001b[47m                                 \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m3\u001b[34m\u001b[47m\u001b[1m services\u001b[m\u001b[30m\u001b[47m       Services \u003e\u003e               \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m4\u001b[34m\u001b[47m\u001b[1m pkg_bootstrap\u001b[m\u001b[30m\u001b[47m  [X] Toggle pkg bootstrap  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B \u001b[31m\u001b[47m5\u001b[34m\u001b[47m\u001b[1m GO\u001b[m\u001b[30m\u001b[47m             PROCEED!                  \u001b[37m\u001b[47m\u001b(0\u001b[1mx\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0m\u001b[37m\u001b[47m\u001b[1mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[m\u001b[30m\u001b[47m \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                                \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                              \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                \u001b[30m\u001b[40m                                                  \u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[m\u001b[37m\u001b[40m Int"
+    ],
+    [
+      0.000002,
+      "erface selection and aliasing mode\u001b[K\u001b[31;95H\u001b[39;49m\u001b[m\u001b[33;55H\u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m    \u003c\u001b[31m\u001b[47mC\u001b[30m\u001b[47m\u001b[1mancel\u001b[m\u001b[30m\u001b[47m\u003e    \u003c\u001b[1m \u001b[m\u001b[31m\u001b[47mH\u001b[30m\u001b[47m\u001b[1melp \u001b[m\u001b[30m\u001b[47m\u003e\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.608265,
+      "\u001b[19;51H\u001b[31m\u001b[47mJ\u001b[34m\u001b[47m\u001b[1m interface\u001b[6C\u001b[m\u001b[30m\u001b[47m0\u001b[30;51H\u001b[31m\u001b[44m\u001b[1m5\u001b[33m\u001b[44m GO\u001b[30;68H\u001b[37m\u001b[44mPROCEED!\u001b[42;2H\u001b[m\u001b[37m\u001b[40mPROCEED!\u001b[K\u001b[33;58H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.360276,
+      "\u001b[H\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[42;144H\u001b[39;49m\u001b[m\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.084902,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001187,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000335,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000188,
+      "\u001b[39;49m\u001b[m\u001b[H\u001b[2J\u001b[24B\u001b[36m\u001b[44m\u001b[1m\u001b[J\u001b[H jconstruct-tui\u001b[K\r\n \u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n                                                 \u001b[37m\u001b[47m\u001b(0lqqqqqqqqqqqqq\u001b(B\u001b[34m\u001b[47m Yes and No \u001b[37m\u001b[47m\u001b(0qqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0k\u001b(B\u001b[36m\u001b[44m\u001b[1m\u001b[K\r\n                                                 \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m                                         \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                 \u001b[37m\u001b[47m\u001b(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[m\u001b[30m\u001b[47m\u001b(0u\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                 \u001b[37m\u001b[47m\u001b(0x\u001b(B\u001b[m\u001b[30m\u001b[47m         \u001b[37m\u001b[44m\u001b[1m\u003c\u001b[33m\u001b[44m yes \u001b[37m\u001b[44m\u003e\u001b[m\u001b[30m\u001b[47m     \u003c\u001b[1m no  \u001b[m\u001b[30m\u001b[47m\u003e             \u001b(0x\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                 \u001b[37m\u001b[47m\u001b(0m\u001b[m\u001b[30m\u001b[47m\u001b(0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[30m\u001b[40m\u001b[1m  \u001b[36m\u001b[44m\u001b[K\r\n                                                   \u001b[30m\u001b[40m                                           \u001b[36m\u001b[44m\u001b[K\u001b[22;62H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.000127,
+      "\u001b[20;52H\u001b[30m\u001b[47mDo you want to create jail immediately?\u001b[22;62H\u001b[39;49m\u001b[m"
+    ],
+    [
+      0.624885,
+      "\u001b[24;94H\u001b[?1000l\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.101453,
+      "\u001b[0;35mPlease wait: \u001b[0;32mthis will take a while...\u001b[0m\r\n"
+    ],
+    [
+      0.648797,
+      "\u001b[0;35mApplying skel dir template from: \u001b[0;32m/usr/jails/share/FreeBSD-jail-skel\u001b[0m\r\n"
+    ],
+    [
+      0.747616,
+      "\u001b[0;35mFirst running pkg. Bootstrapping...\u001b[0m\r\n"
+    ],
+    [
+      0.002728,
+      "\u001b[0;35mpkg: [\u001b[0;32mbootstrap...\u001b[0;35m\u001b[0m"
+    ],
+    [
+      1.495392,
+      "\u001b[0;32mOk\u001b[0;35m]\u001b[0m\r\n"
+    ],
+    [
+      0.004790,
+      "Updating FreeBSD repository catalogue...\r\n"
+    ],
+    [
+      0.352092,
+      "Fetching meta.txz:   0%"
+    ],
+    [
+      0.000005,
+      "\rFetching meta.txz: 100%"
+    ],
+    [
+      0.000028,
+      "    944 B   0.9kB/s    00:01    \r\n"
+    ],
+    [
+      0.167855,
+      "Fetching packagesite.txz:   0%"
+    ],
+    [
+      0.033527,
+      "\rFetching packagesite.txz:   0%"
+    ],
+    [
+      0.000005,
+      "   50 KiB  51.2kB/s    01:47 ETA"
+    ],
+    [
+      0.994022,
+      "\rFetching packagesite.txz:  90%    5 MiB"
+    ],
+    [
+      0.000007,
+      "   5.0MB/s    00:00 ETA"
+    ],
+    [
+      0.086069,
+      "\rFetching packagesite.txz: 100%"
+    ],
+    [
+      0.000007,
+      "    5 MiB   2.8MB/s    00:02    \r\n"
+    ],
+    [
+      0.478774,
+      "Processing entries:   0%"
+    ],
+    [
+      0.001975,
+      "\rProcessing entries:   0%"
+    ],
+    [
+      0.047353,
+      "\rProcessing entries:   1%"
+    ],
+    [
+      0.049621,
+      "\rProcessing entries:   2%"
+    ],
+    [
+      0.045158,
+      "\rProcessing entries:   3%"
+    ],
+    [
+      0.048481,
+      "\rProcessing entries:   4%"
+    ],
+    [
+      0.050361,
+      "\rProcessing entries:   5%"
+    ],
+    [
+      0.049442,
+      "\rProcessing entries:   6%"
+    ],
+    [
+      0.043558,
+      "\rProcessing entries:   7%"
+    ],
+    [
+      0.043963,
+      "\rProcessing entries:   8%"
+    ],
+    [
+      0.046446,
+      "\rProcessing entries:   9%"
+    ],
+    [
+      0.048273,
+      "\rProcessing entries:  10%"
+    ],
+    [
+      0.048898,
+      "\rProcessing entries:  11%"
+    ],
+    [
+      0.050036,
+      "\rProcessing entries:  12%"
+    ],
+    [
+      0.047700,
+      "\rProcessing entries:  13%"
+    ],
+    [
+      0.044404,
+      "\rProcessing entries:  14%"
+    ],
+    [
+      0.048858,
+      "\rProcessing entries:  15%"
+    ],
+    [
+      0.393825,
+      "\rProcessing entries:  16%"
+    ],
+    [
+      0.221254,
+      "\rProcessing entries:  17%"
+    ],
+    [
+      0.181807,
+      "\rProcessing entries:  18%"
+    ],
+    [
+      0.153532,
+      "\rProcessing entries:  19%"
+    ],
+    [
+      0.181975,
+      "\rProcessing entries:  20%"
+    ],
+    [
+      0.162904,
+      "\rProcessing entries:  21%"
+    ],
+    [
+      0.144171,
+      "\rProcessing entries:  22%"
+    ],
+    [
+      0.193163,
+      "\rProcessing entries:  23%"
+    ],
+    [
+      0.160514,
+      "\rProcessing entries:  24%"
+    ],
+    [
+      0.190880,
+      "\rProcessing entries:  25%"
+    ],
+    [
+      0.157923,
+      "\rProcessing entries:  26%"
+    ],
+    [
+      0.193046,
+      "\rProcessing entries:  27%"
+    ],
+    [
+      0.142007,
+      "\rProcessing entries:  28%"
+    ],
+    [
+      0.168608,
+      "\rProcessing entries:  29%"
+    ],
+    [
+      0.186930,
+      "\rProcessing entries:  30%"
+    ],
+    [
+      0.156147,
+      "\rProcessing entries:  31%"
+    ],
+    [
+      0.145743,
+      "\rProcessing entries:  32%"
+    ],
+    [
+      0.192525,
+      "\rProcessing entries:  33%"
+    ],
+    [
+      0.154482,
+      "\rProcessing entries:  34%"
+    ],
+    [
+      0.161348,
+      "\rProcessing entries:  35%"
+    ],
+    [
+      0.146660,
+      "\rProcessing entries:  36%"
+    ],
+    [
+      0.152080,
+      "\rProcessing entries:  37%"
+    ],
+    [
+      0.179514,
+      "\rProcessing entries:  38%"
+    ],
+    [
+      0.177817,
+      "\rProcessing entries:  39%"
+    ],
+    [
+      0.196089,
+      "\rProcessing entries:  40%"
+    ],
+    [
+      0.188019,
+      "\rProcessing entries:  41%"
+    ],
+    [
+      0.193141,
+      "\rProcessing entries:  42%"
+    ],
+    [
+      0.313526,
+      "\rProcessing entries:  43%"
+    ],
+    [
+      0.198914,
+      "\rProcessing entries:  44%"
+    ],
+    [
+      0.173186,
+      "\rProcessing entries:  45%"
+    ],
+    [
+      0.162613,
+      "\rProcessing entries:  46%"
+    ],
+    [
+      0.198951,
+      "\rProcessing entries:  47%"
+    ],
+    [
+      0.173118,
+      "\rProcessing entries:  48%"
+    ],
+    [
+      0.278711,
+      "\rProcessing entries:  49%"
+    ],
+    [
+      0.181838,
+      "\rProcessing entries:  50%"
+    ],
+    [
+      0.171121,
+      "\rProcessing entries:  51%"
+    ],
+    [
+      0.161468,
+      "\rProcessing entries:  52%"
+    ],
+    [
+      0.172099,
+      "\rProcessing entries:  53%"
+    ],
+    [
+      0.150529,
+      "\rProcessing entries:  54%"
+    ],
+    [
+      0.151748,
+      "\rProcessing entries:  55%"
+    ],
+    [
+      0.183536,
+      "\rProcessing entries:  56%"
+    ],
+    [
+      0.162833,
+      "\rProcessing entries:  57%"
+    ],
+    [
+      0.143548,
+      "\rProcessing entries:  58%"
+    ],
+    [
+      0.189186,
+      "\rProcessing entries:  59%"
+    ],
+    [
+      0.184378,
+      "\rProcessing entries:  60%"
+    ],
+    [
+      0.146700,
+      "\rProcessing entries:  61%"
+    ],
+    [
+      0.148264,
+      "\rProcessing entries:  62%"
+    ],
+    [
+      0.159387,
+      "\rProcessing entries:  63%"
+    ],
+    [
+      0.184966,
+      "\rProcessing entries:  64%"
+    ],
+    [
+      0.148194,
+      "\rProcessing entries:  65%"
+    ],
+    [
+      0.141080,
+      "\rProcessing entries:  66%"
+    ],
+    [
+      0.147024,
+      "\rProcessing entries:  67%"
+    ],
+    [
+      0.159146,
+      "\rProcessing entries:  68%"
+    ],
+    [
+      0.158745,
+      "\rProcessing entries:  69%"
+    ],
+    [
+      0.159738,
+      "\rProcessing entries:  70%"
+    ],
+    [
+      0.204166,
+      "\rProcessing entries:  71%"
+    ],
+    [
+      0.280753,
+      "\rProcessing entries:  72%"
+    ],
+    [
+      0.196032,
+      "\rProcessing entries:  73%"
+    ],
+    [
+      0.222033,
+      "\rProcessing entries:  74%"
+    ],
+    [
+      0.169934,
+      "\rProcessing entries:  75%"
+    ],
+    [
+      0.176199,
+      "\rProcessing entries:  76%"
+    ],
+    [
+      0.206839,
+      "\rProcessing entries:  77%"
+    ],
+    [
+      0.155047,
+      "\rProcessing entries:  78%"
+    ],
+    [
+      0.170751,
+      "\rProcessing entries:  79%"
+    ],
+    [
+      0.181226,
+      "\rProcessing entries:  80%"
+    ],
+    [
+      0.148900,
+      "\rProcessing entries:  81%"
+    ],
+    [
+      0.165434,
+      "\rProcessing entries:  82%"
+    ],
+    [
+      0.170310,
+      "\rProcessing entries:  83%"
+    ],
+    [
+      0.173243,
+      "\rProcessing entries:  84%"
+    ],
+    [
+      0.161225,
+      "\rProcessing entries:  85%"
+    ],
+    [
+      0.155568,
+      "\rProcessing entries:  86%"
+    ],
+    [
+      0.157124,
+      "\rProcessing entries:  87%"
+    ],
+    [
+      0.144688,
+      "\rProcessing entries:  88%"
+    ],
+    [
+      0.145503,
+      "\rProcessing entries:  89%"
+    ],
+    [
+      0.152109,
+      "\rProcessing entries:  90%"
+    ],
+    [
+      0.172992,
+      "\rProcessing entries:  91%"
+    ],
+    [
+      0.150813,
+      "\rProcessing entries:  92%"
+    ],
+    [
+      0.138674,
+      "\rProcessing entries:  93%"
+    ],
+    [
+      0.145022,
+      "\rProcessing entries:  94%"
+    ],
+    [
+      0.140910,
+      "\rProcessing entries:  95%"
+    ],
+    [
+      0.150352,
+      "\rProcessing entries:  96%"
+    ],
+    [
+      0.146808,
+      "\rProcessing entries:  97%"
+    ],
+    [
+      0.141635,
+      "\rProcessing entries:  98%"
+    ],
+    [
+      0.143937,
+      "\rProcessing entries:  99%"
+    ],
+    [
+      0.145706,
+      "\rProcessing entries: 100%\r\nFreeBSD repository update completed. 24808 packages processed.\r\n"
+    ],
+    [
+      1.400493,
+      "\r\n\u001b[0;35mTo edit VM properties use: \u001b[0;32mcbsd jconfig jname=jail1\u001b[0m\r\n\u001b[0;35mTo start VM use: \u001b[0;32mcbsd jstart jail1\u001b[0m\r\n\u001b[0;35mTo stop VM use: \u001b[0;32mcbsd jstop jail1\u001b[0m\r\n\u001b[0;35mTo remove VM use: \u001b[0;32mcbsd jremove jail1\u001b[0m\r\n\u001b[0;35mFor attach VM console use: \u001b[0;32mcbsd jlogin jail1\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;35mCreating jail1 complete: \u001b[0;32mEnjoy!\u001b[0m\r\n"
+    ],
+    [
+      0.010366,
+      "\r\n"
+    ],
+    [
+      0.000647,
+      "root@gizmo:~ # "
+    ],
+    [
+      1.741434,
+      "c"
+    ],
+    [
+      0.055909,
+      "d"
+    ],
+    [
+      0.063951,
+      " "
+    ],
+    [
+      0.207995,
+      "/"
+    ],
+    [
+      0.080025,
+      "u"
+    ],
+    [
+      0.079979,
+      "s"
+    ],
+    [
+      0.072007,
+      "r"
+    ],
+    [
+      0.111943,
+      "/"
+    ],
+    [
+      0.112073,
+      "j"
+    ],
+    [
+      0.096023,
+      "a"
+    ],
+    [
+      0.256139,
+      "ils/"
+    ],
+    [
+      0.439761,
+      "j"
+    ],
+    [
+      0.088040,
+      "a"
+    ],
+    [
+      0.056025,
+      "i"
+    ],
+    [
+      0.199951,
+      "l"
+    ],
+    [
+      0.088115,
+      "s"
+    ],
+    [
+      0.159836,
+      "-"
+    ],
+    [
+      0.312063,
+      "s"
+    ],
+    [
+      0.128023,
+      "y"
+    ],
+    [
+      0.031916,
+      "s"
+    ],
+    [
+      0.168187,
+      "tem/"
+    ],
+    [
+      0.647860,
+      "j"
+    ],
+    [
+      0.063961,
+      "a"
+    ],
+    [
+      0.111989,
+      "i"
+    ],
+    [
+      0.192062,
+      "\u0007l"
+    ],
+    [
+      0.567952,
+      "1"
+    ],
+    [
+      0.192090,
+      "/"
+    ],
+    [
+      0.375910,
+      "\r\r\n"
+    ],
+    [
+      0.000113,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      0.247868,
+      "l"
+    ],
+    [
+      0.047934,
+      "s"
+    ],
+    [
+      0.064017,
+      " "
+    ],
+    [
+      0.103993,
+      "-"
+    ],
+    [
+      0.080033,
+      "l"
+    ],
+    [
+      0.000022,
+      "a"
+    ],
+    [
+      0.143982,
+      "\r\r\n"
+    ],
+    [
+      0.001266,
+      "total 25\r\n"
+    ],
+    [
+      0.000110,
+      "drwxrwxr-x   8 root  cbsd    9 Feb 11 21:05 .\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x  21 cbsd  cbsd   22 Feb 11 21:05 ..\r\n"
+    ],
+    [
+      0.000021,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 master_poststart.d\r\n"
+    ],
+    [
+      0.000019,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 master_poststop.d\r\n"
+    ],
+    [
+      0.000020,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 master_prestart.d\r\n"
+    ],
+    [
+      0.000020,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 master_prestop.d\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-rw-r--   1 root  cbsd  995 Feb 11 21:05 rc.conf_jail1\r\n"
+    ],
+    [
+      0.000019,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 start.d\r\n"
+    ],
+    [
+      0.000019,
+      "drwxrwxr-x   2 cbsd  cbsd    2 Feb 11 21:05 stop.d\r\n"
+    ],
+    [
+      0.000248,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      2.230218,
+      "c"
+    ],
+    [
+      0.047930,
+      "d"
+    ],
+    [
+      0.063983,
+      " "
+    ],
+    [
+      2.913001,
+      "master_prestart."
+    ],
+    [
+      0.000005,
+      "d"
+    ],
+    [
+      0.854970,
+      "\r\r\n"
+    ],
+    [
+      0.000123,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_prestart.d # "
+    ],
+    [
+      0.663803,
+      "v"
+    ],
+    [
+      0.103998,
+      "i"
+    ],
+    [
+      0.127981,
+      " "
+    ],
+    [
+      0.159962,
+      "i"
+    ],
+    [
+      0.087995,
+      "f"
+    ],
+    [
+      0.576088,
+      "u"
+    ],
+    [
+      0.063821,
+      "p"
+    ],
+    [
+      0.776133,
+      "."
+    ],
+    [
+      0.127937,
+      "s"
+    ],
+    [
+      0.976075,
+      "h"
+    ],
+    [
+      0.711973,
+      "\r\r\n"
+    ],
+    [
+      0.094816,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000275,
+      "\u001b[H\u001b[2J\u001b[1B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[H"
+    ],
+    [
+      0.000034,
+      "\u001b[41Bifup.sh: new file: line 1\u001b[H"
+    ],
+    [
+      0.616884,
+      "\u001b[41B\u001b[J\u001b[H"
+    ],
+    [
+      0.335941,
+      "#"
+    ],
+    [
+      0.071958,
+      "!"
+    ],
+    [
+      0.327967,
+      "/"
+    ],
+    [
+      0.127973,
+      "b"
+    ],
+    [
+      0.112056,
+      "i"
+    ],
+    [
+      0.063944,
+      "n"
+    ],
+    [
+      0.048014,
+      "/"
+    ],
+    [
+      0.120042,
+      "s"
+    ],
+    [
+      0.135941,
+      "h"
+    ],
+    [
+      0.304085,
+      "\r\u001b[1B \u0008"
+    ],
+    [
+      0.632012,
+      "\u001b[1B \u0008"
+    ],
+    [
+      0.327834,
+      "/"
+    ],
+    [
+      0.104011,
+      "s"
+    ],
+    [
+      0.224046,
+      "b"
+    ],
+    [
+      0.063990,
+      "i"
+    ],
+    [
+      0.047891,
+      "n"
+    ],
+    [
+      0.072065,
+      "/"
+    ],
+    [
+      0.328023,
+      "i"
+    ],
+    [
+      0.127977,
+      "f"
+    ],
+    [
+      0.216011,
+      "c"
+    ],
+    [
+      0.056013,
+      "o"
+    ],
+    [
+      0.048010,
+      "n"
+    ],
+    [
+      0.111954,
+      "f"
+    ],
+    [
+      0.023944,
+      "i"
+    ],
+    [
+      0.103995,
+      "g"
+    ],
+    [
+      0.192150,
+      " "
+    ],
+    [
+      2.631922,
+      "r"
+    ],
+    [
+      0.047916,
+      "e"
+    ],
+    [
+      0.776015,
+      "0"
+    ],
+    [
+      0.815945,
+      " "
+    ],
+    [
+      0.223996,
+      "a"
+    ],
+    [
+      0.112003,
+      "l"
+    ],
+    [
+      0.071991,
+      "i"
+    ],
+    [
+      0.079990,
+      "a"
+    ],
+    [
+      0.096000,
+      "s"
+    ],
+    [
+      0.096027,
+      " "
+    ],
+    [
+      0.271950,
+      "1"
+    ],
+    [
+      0.095982,
+      "9"
+    ],
+    [
+      0.096016,
+      "2"
+    ],
+    [
+      0.544003,
+      "\u0008"
+    ],
+    [
+      0.127988,
+      "\u0008"
+    ],
+    [
+      0.127988,
+      "\u0008"
+    ],
+    [
+      0.127986,
+      "\u0008"
+    ],
+    [
+      0.119973,
+      "\u0008"
+    ],
+    [
+      0.112018,
+      "\u0008"
+    ],
+    [
+      0.231994,
+      "\u0008"
+    ],
+    [
+      0.135988,
+      "\u0008"
+    ],
+    [
+      0.135996,
+      "\u0008"
+    ],
+    [
+      0.512410,
+      "1"
+    ],
+    [
+      0.103597,
+      "9"
+    ],
+    [
+      0.095990,
+      "2"
+    ],
+    [
+      0.111989,
+      "."
+    ],
+    [
+      0.096035,
+      "1"
+    ],
+    [
+      0.247991,
+      "6"
+    ],
+    [
+      0.071968,
+      "8"
+    ],
+    [
+      0.151989,
+      "."
+    ],
+    [
+      0.127997,
+      "1"
+    ],
+    [
+      0.183981,
+      "."
+    ],
+    [
+      0.191998,
+      "1"
+    ],
+    [
+      0.328003,
+      "0"
+    ],
+    [
+      0.136007,
+      "0"
+    ],
+    [
+      0.344005,
+      "/"
+    ],
+    [
+      1.008048,
+      "\u0008"
+    ],
+    [
+      0.407898,
+      " "
+    ],
+    [
+      0.272034,
+      "a"
+    ],
+    [
+      0.103950,
+      "l"
+    ],
+    [
+      0.312015,
+      "\u0008"
+    ],
+    [
+      0.135963,
+      "\u0008"
+    ],
+    [
+      0.111984,
+      "\u0008"
+    ],
+    [
+      0.280072,
+      "/"
+    ],
+    [
+      0.104000,
+      "3"
+    ],
+    [
+      0.039933,
+      "2"
+    ],
+    [
+      0.216123,
+      " "
+    ],
+    [
+      0.135913,
+      "a"
+    ],
+    [
+      0.111980,
+      "l"
+    ],
+    [
+      0.128027,
+      "i"
+    ],
+    [
+      0.064037,
+      "a"
+    ],
+    [
+      0.087964,
+      "s"
+    ],
+    [
+      0.456024,
+      "\r\u001b[1B \u0008"
+    ],
+    [
+      0.440014,
+      "/"
+    ],
+    [
+      0.135910,
+      "s"
+    ],
+    [
+      0.215936,
+      "b"
+    ],
+    [
+      0.064075,
+      "i"
+    ],
+    [
+      0.071932,
+      "n"
+    ],
+    [
+      0.072021,
+      "/"
+    ],
+    [
+      0.288026,
+      "i"
+    ],
+    [
+      0.160003,
+      "f"
+    ],
+    [
+      0.216101,
+      "c"
+    ],
+    [
+      0.055890,
+      "o"
+    ],
+    [
+      0.055930,
+      "n"
+    ],
+    [
+      0.104022,
+      "f"
+    ],
+    [
+      0.048046,
+      "i"
+    ],
+    [
+      0.079916,
+      "g"
+    ],
+    [
+      0.160070,
+      " "
+    ],
+    [
+      0.368078,
+      "r"
+    ],
+    [
+      0.055829,
+      "e"
+    ],
+    [
+      0.192045,
+      "1"
+    ],
+    [
+      0.135957,
+      " "
+    ],
+    [
+      0.200105,
+      "1"
+    ],
+    [
+      0.384027,
+      "0"
+    ],
+    [
+      0.183890,
+      "."
+    ],
+    [
+      1.168079,
+      "0"
+    ],
+    [
+      0.103867,
+      "."
+    ],
+    [
+      0.119980,
+      "0"
+    ],
+    [
+      0.088052,
+      "."
+    ],
+    [
+      0.720000,
+      "1"
+    ],
+    [
+      0.039957,
+      "0"
+    ],
+    [
+      0.135967,
+      "0"
+    ],
+    [
+      0.304114,
+      "/"
+    ],
+    [
+      0.663959,
+      "3"
+    ],
+    [
+      0.055894,
+      "2"
+    ],
+    [
+      0.143995,
+      " "
+    ],
+    [
+      0.264045,
+      "a"
+    ],
+    [
+      0.079984,
+      "l"
+    ],
+    [
+      0.215980,
+      "i"
+    ],
+    [
+      0.055982,
+      "a"
+    ],
+    [
+      0.095942,
+      "s"
+    ],
+    [
+      0.504411,
+      "\r\u001b[1B \u0008"
+    ],
+    [
+      0.934126,
+      "\u001b[37BCopying file for recovery..."
+    ],
+    [
+      0.026376,
+      "\r\u001b[J\u001b[37A"
+    ],
+    [
+      1.649602,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.016315,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.015029,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.015707,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.016029,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008654,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.016562,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.014640,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.024175,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.032106,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.039817,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.015935,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.023934,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.040259,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.071843,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.015798,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008058,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007991,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008043,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008057,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007977,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007959,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008011,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008047,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008092,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007860,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008015,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007980,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007999,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.007956,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008231,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008405,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008803,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008029,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.008078,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      0.015630,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[36A\u0008"
+    ],
+    [
+      3.757317,
+      "\u0007"
+    ],
+    [
+      0.000069,
+      "\u001b[37B:"
+    ],
+    [
+      0.071899,
+      "w"
+    ],
+    [
+      0.016032,
+      "q"
+    ],
+    [
+      0.207999,
+      "!"
+    ],
+    [
+      0.406287,
+      "\r"
+    ],
+    [
+      0.000152,
+      "ifup.sh: new file: 5 lines, 93 characters\r"
+    ],
+    [
+      0.062152,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000115,
+      "\n\u001b[41;42H.\r\u001b[1B\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000473,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_prestart.d # "
+    ],
+    [
+      0.314860,
+      "c"
+    ],
+    [
+      0.143881,
+      "h"
+    ],
+    [
+      0.400006,
+      "m"
+    ],
+    [
+      0.072012,
+      "o"
+    ],
+    [
+      0.087963,
+      "d"
+    ],
+    [
+      0.095999,
+      " "
+    ],
+    [
+      0.216033,
+      "+"
+    ],
+    [
+      0.135977,
+      "x"
+    ],
+    [
+      0.063994,
+      " "
+    ],
+    [
+      0.168027,
+      "i"
+    ],
+    [
+      0.104014,
+      "f"
+    ],
+    [
+      0.159954,
+      "u"
+    ],
+    [
+      0.232081,
+      "p.sh "
+    ],
+    [
+      0.808002,
+      "\r\r\n"
+    ],
+    [
+      0.000731,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_prestart.d # "
+    ],
+    [
+      2.711187,
+      "c"
+    ],
+    [
+      0.047880,
+      "d"
+    ],
+    [
+      0.063978,
+      " "
+    ],
+    [
+      0.064006,
+      "."
+    ],
+    [
+      0.159985,
+      "."
+    ],
+    [
+      0.040009,
+      "/"
+    ],
+    [
+      0.280047,
+      "\r\r\n"
+    ],
+    [
+      0.000145,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      0.623867,
+      "l"
+    ],
+    [
+      0.063930,
+      "s"
+    ],
+    [
+      0.264048,
+      "\r\r\n"
+    ],
+    [
+      0.000809,
+      "master_poststart.d\tmaster_prestart.d\trc.conf_jail1\t\tstop.d\r\nmaster_poststop.d\tmaster_prestop.d\tstart.d\r\n"
+    ],
+    [
+      0.000149,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      3.534984,
+      "l"
+    ],
+    [
+      0.287883,
+      "s"
+    ],
+    [
+      0.064012,
+      " "
+    ],
+    [
+      0.079994,
+      "-"
+    ],
+    [
+      0.119880,
+      "1"
+    ],
+    [
+      0.112146,
+      "\r\r\n"
+    ],
+    [
+      0.000834,
+      "master_poststart.d\r\nmaster_poststop.d\r\nmaster_prestart.d\r\nmaster_prestop.d\r\nrc.conf_jail1\r\nstart.d\r\nstop.d\r\n"
+    ],
+    [
+      0.000231,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      0.902949,
+      "c"
+    ],
+    [
+      0.071888,
+      "l"
+    ],
+    [
+      0.152058,
+      " "
+    ],
+    [
+      0.287986,
+      "m"
+    ],
+    [
+      0.039980,
+      "a"
+    ],
+    [
+      0.064027,
+      "s"
+    ],
+    [
+      0.208023,
+      "\u0007ter_p"
+    ],
+    [
+      1.207972,
+      "r"
+    ],
+    [
+      0.064007,
+      "e"
+    ],
+    [
+      0.207985,
+      "\u0007st"
+    ],
+    [
+      0.968011,
+      "a"
+    ],
+    [
+      0.167953,
+      "rt.d/"
+    ],
+    [
+      0.960031,
+      "ifup.sh "
+    ],
+    [
+      1.143927,
+      "m"
+    ],
+    [
+      0.031911,
+      "a"
+    ],
+    [
+      0.312029,
+      "\u0007ster_p"
+    ],
+    [
+      0.992016,
+      "o"
+    ],
+    [
+      0.127976,
+      "\u0007stst"
+    ],
+    [
+      0.832117,
+      "\u0007\r\r\n"
+    ],
+    [
+      0.000045,
+      "master_poststart.d/ master_poststop.d/  \r\r\nroot@gizmo:/usr/jails/jails-system/jail1 # cl master_prestart.d/ifup.sh master_postst"
+    ],
+    [
+      0.111775,
+      "o"
+    ],
+    [
+      0.360051,
+      "p.d/"
+    ],
+    [
+      2.111946,
+      "\u001b[47D"
+    ],
+    [
+      0.135918,
+      "c"
+    ],
+    [
+      0.143996,
+      "l"
+    ],
+    [
+      0.232004,
+      "\u0008\u001b[P"
+    ],
+    [
+      0.271998,
+      "\u001b[4hp\u001b[4l"
+    ],
+    [
+      0.152010,
+      "\r\r\n"
+    ],
+    [
+      0.021049,
+      "root@gizmo:/usr/jails/jails-system/jail1 # "
+    ],
+    [
+      0.442941,
+      "c"
+    ],
+    [
+      0.055950,
+      "d"
+    ],
+    [
+      0.055979,
+      " "
+    ],
+    [
+      1.473094,
+      "m"
+    ],
+    [
+      0.000005,
+      "aster_posts"
+    ],
+    [
+      0.000002,
+      "to"
+    ],
+    [
+      0.000002,
+      "p."
+    ],
+    [
+      0.000001,
+      "d"
+    ],
+    [
+      0.000001,
+      "/"
+    ],
+    [
+      0.630919,
+      "\r\r\n"
+    ],
+    [
+      0.000146,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_poststop.d # "
+    ],
+    [
+      0.863828,
+      "m"
+    ],
+    [
+      0.071949,
+      "c"
+    ],
+    [
+      0.960000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039959,
+      "v"
+    ],
+    [
+      0.223997,
+      " "
+    ],
+    [
+      0.952048,
+      "i"
+    ],
+    [
+      0.040027,
+      "fup.sh "
+    ],
+    [
+      0.663988,
+      "i"
+    ],
+    [
+      0.231899,
+      "f"
+    ],
+    [
+      0.279973,
+      "d"
+    ],
+    [
+      0.072046,
+      "o"
+    ],
+    [
+      0.152036,
+      "\u0007"
+    ],
+    [
+      0.975967,
+      "w"
+    ],
+    [
+      0.823970,
+      "n"
+    ],
+    [
+      0.303935,
+      "."
+    ],
+    [
+      0.216001,
+      "s"
+    ],
+    [
+      0.135950,
+      "h"
+    ],
+    [
+      0.496042,
+      "\r\r\n"
+    ],
+    [
+      0.000740,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_poststop.d # "
+    ],
+    [
+      1.415302,
+      "v"
+    ],
+    [
+      0.095860,
+      "i"
+    ],
+    [
+      0.151990,
+      " "
+    ],
+    [
+      0.135991,
+      "i"
+    ],
+    [
+      0.136055,
+      "f"
+    ],
+    [
+      0.535971,
+      "d"
+    ],
+    [
+      0.200082,
+      "own.sh "
+    ],
+    [
+      0.415954,
+      "\r\r\n"
+    ],
+    [
+      0.084197,
+      "\u001b[1;42r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000271,
+      "\u001b[H\u001b[2J#!/bin/sh\r\u001b[2B/sbin/ifconfig re0 192.168.1.100/32 alias\r\u001b[1B/sbin/ifconfig re1 10.0.0.100/32 alias\r\u001b[2B~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[1B\u0008~\u001b[H"
+    ],
+    [
+      0.000036,
+      "\u001b[41Bifdown.sh: unmodified: line 1\u001b[H"
+    ],
+    [
+      0.403548,
+      "\u001b[41B/\u001b[K"
+    ],
+    [
+      0.399883,
+      "a"
+    ],
+    [
+      0.111995,
+      "l"
+    ],
+    [
+      0.208039,
+      "\r\u001b[J\u001b[3;37H"
+    ],
+    [
+      0.919966,
+      "0alias\u001b[5D"
+    ],
+    [
+      0.892027,
+      "\r\u001b[39BCopying file for recovery..."
+    ],
+    [
+      0.029376,
+      "\r\u001b[J\u001b[3;38H"
+    ],
+    [
+      0.000043,
+      "\u0008"
+    ],
+    [
+      0.502598,
+      "alias\u001b[K\u001b[5D"
+    ],
+    [
+      1.095877,
+      "-alias\u001b[5D"
+    ],
+    [
+      0.568047,
+      "\u0008"
+    ],
+    [
+      0.000005,
+      "-"
+    ],
+    [
+      0.631950,
+      "\u001b[4;34H"
+    ],
+    [
+      1.799956,
+      "-alias\u001b[5D"
+    ],
+    [
+      0.455953,
+      "\r\u001b[38B:"
+    ],
+    [
+      0.168006,
+      "qw"
+    ],
+    [
+      0.239968,
+      "!"
+    ],
+    [
+      0.746703,
+      "\r"
+    ],
+    [
+      0.000026,
+      "\u001b[7mThe qw command is unknown\r\u001b[m"
+    ],
+    [
+      0.000012,
+      "\u001b[42;26H\u001b[7m.\u001b[4;34H\u001b[m"
+    ],
+    [
+      0.317253,
+      "\r\u001b[38B\u001b[J\u001b[4;35H"
+    ],
+    [
+      0.679955,
+      "\u0007"
+    ],
+    [
+      0.000024,
+      "\r\u001b[38B:"
+    ],
+    [
+      0.720014,
+      "w"
+    ],
+    [
+      0.047886,
+      "q"
+    ],
+    [
+      0.184022,
+      "!"
+    ],
+    [
+      0.200051,
+      "\r"
+    ],
+    [
+      0.000140,
+      "ifdown.sh: 5 lines, 95 characters\r"
+    ],
+    [
+      0.054640,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000119,
+      "\n\u001b[41;34H.\r\u001b[1B\u001b[42;1H\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000323,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_poststop.d # "
+    ],
+    [
+      0.512746,
+      "l"
+    ],
+    [
+      0.055944,
+      "s"
+    ],
+    [
+      0.055977,
+      " "
+    ],
+    [
+      0.087988,
+      "-"
+    ],
+    [
+      0.072078,
+      "l"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.143983,
+      "\r\r\n"
+    ],
+    [
+      0.001238,
+      "total 14\r\n"
+    ],
+    [
+      0.000107,
+      "drwxrwxr-x  2 cbsd  cbsd   3 Feb 11 21:06 .\r\n"
+    ],
+    [
+      0.000030,
+      "drwxrwxr-x  8 root  cbsd   9 Feb 11 21:05 ..\r\n-rwxr-xr-x  1 root  cbsd  95 Feb 11 21:07 ifdown.sh\r\n"
+    ],
+    [
+      0.000171,
+      "root@gizmo:/usr/jails/jails-system/jail1/master_poststop.d # "
+    ],
+    [
+      2.214447,
+      "c"
+    ],
+    [
+      0.039912,
+      "d"
+    ],
+    [
+      0.095983,
+      " "
+    ],
+    [
+      0.087981,
+      "/"
+    ],
+    [
+      0.208036,
+      "\r\r\n"
+    ],
+    [
+      0.000097,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.895939,
+      "i"
+    ],
+    [
+      0.063897,
+      "f"
+    ],
+    [
+      0.199999,
+      "c"
+    ],
+    [
+      0.071990,
+      "o"
+    ],
+    [
+      0.040114,
+      "n"
+    ],
+    [
+      0.079908,
+      "f"
+    ],
+    [
+      0.079981,
+      "i"
+    ],
+    [
+      0.040004,
+      "g"
+    ],
+    [
+      0.224021,
+      "\r\r\n"
+    ],
+    [
+      0.000782,
+      "re0: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000007,
+      "\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.000006,
+      "\tether d8:50:e6:53:91:0d\r\n"
+    ],
+    [
+      0.000008,
+      "\tinet 192.168.1.2 netmask 0xffffff00 broadcast 192.168.1.255 \r\n"
+    ],
+    [
+      0.000019,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000598,
+      "\tmedia: Ethernet autoselect (100baseTX \u003cfull-duplex\u003e)\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000329,
+      "re1: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000001,
+      "\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.000002,
+      "\tether 5c:d9:98:f5:a9:0f\r\n"
+    ],
+    [
+      0.000010,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000282,
+      "\tmedia: Ethernet autoselect (100baseTX \u003chalf-duplex\u003e)\r\n\tstatus: no carrier\r\n"
+    ],
+    [
+      0.000157,
+      "lo0: flags=8049\u003cUP,LOOPBACK,RUNNING,MULTICAST\u003e metric 0 mtu 16384\r\n"
+    ],
+    [
+      0.000001,
+      "\toptions=600003\u003cRXCSUM,TXCSUM,RXCSUM_IPV6,TXCSUM_IPV6\u003e\r\n"
+    ],
+    [
+      0.000013,
+      "\tinet6 ::1 prefixlen 128 \r\n"
+    ],
+    [
+      0.000021,
+      "\tinet6 fe80::1%lo0 prefixlen 64 scopeid 0x3 \r\n"
+    ],
+    [
+      0.000002,
+      "\tinet 127.0.0.1 netmask 0xff000000 \r\n"
+    ],
+    [
+      0.000008,
+      "\tnd6 options=21\u003cPERFORMNUD,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "\tgroups: lo \r\n"
+    ],
+    [
+      0.000007,
+      "vboxnet0: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000005,
+      "\tether 0a:00:27:00:00:00\r\n"
+    ],
+    [
+      0.000007,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000001,
+      "\tmedia: Ethernet autoselect\r\n"
+    ],
+    [
+      0.000001,
+      "\tstatus: active\r\n"
+    ],
+    [
+      0.000140,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.861579,
+      "c"
+    ],
+    [
+      0.119987,
+      "b"
+    ],
+    [
+      0.087964,
+      "s"
+    ],
+    [
+      0.063973,
+      "d"
+    ],
+    [
+      0.064030,
+      " "
+    ],
+    [
+      0.464051,
+      "j"
+    ],
+    [
+      0.271960,
+      "s"
+    ],
+    [
+      0.135968,
+      "t"
+    ],
+    [
+      0.080001,
+      "a"
+    ],
+    [
+      0.111999,
+      "r"
+    ],
+    [
+      0.143963,
+      "t"
+    ],
+    [
+      0.216071,
+      "\r\r\n"
+    ],
+    [
+      0.485408,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.002583,
+      "\u001b[1m1 .. \u001b[0;32mabills \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m2 .. \u001b[0;32majenti \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m3 .. \u001b[0;32mcbsdpuppet \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m4 .. \u001b[0;32mcbsdpuppet1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m5 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m6 .. \u001b[0;32mnode \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m7 .. \u001b[0;32mpuptest \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m8 .. \u001b[0;32mtarantool \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m9 .. \u001b[0;32mtemp \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m10 .. \u001b[0;32mtempj \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m11 .. \u001b[0;32mttyjs1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m12 .. \u001b[0;32mwebdev1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1mEnter id 0-12 or jail name:\u001b[0m "
+    ],
+    [
+      1.263833,
+      "j"
+    ],
+    [
+      0.087934,
+      "a"
+    ],
+    [
+      0.056031,
+      "i"
+    ],
+    [
+      0.223939,
+      "l"
+    ],
+    [
+      0.088097,
+      "1"
+    ],
+    [
+      0.183876,
+      "\r\n"
+    ],
+    [
+      0.629252,
+      "\u001b[0;35mExecute master script: \u001b[0;32mifup.sh\u001b[0m\r\n"
+    ],
+    [
+      0.644587,
+      "\u001b[0;35mStarting jail: \u001b[0;32mjail1, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      0.003874,
+      "jail1: created\r\n"
+    ],
+    [
+      0.545823,
+      "Setting hostname: jail1.my.domain"
+    ],
+    [
+      0.011163,
+      ".\r\n"
+    ],
+    [
+      0.046591,
+      "ELF ldconfig path: /lib /usr/lib /usr/lib/compat /usr/local/lib\r\n"
+    ],
+    [
+      0.006202,
+      "32-bit compatibility ldconfig path: /usr/lib32\r\n"
+    ],
+    [
+      0.047802,
+      "Generating host.conf.\r\n"
+    ],
+    [
+      0.062115,
+      "Creating and/or trimming log files"
+    ],
+    [
+      0.064110,
+      ".\r\n"
+    ],
+    [
+      0.024193,
+      "Starting syslogd.\r\n"
+    ],
+    [
+      0.311977,
+      "Starting casperd.\r\n"
+    ],
+    [
+      0.127362,
+      "Clearing /tmp (X related).\r\n"
+    ],
+    [
+      0.160888,
+      "Updating motd:"
+    ],
+    [
+      0.080754,
+      ".\r\n"
+    ],
+    [
+      0.904905,
+      "Starting sendmail_submit.\r\n"
+    ],
+    [
+      0.263281,
+      "Starting sendmail_msp_queue.\r\n"
+    ],
+    [
+      0.083021,
+      "Starting cron.\r\n"
+    ],
+    [
+      0.346625,
+      "\r\n"
+    ],
+    [
+      0.001780,
+      "Thu Feb 11 21:07:18 MSK 2016\r\n"
+    ],
+    [
+      0.066361,
+      "\u001b[0;35mSetup: \u001b[0;32mFW counter\u001b[0m\r\n"
+    ],
+    [
+      0.005452,
+      "root@gizmo:/ # "
+    ],
+    [
+      1.385852,
+      "\r\r\n"
+    ],
+    [
+      0.000068,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.175893,
+      "\r\r\n"
+    ],
+    [
+      0.000057,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.855939,
+      "i"
+    ],
+    [
+      0.047902,
+      "f"
+    ],
+    [
+      0.191978,
+      "c"
+    ],
+    [
+      0.079931,
+      "o"
+    ],
+    [
+      0.040044,
+      "n"
+    ],
+    [
+      0.080038,
+      "f"
+    ],
+    [
+      0.055977,
+      "i"
+    ],
+    [
+      0.095988,
+      "g"
+    ],
+    [
+      0.184035,
+      "\r\r\n"
+    ],
+    [
+      0.000785,
+      "re0: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n"
+    ],
+    [
+      0.000006,
+      "\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.000030,
+      "\tether d8:50:e6:53:91:0d\r\n\tinet 192.168.1.2 netmask 0xffffff00 broadcast 192.168.1.255 \r\n\tinet 192.168.1.100 netmask 0xffffffff broadcast 192.168.1.100 \r\n"
+    ],
+    [
+      0.000019,
+      "\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000544,
+      "\tmedia: Ethernet autoselect (100baseTX \u003cfull-duplex\u003e)\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000316,
+      "re1: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n\tether 5c:d9:98:f5:a9:0f\r\n\tinet 10.0.0.100 netmask 0xffffffff broadcast 10.0.0.100 \r\n\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000286,
+      "\tmedia: Ethernet autoselect (none)\r\n\tstatus: no carrier\r\n"
+    ],
+    [
+      0.000156,
+      "lo0: flags=8049\u003cUP,LOOPBACK,RUNNING,MULTICAST\u003e metric 0 mtu 16384\r\n\toptions=600003\u003cRXCSUM,TXCSUM,RXCSUM_IPV6,TXCSUM_IPV6\u003e\r\n\tinet6 ::1 prefixlen 128 \r\n"
+    ],
+    [
+      0.000035,
+      "\tinet6 fe80::1%lo0 prefixlen 64 scopeid 0x3 \r\n\tinet 127.0.0.1 netmask 0xff000000 \r\n\tnd6 options=21\u003cPERFORMNUD,AUTO_LINKLOCAL\u003e\r\n"
+    ],
+    [
+      0.000002,
+      "\tgroups: lo \r\n"
+    ],
+    [
+      0.000026,
+      "vboxnet0: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n\tether 0a:00:27:00:00:00\r\n\tnd6 options=29\u003cPERFORMNUD,IFDISABLED,AUTO_LINKLOCAL\u003e\r\n\tmedia: Ethernet autoselect\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000164,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.637659,
+      "c"
+    ],
+    [
+      0.119918,
+      "b"
+    ],
+    [
+      0.103984,
+      "s"
+    ],
+    [
+      0.039956,
+      "d"
+    ],
+    [
+      0.080045,
+      " "
+    ],
+    [
+      0.079953,
+      "j"
+    ],
+    [
+      0.056045,
+      "l"
+    ],
+    [
+      0.207986,
+      "o"
+    ],
+    [
+      0.112029,
+      "g"
+    ],
+    [
+      0.312052,
+      "i"
+    ],
+    [
+      0.071933,
+      "n"
+    ],
+    [
+      0.216048,
+      "\r\r\n"
+    ],
+    [
+      0.442928,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.002585,
+      "\u001b[1m1 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1mEnter id 0-1 or jail name:\u001b[0m "
+    ],
+    [
+      0.554497,
+      "j"
+    ],
+    [
+      0.119861,
+      "a"
+    ],
+    [
+      0.072003,
+      "i"
+    ],
+    [
+      0.207962,
+      "l"
+    ],
+    [
+      0.112003,
+      "1"
+    ],
+    [
+      0.376045,
+      "\r\n"
+    ],
+    [
+      0.188246,
+      "FreeBSD 11.0-CURRENT (GENERIC.CBSD) #14 r294622: Sat Jan 23 12:28:32 UTC 2016\r\n"
+    ],
+    [
+      0.406310,
+      "\u001b[40;35;1mjail1:\u001b[40;31;1m/root@\u001b[40;33;1m\u001b[1m[21:07]\u001b[m # "
+    ],
+    [
+      0.557448,
+      "i"
+    ],
+    [
+      0.047912,
+      "f"
+    ],
+    [
+      0.176030,
+      "c"
+    ],
+    [
+      0.055978,
+      "o"
+    ],
+    [
+      0.047963,
+      "n"
+    ],
+    [
+      0.088053,
+      "f"
+    ],
+    [
+      0.055969,
+      "i"
+    ],
+    [
+      0.064007,
+      "g"
+    ],
+    [
+      0.144045,
+      "\r\r\n"
+    ],
+    [
+      0.077415,
+      "re0: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n"
+    ],
+    [
+      0.001515,
+      "\tether d8:50:e6:53:91:0d\r\n"
+    ],
+    [
+      0.000005,
+      "\tinet 192.168.1.100 netmask 0xffffffff broadcast 192.168.1.100 \r\n"
+    ],
+    [
+      0.002235,
+      "\tmedia: Ethernet autoselect (100baseTX \u003cfull-duplex\u003e)\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.002682,
+      "re1: flags=8843\u003cUP,BROADCAST,RUNNING,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n\toptions=8209b\u003cRXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE\u003e\r\n\tether 5c:d9:98:f5:a9:0f\r\n\tinet 10.0.0.100 netmask 0xffffffff broadcast 10.0.0.100 \r\n"
+    ],
+    [
+      0.000315,
+      "\tmedia: Ethernet autoselect (none)\r\n\tstatus: no carrier\r\n"
+    ],
+    [
+      0.000159,
+      "lo0: flags=8049\u003cUP,LOOPBACK,RUNNING,MULTICAST\u003e metric 0 mtu 16384\r\n\toptions=600003\u003cRXCSUM,TXCSUM,RXCSUM_IPV6,TXCSUM_IPV6\u003e\r\n\tgroups: lo \r\n"
+    ],
+    [
+      0.000008,
+      "vboxnet0: flags=8802\u003cBROADCAST,SIMPLEX,MULTICAST\u003e metric 0 mtu 1500\r\n\tether 0a:00:27:00:00:00\r\n"
+    ],
+    [
+      0.000002,
+      "\tmedia: Ethernet autoselect\r\n\tstatus: active\r\n"
+    ],
+    [
+      0.000180,
+      "\u001b[40;35;1mjail1:\u001b[40;31;1m/root@\u001b[40;33;1m\u001b[1m[21:07]\u001b[m # "
+    ],
+    [
+      0.571532,
+      "p"
+    ],
+    [
+      0.055910,
+      "i"
+    ],
+    [
+      0.199980,
+      "n"
+    ],
+    [
+      0.039943,
+      "g"
+    ],
+    [
+      0.088062,
+      " "
+    ],
+    [
+      0.135970,
+      "1"
+    ],
+    [
+      0.095988,
+      "0"
+    ],
+    [
+      0.151996,
+      "."
+    ],
+    [
+      0.112012,
+      "0"
+    ],
+    [
+      0.111993,
+      "."
+    ],
+    [
+      0.096000,
+      "0"
+    ],
+    [
+      0.079975,
+      "."
+    ],
+    [
+      0.384028,
+      "1"
+    ],
+    [
+      0.087941,
+      "0"
+    ],
+    [
+      0.120030,
+      "0"
+    ],
+    [
+      0.144055,
+      "\r\r\n"
+    ],
+    [
+      0.066649,
+      "PING 10.0.0.100 (10.0.0.100): 56 data bytes\r\n"
+    ],
+    [
+      0.004589,
+      "64 bytes from 10.0.0.100: icmp_seq=0 ttl=64 time=0.040 ms\r\n"
+    ],
+    [
+      0.659972,
+      "^C"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "--- 10.0.0.100 ping statistics ---\r\n"
+    ],
+    [
+      0.000005,
+      "1 packets transmitted, 1 packets received, 0.0% packet loss\r\n"
+    ],
+    [
+      0.000006,
+      "round-trip min/avg/max/stddev = 0.040/0.040/0.040/0.000 ms\r\n"
+    ],
+    [
+      0.000297,
+      "\u001b[40;35;1mjail1:\u001b[40;31;1m/root@\u001b[40;33;1m\u001b[1m[21:07]\u001b[m # "
+    ],
+    [
+      1.212419,
+      "p"
+    ],
+    [
+      0.039921,
+      "i"
+    ],
+    [
+      0.216009,
+      "n"
+    ],
+    [
+      0.063995,
+      "g"
+    ],
+    [
+      0.063949,
+      " "
+    ],
+    [
+      0.200032,
+      "1"
+    ],
+    [
+      0.087997,
+      "9"
+    ],
+    [
+      0.111976,
+      "2"
+    ],
+    [
+      0.104005,
+      "."
+    ],
+    [
+      0.096005,
+      "1"
+    ],
+    [
+      0.320057,
+      "8"
+    ],
+    [
+      0.409635,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166297,
+      "6"
+    ],
+    [
+      0.143982,
+      "8"
+    ],
+    [
+      0.200103,
+      "."
+    ],
+    [
+      0.111886,
+      "1"
+    ],
+    [
+      0.095991,
+      "."
+    ],
+    [
+      0.624040,
+      "1"
+    ],
+    [
+      0.072006,
+      "0"
+    ],
+    [
+      0.135946,
+      "0"
+    ],
+    [
+      0.176042,
+      "\r\r\n"
+    ],
+    [
+      0.003440,
+      "PING 192.168.1.100 (192.168.1.100): 56 data bytes\r\n"
+    ],
+    [
+      0.000055,
+      "64 bytes from 192.168.1.100: icmp_seq=0 ttl=64 time=0.023 ms\r\n"
+    ],
+    [
+      0.652481,
+      "^C"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "--- 192.168.1.100 ping statistics ---\r\n"
+    ],
+    [
+      0.000003,
+      "1 packets transmitted, 1 packets received, 0.0% packet loss\r\n"
+    ],
+    [
+      0.000007,
+      "round-trip min/avg/max/stddev = 0.023/0.023/0.023/0.000 ms\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b[40;35;1mjail1:\u001b[40;31;1m/root@\u001b[40;33;1m\u001b[1m[21:07]\u001b[m # "
+    ],
+    [
+      1.195865,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.000044,
+      "logout\r\n"
+    ],
+    [
+      0.004577,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.527222,
+      "c"
+    ],
+    [
+      0.087894,
+      "b"
+    ],
+    [
+      0.160004,
+      "s"
+    ],
+    [
+      0.023962,
+      "d"
+    ],
+    [
+      0.080040,
+      " "
+    ],
+    [
+      0.583969,
+      "j"
+    ],
+    [
+      0.319952,
+      "r"
+    ],
+    [
+      0.112093,
+      "e"
+    ],
+    [
+      0.063950,
+      "m"
+    ],
+    [
+      0.096049,
+      "o"
+    ],
+    [
+      0.095982,
+      "v"
+    ],
+    [
+      0.047933,
+      "e"
+    ],
+    [
+      1.000027,
+      "\r\r\n"
+    ],
+    [
+      0.398169,
+      "\u001b[1m0 .. CANCEL\u001b[0m\r\n"
+    ],
+    [
+      0.002564,
+      "\u001b[1m1 .. \u001b[0;32mabills \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m2 .. \u001b[0;32majenti \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m3 .. \u001b[0;32mcbsdpuppet \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m4 .. \u001b[0;32mcbsdpuppet1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m5 .. \u001b[0;32mjail1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m6 .. \u001b[0;32mnode \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m7 .. \u001b[0;32mpuptest \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m8 .. \u001b[0;32mtarantool \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m9 .. \u001b[0;32mtemp \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m10 .. \u001b[0;32mtempj \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m11 .. \u001b[0;32mttyjs1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1m12 .. \u001b[0;32mwebdev1 \u001b[0mon \u001b[0;32m\u001b[1mlocal\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1mEnter id 0-12 or jail name:\u001b[0m "
+    ],
+    [
+      3.111069,
+      "5"
+    ],
+    [
+      0.239907,
+      "\r\n"
+    ],
+    [
+      0.731458,
+      "\u001b[0;35mStoping jail: \u001b[0;32mjail1, parallel timeout=5\u001b[0m\r\n"
+    ],
+    [
+      2.616392,
+      "Stopping cron.\r\n"
+    ],
+    [
+      0.000338,
+      "Waiting for PIDS: 6389"
+    ],
+    [
+      0.027005,
+      ".\r\n"
+    ],
+    [
+      0.207760,
+      "Stopping casperd.\r\n"
+    ],
+    [
+      0.000338,
+      "Waiting for PIDS: 6309"
+    ],
+    [
+      0.001325,
+      ".\r\n"
+    ],
+    [
+      0.252437,
+      ".\r\n"
+    ],
+    [
+      0.000075,
+      "Terminated\r\n"
+    ],
+    [
+      0.001699,
+      "jail1: removed\r\n"
+    ],
+    [
+      0.009699,
+      "\u001b[0;35mExecute master script: \u001b[0;32mifdown.sh\u001b[0m\r\n"
+    ],
+    [
+      0.024682,
+      "\u001b[0;35mUpdating: \u001b[0;32mpkg info\u001b[0m\r\n"
+    ],
+    [
+      1.593596,
+      "root@gizmo:/ # "
+    ],
+    [
+      0.845067,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.000006,
+      "logout\r\n"
+    ],
+    [
+      0.028573,
+      "oleg@gizmo:~ % "
+    ],
+    [
+      0.915471,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "exit\r\n"
+    ]
+  ]
+}
