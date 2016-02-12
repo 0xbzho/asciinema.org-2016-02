@@ -1,0 +1,1062 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 79.562679,
+  "command": "/bin/bash",
+  "title": "Build and Run a Splunk app in a Docker Container",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.019613,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000049,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m ~ :\u001b(B\u001b[m "
+    ],
+    [
+      1.296158,
+      "c"
+    ],
+    [
+      0.189729,
+      "d"
+    ],
+    [
+      0.091846,
+      " "
+    ],
+    [
+      2.450931,
+      "d"
+    ],
+    [
+      0.270782,
+      "e"
+    ],
+    [
+      0.212929,
+      "v"
+    ],
+    [
+      0.787549,
+      "/"
+    ],
+    [
+      1.114973,
+      "c"
+    ],
+    [
+      0.077412,
+      "u"
+    ],
+    [
+      0.157329,
+      "s"
+    ],
+    [
+      0.239422,
+      "tomer-success-app/"
+    ],
+    [
+      1.078937,
+      "\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      0.392678,
+      "l"
+    ],
+    [
+      0.102050,
+      "s"
+    ],
+    [
+      0.087866,
+      "\r\n"
+    ],
+    [
+      0.002421,
+      "Dockerfile\tREADME.md\tapps\t\tentrypoint.sh\r\n"
+    ],
+    [
+      0.000373,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      0.694820,
+      "c"
+    ],
+    [
+      0.483678,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.258909,
+      "l"
+    ],
+    [
+      0.135014,
+      "s"
+    ],
+    [
+      0.123766,
+      " "
+    ],
+    [
+      0.179873,
+      "a"
+    ],
+    [
+      0.090119,
+      "p"
+    ],
+    [
+      0.101139,
+      "p"
+    ],
+    [
+      0.146808,
+      "s"
+    ],
+    [
+      0.326594,
+      "/"
+    ],
+    [
+      1.304130,
+      "\u0007"
+    ],
+    [
+      0.585111,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      ".DS_Store     README.md     using_splunk/ \r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m ls apps/"
+    ],
+    [
+      1.127691,
+      "u"
+    ],
+    [
+      0.121011,
+      "sing_splunk/"
+    ],
+    [
+      0.530675,
+      "\r\n"
+    ],
+    [
+      0.002544,
+      "appserver\tdefault\t\tlocal\t\tmetadata\tstatic\r\nbin\t\tdocs\t\tlookups\t\tpics\r\n"
+    ],
+    [
+      0.000452,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      1.479967,
+      "d"
+    ],
+    [
+      0.056285,
+      "o"
+    ],
+    [
+      0.181890,
+      "c"
+    ],
+    [
+      0.066149,
+      "k"
+    ],
+    [
+      0.168206,
+      "e"
+    ],
+    [
+      0.067345,
+      "r"
+    ],
+    [
+      0.181265,
+      " "
+    ],
+    [
+      0.460166,
+      "b"
+    ],
+    [
+      0.078689,
+      "u"
+    ],
+    [
+      0.081563,
+      "i"
+    ],
+    [
+      0.109674,
+      "l"
+    ],
+    [
+      0.157606,
+      "d"
+    ],
+    [
+      0.249969,
+      " "
+    ],
+    [
+      0.177444,
+      "-"
+    ],
+    [
+      0.247484,
+      "t"
+    ],
+    [
+      1.181360,
+      " "
+    ],
+    [
+      2.428569,
+      "s"
+    ],
+    [
+      0.057672,
+      "p"
+    ],
+    [
+      0.148008,
+      "l"
+    ],
+    [
+      0.088315,
+      "u"
+    ],
+    [
+      0.157374,
+      "n"
+    ],
+    [
+      0.067382,
+      "k"
+    ],
+    [
+      0.204874,
+      ";"
+    ],
+    [
+      0.510615,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.218182,
+      "/"
+    ],
+    [
+      0.382774,
+      "c"
+    ],
+    [
+      0.112538,
+      "u"
+    ],
+    [
+      0.089969,
+      "s"
+    ],
+    [
+      0.123764,
+      "t"
+    ],
+    [
+      0.078786,
+      "o"
+    ],
+    [
+      0.067635,
+      "m"
+    ],
+    [
+      0.033582,
+      "e"
+    ],
+    [
+      0.092078,
+      "r"
+    ],
+    [
+      0.132720,
+      "-"
+    ],
+    [
+      0.180090,
+      "s"
+    ],
+    [
+      0.169662,
+      "u"
+    ],
+    [
+      0.067688,
+      "c"
+    ],
+    [
+      0.292286,
+      "c"
+    ],
+    [
+      0.426979,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.145910,
+      "e"
+    ],
+    [
+      0.697443,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.067559,
+      "c"
+    ],
+    [
+      0.247519,
+      "e"
+    ],
+    [
+      0.169166,
+      "s"
+    ],
+    [
+      0.191738,
+      "s"
+    ],
+    [
+      0.133995,
+      "- \r"
+    ],
+    [
+      0.202325,
+      "a"
+    ],
+    [
+      0.123960,
+      "p"
+    ],
+    [
+      0.159416,
+      "p"
+    ],
+    [
+      1.666716,
+      ":"
+    ],
+    [
+      0.333951,
+      "l"
+    ],
+    [
+      0.078752,
+      "a"
+    ],
+    [
+      0.090033,
+      "t"
+    ],
+    [
+      0.158178,
+      "e"
+    ],
+    [
+      0.224479,
+      "s"
+    ],
+    [
+      0.224079,
+      "t"
+    ],
+    [
+      0.597940,
+      " "
+    ],
+    [
+      0.168065,
+      "."
+    ],
+    [
+      0.272599,
+      "\r\n"
+    ],
+    [
+      0.259898,
+      "Sending build context to Docker daemon 557.1 kB\r"
+    ],
+    [
+      0.013173,
+      "Sending build context to Docker daemon 1.114 MB\r"
+    ],
+    [
+      0.007679,
+      "Sending build context to Docker daemon 1.671 MB\r"
+    ],
+    [
+      0.008631,
+      "Sending build context to Docker daemon 2.228 MB\r"
+    ],
+    [
+      0.008504,
+      "Sending build context to Docker daemon 2.785 MB\r"
+    ],
+    [
+      0.009189,
+      "Sending build context to Docker daemon 3.342 MB\r"
+    ],
+    [
+      0.014687,
+      "Sending build context to Docker daemon 3.899 MB\r"
+    ],
+    [
+      0.014855,
+      "Sending build context to Docker daemon 4.456 MB\r"
+    ],
+    [
+      0.017606,
+      "Sending build context to Docker daemon 5.014 MB\r"
+    ],
+    [
+      0.017329,
+      "Sending build context to Docker daemon 5.571 MB\r"
+    ],
+    [
+      0.020140,
+      "Sending build context to Docker daemon 6.128 MB\r"
+    ],
+    [
+      0.014773,
+      "Sending build context to Docker daemon 6.685 MB\r"
+    ],
+    [
+      0.018417,
+      "Sending build context to Docker daemon 7.242 MB\r"
+    ],
+    [
+      0.016922,
+      "Sending build context to Docker daemon 7.799 MB\r"
+    ],
+    [
+      0.018814,
+      "Sending build context to Docker daemon 8.334 MB\r"
+    ],
+    [
+      0.013240,
+      "Sending build context to Docker daemon  8.88 MB\r"
+    ],
+    [
+      0.015848,
+      "Sending build context to Docker daemon 9.433 MB\r"
+    ],
+    [
+      0.014828,
+      "Sending build context to Docker daemon 9.961 MB\r"
+    ],
+    [
+      0.014899,
+      "Sending build context to Docker daemon 10.52 MB\r"
+    ],
+    [
+      0.018731,
+      "Sending build context to Docker daemon 11.08 MB\r"
+    ],
+    [
+      0.017701,
+      "Sending build context to Docker daemon 11.63 MB\r"
+    ],
+    [
+      0.018098,
+      "Sending build context to Docker daemon 12.19 MB\r"
+    ],
+    [
+      0.013154,
+      "Sending build context to Docker daemon 12.75 MB\r"
+    ],
+    [
+      0.014541,
+      "Sending build context to Docker daemon  13.3 MB\r"
+    ],
+    [
+      0.018938,
+      "Sending build context to Docker daemon 13.86 MB\r"
+    ],
+    [
+      0.009567,
+      "Sending build context to Docker daemon 14.41 MB\r"
+    ],
+    [
+      0.011606,
+      "Sending build context to Docker daemon 14.94 MB\r"
+    ],
+    [
+      0.028982,
+      "Sending build context to Docker daemon 15.47 MB\r"
+    ],
+    [
+      0.012917,
+      "Sending build context to Docker daemon 15.68 MB\r"
+    ],
+    [
+      0.000009,
+      "Sending build context to Docker daemon 15.68 MB\r\r\r\n"
+    ],
+    [
+      0.032485,
+      "Step 1 : FROM outcoldman/splunk:latest\r\n"
+    ],
+    [
+      0.000744,
+      " ---\u003e c05acb5970b9\r\n"
+    ],
+    [
+      0.000200,
+      "Step 2 : MAINTAINER Michael Wilde \u003cmwilde@splunk.com\u003e\r\n"
+    ],
+    [
+      0.000663,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000619,
+      " ---\u003e 8f612515f660\r\n"
+    ],
+    [
+      0.000179,
+      "Step 3 : ENV SPLUNK_BACKUP_DEFAULT_ETC /var/opt/splunk\r\n"
+    ],
+    [
+      0.000792,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000178,
+      " ---\u003e bf5451e93019\r\n"
+    ],
+    [
+      0.000162,
+      "Step 4 : WORKDIR /opt/splunk\r\n"
+    ],
+    [
+      0.000727,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000152,
+      " ---\u003e 77f8060409db\r\n"
+    ],
+    [
+      0.000224,
+      "Step 5 : COPY apps/ ${SPLUNK_BACKUP_DEFAULT_ETC}/etc/apps/\r\n"
+    ],
+    [
+      2.117140,
+      " ---\u003e 4f2256830406\r\n"
+    ],
+    [
+      0.011535,
+      "Removing intermediate container ca212047551a\r\n"
+    ],
+    [
+      0.003992,
+      "Step 6 : COPY entrypoint.sh /sbin/entrypoint.sh\r\n"
+    ],
+    [
+      1.974337,
+      " ---\u003e a0c689154fde\r\n"
+    ],
+    [
+      0.004865,
+      "Removing intermediate container 2d0787129c68\r\n"
+    ],
+    [
+      0.000212,
+      "Step 7 : RUN chmod +x /sbin/entrypoint.sh\r\n"
+    ],
+    [
+      0.076277,
+      " ---\u003e Running in 0d90852a3e9a\r\n"
+    ],
+    [
+      2.577966,
+      " ---\u003e d4aacff49405\r\n"
+    ],
+    [
+      0.005197,
+      "Removing intermediate container 0d90852a3e9a\r\n"
+    ],
+    [
+      0.000194,
+      "Step 8 : EXPOSE 8000 8089 8191 9997 1514 8088\r\n"
+    ],
+    [
+      0.066546,
+      " ---\u003e Running in abce747538a0\r\n"
+    ],
+    [
+      2.167876,
+      " ---\u003e bdff498ddd75\r\n"
+    ],
+    [
+      0.004881,
+      "Removing intermediate container abce747538a0\r\n"
+    ],
+    [
+      0.000047,
+      "Step 9 : VOLUME /opt/splunk/etc /opt/splunk/var\r\n"
+    ],
+    [
+      0.096802,
+      " ---\u003e Running in e42647a1629f\r\n"
+    ],
+    [
+      2.198136,
+      " ---\u003e 527a33c75eb0\r\n"
+    ],
+    [
+      0.002241,
+      "Removing intermediate container e42647a1629f\r\n"
+    ],
+    [
+      0.000173,
+      "Step 10 : ENTRYPOINT /sbin/entrypoint.sh\r\n"
+    ],
+    [
+      0.109218,
+      " ---\u003e Running in 584f0bad4e71\r\n"
+    ],
+    [
+      2.108611,
+      " ---\u003e 2b0b2254e9e4\r\n"
+    ],
+    [
+      0.004903,
+      "Removing intermediate container 584f0bad4e71\r\n"
+    ],
+    [
+      0.000216,
+      "Step 11 : CMD start-service\r\n"
+    ],
+    [
+      0.086484,
+      " ---\u003e Running in 2ebc6ac40bf2\r\n"
+    ],
+    [
+      2.139349,
+      " ---\u003e 586cc5671e36\r\n"
+    ],
+    [
+      0.002049,
+      "Removing intermediate container 2ebc6ac40bf2\r\n"
+    ],
+    [
+      0.000005,
+      "Successfully built 586cc5671e36\r\n"
+    ],
+    [
+      0.014800,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      3.448996,
+      "d"
+    ],
+    [
+      0.111803,
+      "o"
+    ],
+    [
+      0.101337,
+      "c"
+    ],
+    [
+      0.112783,
+      "k"
+    ],
+    [
+      0.123605,
+      "e"
+    ],
+    [
+      0.067547,
+      "r"
+    ],
+    [
+      0.123983,
+      " "
+    ],
+    [
+      0.213367,
+      "r"
+    ],
+    [
+      0.112551,
+      "u"
+    ],
+    [
+      0.213771,
+      "n"
+    ],
+    [
+      0.157750,
+      " "
+    ],
+    [
+      0.169204,
+      "-"
+    ],
+    [
+      0.831835,
+      "d"
+    ],
+    [
+      0.168838,
+      " "
+    ],
+    [
+      0.146367,
+      "-"
+    ],
+    [
+      0.393435,
+      "P"
+    ],
+    [
+      0.248546,
+      " "
+    ],
+    [
+      0.236134,
+      "s"
+    ],
+    [
+      0.089203,
+      "p"
+    ],
+    [
+      0.135125,
+      "l"
+    ],
+    [
+      0.093333,
+      "u"
+    ],
+    [
+      0.188102,
+      "n"
+    ],
+    [
+      0.033396,
+      "k"
+    ],
+    [
+      0.224977,
+      "/"
+    ],
+    [
+      0.180140,
+      "c"
+    ],
+    [
+      0.057641,
+      "u"
+    ],
+    [
+      0.167298,
+      "s"
+    ],
+    [
+      0.078654,
+      "t"
+    ],
+    [
+      0.045317,
+      "o"
+    ],
+    [
+      0.078492,
+      "m"
+    ],
+    [
+      0.089962,
+      "e"
+    ],
+    [
+      0.058659,
+      "r"
+    ],
+    [
+      0.627676,
+      "-"
+    ],
+    [
+      0.236205,
+      "s"
+    ],
+    [
+      0.067599,
+      "e"
+    ],
+    [
+      0.078881,
+      "r"
+    ],
+    [
+      0.731240,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.272035,
+      "u"
+    ],
+    [
+      0.178064,
+      "c"
+    ],
+    [
+      0.540423,
+      "c"
+    ],
+    [
+      0.246947,
+      "e"
+    ],
+    [
+      0.169032,
+      "s"
+    ],
+    [
+      0.213797,
+      "s \r"
+    ],
+    [
+      0.136841,
+      "-"
+    ],
+    [
+      0.166879,
+      "a"
+    ],
+    [
+      0.089965,
+      "p"
+    ],
+    [
+      0.168538,
+      "p"
+    ],
+    [
+      0.472793,
+      " "
+    ],
+    [
+      1.991042,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.596287,
+      ":"
+    ],
+    [
+      0.326616,
+      "l"
+    ],
+    [
+      0.089737,
+      "a"
+    ],
+    [
+      0.135098,
+      "t"
+    ],
+    [
+      0.157167,
+      "e"
+    ],
+    [
+      0.170646,
+      "s"
+    ],
+    [
+      0.178156,
+      "t"
+    ],
+    [
+      0.877525,
+      "\r\n"
+    ],
+    [
+      1.206419,
+      "9445bf0b440e2329fef7a87fe4937f4d2d6599997a2598462ed43aa942e9b54e\r\n"
+    ],
+    [
+      0.538629,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      0.077853,
+      "d"
+    ],
+    [
+      0.089960,
+      "o"
+    ],
+    [
+      0.123985,
+      "c"
+    ],
+    [
+      0.078535,
+      "k"
+    ],
+    [
+      0.157326,
+      "e"
+    ],
+    [
+      0.079795,
+      "r"
+    ],
+    [
+      0.067031,
+      " "
+    ],
+    [
+      0.145555,
+      "p"
+    ],
+    [
+      0.157359,
+      "s"
+    ],
+    [
+      0.282431,
+      "\r\n"
+    ],
+    [
+      0.182114,
+      "CONTAINER ID        IMAGE"
+    ],
+    [
+      0.000008,
+      "                                COMMAND                  CREATED             STATUS              PORTS                                                                                                                                                  NAMES"
+    ],
+    [
+      0.000003,
+      "\r\n9445bf0b440e        splunk/customer-success-app:latest"
+    ],
+    [
+      0.000002,
+      "   \"/sbin/entrypoint.sh \"   "
+    ],
+    [
+      0.000002,
+      "3 seconds ago       "
+    ],
+    [
+      0.000002,
+      "Up 1 seconds        "
+    ],
+    [
+      0.000002,
+      "0.0.0.0:32791-\u003e1514/tcp, 0.0.0.0:32790-\u003e8000/tcp, 0.0.0.0:32789-\u003e8088/tcp, 0.0.0.0:32788-\u003e8089/tcp, 0.0.0.0:32787-\u003e8191/tcp, 0.0.0.0:32786-\u003e9997/tcp   "
+    ],
+    [
+      0.000008,
+      "kickass_brown\r\n"
+    ],
+    [
+      0.000913,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      1.660827,
+      " "
+    ],
+    [
+      0.461869,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.327178,
+      "~"
+    ],
+    [
+      0.213482,
+      "."
+    ],
+    [
+      0.776026,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.228304,
+      "/"
+    ],
+    [
+      0.435954,
+      "w"
+    ],
+    [
+      0.067361,
+      "h"
+    ],
+    [
+      0.112580,
+      "e"
+    ],
+    [
+      0.123343,
+      "r"
+    ],
+    [
+      0.112691,
+      "e"
+    ],
+    [
+      0.157425,
+      "issplunk.sh "
+    ],
+    [
+      0.528588,
+      "\r\n"
+    ],
+    [
+      0.329873,
+      "Splunk is at http://192.168.99.100:32790\r\n"
+    ],
+    [
+      0.000478,
+      "\u001b[38;5;205mthewilde\u001b(B\u001b[m\u001b[38;5;15m at \u001b(B\u001b[m\u001b[38;5;87mcyan\u001b(B\u001b[m\u001b[38;5;15m customer-success-app :\u001b(B\u001b[m "
+    ],
+    [
+      3.877989,
+      "exit\r\n"
+    ]
+  ]
+}
