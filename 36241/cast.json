@@ -1,0 +1,1418 @@
+{
+  "version": 1,
+  "width": 70,
+  "height": 25,
+  "duration": 76.106918,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.134875,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000075,
+      "\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.037979,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[?2004h"
+    ],
+    [
+      0.553087,
+      "s"
+    ],
+    [
+      0.150428,
+      "\u0008ss"
+    ],
+    [
+      0.104227,
+      "h"
+    ],
+    [
+      0.079952,
+      " "
+    ],
+    [
+      0.144219,
+      "s"
+    ],
+    [
+      0.151886,
+      "e"
+    ],
+    [
+      0.031777,
+      "m"
+    ],
+    [
+      0.167989,
+      "i"
+    ],
+    [
+      0.079841,
+      "c"
+    ],
+    [
+      0.127986,
+      "o"
+    ],
+    [
+      0.168420,
+      "l"
+    ],
+    [
+      0.143634,
+      "o"
+    ],
+    [
+      0.136103,
+      "n"
+    ],
+    [
+      0.120132,
+      "s"
+    ],
+    [
+      0.079928,
+      "o"
+    ],
+    [
+      0.120271,
+      "f"
+    ],
+    [
+      0.231817,
+      "t"
+    ],
+    [
+      0.208220,
+      "w"
+    ],
+    [
+      0.168078,
+      "a"
+    ],
+    [
+      0.063771,
+      "r"
+    ],
+    [
+      0.079944,
+      "e"
+    ],
+    [
+      0.128042,
+      "."
+    ],
+    [
+      0.136140,
+      "d"
+    ],
+    [
+      0.056058,
+      "e"
+    ],
+    [
+      0.488190,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000072,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001064,
+      "\u001b]2;ssh semicolonsoftware.de\u0007\u001b]1;\u0007"
+    ],
+    [
+      1.746475,
+      "Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-77-generic x86_64)"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.000072,
+      ""
+    ],
+    [
+      0.000085,
+      ""
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.013424,
+      "\r\n"
+    ],
+    [
+      0.648484,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@semicolonsoftware: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.031857,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[37m seemayer@semicolonsoftware \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.946187,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.078782,
+      "\u0008\u001b[33md\u001b[33mo\u001b[39m"
+    ],
+    [
+      0.224172,
+      "\u0008\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31mo\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.159484,
+      "\u0008\u001b[1m\u001b[31mk\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.185362,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32md\u001b[0m\u001b[32mo\u001b[0m\u001b[32mk\u001b[0m\u001b[32mk\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.123662,
+      " "
+    ],
+    [
+      1.450192,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.147703,
+      "\u0008\u001b[4m\u001b[33ml\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.097067,
+      "\u0008\u0008\u001b[24m\u001b[39ml\u001b[24m\u001b[39met"
+    ],
+    [
+      0.190046,
+      "s"
+    ],
+    [
+      0.142821,
+      "e"
+    ],
+    [
+      0.069564,
+      "n"
+    ],
+    [
+      0.303404,
+      "cr"
+    ],
+    [
+      0.173710,
+      "y"
+    ],
+    [
+      0.087050,
+      "p"
+    ],
+    [
+      0.128860,
+      "t"
+    ],
+    [
+      0.181501,
+      ":"
+    ],
+    [
+      0.216017,
+      "e"
+    ],
+    [
+      0.178468,
+      "m"
+    ],
+    [
+      0.148227,
+      "a"
+    ],
+    [
+      0.056172,
+      "i"
+    ],
+    [
+      0.183442,
+      "l"
+    ],
+    [
+      0.112146,
+      " "
+    ],
+    [
+      1.077260,
+      "\u001b[4m\u001b[33md\u001b[24m\u001b[39m"
+    ],
+    [
+      0.123424,
+      "\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.263532,
+      "\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39mok"
+    ],
+    [
+      0.144732,
+      "k"
+    ],
+    [
+      0.161688,
+      "u"
+    ],
+    [
+      0.212693,
+      "-"
+    ],
+    [
+      0.177919,
+      "d"
+    ],
+    [
+      0.079819,
+      "e"
+    ],
+    [
+      0.063910,
+      "m"
+    ],
+    [
+      0.217198,
+      "o"
+    ],
+    [
+      0.143378,
+      " "
+    ],
+    [
+      1.011548,
+      "\u001b[4m\u001b[33ms\u001b[24m\u001b[39m \r\u001b[K"
+    ],
+    [
+      0.149747,
+      "\u001b[A\u001b[69C\u001b[24m\u001b[39mst"
+    ],
+    [
+      0.058305,
+      "\rte"
+    ],
+    [
+      0.094042,
+      "f"
+    ],
+    [
+      0.109658,
+      "a"
+    ],
+    [
+      0.096143,
+      "n"
+    ],
+    [
+      0.225077,
+      "@"
+    ],
+    [
+      0.286708,
+      "s"
+    ],
+    [
+      0.194252,
+      "e"
+    ],
+    [
+      0.302236,
+      "m"
+    ],
+    [
+      0.106738,
+      "a"
+    ],
+    [
+      0.110457,
+      "y"
+    ],
+    [
+      0.150763,
+      "e"
+    ],
+    [
+      0.109520,
+      "r"
+    ],
+    [
+      0.195954,
+      "\u0008 \u0008"
+    ],
+    [
+      0.102543,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136059,
+      "\u0008 \u0008"
+    ],
+    [
+      0.129807,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135891,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127130,
+      "e"
+    ],
+    [
+      0.080069,
+      "m"
+    ],
+    [
+      0.127035,
+      "a"
+    ],
+    [
+      0.113428,
+      "y"
+    ],
+    [
+      0.224845,
+      "e"
+    ],
+    [
+      0.031113,
+      "r"
+    ],
+    [
+      0.143859,
+      "."
+    ],
+    [
+      0.078911,
+      "d"
+    ],
+    [
+      0.048580,
+      "e"
+    ],
+    [
+      0.532951,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.003582,
+      "\u001b]2;dokku letsencrypt:email dokku-demo stefan@seemayer.de\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.301918,
+      "[sudo] password for seemayer: "
+    ],
+    [
+      2.587629,
+      "\r\n"
+    ],
+    [
+      0.366716,
+      "=====\u003e Setting Let's Encrypt e-mail address for dokku-demo to 'stefan@seemayer.de'"
+    ],
+    [
+      0.002344,
+      "\r\n"
+    ],
+    [
+      0.045440,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.001386,
+      "\u001b]2;seemayer@semicolonsoftware: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.013103,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[37m seemayer@semicolonsoftware \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.855506,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.055117,
+      "\u0008\u001b[33md\u001b[33mo\u001b[39m"
+    ],
+    [
+      0.192118,
+      "\u0008\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31mo\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.137333,
+      "\u0008\u001b[1m\u001b[31mk\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.134219,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32md\u001b[0m\u001b[32mo\u001b[0m\u001b[32mk\u001b[0m\u001b[32mk\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.114599,
+      " "
+    ],
+    [
+      0.135579,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.143544,
+      "\u0008\u001b[4m\u001b[33ml\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.106093,
+      "\u0008\u0008\u001b[24m\u001b[39ml\u001b[24m\u001b[39met"
+    ],
+    [
+      0.126889,
+      "s"
+    ],
+    [
+      0.142206,
+      "e"
+    ],
+    [
+      0.064065,
+      "n"
+    ],
+    [
+      0.055167,
+      "c"
+    ],
+    [
+      0.216614,
+      "r"
+    ],
+    [
+      0.191867,
+      "y"
+    ],
+    [
+      0.160571,
+      "p"
+    ],
+    [
+      0.106129,
+      "t"
+    ],
+    [
+      0.215787,
+      ":"
+    ],
+    [
+      0.174807,
+      "d"
+    ],
+    [
+      0.075937,
+      "o"
+    ],
+    [
+      0.213997,
+      "k"
+    ],
+    [
+      0.156862,
+      "k"
+    ],
+    [
+      0.161984,
+      "u"
+    ],
+    [
+      0.654161,
+      "\u0008 \u0008"
+    ],
+    [
+      0.111866,
+      "\u0008 \u0008"
+    ],
+    [
+      0.138893,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127574,
+      "\u0008 \u0008"
+    ],
+    [
+      0.133220,
+      "\u0008 \u0008"
+    ],
+    [
+      0.130853,
+      "\u0008 \u0008"
+    ],
+    [
+      0.117712,
+      " "
+    ],
+    [
+      0.112315,
+      "\u001b[4m\u001b[33md\u001b[24m\u001b[39m"
+    ],
+    [
+      0.090743,
+      "\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.146774,
+      "\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39mok"
+    ],
+    [
+      0.122540,
+      "k"
+    ],
+    [
+      0.137661,
+      "u"
+    ],
+    [
+      0.202908,
+      "-"
+    ],
+    [
+      0.155332,
+      "d"
+    ],
+    [
+      0.044434,
+      "e"
+    ],
+    [
+      0.036026,
+      "m"
+    ],
+    [
+      0.176099,
+      "o"
+    ],
+    [
+      0.890286,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006563,
+      "\r\r\n\u001b]2;dokku letsencrypt dokku-demo\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.429515,
+      "=====\u003e Let's Encrypt dokku-demo...\r\n"
+    ],
+    [
+      0.072616,
+      "-----\u003e Updating letsencrypt docker image..."
+    ],
+    [
+      0.000434,
+      "\r\n"
+    ],
+    [
+      1.871422,
+      "latest: Pulling from m3adow/letsencrypt-simp_le\r\n\u001b[0BDigest: sha256:5529ba5bf73f9f4a120f376e22d55cd008dbb571c77dbf214aed484dd80b584d\r\nStatus: Image is up to date for m3adow/letsencrypt-simp_le:latest\r\n"
+    ],
+    [
+      0.001372,
+      "       done\r\n-----\u003e Enabling ACME proxy for dokku-demo...\r\n"
+    ],
+    [
+      0.094522,
+      "-----\u003e Getting letsencrypt certificate for dokku-demo...\r\n"
+    ],
+    [
+      0.459770,
+      "        - Domain 'dokku-demo.semicolonsoftware.de'\r\n"
+    ],
+    [
+      1.670070,
+      "darkhttpd/1.11, copyright (c) 2003-2015 Emil Mikulic.\r\nlistening on: http://0.0.0.0:80/\r\n"
+    ],
+    [
+      2.940284,
+      "2016-02-12 09:23:44,760:INFO:__main__:1202: Generating new account key\r\n"
+    ],
+    [
+      2.435307,
+      "2016-02-12 09:23:47,191:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.256020,
+      "2016-02-12 09:23:47,432:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.250855,
+      "2016-02-12 09:23:47,679:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.692980,
+      "2016-02-12 09:23:48,395:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): letsencrypt.org\r\n"
+    ],
+    [
+      0.784885,
+      "2016-02-12 09:23:49,180:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.278099,
+      "2016-02-12 09:23:49,458:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.270208,
+      "2016-02-12 09:23:49,729:INFO:requests.packages.urllib3.connectionpool:207: Starting new HTTP connection (1): dokku-demo.semicolonsoftware.de\r\n"
+    ],
+    [
+      0.124217,
+      "2016-02-12 09:23:49,838:INFO:__main__:1294: dokku-demo.semicolonsoftware.de was successfully self-verified\r\n"
+    ],
+    [
+      0.010865,
+      "2016-02-12 09:23:49,864:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.258178,
+      "2016-02-12 09:23:50,122:INFO:__main__:1302: Generating new certificate private key\r\n"
+    ],
+    [
+      1.428429,
+      "2016-02-12 09:23:51,550:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.249063,
+      "2016-02-12 09:23:51,799:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.314371,
+      "2016-02-12 09:23:52,112:INFO:requests.packages.urllib3.connectionpool:758: Starting new HTTPS connection (1): acme-v01.api.letsencrypt.org\r\n"
+    ],
+    [
+      0.251001,
+      "2016-02-12 09:23:52,364:INFO:__main__:385: Saving account_key.json\r\n"
+    ],
+    [
+      0.018126,
+      "2016-02-12 09:23:52,383:INFO:__main__:385: Saving fullchain.pem\r\n"
+    ],
+    [
+      0.000611,
+      "2016-02-12 09:23:52,384:INFO:__main__:385: Saving chain.pem\r\n"
+    ],
+    [
+      0.000806,
+      "2016-02-12 09:23:52,384:INFO:__main__:385: Saving cert.pem\r\n"
+    ],
+    [
+      0.000872,
+      "2016-02-12 09:23:52,385:INFO:__main__:385: Saving key.pem\r\n"
+    ],
+    [
+      0.284293,
+      "-----\u003e Certificate retrieved successfully.\r\n-----\u003e Symlinking let's encrypt certificates"
+    ],
+    [
+      0.000567,
+      "\r\n"
+    ],
+    [
+      0.400648,
+      "-----\u003e Setting config vars"
+    ],
+    [
+      0.000971,
+      "\r\n"
+    ],
+    [
+      0.007804,
+      "       DOKKU_NGINX_SSL_PORT: 443"
+    ],
+    [
+      0.000335,
+      "\r\n"
+    ],
+    [
+      0.248300,
+      "-----\u003e Configuring SSL for dokku-demo.semicolonsoftware.de...(using /var/lib/dokku/plugins/available/nginx-vhosts/templates/nginx.ssl.conf.template)\r\n"
+    ],
+    [
+      0.041147,
+      "-----\u003e Creating https nginx.conf"
+    ],
+    [
+      0.000769,
+      "\r\n"
+    ],
+    [
+      0.004842,
+      "-----\u003e Running nginx-pre-reload\r\n"
+    ],
+    [
+      0.355017,
+      "       Reloading nginx"
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.085148,
+      "-----\u003e Disabling ACME proxy for dokku-demo...\r\n"
+    ],
+    [
+      0.035177,
+      "       done\r\n"
+    ],
+    [
+      0.043329,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000288,
+      "\u001b]2;seemayer@semicolonsoftware: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.044977,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[37m seemayer@semicolonsoftware \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000235,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.229731,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.005488,
+      "\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.183279,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mc\u001b[24m\u001b[1m\u001b[31mu\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.185436,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32mu\u001b[0m\u001b[32mr\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.334236,
+      " "
+    ],
+    [
+      0.080361,
+      "-"
+    ],
+    [
+      0.239194,
+      "v"
+    ],
+    [
+      0.103467,
+      " "
+    ],
+    [
+      1.544933,
+      "\u001b[4m\u001b[33md\u001b[24m\u001b[39m"
+    ],
+    [
+      0.070800,
+      "\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.200058,
+      "\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39mok"
+    ],
+    [
+      0.152672,
+      "k"
+    ],
+    [
+      0.416006,
+      "u"
+    ],
+    [
+      0.207962,
+      "-"
+    ],
+    [
+      0.106537,
+      "d"
+    ],
+    [
+      0.077279,
+      "e"
+    ],
+    [
+      0.057891,
+      "m"
+    ],
+    [
+      0.176819,
+      "o"
+    ],
+    [
+      0.397267,
+      "\u0008 \u0008"
+    ],
+    [
+      0.659693,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039606,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041366,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039590,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039742,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040958,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039469,
+      "\u0008\u0008\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mo\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.040495,
+      "\u0008\u0008\u001b[4m\u001b[33md\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.040574,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.043081,
+      "\u0008"
+    ],
+    [
+      0.038274,
+      "\u0008 \u0008"
+    ],
+    [
+      0.038500,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040308,
+      "\u0008"
+    ],
+    [
+      0.038050,
+      "\u0008\u0008\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mu\u001b[1m\u001b[31mr\u001b[0m\u001b[39m\u001b[39m \u0008"
+    ],
+    [
+      0.040365,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[33mc\u001b[0m\u001b[4m\u001b[33mu\u001b[24m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.040160,
+      "\u0008\u0008\u001b[4m\u001b[33mc\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.040059,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.357920,
+      "\r\r\n"
+    ],
+    [
+      0.160028,
+      "Connection to semicolonsoftware.de closed.\r\r\n"
+    ],
+    [
+      0.000928,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.020575,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.646162,
+      "d"
+    ],
+    [
+      0.079598,
+      "\u0008do"
+    ],
+    [
+      0.192121,
+      "k"
+    ],
+    [
+      0.135873,
+      "k"
+    ],
+    [
+      0.328152,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136012,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136092,
+      "\u0008\u0008d \u0008"
+    ],
+    [
+      0.127988,
+      "\u0008 \u0008"
+    ],
+    [
+      0.096189,
+      "c"
+    ],
+    [
+      0.072048,
+      "\u0008cu"
+    ],
+    [
+      0.199986,
+      "r"
+    ],
+    [
+      0.079731,
+      "l"
+    ],
+    [
+      0.127875,
+      " "
+    ],
+    [
+      0.296511,
+      "-"
+    ],
+    [
+      0.303851,
+      "v"
+    ],
+    [
+      0.535903,
+      " "
+    ],
+    [
+      2.000379,
+      "d"
+    ],
+    [
+      0.143856,
+      "o"
+    ],
+    [
+      0.224000,
+      "k"
+    ],
+    [
+      0.135846,
+      "k"
+    ],
+    [
+      0.215983,
+      "u"
+    ],
+    [
+      0.208065,
+      "-"
+    ],
+    [
+      0.184135,
+      "d"
+    ],
+    [
+      0.071867,
+      "e"
+    ],
+    [
+      0.063961,
+      "m"
+    ],
+    [
+      0.168186,
+      "o"
+    ],
+    [
+      0.207903,
+      "."
+    ],
+    [
+      0.112053,
+      "s"
+    ],
+    [
+      0.135907,
+      "e"
+    ],
+    [
+      0.080126,
+      "m"
+    ],
+    [
+      0.152028,
+      "i"
+    ],
+    [
+      0.128004,
+      "c"
+    ],
+    [
+      0.055870,
+      "o"
+    ],
+    [
+      0.152087,
+      "l"
+    ],
+    [
+      0.143971,
+      "o"
+    ],
+    [
+      0.175989,
+      "n"
+    ],
+    [
+      0.104049,
+      "s"
+    ],
+    [
+      0.143991,
+      "o"
+    ],
+    [
+      0.207843,
+      "f"
+    ],
+    [
+      0.208061,
+      "t"
+    ],
+    [
+      0.128063,
+      "w"
+    ],
+    [
+      0.151997,
+      "a"
+    ],
+    [
+      0.039833,
+      "r"
+    ],
+    [
+      0.088077,
+      "e"
+    ],
+    [
+      0.144021,
+      "."
+    ],
+    [
+      0.152214,
+      "d"
+    ],
+    [
+      0.047825,
+      "e"
+    ],
+    [
+      0.352094,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000007,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000040,
+      "\r\r\n"
+    ],
+    [
+      0.001082,
+      "\u001b]2;curl -v dokku-demo.semicolonsoftware.de\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.007016,
+      "* Rebuilt URL to: dokku-demo.semicolonsoftware.de/\r\n"
+    ],
+    [
+      0.028511,
+      "*   Trying 5.45.106.94...\r\n"
+    ],
+    [
+      0.012463,
+      "* Connected to dokku-demo.semicolonsoftware.de (5.45.106.94) port 80 (#0)\r\n\u003e GET / HTTP/1.1\r\r\n\u003e Host: dokku-demo.semicolonsoftware.de\r\r\n\u003e User-Agent: curl/7.47.0\r\r\n\u003e Accept: */*\r\r\n\u003e \r\r\n"
+    ],
+    [
+      0.012804,
+      "\u003c HTTP/1.1 301 Moved Permanently\r\r\n\u003c Server: nginx\r\r\n\u003c Date: Fri, 12 Feb 2016 09:24:11 GMT\r\r\n\u003c Content-Type: text/html\r\r\n\u003c Content-Length: 178\r\r\n\u003c Connection: keep-alive\r\r\n\u003c Location: https://dokku-demo.semicolonsoftware.de:443/\r\r\n\u003c \r\r\n\u003chtml\u003e\r\r\n\u003chead\u003e\u003ctitle\u003e301 Moved Permanently\u003c/title\u003e\u003c/head\u003e\r\r\n\u003cbody bgcolor=\"white\"\u003e\r\r\n\u003ccenter\u003e\u003ch1\u003e301 Moved Permanently\u003c/h1\u003e\u003c/center\u003e\r\r\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\r\r\n\u003c/body\u003e\r\r\n\u003c/html\u003e\r\r\n* Connection #0 to host dokku-demo.semicolonsoftware.de left intact\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000202,
+      "\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.017916,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000100,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?2004h"
+    ],
+    [
+      2.776630,
+      "curl -v dokku-demo.semicolonsoftware.de"
+    ],
+    [
+      0.207157,
+      "\u001b[39D"
+    ],
+    [
+      0.200038,
+      "\u001b[1C"
+    ],
+    [
+      0.151934,
+      "\u001b[1C"
+    ],
+    [
+      0.168058,
+      "\u001b[1C"
+    ],
+    [
+      0.151961,
+      "\u001b[1C"
+    ],
+    [
+      0.143984,
+      "\u001b[1C"
+    ],
+    [
+      0.456024,
+      "\u001b[1C"
+    ],
+    [
+      0.536330,
+      "Lv dokku-demo.semicolonsoftware.de\u001b[33D"
+    ],
+    [
+      1.017564,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;curl -Lv dokku-demo.semicolonsoftware.de\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.005110,
+      "* "
+    ],
+    [
+      0.000009,
+      "Rebuilt URL to: dokku-demo.semicolonsoftware.de/\r\n"
+    ],
+    [
+      0.004352,
+      "* "
+    ],
+    [
+      0.000009,
+      "  Trying 5.45.106.94...\r\n"
+    ],
+    [
+      0.012153,
+      "* "
+    ],
+    [
+      0.000009,
+      "Connected to dokku-demo.semicolonsoftware.de (5.45.106.94) port 80 (#0)\r\n"
+    ],
+    [
+      0.000096,
+      "\u003e "
+    ],
+    [
+      0.000008,
+      "GET / HTTP/1.1\r\r\n\u003e"
+    ],
+    [
+      0.000064,
+      " Host: dokku-demo.semicolonsoftware.de\r\r\n\u003e User-Agent: curl/7.47.0\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u003e Accept: */*\r\r\n\u003e \r\r\n"
+    ],
+    [
+      0.012936,
+      "\u003c HTTP/1.1 301 Moved Permanently\r\r\n\u003c Server: nginx\r\r\n\u003c"
+    ],
+    [
+      0.000007,
+      " Date: Fri, 12 Feb 2016 09:24:17 GMT\r\r\n\u003c Content-Type: text/html\r\r\n\u003c"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000003,
+      "Content-Length: 178\r\r\n"
+    ],
+    [
+      0.000004,
+      "\u003c"
+    ],
+    [
+      0.000061,
+      " Connection: keep-alive\r\r\n\u003c Location: https://dokku-demo.semicolonsoftware.de:443/\r\r\n\u003c "
+    ],
+    [
+      0.000006,
+      "\r\r\n* Ignoring the response-body\r\n"
+    ],
+    [
+      0.000024,
+      "* "
+    ],
+    [
+      0.000004,
+      "Connection #0 to host dokku-demo.semicolonsoftware.de left intact\r\n"
+    ],
+    [
+      0.000004,
+      "*"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000004,
+      "Issue another request to this URL: 'https://dokku-demo.semicolonsoftware.de:443/'\r\n"
+    ],
+    [
+      0.000033,
+      "* "
+    ],
+    [
+      0.000004,
+      "Found bundle for host dokku-demo.semicolonsoftware.de: 0x2329960 [can pipeline]\r\n"
+    ],
+    [
+      0.060577,
+      "*   Trying 5.45.106.94...\r\n"
+    ],
+    [
+      0.012289,
+      "* Connected to dokku-demo.semicolonsoftware.de (5.45.106.94) port 443 (#1)\r\n"
+    ],
+    [
+      0.000590,
+      "* ALPN, offering http/1.1\r\n"
+    ],
+    [
+      0.000115,
+      "* "
+    ],
+    [
+      0.000004,
+      "Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH\r\n"
+    ],
+    [
+      0.012248,
+      "* successfully set certificate verify locations:\r\n*   CAfile: /etc/ssl/certs/ca-certificates.crt\r\n  CApath: none\r\n"
+    ],
+    [
+      0.000107,
+      "* "
+    ],
+    [
+      0.000005,
+      "TLSv1.2 (OUT), TLS header, Certificate Status (22):\r\n"
+    ],
+    [
+      0.000003,
+      "* "
+    ],
+    [
+      0.000056,
+      "TLSv1.2 (OUT), TLS handshake, Client hello (1):\r\n"
+    ],
+    [
+      0.039405,
+      "* TLSv1.2 (IN), TLS handshake, Server hello (2):\r\n* NPN, negotiated HTTP1.1\r\n* TLSv1.2 (IN), TLS handshake, Certificate (11):\r\n* TLSv1.2 (IN), TLS handshake, Server key exchange (12):\r\n* TLSv1.2 (IN), TLS handshake, Server finished (14):\r\n* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\r\n* TLSv1.2 (OUT), TLS change cipher, Client hello (1):\r\n* TLSv1.2 (OUT), TLS handshake, Unknown (67):\r\n* TLSv1.2 (OUT), TLS handshake, Finished (20):\r\n"
+    ],
+    [
+      0.012414,
+      "* TLSv1.2 (IN), TLS change cipher, Client hello (1):\r\n* TLSv1.2 (IN), TLS handshake, Finished (20):\r\n* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256\r\n* ALPN, server did not agree to a protocol\r\n* Server certificate:\r\n* \t subject: CN=dokku-demo.semicolonsoftware.de\r\n* \t start date: Feb 12 08:24:00 2016 GMT\r\n* \t expire date: May 12 08:24:00 2016 GMT\r\n* \t subjectAltName: dokku-demo.semicolonsoftware.de matched\r\n* \t issuer: C=US; O=Let's Encrypt; CN=Let's Encrypt Authority X1\r\n* \t SSL certificate verify ok.\r\n\u003e GET / HTTP/1.1\r\r\n\u003e Host: dokku-demo.semicolonsoftware.de\r\r\n\u003e User-Agent: curl/7.47.0\r\r\n\u003e Accept: */*\r\r\n\u003e \r\r\n"
+    ],
+    [
+      0.021761,
+      "\u003c HTTP/1.1 200 OK\r\r\n\u003c Server: nginx\r\r\n\u003c Date: Fri, 12 Feb 2016 09:24:17 GMT\r\r\n\u003c Content-Type: text/html; charset=utf-8\r\r\n\u003c Content-Length: 17\r\r\n\u003c Connection: keep-alive\r\r\n\u003c X-Powered-By: Express\r\r\n\u003c ETag: W/\"11-2dC8PIJqB5/uTbCF8usDhg\"\r\r\n\u003c Alternate-Protocol: 443:npn-spdy/2\r\r\n\u003c \r\r\n* Connection #1 to host dokku-demo.semicolonsoftware.de left intact\r\nGreetings, human!"
+    ],
+    [
+      0.000488,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.014561,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      3.863796,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
