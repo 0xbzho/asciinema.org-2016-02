@@ -1,0 +1,1370 @@
+{
+  "version": 1,
+  "width": 70,
+  "height": 25,
+  "duration": 95.147510,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.125104,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000053,
+      "\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.014460,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000052,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000034,
+      "\u001b[?2004h"
+    ],
+    [
+      0.434930,
+      "l"
+    ],
+    [
+      0.127558,
+      "\u0008ls"
+    ],
+    [
+      0.224066,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000010,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.003821,
+      "\u001b[0m\u001b[32mindex.js\u001b[0m  \u001b[36mnode_modules\u001b[0m  \u001b[00mpackage.json\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000122,
+      "\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.004732,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000029,
+      "\u001b[?2004h"
+    ],
+    [
+      1.671238,
+      "g"
+    ],
+    [
+      0.071592,
+      "\u0008gi"
+    ],
+    [
+      0.128090,
+      "t"
+    ],
+    [
+      0.055872,
+      " "
+    ],
+    [
+      0.120011,
+      "i"
+    ],
+    [
+      0.175836,
+      "n"
+    ],
+    [
+      0.160284,
+      "i"
+    ],
+    [
+      0.112051,
+      "t"
+    ],
+    [
+      0.439973,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.001006,
+      "\u001b]2;git init\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.005435,
+      "Initialized empty Git repository in /home/seemayer/Projects/_fun/dokku-demo/.git/\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r"
+    ],
+    [
+      0.000207,
+      "\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007"
+    ],
+    [
+      0.000054,
+      "\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.021598,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[43m\u001b[34m\u001b[30m  master± \u001b[49m\u001b[33m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000005,
+      "\u001b[?2004h"
+    ],
+    [
+      2.523908,
+      "g"
+    ],
+    [
+      0.511478,
+      "\u0008gi"
+    ],
+    [
+      0.144130,
+      "t"
+    ],
+    [
+      0.080054,
+      " "
+    ],
+    [
+      0.176155,
+      "a"
+    ],
+    [
+      0.135996,
+      "d"
+    ],
+    [
+      0.176026,
+      "d"
+    ],
+    [
+      0.127694,
+      " "
+    ],
+    [
+      0.232285,
+      "."
+    ],
+    [
+      0.344782,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git add .\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.003000,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.012579,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[43m\u001b[34m\u001b[30m  master± \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.463331,
+      "g"
+    ],
+    [
+      0.399887,
+      "\u0008gi"
+    ],
+    [
+      0.135997,
+      "t"
+    ],
+    [
+      0.072030,
+      " "
+    ],
+    [
+      0.192153,
+      "c"
+    ],
+    [
+      0.063963,
+      "o"
+    ],
+    [
+      0.167910,
+      "m"
+    ],
+    [
+      0.168003,
+      "m"
+    ],
+    [
+      0.160052,
+      "i"
+    ],
+    [
+      0.136166,
+      "t"
+    ],
+    [
+      0.071720,
+      " "
+    ],
+    [
+      0.120062,
+      "-"
+    ],
+    [
+      0.192000,
+      "m"
+    ],
+    [
+      0.111902,
+      " "
+    ],
+    [
+      0.160803,
+      "\""
+    ],
+    [
+      0.279714,
+      "I"
+    ],
+    [
+      0.232034,
+      "n"
+    ],
+    [
+      0.192038,
+      "i"
+    ],
+    [
+      0.103931,
+      "t"
+    ],
+    [
+      0.072079,
+      "i"
+    ],
+    [
+      0.119995,
+      "a"
+    ],
+    [
+      0.071713,
+      "l"
+    ],
+    [
+      0.104318,
+      " "
+    ],
+    [
+      0.071981,
+      "c"
+    ],
+    [
+      0.071992,
+      "o"
+    ],
+    [
+      0.160059,
+      "m"
+    ],
+    [
+      0.127721,
+      "m"
+    ],
+    [
+      0.151963,
+      "i"
+    ],
+    [
+      0.135981,
+      "t"
+    ],
+    [
+      0.176157,
+      "\""
+    ],
+    [
+      0.433359,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git commit -m \"Initial commit\"\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.004921,
+      "[master (root-commit) 2632144] Initial commit\r\n"
+    ],
+    [
+      0.000221,
+      " 3 files changed, 70 insertions(+)\r\n"
+    ],
+    [
+      0.000009,
+      " create mode 100644 .gitignore\r\n"
+    ],
+    [
+      0.000006,
+      " create mode 100644 index.js\r\n"
+    ],
+    [
+      0.000088,
+      " create mode 100644 package.json\r\n"
+    ],
+    [
+      0.001026,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.020087,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000083,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000006,
+      "\u001b[?2004h"
+    ],
+    [
+      1.092440,
+      "g"
+    ],
+    [
+      0.055820,
+      "\u0008gi"
+    ],
+    [
+      0.144007,
+      "t"
+    ],
+    [
+      0.023874,
+      " "
+    ],
+    [
+      0.144069,
+      "s"
+    ],
+    [
+      0.111993,
+      "t"
+    ],
+    [
+      0.152124,
+      "a"
+    ],
+    [
+      0.120166,
+      "u"
+    ],
+    [
+      0.127898,
+      "s"
+    ],
+    [
+      0.185237,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git staus\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.008017,
+      "git: 'staus' is not a git command. See 'git --help'."
+    ],
+    [
+      0.000010,
+      "\r\n\r\nDid you mean this?\r\n"
+    ],
+    [
+      0.000094,
+      "\tstatus\r\n"
+    ],
+    [
+      0.001011,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.020248,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[44m\u001b[30m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000056,
+      "\u001b[?2004h"
+    ],
+    [
+      0.473436,
+      "git staus"
+    ],
+    [
+      0.199738,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127784,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152352,
+      "t"
+    ],
+    [
+      0.063743,
+      "u"
+    ],
+    [
+      0.176056,
+      "s"
+    ],
+    [
+      0.216616,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git status\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.001942,
+      "On branch master\r\n"
+    ],
+    [
+      0.000005,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000592,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.012416,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.536863,
+      "g"
+    ],
+    [
+      0.071719,
+      "\u0008gi"
+    ],
+    [
+      0.159910,
+      "t"
+    ],
+    [
+      0.047886,
+      " "
+    ],
+    [
+      0.160285,
+      "r"
+    ],
+    [
+      0.120029,
+      "em"
+    ],
+    [
+      0.175908,
+      "o"
+    ],
+    [
+      0.096000,
+      "t"
+    ],
+    [
+      0.039997,
+      "e"
+    ],
+    [
+      0.135971,
+      " "
+    ],
+    [
+      0.168080,
+      "a"
+    ],
+    [
+      0.112180,
+      "d"
+    ],
+    [
+      0.144098,
+      "d"
+    ],
+    [
+      0.071770,
+      " "
+    ],
+    [
+      0.136287,
+      "d"
+    ],
+    [
+      0.055704,
+      "o"
+    ],
+    [
+      0.184181,
+      "k"
+    ],
+    [
+      0.127915,
+      "k"
+    ],
+    [
+      0.136128,
+      "u"
+    ],
+    [
+      0.119785,
+      " "
+    ],
+    [
+      0.208251,
+      "d"
+    ],
+    [
+      0.080098,
+      "o"
+    ],
+    [
+      0.175921,
+      "k"
+    ],
+    [
+      0.128006,
+      "k"
+    ],
+    [
+      0.168009,
+      "u"
+    ],
+    [
+      0.232067,
+      "@"
+    ],
+    [
+      0.280070,
+      "s"
+    ],
+    [
+      0.183858,
+      "e"
+    ],
+    [
+      0.063825,
+      "m"
+    ],
+    [
+      0.183953,
+      "i"
+    ],
+    [
+      0.143970,
+      "c"
+    ],
+    [
+      0.087957,
+      "o"
+    ],
+    [
+      0.184118,
+      "l"
+    ],
+    [
+      0.159987,
+      "o"
+    ],
+    [
+      0.167974,
+      "n"
+    ],
+    [
+      0.112294,
+      "s"
+    ],
+    [
+      0.096043,
+      "o"
+    ],
+    [
+      0.055838,
+      "f"
+    ],
+    [
+      0.200203,
+      "t"
+    ],
+    [
+      0.135930,
+      "w"
+    ],
+    [
+      0.136099,
+      "a"
+    ],
+    [
+      0.039932,
+      "r"
+    ],
+    [
+      0.088038,
+      "e"
+    ],
+    [
+      0.199886,
+      ". \r\u001b[K"
+    ],
+    [
+      0.167700,
+      "d"
+    ],
+    [
+      0.047955,
+      "\rde"
+    ],
+    [
+      0.400019,
+      ":"
+    ],
+    [
+      0.424421,
+      "d"
+    ],
+    [
+      0.047930,
+      "o"
+    ],
+    [
+      0.176139,
+      "k"
+    ],
+    [
+      0.136001,
+      "k"
+    ],
+    [
+      0.143986,
+      "u"
+    ],
+    [
+      0.216022,
+      "-"
+    ],
+    [
+      0.127909,
+      "d"
+    ],
+    [
+      0.079756,
+      "e"
+    ],
+    [
+      0.064147,
+      "m"
+    ],
+    [
+      0.200074,
+      "o"
+    ],
+    [
+      0.825442,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git remote add dokku dokku@semicolonsoftware.de:dokku-demo\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.007717,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.020902,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000074,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000064,
+      "\u001b[?2004h"
+    ],
+    [
+      0.682235,
+      "g"
+    ],
+    [
+      0.055737,
+      "\u0008gi"
+    ],
+    [
+      0.152028,
+      "t"
+    ],
+    [
+      0.015605,
+      " "
+    ],
+    [
+      0.112230,
+      "p"
+    ],
+    [
+      0.192012,
+      "u"
+    ],
+    [
+      0.151966,
+      "s"
+    ],
+    [
+      0.064009,
+      "h"
+    ],
+    [
+      0.087838,
+      " "
+    ],
+    [
+      0.352255,
+      "d"
+    ],
+    [
+      0.055938,
+      "o"
+    ],
+    [
+      0.175931,
+      "k"
+    ],
+    [
+      0.136055,
+      "k"
+    ],
+    [
+      0.159985,
+      "u"
+    ],
+    [
+      0.119870,
+      " "
+    ],
+    [
+      0.936435,
+      "m"
+    ],
+    [
+      0.127666,
+      "a"
+    ],
+    [
+      0.047995,
+      "s"
+    ],
+    [
+      0.184005,
+      "t"
+    ],
+    [
+      0.160128,
+      "e"
+    ],
+    [
+      0.784195,
+      "r"
+    ],
+    [
+      1.121300,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;git push dokku master\u0007\u001b]1;\u0007"
+    ],
+    [
+      1.720173,
+      "Counting objects: 5, done.\r\n"
+    ],
+    [
+      0.000101,
+      "Delta compression using up to 32 threads.\r\n"
+    ],
+    [
+      0.000140,
+      "Compressing objects:  20% (1/5)   \r"
+    ],
+    [
+      0.000067,
+      "Compressing objects:  40% (2/5)   \r"
+    ],
+    [
+      0.000064,
+      "Compressing objects:  60% (3/5)   \r"
+    ],
+    [
+      0.000004,
+      "Compressing objects:  80% (4/5)   \rCompressing objects: 100% (5/5)   \r"
+    ],
+    [
+      0.000104,
+      "Compressing objects: 100% (5/5), done.\r\n"
+    ],
+    [
+      0.000330,
+      "Writing objects:  20% (1/5)   \r"
+    ],
+    [
+      0.000082,
+      "Writing objects:  40% (2/5)   \r"
+    ],
+    [
+      0.000157,
+      "Writing objects:  60% (3/5)   \r"
+    ],
+    [
+      0.000137,
+      "Writing objects:  80% (4/5)   \r"
+    ],
+    [
+      0.000116,
+      "Writing objects: 100% (5/5)   \r"
+    ],
+    [
+      0.000045,
+      "Writing objects: 100% (5/5), 1.07 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000004,
+      "Total 5 (delta 0), reused 0 (delta 0)\r\n"
+    ],
+    [
+      1.850704,
+      "remote: \u001b[1G-----\u003e Cleaning up...\u001b[K\r\n"
+    ],
+    [
+      2.101162,
+      "remote: \u001b[1G-----\u003e Building dokku-demo from herokuish...\u001b[K\r\n"
+    ],
+    [
+      1.764243,
+      "remote: \u001b[1G-----\u003e Adding BUILD_ENV to build environment...\u001b[K\r\n"
+    ],
+    [
+      3.966293,
+      "remote: \u001b[1G\u001b[1G       \u001b[1G-----\u003e Node.js app detected\u001b[K\r\n"
+    ],
+    [
+      0.037483,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000531,
+      "remote: \u001b[1G\u001b[1G-----\u003e Creating runtime environment\u001b[K\r\n"
+    ],
+    [
+      0.017853,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.004277,
+      "remote: \u001b[1G\u001b[1G       NPM_CONFIG_LOGLEVEL=error\u001b[K\r\n"
+    ],
+    [
+      0.000170,
+      "remote: \u001b[1G\u001b[1G       NPM_CONFIG_PRODUCTION=true\u001b[K\r\n"
+    ],
+    [
+      0.003698,
+      "remote: \u001b[1G\u001b[1G       NODE_ENV=production\u001b[K\r\n"
+    ],
+    [
+      0.000901,
+      "remote: \u001b[1G\u001b[1G       NODE_MODULES_CACHE=true\u001b[K\r\n"
+    ],
+    [
+      0.003043,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000140,
+      "remote: \u001b[1G\u001b[1G-----\u003e Installing binaries\u001b[K\r\n"
+    ],
+    [
+      0.018606,
+      "remote: \u001b[1G\u001b[1G       engines.node (package.json):  unspecified\u001b[K\r\n"
+    ],
+    [
+      0.000132,
+      "remote: \u001b[1G\u001b[1G       engines.npm (package.json):   unspecified (use default)\u001b[K\r\n"
+    ],
+    [
+      0.000485,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000476,
+      "remote: \u001b[1G\u001b[1G       Resolving node version (latest stable) via semver.io...\u001b[K\r\n"
+    ],
+    [
+      1.035335,
+      "remote: \u001b[1G\u001b[1G       Downloading and installing node 5.6.0...\u001b[K\r\n"
+    ],
+    [
+      5.040977,
+      "remote: \u001b[1G\u001b[1G       Using default npm version: 3.6.0\u001b[K\r\n"
+    ],
+    [
+      0.289721,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000075,
+      "remote: \u001b[1G\u001b[1G-----\u003e Restoring cache\u001b[K\r\n"
+    ],
+    [
+      0.300270,
+      "remote: \u001b[1G\u001b[1G       Skipping cache restore (new runtime signature)\u001b[K\r\n"
+    ],
+    [
+      0.000098,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000657,
+      "remote: \u001b[1G\u001b[1G-----\u003e Building dependencies\u001b[K\r\n"
+    ],
+    [
+      0.001391,
+      "remote: \u001b[1G\u001b[1G       Pruning any extraneous modules\u001b[K\r\n"
+    ],
+    [
+      0.698158,
+      "remote: \u001b[1G\u001b[1G       Installing node modules (package.json)\u001b[K\r\n"
+    ],
+    [
+      4.912414,
+      "remote: \u001b[1G\u001b[1G       dokku-demo@1.0.0 /tmp/build\u001b[K\r\n"
+    ],
+    [
+      0.000578,
+      "remote: \u001b[1G\u001b[1G       `-- express@4.13.4\u001b[K\r\n"
+    ],
+    [
+      0.000313,
+      "remote: \u001b[1G\u001b[1G       +-- accepts@1.2.13\u001b[K\r\n"
+    ],
+    [
+      0.002824,
+      "remote: \u001b[1G\u001b[1G       | +-- mime-types@2.1.9\u001b[K\r\n"
+    ],
+    [
+      0.000344,
+      "remote: \u001b[1G\u001b[1G       | | `-- mime-db@1.21.0\u001b[K\r\n"
+    ],
+    [
+      0.000460,
+      "remote: \u001b[1G\u001b[1G       | `-- negotiator@0.5.3\u001b[K\r\n"
+    ],
+    [
+      0.000389,
+      "remote: \u001b[1G\u001b[1G       +-- array-flatten@1.1.1\u001b[K\r\n"
+    ],
+    [
+      0.000438,
+      "remote: \u001b[1G\u001b[1G       +-- content-disposition@0.5.1\u001b[K\r\n"
+    ],
+    [
+      0.000085,
+      "remote: \u001b[1G\u001b[1G       +-- content-type@1.0.1\u001b[K\r\n"
+    ],
+    [
+      0.000643,
+      "remote: \u001b[1G\u001b[1G       +-- cookie@0.1.5\u001b[K\r\n"
+    ],
+    [
+      0.004921,
+      "remote: \u001b[1G\u001b[1G       +-- cookie-signature@1.0.6\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- debug@2.2.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- ms@0.7.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- depd@1.1.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- escape-html@1.0.3\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- etag@1.7.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- finalhandler@0.4.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- unpipe@1.0.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- fresh@0.3.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- merge-descriptors@1.0.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- methods@1.1.2\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- on-finished@2.3.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- ee-first@1.1.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- parseurl@1.3.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- path-to-regexp@0.1.7\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- proxy-addr@1.0.10\u001b[K\r\nremote: \u001b[1G\u001b[1G       | +-- forwarded@0.1.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- ipaddr.js@1.0.5\u001b[K\r\n"
+    ],
+    [
+      0.000111,
+      "remote: \u001b[1G\u001b[1G       +-- qs@4.0.0\u001b[K\r\n"
+    ],
+    [
+      0.000576,
+      "remote: \u001b[1G\u001b[1G       +-- range-parser@1.0.3\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- send@0.13.1\u001b[K\r\n"
+    ],
+    [
+      0.003048,
+      "remote: \u001b[1G\u001b[1G       | +-- destroy@1.0.4\u001b[K\r\nremote: \u001b[1G\u001b[1G       | +-- http-errors@1.3.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       | | `-- inherits@2.0.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       | +-- mime@1.3.4\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- statuses@1.2.1\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- serve-static@1.10.2\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- type-is@1.6.11\u001b[K\r\nremote: \u001b[1G\u001b[1G       | `-- media-typer@0.3.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       +-- utils-merge@1.0.0\u001b[K\r\nremote: \u001b[1G\u001b[1G       `-- vary@1.0.1\u001b[K\r\n"
+    ],
+    [
+      0.000082,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.018695,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000207,
+      "remote: \u001b[1G\u001b[1G-----\u003e Caching build\u001b[K\r\n"
+    ],
+    [
+      0.014958,
+      "remote: \u001b[1G\u001b[1G       Clearing previous node cache\u001b[K\r\n"
+    ],
+    [
+      0.002557,
+      "remote: \u001b[1G\u001b[1G       Saving 2 cacheDirectories (default):\u001b[K\r\n"
+    ],
+    [
+      0.000199,
+      "remote: \u001b[1G\u001b[1G       - node_modules\u001b[K\r\n"
+    ],
+    [
+      0.078557,
+      "remote: \u001b[1G\u001b[1G       - bower_components (nothing to cache)\u001b[K\r\n"
+    ],
+    [
+      0.291114,
+      "remote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.000095,
+      "remote: \u001b[1G\u001b[1G-----\u003e Build succeeded!\u001b[K\r\n"
+    ],
+    [
+      1.036528,
+      "remote: \u001b[1G\u001b[1G       `-- express@4.13.4\u001b[K\r\nremote: \u001b[1G\u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.069252,
+      "remote: \u001b[1G\u001b[1G       \u001b[1G-----\u003e Discovering process types\u001b[K\r\n"
+    ],
+    [
+      0.335373,
+      "remote: \u001b[1G\u001b[1G       Default types for  -\u003e web\u001b[K\r\n"
+    ],
+    [
+      6.026865,
+      "remote: \u001b[1G-----\u003e Releasing dokku-demo (dokku/dokku-demo:latest)...\u001b[K\r\n"
+    ],
+    [
+      1.542045,
+      "remote: \u001b[1G-----\u003e Deploying dokku-demo (dokku/dokku-demo:latest)...\u001b[K\r\n"
+    ],
+    [
+      1.051590,
+      "remote: \u001b[1G-----\u003e DOKKU_SCALE file not found in app image. Generating one based on Procfile...\u001b[K\r\n"
+    ],
+    [
+      0.702452,
+      "remote: \u001b[1G-----\u003e New DOKKU_SCALE file generated\u001b[K\r\nremote: \u001b[1G=====\u003e web=1\u001b[K\r\n"
+    ],
+    [
+      3.303607,
+      "remote: \u001b[1G-----\u003e Running pre-flight checks\u001b[K\r\n"
+    ],
+    [
+      0.308529,
+      "remote: \u001b[1G       For more efficient zero downtime deployments, create a file CHECKS.\u001b[K\r\nremote: \u001b[1G       See http://dokku.viewdocs.io/dokku/checks-examples.md for examples\u001b[K\r\nremote: \u001b[1G       CHECKS file not found in container: Running simple container check...\u001b[K\r\n"
+    ],
+    [
+      0.001407,
+      "remote: \u001b[1G-----\u003e Waiting for 10 seconds ...\u001b[K\r\n"
+    ],
+    [
+      10.204280,
+      "remote: \u001b[1G-----\u003e Default container check successful!\u001b[K\r\n"
+    ],
+    [
+      0.000922,
+      "remote: \u001b[1G=====\u003e dokku-demo container output:\u001b[K\r\n"
+    ],
+    [
+      0.086512,
+      "remote: \u001b[1G       \u003e dokku-demo@1.0.0 start /app\u001b[K\r\nremote: \u001b[1G       \u003e node index\u001b[K\r\nremote: \u001b[1G       Listening on port 5000\u001b[K\r\nremote: \u001b[1G=====\u003e end dokku-demo container output\u001b[K\r\n"
+    ],
+    [
+      0.198477,
+      "remote: \u001b[1G-----\u003e Running post-deploy\u001b[K\r\n"
+    ],
+    [
+      0.325298,
+      "remote: \u001b[1G=====\u003e renaming container (cb41c7792da7) big_panini to dokku-demo.web.1\u001b[K\r\n"
+    ],
+    [
+      0.565759,
+      "remote: \u001b[1G-----\u003e Creating new /home/dokku/dokku-demo/VHOST...\u001b[K\r\n"
+    ],
+    [
+      0.520338,
+      "remote: \u001b[1G-----\u003e Setting config vars\u001b[K\r\n"
+    ],
+    [
+      0.007634,
+      "remote: \u001b[1G       DOKKU_NGINX_PORT: 80\u001b[K\r\n"
+    ],
+    [
+      0.250385,
+      "remote: \u001b[1G-----\u003e Configuring dokku-demo.semicolonsoftware.de...(using /var/lib/dokku/plugins/available/nginx-vhosts/templates/nginx.conf.template)\u001b[K\r\n"
+    ],
+    [
+      0.024827,
+      "remote: \u001b[1G-----\u003e Creating http nginx.conf\u001b[K\r\n"
+    ],
+    [
+      0.008154,
+      "remote: \u001b[1G-----\u003e Running nginx-pre-reload\u001b[K\r\n"
+    ],
+    [
+      0.235631,
+      "remote: \u001b[1G       Reloading nginx\u001b[K\r\n"
+    ],
+    [
+      1.016036,
+      "remote: \u001b[1G-----\u003e Setting config vars\u001b[K\r\n"
+    ],
+    [
+      0.007667,
+      "remote: \u001b[1G       DOKKU_APP_RESTORE: 1\u001b[K\r\n"
+    ],
+    [
+      0.348559,
+      "remote: \u001b[1G=====\u003e Application deployed:\u001b[K\r\n"
+    ],
+    [
+      0.418190,
+      "remote: \u001b[1G       http://dokku-demo.semicolonsoftware.de\u001b[K\r\nremote: \u001b[1G\u001b[K\r\n"
+    ],
+    [
+      0.391213,
+      "To dokku@semicolonsoftware.de:dokku-demo\r\n * [new branch]      master -\u003e master\r\n"
+    ],
+    [
+      0.000536,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.018172,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.954726,
+      "c"
+    ],
+    [
+      0.183754,
+      "\u0008cu"
+    ],
+    [
+      0.176101,
+      "r"
+    ],
+    [
+      0.111926,
+      "l"
+    ],
+    [
+      0.135780,
+      " "
+    ],
+    [
+      0.144493,
+      "d"
+    ],
+    [
+      0.111604,
+      "o"
+    ],
+    [
+      0.208024,
+      "k"
+    ],
+    [
+      0.135809,
+      "k"
+    ],
+    [
+      0.168117,
+      "u"
+    ],
+    [
+      0.223910,
+      "-"
+    ],
+    [
+      0.184064,
+      "d"
+    ],
+    [
+      0.071949,
+      "e"
+    ],
+    [
+      0.039955,
+      "m"
+    ],
+    [
+      0.199970,
+      "o"
+    ],
+    [
+      0.200039,
+      "."
+    ],
+    [
+      0.080014,
+      "s"
+    ],
+    [
+      0.160136,
+      "e"
+    ],
+    [
+      0.047823,
+      "m"
+    ],
+    [
+      0.176167,
+      "c"
+    ],
+    [
+      0.023850,
+      "i"
+    ],
+    [
+      0.383997,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127905,
+      "\u0008 \u0008"
+    ],
+    [
+      0.080123,
+      "i"
+    ],
+    [
+      0.080077,
+      "c"
+    ],
+    [
+      0.088106,
+      "o"
+    ],
+    [
+      0.136048,
+      "l"
+    ],
+    [
+      0.136035,
+      "o"
+    ],
+    [
+      0.136027,
+      "n"
+    ],
+    [
+      0.136325,
+      "s"
+    ],
+    [
+      0.079621,
+      "o"
+    ],
+    [
+      0.095984,
+      "f"
+    ],
+    [
+      0.216138,
+      "t"
+    ],
+    [
+      0.136033,
+      "w"
+    ],
+    [
+      0.135989,
+      "a"
+    ],
+    [
+      0.063986,
+      "r"
+    ],
+    [
+      0.047866,
+      "e"
+    ],
+    [
+      0.135873,
+      "."
+    ],
+    [
+      0.128318,
+      "d"
+    ],
+    [
+      0.031952,
+      "e"
+    ],
+    [
+      0.657600,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l\r\r\n\u001b]2;curl dokku-demo.semicolonsoftware.de\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.095397,
+      "Greetings, human!"
+    ],
+    [
+      0.000628,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                     \r \r\u001b]2;seemayer@l1161-02: ~/Projects/_fun/dokku-demo\u0007\u001b]1;..un/dokku-demo\u0007"
+    ],
+    [
+      0.019502,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m dokku-demo \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.660231,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
