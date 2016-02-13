@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 30,
+  "duration": 191.630128,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006996,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000004,
+      "bash-3.2$ "
+    ],
+    [
+      3.597302,
+      "."
+    ],
+    [
+      0.225067,
+      "/"
+    ],
+    [
+      1.518599,
+      "d"
+    ],
+    [
+      0.270190,
+      "ocker-lab.sh "
+    ],
+    [
+      1.575081,
+      "\r\n"
+    ],
+    [
+      0.006419,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000290,
+      "\r\n\u001b[32;01m Docker Lab Installer v1.0 \u001b[39;49;00m\r\n\r\n"
+    ],
+    [
+      0.001313,
+      "Press [Enter] to begin..."
+    ],
+    [
+      1.904543,
+      "\r\n"
+    ],
+    [
+      0.020390,
+      "\r\n\u001b[32;01m Checking your Mac for Docker Lab Setup... \u001b[39;49;00m\r\n\r\nHomebrew:                             \u001b[32;01m[ OK ]\u001b[39;49;00m\r\nwget:                                 \u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling wget...\r\n"
+    ],
+    [
+      8.789105,
+      "\r\ngit:                                  "
+    ],
+    [
+      0.005440,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling git...\r\n"
+    ],
+    [
+      9.589952,
+      "\r\nAnsible:                              "
+    ],
+    [
+      0.165810,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Ansible...\r\n"
+    ],
+    [
+      48.106149,
+      "\r\nPython:                               "
+    ],
+    [
+      0.165898,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Python...\r\n"
+    ],
+    [
+      35.898630,
+      "\r\nPacker:                               "
+    ],
+    [
+      0.165075,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Packer...\r\n"
+    ],
+    [
+      24.140700,
+      "\r\nDocker Toolbox:                       "
+    ],
+    [
+      0.010456,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading Docker Toolbox...\r\n"
+    ],
+    [
+      0.897749,
+      "\r\nInstalling Docker Toolbox...\r\n"
+    ],
+    [
+      0.013538,
+      "Password:"
+    ],
+    [
+      7.196727,
+      "\r\n"
+    ],
+    [
+      9.834048,
+      "\r\nDocker Cloud:                         "
+    ],
+    [
+      0.181830,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nInstalling Docker Cloud...\r\n"
+    ],
+    [
+      5.319763,
+      "\r\nVagrant:                              "
+    ],
+    [
+      0.010564,
+      "\u001b[31;01m[ Missing ]\u001b[39;49;00m\r\nDownloading Vagrant...\r\n"
+    ],
+    [
+      12.922299,
+      "\r\nInstalling Vagrant...\r\n\r\n"
+    ],
+    [
+      10.746353,
+      "\u001b[32;01m \r\nRechecking your Mac for Docker Lab Setup... \u001b[39;49;00m\r\n\r\nHomebrew:                             \u001b[32;01m[ OK ]\u001b[39;49;00m\r\nwget:                                 \u001b[32;01m[ OK ]\u001b[39;49;00m\r\ngit:                                  "
+    ],
+    [
+      0.005228,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nAnsible:                              "
+    ],
+    [
+      0.204987,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nPython:                               "
+    ],
+    [
+      0.176584,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nPacker:                               "
+    ],
+    [
+      0.157812,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nDocker Toolbox:                       "
+    ],
+    [
+      0.010811,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nDocker Cloud:                         "
+    ],
+    [
+      0.157109,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\nVagrant:                              "
+    ],
+    [
+      0.010899,
+      "\u001b[32;01m[ OK ]\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.014467,
+      "\r\n\r\n\u001b[32;01m Your Docker Lab is ready to roll. \u001b[39;49;00m\r\n\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "Press [Enter] to continue..."
+    ],
+    [
+      5.306383,
+      "\r\n"
+    ],
+    [
+      0.000772,
+      "bash-3.2$ "
+    ],
+    [
+      2.295821,
+      "exit\r\n"
+    ]
+  ]
+}
