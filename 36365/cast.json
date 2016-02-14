@@ -1,0 +1,906 @@
+{
+  "version": 1,
+  "width": 104,
+  "height": 29,
+  "duration": 35.458329,
+  "command": "/run/current-system/sw/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/run/current-system/sw/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.144046,
+      "\u001b[0m\u001b[34m          ::::.    \u001b[0m\u001b[1;34m':::::     ::::'          \u001b[0m\u001b[1;34mbkase\u001b[0m\u001b[1m@\u001b[0m\u001b[0m\u001b[1;34mhyrule\u001b[0m\r\n"
+    ],
+    [
+      0.001432,
+      "\u001b[0m\u001b[34m          ':::::    \u001b[0m\u001b[1;34m':::::.  ::::'           \u001b[0m\u001b[1;34m OS:\u001b[0m NixOS \u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001368,
+      "\u001b[0m\u001b[34m            :::::     \u001b[0m\u001b[1;34m'::::.:::::            \u001b[0m\u001b[1;34m Kernel:\u001b[0m x86_64 Linux 3.18.25\u001b[0m\r\n"
+    ],
+    [
+      0.001430,
+      "\u001b[0m\u001b[34m      .......:::::..... \u001b[0m\u001b[1;34m::::::::             \u001b[0m\u001b[1;34m Uptime:\u001b[0m 20d 17h 4m\u001b[0m\r\n"
+    ],
+    [
+      0.001389,
+      "\u001b[0m\u001b[34m     ::::::::::::::::::. \u001b[0m\u001b[1;34m::::::    \u001b[0m\u001b[34m::::.     \u001b[0m\u001b[1;34m Packages:\u001b[0m 1317\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001581,
+      "\u001b[0m\u001b[34m    ::::::::::::::::::::: \u001b[0m\u001b[1;34m:::::.  \u001b[0m\u001b[34m.::::'     \u001b[0m\u001b[1;34m Shell:\u001b[0m zsh\u001b[0m\r\n"
+    ],
+    [
+      0.001435,
+      "\u001b[0m\u001b[1;34m           .....           ::::' \u001b[0m\u001b[34m:::::'      \u001b[0m\u001b[1;34m CPU:\u001b[0m Intel Core i7-6700K CPU @ 4.001GHz\u001b[0m\r\n"
+    ],
+    [
+      0.001564,
+      "\u001b[0m\u001b[1;34m          :::::            '::' \u001b[0m\u001b[34m:::::'       \u001b[0m\u001b[1;34m RAM:\u001b[0m 1339MiB / 32059MiB\u001b[0m\r\n"
+    ],
+    [
+      0.001421,
+      "\u001b[0m\u001b[1;34m ........:::::               ' \u001b[0m\u001b[34m:::::::::::.  \u001b[0m\r\n"
+    ],
+    [
+      0.001568,
+      "\u001b[0m\u001b[1;34m:::::::::::::                 \u001b[0m\u001b[34m:::::::::::::  \u001b[0m\r\n"
+    ],
+    [
+      0.001317,
+      "\u001b[0m\u001b[1;34m ::::::::::: \u001b[0m\u001b[34m..              \u001b[0m\u001b[34m:::::           \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001106,
+      "\u001b[0m\u001b[1;34m     .::::: \u001b[0m\u001b[34m.:::            \u001b[0m\u001b[34m:::::            \u001b[0m\r\n"
+    ],
+    [
+      0.001188,
+      "\u001b[0m\u001b[1;34m    .:::::  \u001b[0m\u001b[34m:::::          \u001b[0m\u001b[34m'''''    \u001b[0m\u001b[1;34m.....    \u001b[0m\r\n"
+    ],
+    [
+      0.001249,
+      "\u001b[0m\u001b[1;34m    :::::   \u001b[0m\u001b[34m':::::.  \u001b[0m\u001b[1;34m......:::::::::::::'    \u001b[0m\r\n"
+    ],
+    [
+      0.001113,
+      "\u001b[0m\u001b[1;34m     :::     \u001b[0m\u001b[34m::::::. \u001b[0m\u001b[1;34m':::::::::::::::::'     \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001115,
+      "\u001b[0m\u001b[34m            .:::::::: \u001b[0m\u001b[1;34m'::::::::::            \u001b[0m\r\n"
+    ],
+    [
+      0.001067,
+      "\u001b[0m\u001b[34m           .::::''::::.     \u001b[0m\u001b[1;34m'::::.           \u001b[0m\r\n"
+    ],
+    [
+      0.001089,
+      "\u001b[0m\u001b[34m          .::::'   ::::.     \u001b[0m\u001b[1;34m'::::.          \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001075,
+      "\u001b[0m\u001b[34m         .::::      ::::      \u001b[0m\u001b[1;34m'::::.         \u001b[0m\r\n"
+    ],
+    [
+      0.024195,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.044684,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000030,
+      "\u001b[?2004h"
+    ],
+    [
+      4.550936,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.044675,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.134779,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000030,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.001385,
+      "\u001b[0m\u001b[00;38;5;244m\u001b[m\u001b[00;38;5;33msrc\u001b[0m  \u001b[00;38;5;244m\u001b[m\u001b[00;38;5;33mtarget\u001b[0m  \u001b[00;38;5;244mCargo.lock\u001b[0m  \u001b[00;38;5;244mCargo.toml\u001b[0m  \u001b[00;38;5;244mdefault.nix\u001b[0m  \u001b[00;38;5;244mnixos-sample.torrent\u001b[0m  \u001b[00;38;5;244m\u001b[m\u001b[01;38;5;33mresult\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.045087,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000044,
+      "\u001b[?2004h"
+    ],
+    [
+      0.588032,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.166844,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.159722,
+      "\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ma\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.208433,
+      " "
+    ],
+    [
+      0.160307,
+      "\u001b[4md\u001b[24m"
+    ],
+    [
+      0.173834,
+      "\u0008\u001b[4md\u001b[4me\u001b[24m"
+    ],
+    [
+      0.202544,
+      "\u0008\u001b[4me\u001b[4mf\u001b[24m"
+    ],
+    [
+      0.126838,
+      "\u0008\u001b[4mf\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.088066,
+      "\u0008\u001b[4ma\u001b[4mu\u001b[24m"
+    ],
+    [
+      0.115491,
+      "\u0008\u001b[4mu\u001b[4mlt.nix\u001b[24m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.367581,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000059,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\u001b[?2004l\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002041,
+      "with import \u003cnixpkgs\u003e { };\r\n\r\nstdenv.mkDerivation rec {\r\n  name = \"rust-torrent-${version}\";\r\n  version = \"0.1.0\";\r\n\r\n  buildInputs = [ rustPlatform.rustc cargo ];\r\n"
+    ],
+    [
+      0.000030,
+      "}\r\n\r\n\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.049493,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000075,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000006,
+      "\u001b[?2004h"
+    ],
+    [
+      4.989762,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.118204,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.096062,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.207863,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mg\u001b[0m\u001b[39m"
+    ],
+    [
+      0.056460,
+      "\u0008\u001b[1m\u001b[31mg\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.199299,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000033,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.022462,
+      "The program ‘cargo’ is currently not installed. It is provided by\r\n"
+    ],
+    [
+      0.000003,
+      "several packages. You can install it by typing one of the following:\r\n  nix-env -iA nixos.cargo\r\n  nix-env -iA nixos.cargoUnstable\r\n"
+    ],
+    [
+      0.000800,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.043975,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000012,
+      "\u001b[?2004h"
+    ],
+    [
+      2.929808,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.109876,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.107678,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.689466,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.153103,
+      "\u0008\u0008\u001b[0m\u001b[32mc\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.132015,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.123450,
+      "\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.126799,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.192951,
+      "\u0008\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31ml\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.161589,
+      "\u0008\u001b[1m\u001b[31mi\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.090961,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32ma\u001b[0m\u001b[32ml\u001b[0m\u001b[32mi\u001b[0m\u001b[32ma\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.099505,
+      " "
+    ],
+    [
+      0.241300,
+      "c"
+    ],
+    [
+      0.109053,
+      "o"
+    ],
+    [
+      0.112399,
+      "d"
+    ],
+    [
+      0.201024,
+      "e"
+    ],
+    [
+      0.128314,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000014,
+      "\u001b[?2004l\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000370,
+      "code='nix-shell . --command \"USE_NIXSHELL=1 exec zsh; return\"'\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.045677,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000033,
+      "\u001b[?2004h"
+    ],
+    [
+      1.699398,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.069298,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.128081,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.177417,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32mo\u001b[0m\u001b[32md\u001b[32me\u001b[39m"
+    ],
+    [
+      0.102321,
+      "\u001b[?1l\u001b\u003e\u001b[?2004l"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.346147,
+      "\u001b[0m\u001b[34m          ::::.    \u001b[0m\u001b[1;34m':::::     ::::'          \u001b[0m\u001b[1;34mbkase\u001b[0m\u001b[1m@\u001b[0m\u001b[0m\u001b[1;34mhyrule\u001b[0m\r\n"
+    ],
+    [
+      0.001504,
+      "\u001b[0m\u001b[34m          ':::::    \u001b[0m\u001b[1;34m':::::.  ::::'           \u001b[0m\u001b[1;34m OS:\u001b[0m NixOS \u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001283,
+      "\u001b[0m\u001b[34m            :::::     \u001b[0m\u001b[1;34m'::::.:::::            \u001b[0m\u001b[1;34m Kernel:\u001b[0m x86_64 Linux 3.18.25\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001242,
+      "\u001b[0m\u001b[34m      .......:::::..... \u001b[0m\u001b[1;34m::::::::             \u001b[0m\u001b[1;34m Uptime:\u001b[0m 20d 17h 4m\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001200,
+      "\u001b[0m\u001b[34m     ::::::::::::::::::. \u001b[0m\u001b[1;34m::::::    \u001b[0m\u001b[34m::::.     \u001b[0m\u001b[1;34m Packages:\u001b[0m 1317\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001373,
+      "\u001b[0m\u001b[34m    ::::::::::::::::::::: \u001b[0m\u001b[1;34m:::::.  \u001b[0m\u001b[34m.::::'     \u001b[0m\u001b[1;34m Shell:\u001b[0m zsh\u001b[0m\r\n"
+    ],
+    [
+      0.001315,
+      "\u001b[0m\u001b[1;34m           .....           ::::' \u001b[0m\u001b[34m:::::'      \u001b[0m\u001b[1;34m CPU:\u001b[0m Intel Core i7-6700K CPU @ 4.001GHz\u001b[0m\r\n"
+    ],
+    [
+      0.001249,
+      "\u001b[0m\u001b[1;34m          :::::            '::' \u001b[0m\u001b[34m:::::'       \u001b[0m\u001b[1;34m RAM:\u001b[0m 1342MiB / 32059MiB\u001b[0m\r\n"
+    ],
+    [
+      0.001444,
+      "\u001b[0m\u001b[1;34m ........:::::               ' \u001b[0m\u001b[34m:::::::::::.  \u001b[0m\r\n"
+    ],
+    [
+      0.001305,
+      "\u001b[0m\u001b[1;34m:::::::::::::                 \u001b[0m\u001b[34m:::::::::::::  \u001b[0m\r\n"
+    ],
+    [
+      0.001259,
+      "\u001b[0m\u001b[1;34m ::::::::::: \u001b[0m\u001b[34m..              \u001b[0m\u001b[34m:::::           \u001b[0m\r\n"
+    ],
+    [
+      0.001354,
+      "\u001b[0m\u001b[1;34m     .::::: \u001b[0m\u001b[34m.:::            \u001b[0m\u001b[34m:::::            \u001b[0m\r\n"
+    ],
+    [
+      0.001354,
+      "\u001b[0m\u001b[1;34m    .:::::  \u001b[0m\u001b[34m:::::          \u001b[0m\u001b[34m'''''    \u001b[0m\u001b[1;34m.....    \u001b[0m\r\n"
+    ],
+    [
+      0.001253,
+      "\u001b[0m\u001b[1;34m    :::::   \u001b[0m\u001b[34m':::::.  \u001b[0m\u001b[1;34m......:::::::::::::'    \u001b[0m\r\n"
+    ],
+    [
+      0.001351,
+      "\u001b[0m\u001b[1;34m     :::     \u001b[0m\u001b[34m::::::. \u001b[0m\u001b[1;34m':::::::::::::::::'     \u001b[0m\r\n"
+    ],
+    [
+      0.001355,
+      "\u001b[0m\u001b[34m            .:::::::: \u001b[0m\u001b[1;34m'::::::::::            \u001b[0m\r\n"
+    ],
+    [
+      0.001255,
+      "\u001b[0m\u001b[34m           .::::''::::.     \u001b[0m\u001b[1;34m'::::.           \u001b[0m\r\n"
+    ],
+    [
+      0.001664,
+      "\u001b[0m\u001b[34m          .::::'   ::::.     \u001b[0m\u001b[1;34m'::::.          \u001b[0m\r\n"
+    ],
+    [
+      0.001617,
+      "\u001b[0m\u001b[34m         .::::      ::::      \u001b[0m\u001b[1;34m'::::.         \u001b[0m\r\n"
+    ],
+    [
+      0.022168,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.055372,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[1m*nix-shell*\u001b[0m \u001b[K\u001b[44C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[67D"
+    ],
+    [
+      0.000115,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.163996,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.139740,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.080864,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.226247,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mg\u001b[0m\u001b[39m"
+    ],
+    [
+      0.068444,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ma\u001b[0m\u001b[32mr\u001b[0m\u001b[32mg\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.201369,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000003,
+      "\r\r\n"
+    ],
+    [
+      0.051582,
+      "\u001b(B\u001b[0mRust's package manager\r\n\r\nUsage:"
+    ],
+    [
+      0.000006,
+      "\r\n    cargo \u003ccommand\u003e [\u003cargs\u003e...]\r\n    cargo [options]\r\n\r\nOptions:\r\n    -h, --help          Display this message\r\n    -V, --version       Print version info and exit\r\n    --list              List installed commands\r\n    -v, --verbose       Use verbose output\r\n    -q, --quiet         No output printed to stdout\r\n    --color WHEN        Coloring: auto, always, never"
+    ],
+    [
+      0.000010,
+      "\r\n\r\nSome common cargo commands are:\r\n    build       Compile the current project\r\n    clean       Remove the target directory\r\n    doc         Build this project's and its dependencies' documentation"
+    ],
+    [
+      0.000006,
+      "\r\n    new         Create a new cargo project\r\n    run         Build and execute src/main.rs\r\n"
+    ],
+    [
+      0.000003,
+      "    test        Run the tests\r\n"
+    ],
+    [
+      0.000003,
+      "    bench       Run the benchmarks\r\n"
+    ],
+    [
+      0.000003,
+      "    update      Update dependencies listed in Cargo.lock\r\n"
+    ],
+    [
+      0.000002,
+      "    search      Search registry for crates\r\n"
+    ],
+    [
+      0.000002,
+      "    publish     Package and upload this project to the registry\r\n"
+    ],
+    [
+      0.000002,
+      "    install     Install a Rust binary\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "See 'cargo help \u003ccommand\u003e' for more information on a specific command.\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b(B\u001b[0m"
+    ],
+    [
+      0.000689,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.050587,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[1m*nix-shell*\u001b[0m \u001b[K\u001b[44C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[67D"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000071,
+      "\u001b[?2004h"
+    ],
+    [
+      0.810439,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.149320,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.096180,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.207500,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mg\u001b[0m\u001b[39m"
+    ],
+    [
+      0.040342,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ma\u001b[0m\u001b[32mr\u001b[0m\u001b[32mg\u001b[32mo\u001b[39m"
+    ],
+    [
+      0.119758,
+      " "
+    ],
+    [
+      0.832876,
+      "\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.073188,
+      "\u0008\u001b[24mte"
+    ],
+    [
+      0.055525,
+      "s"
+    ],
+    [
+      0.103092,
+      "t"
+    ],
+    [
+      0.105905,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000058,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.118442,
+      "\u001b(B\u001b[0m\u001b[32m\u001b[1m     Running\u001b(B\u001b[0m target/debug/torrent-d6947efd4557caa6\r\n"
+    ],
+    [
+      0.001506,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "running 6 tests\r\n"
+    ],
+    [
+      0.000458,
+      "test bencode::tests::bval_list ... "
+    ],
+    [
+      0.000010,
+      "\u001b[32mok\u001b(B\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "test bencode::tests::bval_int ... "
+    ],
+    [
+      0.000008,
+      "\u001b[32mok\u001b(B\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "test bencode::tests::bval_string ... "
+    ],
+    [
+      0.000011,
+      "\u001b[32mok\u001b(B\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\ntest bencode::tests::option_variant ... \u001b[32mok\u001b(B\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "test bencode::tests::bval_dict ... "
+    ],
+    [
+      0.000003,
+      "\u001b[32mok\u001b(B\u001b[0m\r\n"
+    ],
+    [
+      0.002678,
+      "test metainfo::tests::parse_sample_torrent ... "
+    ],
+    [
+      0.000004,
+      "\u001b[32mok\u001b(B\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "test result: "
+    ],
+    [
+      0.000007,
+      "\u001b[32mok\u001b(B\u001b[0m"
+    ],
+    [
+      0.000008,
+      ". 6 passed; 0 failed; 0 ignored; 0 measured"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.002097,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.055043,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e \u001b[1m*nix-shell*\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[44C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[67D"
+    ],
+    [
+      0.000044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000033,
+      "\u001b[?2004h"
+    ],
+    [
+      4.242898,
+      "\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.168512,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[0m\u001b[39m"
+    ],
+    [
+      0.148844,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.120374,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.468353,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000084,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000011,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.003635,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.047031,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000028,
+      "\u001b[?2004h"
+    ],
+    [
+      0.740410,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.190952,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.117245,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.237599,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mg\u001b[0m\u001b[39m"
+    ],
+    [
+      0.053626,
+      "\u0008\u001b[1m\u001b[31mg\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.440087,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000080,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000012,
+      "\r\r\n"
+    ],
+    [
+      0.022497,
+      "The program ‘cargo’ is currently not installed. It is provided by\r\nseveral packages. You can install it by typing one of the following:\r\n  nix-env -iA nixos.cargo"
+    ],
+    [
+      0.000005,
+      "\r\n  nix-env -iA nixos.cargoUnstable\r\n"
+    ],
+    [
+      0.000753,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                       \r \r"
+    ],
+    [
+      0.041784,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[0mbkase@\u001b[4mhyrule\u001b[24m(\u001b[01;35mmaster\u001b[00m|…\u001b[00m\u001b[00m)\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[56C\u001b[32m~/projects/rust-torrent\u001b[39m\u001b[79D"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000043,
+      "\u001b[?2004h"
+    ],
+    [
+      2.108739,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ]
+  ]
+}
