@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 122,
+  "height": 28,
+  "duration": 23.689190,
+  "command": "/bin/bash",
+  "title": "N001",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.085758,
+      "\u001b]0;asmok@Ubuntu: ~/Asciinema\u0007\u001b[01;32masmok@Ubuntu\u001b[00m \u001b[01;34m~/Asciinema $\u001b[00m "
+    ],
+    [
+      0.997736,
+      "c"
+    ],
+    [
+      0.191805,
+      "l"
+    ],
+    [
+      0.139856,
+      "e"
+    ],
+    [
+      0.226138,
+      "a"
+    ],
+    [
+      0.143958,
+      "r"
+    ],
+    [
+      0.579498,
+      "\r\n"
+    ],
+    [
+      0.001908,
+      "\u001b[3;J\u001b[H\u001b[2J"
+    ],
+    [
+      0.000846,
+      "\u001b]0;asmok@Ubuntu: ~/Asciinema\u0007\u001b[01;32masmok@Ubuntu\u001b[00m \u001b[01;34m~/Asciinema $\u001b[00m "
+    ],
+    [
+      1.246714,
+      "clear"
+    ],
+    [
+      0.217555,
+      "\u0008\u0008\u0008\u0008\u0008ssh raspi@raspi.community"
+    ],
+    [
+      0.943988,
+      "\r\n"
+    ],
+    [
+      0.788669,
+      "Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 4.1.5-x86_64-linode61 x86_64)\r\n"
+    ],
+    [
+      0.000661,
+      "\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n0 packages can be updated.\r\n0 updates are security updates.\r\n\r\nLast login: Sun Feb 14 21:19:30 2016 from 82.181.172.119\r\r\n"
+    ],
+    [
+      0.077608,
+      "\u001b]0;raspi@diva: ~\u0007raspi@diva:~$ "
+    ],
+    [
+      1.291588,
+      "exit"
+    ],
+    [
+      0.365837,
+      "\u0008\u0008\u0008\u0008ssh pi@localhost -p 22111"
+    ],
+    [
+      0.708252,
+      "\r\n"
+    ],
+    [
+      0.548228,
+      "pi@localhost's password: "
+    ],
+    [
+      3.241672,
+      "\r\n"
+    ],
+    [
+      0.649421,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Sun Feb 14 21:19:36 2016 from localhost\r\r\n"
+    ],
+    [
+      0.512186,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.038320,
+      "h"
+    ],
+    [
+      0.199614,
+      "t"
+    ],
+    [
+      0.197312,
+      "o"
+    ],
+    [
+      0.207658,
+      "p"
+    ],
+    [
+      0.309898,
+      "\r\n"
+    ],
+    [
+      0.015803,
+      "\u001b[?1049h\u001b[1;28r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?25l\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.196624,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[45X\u001b[2;54H2.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m91\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m74\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m2\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m\u001b[43X\u001b[3;54H4.5%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m1.08 \u001b[39m\u001b(B\u001b[m1.06 \u001b(B\u001b[0;1m1.08 \u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m\u001b[43X\u001b[4;54H5.3%\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m13 days, 11:19:26\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m\u001b[43X\u001b[5;54H3.5%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||||\u001b[34m|||||||\u001b[33m||||||||||||||||||||||||188/9\u001b(B\u001b[0;1m\u001b[30m25MB\u001b[39m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[45X\u001b[7;52H0/99MB\u001b[39m]\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[10d\u001b[30m\u001b[46m14186 pi         20   0  4860  3476  3136 R 88.9  0.4 24h42:22 socat openssl-connect:server:789,cafile=/etc/epoptes/server\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m30722 pi\u001b[11;18H20   0 \u001b[36m 5\u001b[39m\u001b(B\u001b[m820 \u001b[36m 2\u001b[39m\u001b(B\u001b[m980 \u001b[36m 2\u001b[39m\u001b(B\u001b[m428 \u001b[32mR \u001b[39m\u001b(B\u001b[m37.0  0.3  0:00.12 htop\u001b[12;5H1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m852 \u001b[36m 3\u001b[39m\u001b(B\u001b[m972 \u001b[36m 2\u001b[39m\u001b(B\u001b[m736 S  0.0  0.4  2:31.00 /sbin/init\u001b[13;3H114 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m10\u001b[39m\u001b(B\u001b[m088 \u001b[36m 4\u001b[39m\u001b(B\u001b[m780 \u001b[36m 4\u001b[39m\u001b(B\u001b[m452 S  0.0  0.5  1:01.80 /lib/systemd/systemd-journald\u001b[14;3H115 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m12\u001b[39m\u001b(B\u001b[m076 \u001b[36m 3\u001b[39m\u001b(B\u001b[m080 \u001b[36m 2\u001b[39m\u001b(B\u001b[m384 S  0.0  0.3  0:00.78 /lib/systemd/systemd-udevd\u001b[15;3H435 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 5\u001b[39m\u001b(B\u001b[m548 \u001b[36m 2\u001b[39m\u001b(B\u001b[m152 \u001b[36m 1\u001b[39m\u001b(B\u001b[m952 S  0.0  0.2  0:03.62 /usr/sbin/cron -f\u001b[16;3H436 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 3\u001b[39m\u001b(B\u001b[m852 \u001b[36m 2\u001b[39m\u001b(B\u001b[m416 \u001b[36m 2\u001b[39m\u001b(B\u001b[m144 S  0.0  0.3  0:11.41 /lib/systemd/systemd-l"
+    ],
+    [
+      0.000115,
+      "ogind\u001b[17;3H442 \u001b(B\u001b[0;1m\u001b[30mavahi     \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m004 \u001b[36m 2\u001b[39m\u001b(B\u001b[m664 \u001b[36m 2\u001b[39m\u001b(B\u001b[m368 S  0.0  0.3  0:23.60 avahi-daemon: running [raspberrypi-2.local]\u001b[18;3H446 \u001b(B\u001b[0;1m\u001b[30mmessagebu \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 5\u001b[39m\u001b(B\u001b[m776 \u001b[36m 3\u001b[39m\u001b(B\u001b[m264 \u001b[36m 2\u001b[39m\u001b(B\u001b[m648 S  0.0  0.3  0:08.25 /usr/bin/dbus-daemon --system --address=systemd: --nofork -\u001b[19;3H464 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 2\u001b[39m\u001b(B\u001b[m564 \u001b[36m 1\u001b[39m\u001b(B\u001b[m788 \u001b[36m 1\u001b[39m\u001b(B\u001b[m532 S  0.0  0.2  8:14.07 /sbin/dhcpcd -q -b\u001b[20;3H469 \u001b(B\u001b[0;1m\u001b[30mnobody    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 2\u001b[39m\u001b(B\u001b[m292 \u001b[36m 1\u001b[39m\u001b(B\u001b[m468 \u001b[36m 1\u001b[39m\u001b(B\u001b[m340 S  0.0  0.2  0:17.19 /usr/sbin/thd --daemon --triggers /etc/triggerhappy/trigger\u001b[21;3H471 \u001b(B\u001b[0;1m\u001b[30mavahi     \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 3\u001b[39m\u001b(B\u001b[m876   224     0 S  0.0  0.0  0:00.00 avahi-daemon: chroot helper\u001b[22;3H493 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m32\u001b[39m\u001b(B\u001b[m144 \u001b[36m 2\u001b[39m\u001b(B\u001b[m576 \u001b[36m 1\u001b[39m\u001b(B\u001b[m932 S  0.0  0.3  0:00.54 /usr/sbin/rsyslogd -n\u001b[23;3H494 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m32\u001b[39m\u001b(B\u001b[m144 \u001b[36m 2\u001b[39m\u001b(B\u001b[m576 \u001b[36m 1\u001b[39m\u001b(B\u001b[m932 S  0.0  0.3  0:00.01 /usr/sbin/rsyslogd -n\u001b[24;3H495 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m32\u001b[39m\u001b(B\u001b[m144 \u001b[36m 2\u001b[39m\u001b(B\u001b[m576 \u001b[36m 1\u001b[39m\u001b(B\u001b[m932 S  0.0  0.3  0:00.91 /usr/sbin/rsyslogd -n\u001b[25;3H490 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m32\u001b[39m\u001b(B\u001b[m144 \u001b[36m 2\u001b[39m\u001b(B\u001b[m576 \u001b[36m 1\u001b[39m\u001b(B\u001b[m932 S  0.0  0.3  0:01.63 /usr/sbin/rsyslogd -n\u001b[26;3H499 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 7\u001b[39m\u001b(B\u001b[m860 \u001b[36m 4\u001b[39m\u001b(B\u001b[m108 \u001b[36m 3\u001b[39m\u001b(B\u001b[m652 S  0.0  0.4  0:00.25 /usr/sbin/sshd -D\r\u001b[27d 4329 \u001b(B\u001b[0;1m\u001b[30mapt-cache \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m82\u001b[39m\u001b(B\u001b[m172 \u001b[36m 9\u001b[39m\u001b(B\u001b[m648 \u001b[36m 4\u001b[39m\u001b(B\u001b[m920 S  0.0  1.0  1:00.70 /usr/sbin/apt-cacher-ng SocketPath=/var/run/apt-cacher-ng/s\u001b[28;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39"
+    ],
+    [
+      0.000050,
+      ";49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.962602,
+      "\u001b[28d\u001b[J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[28;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000424,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.216781,
+      "e"
+    ],
+    [
+      0.480394,
+      "xi"
+    ],
+    [
+      0.054583,
+      "t"
+    ],
+    [
+      0.320655,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.013948,
+      "Connection to localhost closed.\r\r\n"
+    ],
+    [
+      0.002476,
+      "\u001b]0;raspi@diva: ~\u0007raspi@diva:~$ "
+    ],
+    [
+      1.187249,
+      "e"
+    ],
+    [
+      0.238409,
+      "x"
+    ],
+    [
+      0.249461,
+      "i"
+    ],
+    [
+      0.082897,
+      "t"
+    ],
+    [
+      0.664898,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.005588,
+      "Connection to raspi.community closed.\r\r\n"
+    ],
+    [
+      0.001436,
+      "\u001b]0;asmok@Ubuntu: ~/Asciinema\u0007\u001b[01;32masmok@Ubuntu\u001b[00m \u001b[01;34m~/Asciinema $\u001b[00m "
+    ],
+    [
+      2.080766,
+      "exit"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ]
+  ]
+}
