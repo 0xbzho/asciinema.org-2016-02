@@ -1,0 +1,1882 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 40,
+  "duration": 38.927394,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.022348,
+      "\u001b]0;fish  /Users/srs/work\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001873,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.020385,
+      "\u001b]0;fish  /Users/srs/work\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000096,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b[32m~/work\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      0.636807,
+      "."
+    ],
+    [
+      0.000208,
+      "\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000596,
+      "\u001b[38;5;240m/enonic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[89D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000677,
+      "\u001b[38;5;26m/\u001b[38;5;240menonic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[88D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000730,
+      "\u001b[38;5;26me\u001b[38;5;240mnonic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[87D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000638,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1m./e\u001b(B\u001b[m\u001b[38;5;240mnonic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[87D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000710,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240monic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[86D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000653,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mnic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[85D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000630,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240mic-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[84D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000566,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mc-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[83D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000664,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240m-xp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[82D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000637,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mxp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[81D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000641,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mp-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[80D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000571,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240m-6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[79D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000588,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240m6.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000548,
+      "\u001b[31m\u001b[1m6\u001b(B\u001b[m\u001b[38;5;240m.3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000571,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240m3.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000540,
+      "\u001b[31m\u001b[1m3\u001b(B\u001b[m\u001b[38;5;240m.1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000536,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240m1/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[74D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000561,
+      "\u001b[31m\u001b[1m1\u001b(B\u001b[m\u001b[38;5;240m/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[73D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000561,
+      "\u001b[17D\u001b[38;5;26m./enonic-xp-6.3.1\u001b[38;5;240m/toolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[73D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000454,
+      "\u001b[38;5;26m/\u001b[38;5;240mtoolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[72D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000551,
+      "\u001b[38;5;26mt\u001b[38;5;240moolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[71D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000522,
+      "\u001b[19D\u001b[31m\u001b[1m./enonic-xp-6.3.1/t\u001b(B\u001b[m\u001b[38;5;240moolbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[71D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000417,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240molbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[70D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000539,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mlbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[69D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000524,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240mbox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[68D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000563,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[38;5;240mox/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[67D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000540,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mx/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[66D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000505,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240m/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[65D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000566,
+      "\u001b[25D\u001b[38;5;26m./enonic-xp-6.3.1/toolbox\u001b[38;5;240m/toolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[65D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000402,
+      "\u001b[38;5;26m/\u001b[38;5;240mtoolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[64D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000503,
+      "\u001b[38;5;26mt\u001b[38;5;240moolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[63D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000430,
+      "\u001b[27D\u001b[31m\u001b[1m./enonic-xp-6.3.1/toolbox/t\u001b(B\u001b[m\u001b[38;5;240moolbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[63D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000328,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240molbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[62D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000449,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mlbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[61D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000417,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240mbox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[60D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000427,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[38;5;240mox.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[59D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000396,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mx.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[58D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000426,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240m.sh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[57D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000450,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240msh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[56D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000388,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mh init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000393,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240m init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000483,
+      "\u001b[36D\u001b[38;5;26m./enonic-xp-6.3.1/toolbox/toolbox.sh\u001b[38;5;240m init-project -r starter-bootstrap -n com.foo -d mypr…\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000327,
+      "\u001b[38;5;26m \u001b[38;5;240minit-project -r starter-bootstrap -n com.foo -d mypr…\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000325,
+      "\u0008 \u001b[38;5;240minit-project -r starter-bootstrap -n com.foo -d mypr…\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000188,
+      "h\u001b[K"
+    ],
+    [
+      0.000180,
+      "\u001b[38;5;240melp init-project\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000121,
+      "\u0008\u001b[38;5;39mh\u001b[38;5;240melp init-project\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u001b[38;5;39me\u001b[38;5;240mlp init-project\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000247,
+      "\u001b[38;5;39ml\u001b[38;5;240mp init-project\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39mp\u001b[38;5;240m init-project\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000227,
+      "\u001b[38;5;39m \u001b[38;5;240minit-project\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000171,
+      "\u0008 \u001b[38;5;240minit-project\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000143,
+      "i\u001b[38;5;240mnit-project\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000163,
+      "\u0008\u001b[38;5;39mi\u001b[38;5;240mnit-project\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\u001b[38;5;39mn\u001b[38;5;240mit-project\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000190,
+      "\u001b[38;5;39mi\u001b[38;5;240mt-project\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000214,
+      "\u001b[38;5;39mt\u001b[38;5;240m-project\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000202,
+      "\u001b[38;5;39m-\u001b[38;5;240mproject\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[38;5;39mp\u001b[38;5;240mroject\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\u001b[38;5;39mr\u001b[38;5;240moject\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000181,
+      "\u001b[38;5;39mo\u001b[38;5;240mject\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000179,
+      "\u001b[38;5;39mj\u001b[38;5;240mect\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u001b[38;5;39me\u001b[38;5;240mct\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000168,
+      "\u001b[38;5;39mc\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000145,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.579545,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000250,
+      "\u001b]"
+    ],
+    [
+      0.000005,
+      "0;./enonic-"
+    ],
+    [
+      0.000004,
+      "xp-6"
+    ],
+    [
+      0.000003,
+      ".3."
+    ],
+    [
+      0.000006,
+      "1/tool"
+    ],
+    [
+      0.000003,
+      "box"
+    ],
+    [
+      0.000003,
+      "/to"
+    ],
+    [
+      0.000003,
+      "olb"
+    ],
+    [
+      0.000003,
+      "ox."
+    ],
+    [
+      0.000004,
+      "sh "
+    ],
+    [
+      0.000003,
+      " /"
+    ],
+    [
+      0.000003,
+      "Use"
+    ],
+    [
+      0.000003,
+      "rs/"
+    ],
+    [
+      0.000003,
+      "srs"
+    ],
+    [
+      0.000013,
+      "/work\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b[m"
+    ],
+    [
+      0.427387,
+      "NAME\r\n        toolbox init-project - Initiates an Enonic XP application project.\r\n\r\nSYNOPSIS\r\n        toolbox init-project [-a \u003cauthentication\u003e]\r\n                [(-d \u003cdestination\u003e | --destination \u003cdestination\u003e)]\r\n                (-n \u003cname\u003e | --name \u003cname\u003e)\r\n                (-r \u003crepository\u003e | --repository \u003crepository\u003e)\r\n                [(-v \u003cversion\u003e | --version \u003cversion\u003e)]\r\n\r\nOPTIONS\r\n        -a \u003cauthentication\u003e\r\n            Authentication token for basic authentication (user:password).\r\n\r\n        -d \u003cdestination\u003e, --destination \u003cdestination\u003e\r\n            Destination path.\r\n\r\n        -n \u003cname\u003e, --name \u003cname\u003e\r\n            Application name.\r\n\r\n        -r \u003crepository\u003e, --repository \u003crepository\u003e\r\n            Git repository.\r\n\r\n        -v \u003cversion\u003e, --version \u003cversion\u003e\r\n            Version number.\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.025916,
+      "\u001b]0;fish  /Users/srs/work\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000099,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000064,
+      "\u001b[32m~/work\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      8.011433,
+      "."
+    ],
+    [
+      0.000184,
+      "\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000383,
+      "\u001b[38;5;240m/enonic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000438,
+      "\u001b[38;5;26m/\u001b[38;5;240menonic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000518,
+      "\u001b[38;5;26me\u001b[38;5;240mnonic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000469,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1m./e\u001b(B\u001b[m\u001b[38;5;240mnonic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000331,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240monic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[50D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000421,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mnic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000496,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240mic-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000520,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mc-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[47D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000535,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240m-xp-6.3.1/toolbox/toolbox.sh help init-project\u001b[46D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000529,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mxp-6.3.1/toolbox/toolbox.sh help init-project\u001b[45D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000527,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mp-6.3.1/toolbox/toolbox.sh help init-project\u001b[44D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000477,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240m-6.3.1/toolbox/toolbox.sh help init-project\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000365,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240m6.3.1/toolbox/toolbox.sh help init-project\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000388,
+      "\u001b[31m\u001b[1m6\u001b(B\u001b[m\u001b[38;5;240m.3.1/toolbox/toolbox.sh help init-project\u001b[41D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000373,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240m3.1/toolbox/toolbox.sh help init-project\u001b[40D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000396,
+      "\u001b[31m\u001b[1m3\u001b(B\u001b[m\u001b[38;5;240m.1/toolbox/toolbox.sh help init-project\u001b[39D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000371,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240m1/toolbox/toolbox.sh help init-project\u001b[38D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000403,
+      "\u001b[31m\u001b[1m1\u001b(B\u001b[m\u001b[38;5;240m/toolbox/toolbox.sh help init-project\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000389,
+      "\u001b[17D\u001b[38;5;26m./enonic-xp-6.3.1\u001b[38;5;240m/toolbox/toolbox.sh help init-project\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000280,
+      "\u001b[38;5;26m/\u001b[38;5;240mtoolbox/toolbox.sh help init-project\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000370,
+      "\u001b[38;5;26mt\u001b[38;5;240moolbox/toolbox.sh help init-project\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000358,
+      "\u001b[19D\u001b[31m\u001b[1m./enonic-xp-6.3.1/t\u001b(B\u001b[m\u001b[38;5;240moolbox/toolbox.sh help init-project\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000263,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240molbox/toolbox.sh help init-project\u001b[34D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000401,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mlbox/toolbox.sh help init-project\u001b[33D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000318,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240mbox/toolbox.sh help init-project\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000367,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[38;5;240mox/toolbox.sh help init-project\u001b[31D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000331,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mx/toolbox.sh help init-project\u001b[30D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000344,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240m/toolbox.sh help init-project\u001b[29D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000401,
+      "\u001b[25D\u001b[38;5;26m./enonic-xp-6.3.1/toolbox\u001b[38;5;240m/toolbox.sh help init-project\u001b[29D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000296,
+      "\u001b[38;5;26m/\u001b[38;5;240mtoolbox.sh help init-project\u001b[28D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000340,
+      "\u001b[38;5;26mt\u001b[38;5;240moolbox.sh help init-project\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000388,
+      "\u001b[27D\u001b[31m\u001b[1m./enonic-xp-6.3.1/toolbox/t\u001b(B\u001b[m\u001b[38;5;240moolbox.sh help init-project\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240molbox.sh help init-project\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000322,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mlbox.sh help init-project\u001b[25D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000312,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240mbox.sh help init-project\u001b[24D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000314,
+      "\u001b[31m\u001b[1mb\u001b(B\u001b[m\u001b[38;5;240mox.sh help init-project\u001b[23D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000300,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[m\u001b[38;5;240mx.sh help init-project\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000344,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240m.sh help init-project\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000288,
+      "\u001b[31m\u001b[1m.\u001b(B\u001b[m\u001b[38;5;240msh help init-project\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000289,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mh help init-project\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000298,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240m help init-project\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000415,
+      "\u001b[36D\u001b[38;5;26m./enonic-xp-6.3.1/toolbox/toolbox.sh\u001b[38;5;240m help init-project\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;26m \u001b[38;5;240mhelp init-project\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000234,
+      "\u0008 \u001b[38;5;240mhelp init-project\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "i\u001b[K"
+    ],
+    [
+      0.000356,
+      "\u001b[38;5;240mnit-project -r starter-bootstrap -n com.foo -d mypr…\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000305,
+      "\u0008\u001b[38;5;39mi\u001b[38;5;240mnit-project -r starter-bootstrap -n com.foo -d mypr…\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000340,
+      "\u001b[38;5;39mn\u001b[38;5;240mit-project -r starter-bootstrap -n com.foo -d mypr…\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000402,
+      "\u001b[38;5;39mi\u001b[38;5;240mt-project -r starter-bootstrap -n com.foo -d mypr…\u001b[50D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000389,
+      "\u001b[38;5;39mt\u001b[38;5;240m-project -r starter-bootstrap -n com.foo -d mypr…\u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000387,
+      "\u001b[38;5;39m-\u001b[38;5;240mproject -r starter-bootstrap -n com.foo -d mypr…\u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000372,
+      "\u001b[38;5;39mp\u001b[38;5;240mroject -r starter-bootstrap -n com.foo -d mypr…\u001b[47D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000382,
+      "\u001b[38;5;39mr\u001b[38;5;240moject -r starter-bootstrap -n com.foo -d mypr…\u001b[46D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000375,
+      "\u001b[38;5;39mo\u001b[38;5;240mject -r starter-bootstrap -n com.foo -d mypr…\u001b[45D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000356,
+      "\u001b[38;5;39mj\u001b[38;5;240mect -r starter-bootstrap -n com.foo -d mypr…\u001b[44D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000353,
+      "\u001b[38;5;39me\u001b[38;5;240mct -r starter-bootstrap -n com.foo -d mypr…\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000355,
+      "\u001b[38;5;39mc\u001b[38;5;240mt -r starter-bootstrap -n com.foo -d mypr…\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000338,
+      "\u001b[38;5;39mt\u001b[38;5;240m -r starter-bootstrap -n com.foo -d mypr…\u001b[41D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000332,
+      "\u001b[38;5;39m \u001b[38;5;240m-r starter-bootstrap -n com.foo -d mypr…\u001b[40D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000280,
+      "\u0008 \u001b[38;5;240m-r starter-bootstrap -n com.foo -d mypr…\u001b[40D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000243,
+      "-\u001b[38;5;240mr starter-bootstrap -n com.foo -d mypr…\u001b[39D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000282,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240mr starter-bootstrap -n com.foo -d mypr…\u001b[39D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000239,
+      "\u001b[38;5;39mr\u001b[38;5;240m starter-bootstrap -n com.foo -d mypr…\u001b[38D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000330,
+      "\u001b[38;5;39m \u001b[38;5;240mstarter-bootstrap -n com.foo -d mypr…\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000269,
+      "\u0008 \u001b[38;5;240mstarter-bootstrap -n com.foo -d mypr…\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "s\u001b[38;5;240mtarter-bootstrap -n com.foo -d mypr…\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000269,
+      "\u0008\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mtarter-bootstrap -n com.foo -d mypr…\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000231,
+      "\u001b[38;5;39m\u001b[4mt\u001b[38;5;240m\u001b[24marter-bootstrap -n com.foo -d mypr…\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000264,
+      "\u0008\u0008\u001b[38;5;39mst\u001b[38;5;240marter-bootstrap -n com.foo -d mypr…\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u001b[38;5;39ma\u001b[38;5;240mrter-bootstrap -n com.foo -d mypr…\u001b[34D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000356,
+      "\u001b[38;5;39mr\u001b[38;5;240mter-bootstrap -n com.foo -d mypr…\u001b[33D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000281,
+      "\u001b[38;5;39mt\u001b[38;5;240mer-bootstrap -n com.foo -d mypr…\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000312,
+      "\u001b[38;5;39me\u001b[38;5;240mr-bootstrap -n com.foo -d mypr…\u001b[31D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000296,
+      "\u001b[38;5;39mr\u001b[38;5;240m-bootstrap -n com.foo -d mypr…\u001b[30D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000317,
+      "\u001b[38;5;39m-\u001b[38;5;240mbootstrap -n com.foo -d mypr…\u001b[29D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000304,
+      "\u001b[38;5;39mb\u001b[38;5;240mootstrap -n com.foo -d mypr…\u001b[28D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000266,
+      "\u001b[38;5;39mo\u001b[38;5;240motstrap -n com.foo -d mypr…\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000274,
+      "\u001b[38;5;39mo\u001b[38;5;240mtstrap -n com.foo -d mypr…\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000250,
+      "\u001b[38;5;39mt\u001b[38;5;240mstrap -n com.foo -d mypr…\u001b[25D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\u001b[38;5;39ms\u001b[38;5;240mtrap -n com.foo -d mypr…\u001b[24D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000245,
+      "\u001b[38;5;39mt\u001b[38;5;240mrap -n com.foo -d mypr…\u001b[23D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000257,
+      "\u001b[38;5;39mr\u001b[38;5;240map -n com.foo -d mypr…\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\u001b[38;5;39ma\u001b[38;5;240mp -n com.foo -d mypr…\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\u001b[38;5;39mp\u001b[38;5;240m -n com.foo -d mypr…\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000250,
+      "\u001b[38;5;39m \u001b[38;5;240m-n com.foo -d mypr…\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000190,
+      "\u0008 \u001b[38;5;240m-n com.foo -d mypr…\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "-\u001b[38;5;240mn com.foo -d mypr…\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000188,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240mn com.foo -d mypr…\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\u001b[38;5;39mn\u001b[38;5;240m com.foo -d mypr…\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000245,
+      "\u001b[38;5;39m \u001b[38;5;240mcom.foo -d mypr…\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u0008 \u001b[38;5;240mcom.foo -d mypr…\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000151,
+      "c\u001b[38;5;240mom.foo -d mypr…\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000186,
+      "\u0008\u001b[38;5;39mc\u001b[38;5;240mom.foo -d mypr…\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000145,
+      "\u001b[38;5;39mo\u001b[38;5;240mm.foo -d mypr…\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;39mm\u001b[38;5;240m.foo -d mypr…\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u001b[38;5;39m.\u001b[38;5;240mfoo -d mypr…\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u001b[38;5;39mf\u001b[38;5;240moo -d mypr…\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000259,
+      "\u001b[38;5;39mo\u001b[38;5;240mo -d mypr…\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000209,
+      "\u001b[38;5;39mo\u001b[38;5;240m -d mypr…\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u001b[38;5;39m \u001b[38;5;240m-d mypr…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\u0008 \u001b[38;5;240m-d mypr…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000121,
+      "-\u001b[38;5;240md mypr…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240md mypr…\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000116,
+      "\u001b[38;5;39md\u001b[38;5;240m mypr…\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u001b[38;5;39m \u001b[38;5;240mmypr…\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000144,
+      "\u0008 \u001b[38;5;240mmypr…\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000108,
+      "m\u001b[38;5;240mypr…\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\u0008\u001b[38;5;39m\u001b[4mm\u001b[38;5;240m\u001b[24mypr…\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000106,
+      "\u001b[38;5;39m\u001b[4my\u001b[38;5;240m\u001b[24mpr…\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000196,
+      "\u001b[38;5;39m\u001b[4mp\u001b[38;5;240m\u001b[24mr…\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000196,
+      "\u001b[38;5;39m\u001b[4mr\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000180,
+      "\u001b[38;5;39m\u001b[4mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u001b[38;5;39m\u001b[4mj\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[A\u001b[98C\u001b[38;5;39m\u001b[4moje\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000300,
+      "\u001b[38;5;39m\u001b[4mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000279,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      2.683937,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000259,
+      "\u001b]0;"
+    ],
+    [
+      0.000006,
+      "./enonic-xp-6."
+    ],
+    [
+      0.000006,
+      "3.1/too"
+    ],
+    [
+      0.000003,
+      "lbo"
+    ],
+    [
+      0.000003,
+      "x/t"
+    ],
+    [
+      0.000003,
+      "ool"
+    ],
+    [
+      0.000003,
+      "box"
+    ],
+    [
+      0.000003,
+      ".sh"
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      "/Us"
+    ],
+    [
+      0.000003,
+      "ers"
+    ],
+    [
+      0.000003,
+      "/sr"
+    ],
+    [
+      0.000003,
+      "s/w"
+    ],
+    [
+      0.000003,
+      "ork"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.470610,
+      "Retrieving Git repository from \"https://github.com/enonic/starter-bootstrap.git\" ...\r\n"
+    ],
+    [
+      3.030282,
+      "Git repository retrieved.\r\n"
+    ],
+    [
+      0.000008,
+      "Adapting Gradle properties file ...\r\n"
+    ],
+    [
+      0.014900,
+      "Gradle properties file adapted.\r\n"
+    ],
+    [
+      0.016112,
+      "\u001b]0;fish  /Users/srs/work\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000076,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000052,
+      "\u001b[32m~/work\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      1.379799,
+      "c"
+    ],
+    [
+      0.000141,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;240mhmod a+x myproject/gradlew\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055296,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000164,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.009344,
+      "\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.038463,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000125,
+      "\u0008 "
+    ],
+    [
+      0.295928,
+      "m"
+    ],
+    [
+      0.000273,
+      "\u001b[38;5;240myproject/\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000141,
+      "\u0008\u001b[38;5;39m\u001b[4mm\u001b[38;5;240m\u001b[24myproject/\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.263793,
+      "\u001b[38;5;39m\u001b[4my\u001b[38;5;240m\u001b[24mproject/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.087753,
+      "\u001b[38;5;39m\u001b[4mproject/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.311909,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000264,
+      "\u001b]0;"
+    ],
+    [
+      0.000007,
+      "cd  /Users/srs/work\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.007818,
+      "\u001b]7;file://ShinyBook.local/%55%73%65%72%73/%73%72%73/%77%6f%72%6b/%6d%79%70%72%6f%6a%65%63%74\u0007"
+    ],
+    [
+      0.007313,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000007,
+      "sh  /Users/srs/work/myproj"
+    ],
+    [
+      0.000003,
+      "ect\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000102,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b[32m~/w/myproject\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      0.752634,
+      "l"
+    ],
+    [
+      0.000151,
+      "\u0008\u001b[31m\u001b[1ml\u001b(B\u001b[m"
+    ],
+    [
+      0.000112,
+      "\u001b[38;5;240ms -la\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119532,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240m -la\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000175,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[38;5;240m -la\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071675,
+      "\u001b[38;5;26m \u001b[38;5;240m-la\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000173,
+      "\u0008 \u001b[38;5;240m-la\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087893,
+      "-\u001b[38;5;240mla\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000165,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240mla\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207874,
+      "\u001b[38;5;39ml\u001b[38;5;240ma\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183848,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.432149,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000262,
+      "\u001b]0;ls  /U"
+    ],
+    [
+      0.000005,
+      "sers/srs/work"
+    ],
+    [
+      0.000004,
+      "/myp"
+    ],
+    [
+      0.000003,
+      "roj"
+    ],
+    [
+      0.000003,
+      "ect"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.009677,
+      "total 48\r\n"
+    ],
+    [
+      0.000171,
+      "drwxr-xr-x   9 srs  staff   306 Feb 17 23:19 \u001b[34m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x  11 srs  staff   374 Feb 17 23:18 \u001b[34m..\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 srs  staff   948 Feb 17 23:19 build.gradle\r\n"
+    ],
+    [
+      0.000003,
+      "drwxr-xr-x   3 srs  staff   102 Feb 17 23:19 \u001b[34mgradle\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 srs  staff   132 Feb 17 23:19 gradle.properties\r\n"
+    ],
+    [
+      0.000002,
+      "-rwxr-xr-x   1 srs  staff  4957 Feb 17 23:19 \u001b[31mgradlew\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--   1 srs  staff  2314 Feb 17 23:19 gradlew.bat\r\n"
+    ],
+    [
+      0.000002,
+      "-rw-r--r--   1 srs  staff    30 Feb 17 23:19 settings.gradle\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x   3 srs  staff   102 Feb 17 23:19 \u001b[34msrc\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.009593,
+      "\u001b]0;fish  /Users/srs/work/"
+    ],
+    [
+      0.000007,
+      "myproject\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b[32m~/w/myproject\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      3.412263,
+      "g"
+    ],
+    [
+      0.000142,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[m"
+    ],
+    [
+      0.031574,
+      "\u001b[38;5;240mradlew \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.271911,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240madlew \u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.231739,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mdlew \u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183972,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m\u001b[38;5;240mlew \u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.120276,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m\u001b[38;5;240mew \u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079708,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mw \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mgradle\u001b[38;5;240mw \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.296072,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000146,
+      "\u0008 "
+    ],
+    [
+      0.295911,
+      "b"
+    ],
+    [
+      0.000192,
+      "\u0008\u001b[38;5;39m\u001b[4mb\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000179,
+      "\u001b[38;5;240muild.gradle \u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087660,
+      "\u001b[38;5;39m\u001b[4mu\u001b[38;5;240m\u001b[24mild.gradle \u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167877,
+      "\u001b[38;5;39m\u001b[4mi\u001b[38;5;240m\u001b[24mld.gradle \u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.184025,
+      "\u001b[38;5;39m\u001b[4ml\u001b[38;5;240m\u001b[24md.gradle \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104058,
+      "\u001b[38;5;39m\u001b[4md\u001b[38;5;240m\u001b[24m.gradle \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.399680,
+      "\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[3"
+    ],
+    [
+      0.000004,
+      "0m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000261,
+      "\u001b]0;grad"
+    ],
+    [
+      0.000005,
+      "le  /Users/s"
+    ],
+    [
+      0.000003,
+      "rs/"
+    ],
+    [
+      0.000003,
+      "wor"
+    ],
+    [
+      0.000003,
+      "k/m"
+    ],
+    [
+      0.000003,
+      "ypr"
+    ],
+    [
+      0.000003,
+      "oje"
+    ],
+    [
+      0.000003,
+      "ct\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000008,
+      "(B\u001b[m"
+    ],
+    [
+      0.554509,
+      "\u001b[0m"
+    ],
+    [
+      1.076927,
+      "\u001b[1m\u003e Loading\u001b[22m"
+    ],
+    [
+      0.003347,
+      "\u001b[1m \u003e settings\u001b[22m"
+    ],
+    [
+      0.051502,
+      "\u001b[1m \u003e Compiling script into cache\u001b[22m"
+    ],
+    [
+      0.138853,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.023194,
+      "\u001b[1m \u003e Compiling script into cache\u001b[22m"
+    ],
+    [
+      0.153790,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.091998,
+      "\u001b[11D\u001b[0K"
+    ],
+    [
+      0.001957,
+      "\u001b[7D\u001b[1mConfiguring\u001b[22m"
+    ],
+    [
+      0.265911,
+      "\u001b[1m \u003e 0/1 projects\u001b[22m"
+    ],
+    [
+      0.010033,
+      "\u001b[1m \u003e root project\u001b[22m"
+    ],
+    [
+      0.109053,
+      "\u001b[1m \u003e Compiling script into cache\u001b[22m"
+    ],
+    [
+      0.049361,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.349245,
+      "\u001b[1m \u003e Resolving dependencies ':classpath'\u001b[22m"
+    ],
+    [
+      0.372933,
+      "\u001b[38D\u001b[0K"
+    ],
+    [
+      0.019245,
+      "\u001b[1m \u003e Compiling script into cache\u001b[22m"
+    ],
+    [
+      0.054249,
+      "\u001b[30D\u001b[0K"
+    ],
+    [
+      0.446183,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000068,
+      "\u001b[12D\u001b[1m1/1 projects\u001b[22m"
+    ],
+    [
+      0.018307,
+      "\u001b[1m \u003e Resolving dependencies ':includeCopy'\u001b[22m"
+    ],
+    [
+      0.066858,
+      "\u001b[40D\u001b[0K"
+    ],
+    [
+      0.030169,
+      "\u001b[1m \u003e Resolving dependencies ':webjar'\u001b[22m"
+    ],
+    [
+      0.020464,
+      "\u001b[35D\u001b[0K"
+    ],
+    [
+      0.073360,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000008,
+      "\u001b[13D\u001b[0K"
+    ],
+    [
+      0.000384,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.021246,
+      "\u001b[1m \u003e :compileJava\u001b[22m"
+    ],
+    [
+      0.046183,
+      "\u001b[1m \u003e Resolving dependencies ':compile'\u001b[22m"
+    ],
+    [
+      0.202787,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      0.865535,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000670,
+      "\u001b[13D\u001b[0K:compileJava\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 0%\u001b[22m"
+    ],
+    [
+      0.000097,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000274,
+      "\u001b[1m \u003e :processResources\u001b[22m"
+    ],
+    [
+      0.163071,
+      "\u001b[20D\u001b[0K"
+    ],
+    [
+      0.000072,
+      "\u001b[13D\u001b[0K:processResources\r\n\u001b[1m\u003e Building 8%\u001b[22m"
+    ],
+    [
+      0.000069,
+      "\u001b[2D\u001b[1m16%\u001b[22m"
+    ],
+    [
+      0.000242,
+      "\u001b[1m \u003e :classes\u001b[22m"
+    ],
+    [
+      0.000316,
+      "\u001b[11D\u001b[0K"
+    ],
+    [
+      0.000055,
+      "\u001b[14D\u001b[0K:classes\r\n\u001b[1m\u003e Building 16%\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[3D\u001b[1m25%\u001b[22m"
+    ],
+    [
+      0.000191,
+      "\u001b[1m \u003e :unpackWebJars\u001b[22m"
+    ],
+    [
+      0.239804,
+      "\u001b[17D\u001b[0K"
+    ],
+    [
+      0.000041,
+      "\u001b[14D\u001b[0K:unpackWebJars\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 25%\u001b[22m"
+    ],
+    [
+      0.000114,
+      "\u001b[3D\u001b[1m33%\u001b[22m"
+    ],
+    [
+      0.000280,
+      "\u001b[1m \u003e :jar\u001b[22m"
+    ],
+    [
+      0.220536,
+      "\u001b[1m \u003e Resolving dependencies ':runtime'\u001b[22m"
+    ],
+    [
+      0.015059,
+      "\u001b[36D\u001b[0K"
+    ],
+    [
+      1.029083,
+      "\u001b[7D\u001b[0K"
+    ],
+    [
+      0.000053,
+      "\u001b[14D\u001b[0K:jar\r\n\u001b[1m\u003e Building 33%\u001b[22m"
+    ],
+    [
+      0.000104,
+      "\u001b[3D\u001b[1m41%\u001b[22m"
+    ],
+    [
+      0.000204,
+      "\u001b[1m \u003e :assemble\u001b[22m"
+    ],
+    [
+      0.000226,
+      "\u001b[12D\u001b[0K"
+    ],
+    [
+      0.000067,
+      "\u001b[14D\u001b[0K:assemble\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 41%\u001b[22m"
+    ],
+    [
+      0.000085,
+      "\u001b[3D\u001b[1m50%\u001b[22m"
+    ],
+    [
+      0.000194,
+      "\u001b[1m \u003e :compileTestJava\u001b[22m"
+    ],
+    [
+      0.000794,
+      "\u001b[19D\u001b[0K"
+    ],
+    [
+      0.000092,
+      "\u001b[14D\u001b[0K:compileTestJava \r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000896,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[17C\u001b[33mUP-TO-DATE\u001b[39m\r\n\u001b[1m\u003e Building 50%\u001b[22m\u001b[14D\u001b[0K\u001b[1A\u001b[27C\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 50%\u001b[22m"
+    ],
+    [
+      0.000065,
+      "\u001b[2D\u001b[1m8%\u001b[22m"
+    ],
+    [
+      0.000284,
+      "\u001b[1m \u003e :processTestResources\u001b[22m"
+    ],
+    [
+      0.000873,
+      "\u001b[24D\u001b[0K"
+    ],
+    [
+      0.000048,
+      "\u001b[14D\u001b[0K:processTestResources \r\n\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[22C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000025,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[32C\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u003e Building 58%\u001b[22m"
+    ],
+    [
+      0.000285,
+      "\u001b[3D\u001b[1m66%\u001b[22m"
+    ],
+    [
+      0.000163,
+      "\u001b[1m \u003e :testClasses\u001b[22m"
+    ],
+    [
+      0.000239,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.000046,
+      "\u001b[14D\u001b[0K:testClasses \r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000079,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[13C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000048,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[23C\r\n\u001b[1m\u003e Building 66%\u001b[22m"
+    ],
+    [
+      0.000076,
+      "\u001b[3D\u001b[1m75%\u001b[22m"
+    ],
+    [
+      0.000175,
+      "\u001b[1m \u003e :test\u001b[22m"
+    ],
+    [
+      0.000373,
+      "\u001b[8D\u001b[0K"
+    ],
+    [
+      0.000072,
+      "\u001b[14D\u001b[0K:test \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000056,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[6C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000036,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[16C\r\n\u001b[1m\u003e Building 75%\u001b[22m"
+    ],
+    [
+      0.000055,
+      "\u001b[3D\u001b[1m83%\u001b[22m"
+    ],
+    [
+      0.000180,
+      "\u001b[1m \u003e :check\u001b[22m"
+    ],
+    [
+      0.000197,
+      "\u001b[9D\u001b[0K"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K:check \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 83%\u001b[22m"
+    ],
+    [
+      0.000063,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[7C\u001b[33mUP-TO-DATE\u001b[39m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u003e Building 83%\u001b[22m"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K\u001b[1A\u001b[17C\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[1m\u003e Building 83%\u001b[22m"
+    ],
+    [
+      0.000081,
+      "\u001b[3D\u001b[1m91%\u001b[22m"
+    ],
+    [
+      0.000187,
+      "\u001b[1m \u003e :build\u001b[22m"
+    ],
+    [
+      0.000225,
+      "\u001b[9D\u001b[0K"
+    ],
+    [
+      0.000038,
+      "\u001b[14D\u001b[0K:build\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1m\u003e Building 91%\u001b[22m"
+    ],
+    [
+      0.000183,
+      "\u001b[3D\u001b[1m100%\u001b[22m"
+    ],
+    [
+      0.000380,
+      "\u001b[15D\u001b[0K\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000823,
+      "\u001b[15D\u001b[0KBUILD SUCCESSFUL\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000148,
+      "\u001b[15D\u001b[0K\u001b[1A\u001b[16C\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 100%\u001b[22m\u001b[15D\u001b[0K\r\n\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000183,
+      "\u001b[15D\u001b[0KTotal time: 6.563 secs\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1m\u003e Building 100%\u001b[22m"
+    ],
+    [
+      0.000130,
+      "\u001b[15D\u001b[0K"
+    ],
+    [
+      0.009091,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.9/userguide/gradle_daemon.html\r\n"
+    ],
+    [
+      0.000951,
+      "\u001b["
+    ],
+    [
+      0.000004,
+      "0m"
+    ],
+    [
+      0.408721,
+      "\u001b]0;fish  /Users/srs/work/myproject\u0007\u001b[30m"
+    ],
+    [
+      0.000007,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.000090,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000052,
+      "\u001b[32m~/w/myproject\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      3.502875,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
