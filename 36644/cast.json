@@ -1,0 +1,3166 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 36,
+  "duration": 29.624501,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.023658,
+      "\u001b]0;fish  /Users/srs/development/workspa"
+    ],
+    [
+      0.000011,
+      "ce/github\u0007\u001b"
+    ],
+    [
+      0.000005,
+      "[30m\u001b(B\u001b["
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.002096,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.021006,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000007,
+      "  /Users/srs/development/workspace/github\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000017,
+      "m"
+    ],
+    [
+      0.000077,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000055,
+      "\u001b[32m~/d/w/github\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      0.281292,
+      "w"
+    ],
+    [
+      0.000185,
+      "\u0008\u001b[38;5;26mw\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.013351,
+      "\u001b[38;5;240msgen \u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.226515,
+      "\u001b[38;5;26mg\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000158,
+      "\u0008\u0008\u001b[31m\u001b[1mwg\u001b(B\u001b[m"
+    ],
+    [
+      0.010331,
+      "\u001b[38;5;240met \u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101515,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mt \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079677,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mwget\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096038,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000135,
+      "\u0008 "
+    ],
+    [
+      0.208991,
+      "h"
+    ],
+    [
+      0.005960,
+      "t"
+    ],
+    [
+      0.000139,
+      "\u0008\u0008\u001b[38;5;39mht\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000215,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000209,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000271,
+      "\u001b[38;5;39m:\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000287,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000264,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000247,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000274,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000287,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000286,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000265,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000351,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000243,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000282,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000313,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000349,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000240,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000304,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000254,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000234,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000300,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000193,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000214,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "\u001b[38;5;39mb\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000195,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000234,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000237,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000220,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000209,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000229,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000212,
+      "\u001b[38;5;39mx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000256,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000202,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000215,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000229,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000228,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000193,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000228,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000216,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000186,
+      "\u001b[38;5;39m6\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39m3\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000229,
+      "\u001b[38;5;39m1\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000199,
+      "\u001b[38;5;39m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000203,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000203,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000202,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000203,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000201,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000200,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000220,
+      "\u001b[38;5;39m6\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u001b[38;5;39m3\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000216,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000185,
+      "\u001b[38;5;39m1\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000206,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39mz\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000207,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136242,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000254,
+      "\u001b]0;w"
+    ],
+    [
+      0.000005,
+      "get  /Users/"
+    ],
+    [
+      0.000004,
+      "srs/"
+    ],
+    [
+      0.000003,
+      "dev"
+    ],
+    [
+      0.000003,
+      "elo"
+    ],
+    [
+      0.000003,
+      "pme"
+    ],
+    [
+      0.000003,
+      "nt/"
+    ],
+    [
+      0.000003,
+      "wor"
+    ],
+    [
+      0.000003,
+      "ksp"
+    ],
+    [
+      0.000003,
+      "ace"
+    ],
+    [
+      0.000003,
+      "/gi"
+    ],
+    [
+      0.000003,
+      "thu"
+    ],
+    [
+      0.000003,
+      "b\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.004678,
+      "--2016-02-17 22:45:17--  http://repo.enonic.com/public/com/enonic/xp/distro/6.3.1/distro-6.3.1.zip\r\n"
+    ],
+    [
+      0.000019,
+      "Resolving repo.enonic.com... "
+    ],
+    [
+      0.001416,
+      "80.65.59.23\r\n"
+    ],
+    [
+      0.000009,
+      "Connecting to repo.enonic.com|80.65.59.23|:80... "
+    ],
+    [
+      0.014313,
+      "connected.\r\n"
+    ],
+    [
+      0.000105,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.015289,
+      "200 OK\r\n"
+    ],
+    [
+      0.000023,
+      "Length: 94024177"
+    ],
+    [
+      0.000060,
+      " (90M) [application/zip]\r\n"
+    ],
+    [
+      0.000276,
+      "Saving to: ‘distro-6.3.1.zip’\r\n"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r 0% [                                                                                      ] 0           --.-K/s              "
+    ],
+    [
+      0.200407,
+      "\r 3% [=\u003e                                                                                    ] 2,984,960   14.2MB/s             "
+    ],
+    [
+      0.200011,
+      "\r 7% [=====\u003e                                                                                ] 6,651,200   15.8MB/s             "
+    ],
+    [
+      0.200022,
+      "\r11% [========\u003e                                                                             ] 10,418,672  16.5MB/s             "
+    ],
+    [
+      0.200004,
+      "\r15% [===========\u003e                                                                          ] 14,180,672  16.9MB/s             "
+    ],
+    [
+      0.200333,
+      "\r19% [===============\u003e                                                                      ] 17,941,304  17.1MB/s             "
+    ],
+    [
+      0.200016,
+      "\r23% [==================\u003e                                                                   ] 21,690,992  17.2MB/s             "
+    ],
+    [
+      0.229642,
+      "\r26% [======================\u003e                                                               ] 25,351,744  16.9MB/s             "
+    ],
+    [
+      0.199966,
+      "\r31% [=========================\u003e                                                            ] 29,160,272  17.1MB/s             "
+    ],
+    [
+      0.200191,
+      "\r34% [=============================\u003e                                                        ] 32,889,424  17.1MB/s             "
+    ],
+    [
+      0.200221,
+      "\r39% [================================\u003e                                                     ] 36,674,696  17.2MB/s             "
+    ],
+    [
+      0.200532,
+      "\r43% [===================================\u003e                                                  ] 40,443,536  17.3MB/s             "
+    ],
+    [
+      0.200279,
+      "\r47% [=======================================\u003e                                              ] 44,211,008  17.3MB/s             "
+    ],
+    [
+      0.200492,
+      "\r51% [==========================================\u003e                                           ] 47,973,008  17.4MB/s             "
+    ],
+    [
+      0.200261,
+      "\r55% [==============================================\u003e                                       ] 51,733,640  17.4MB/s             "
+    ],
+    [
+      0.199962,
+      "\r59% [=================================================\u003e                                    ] 55,494,272  17.5MB/s  eta 2s     "
+    ],
+    [
+      0.200401,
+      "\r63% [=====================================================\u003e                                ] 59,252,168  17.7MB/s  eta 2s     "
+    ],
+    [
+      0.200016,
+      "\r67% [========================================================\u003e                             ] 63,001,856  17.7MB/s  eta 2s     "
+    ],
+    [
+      0.200128,
+      "\r71% [============================================================\u003e                         ] 66,763,856  17.7MB/s  eta 2s     "
+    ],
+    [
+      0.200307,
+      "\r75% [===============================================================\u003e                      ] 70,528,592  17.7MB/s  eta 2s     "
+    ],
+    [
+      0.200608,
+      "\r78% [==================================================================\u003e                   ] 74,082,640  17.7MB/s  eta 1s     "
+    ],
+    [
+      0.200670,
+      "\r82% [======================================================================\u003e               ] 77,855,584  17.7MB/s  eta 1s     "
+    ],
+    [
+      0.200428,
+      "\r86% [========================================================================\u003e             ] 80,870,656  17.4MB/s  eta 1s     "
+    ],
+    [
+      0.200516,
+      "\r90% [============================================================================\u003e         ] 84,811,880  17.7MB/s  eta 1s     "
+    ],
+    [
+      0.200709,
+      "\r94% [================================================================================\u003e     ] 88,572,496  17.7MB/s  eta 1s     "
+    ],
+    [
+      0.203149,
+      "\r"
+    ],
+    [
+      0.000032,
+      "97% [==================================================================================\u003e   ] 91,259,264  17.3MB/s  eta 0s     "
+    ],
+    [
+      0.210705,
+      "\r97% [==================================================================================\u003e   ] 91,446,680  16.2MB/s  eta 0s     "
+    ],
+    [
+      0.202151,
+      "\r"
+    ],
+    [
+      0.000024,
+      "99% [====================================================================================\u003e ] 93,858,448  15.7MB/s  eta 0s     "
+    ],
+    [
+      0.027887,
+      "\r100%[=====================================================================================\u003e] 94,024,177  15.6MB/s   in 5.5s   \r\n\r\n"
+    ],
+    [
+      0.016877,
+      "2016-02-17 22:45:23 (16.4 MB/s) - ‘distro-6.3.1.zip’ saved [94024177/94024177]\r\n\r\n"
+    ],
+    [
+      0.008006,
+      "\u001b]0;fish  /Users/srs/development/workspace/gith"
+    ],
+    [
+      0.000008,
+      "ub\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000158,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b[32m~/d/w/github\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      0.714410,
+      "u"
+    ],
+    [
+      0.000179,
+      "\u0008\u001b[31m\u001b[1mu\u001b(B\u001b[m"
+    ],
+    [
+      0.013737,
+      "\u001b[38;5;240mnpack200 \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.081705,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[m\u001b[38;5;240mpack200 \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159954,
+      "\u001b[31m\u001b[1mz\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.009621,
+      "\u001b[38;5;240mip \u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.102150,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mp \u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.064208,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000184,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26munzip\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103988,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000171,
+      "\u0008 "
+    ],
+    [
+      0.311734,
+      "d"
+    ],
+    [
+      0.000231,
+      "\u0008\u001b[38;5;39m\u001b[4md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[38;5;240mistro-6.3.1.zip \u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055591,
+      "\u001b[38;5;39m\u001b[4mi\u001b[38;5;240m\u001b[24mstro-6.3.1.zip \u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160147,
+      "\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mtro-6.3.1.zip \u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.120058,
+      "\u001b[38;5;39m\u001b[4mtro-6.3.1.zip \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000186,
+      "\u001b[17D\u001b[38;5;39mdistro-6.3.1.zip\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.567334,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[30"
+    ],
+    [
+      0.000004,
+      "m\u001b(B"
+    ],
+    [
+      0.000003,
+      "\u001b[m"
+    ],
+    [
+      0.000264,
+      "\u001b]0;unz"
+    ],
+    [
+      0.000005,
+      "ip  /Users/s"
+    ],
+    [
+      0.000004,
+      "rs/d"
+    ],
+    [
+      0.000003,
+      "eve"
+    ],
+    [
+      0.000003,
+      "lop"
+    ],
+    [
+      0.000003,
+      "men"
+    ],
+    [
+      0.000003,
+      "t/w"
+    ],
+    [
+      0.000003,
+      "ork"
+    ],
+    [
+      0.000003,
+      "spa"
+    ],
+    [
+      0.000003,
+      "ce/"
+    ],
+    [
+      0.000003,
+      "git"
+    ],
+    [
+      0.000003,
+      "hub"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.002754,
+      "Archive:  distro-6.3.1.zip\r\n"
+    ],
+    [
+      0.000179,
+      "   creating: enonic-xp-6.3.1/\r\n"
+    ],
+    [
+      0.000769,
+      "  inflating: enonic-xp-6.3.1/LICENSE.txt  "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "  inflating: enonic-xp-6.3.1/NOTICE.txt  "
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  inflating: enonic-xp-6.3.1/README.txt  "
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "   creating: enonic-xp-6.3.1/bin/\r\n"
+    ],
+    [
+      0.000100,
+      "  inflating: enonic-xp-6.3.1/bin/server.bat  "
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  inflating: enonic-xp-6.3.1/bin/server.sh  "
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/bin/service.sh  "
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  inflating: enonic-xp-6.3.1/bin/setenv.bat  "
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  inflating: enonic-xp-6.3.1/bin/setenv.sh  "
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "   creating: enonic-xp-6.3.1/home/\r\n"
+    ],
+    [
+      0.000031,
+      "   creating: enonic-xp-6.3.1/home/config/\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.elasticsearch.cfg  "
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.mail.cfg  "
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.repo.cfg  "
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.server.shell.cfg  "
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.web.dos.cfg  "
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.web.jetty.cfg  "
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  inflating: enonic-xp-6.3.1/home/config/com.enonic.xp.web.vhost.cfg  "
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  inflating: enonic-xp-6.3.1/home/config/logback.xml  "
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "  inflating: enonic-xp-6.3.1/home/config/org.apache.felix.fileinstall-deploy.cfg  "
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "  inflating: enonic-xp-6.3.1/home/config/README.txt  "
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/home/config/system.properties  "
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "   creating: enonic-xp-6.3.1/home/deploy/\r\n"
+    ],
+    [
+      0.000157,
+      "  inflating: enonic-xp-6.3.1/home/deploy/README.txt  "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "   creating: enonic-xp-6.3.1/home/logs/\r\n"
+    ],
+    [
+      0.000106,
+      "  inflating: enonic-xp-6.3.1/home/logs/README.txt  "
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "   creating: enonic-xp-6.3.1/lib/\r\n"
+    ],
+    [
+      0.000106,
+      "  inflating: enonic-xp-6.3.1/lib/activation-1.1.jar  "
+    ],
+    [
+      0.000921,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "  inflating: enonic-xp-6.3.1/lib/commons-io-2.4.jar  "
+    ],
+    [
+      0.002377,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "  inflating: enonic-xp-6.3.1/lib/guava-18.0.jar  "
+    ],
+    [
+      0.020685,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "  inflating: enonic-xp-6.3.1/lib/jansi-1.11.jar  "
+    ],
+    [
+      0.005738,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  inflating: enonic-xp-6.3.1/lib/jcl-over-slf4j-1.7.10.jar  "
+    ],
+    [
+      0.000569,
+      "\r\n"
+    ],
+    [
+      0.000293,
+      "  inflating: enonic-xp-6.3.1/lib/jul-to-slf4j-1.7.10.jar  "
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "  inflating: enonic-xp-6.3.1/lib/launcher-api-6.3.1.jar  "
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "  inflating: enonic-xp-6.3.1/lib/launcher-impl-6.3.1.jar  "
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "  inflating: enonic-xp-6.3.1/lib/launcher-main-6.3.1.jar  "
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/lib/launcher-ui-6.3.1.jar  "
+    ],
+    [
+      0.003710,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/lib/log4j-over-slf4j-1.7.10.jar  "
+    ],
+    [
+      0.000314,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "  inflating: enonic-xp-6.3.1/lib/logback-classic-1.1.2.jar  "
+    ],
+    [
+      0.002085,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "  inflating: enonic-xp-6.3.1/lib/logback-core-1.1.2.jar  "
+    ],
+    [
+      0.004144,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/lib/mail-1.4.7.jar  "
+    ],
+    [
+      0.004203,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "  inflating: enonic-xp-6.3.1/lib/org.apache.felix.framework-5.2.0.jar  "
+    ],
+    [
+      0.004856,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/lib/org.apache.felix.utils-1.8.0.jar  "
+    ],
+    [
+      0.000574,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "  inflating: enonic-xp-6.3.1/lib/osgi.cmpn-6.0.0.jar  "
+    ],
+    [
+      0.006796,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "  inflating: enonic-xp-6.3.1/lib/osgi.core-6.0.0.jar  "
+    ],
+    [
+      0.003426,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "  inflating: enonic-xp-6.3.1/lib/slf4j-api-1.7.10.jar  "
+    ],
+    [
+      0.000277,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "   creating: enonic-xp-6.3.1/service/\r\n"
+    ],
+    [
+      0.000084,
+      "  inflating: enonic-xp-6.3.1/service/install_service.sh  "
+    ],
+    [
+      0.000107,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "  inflating: enonic-xp-6.3.1/service/xp.conf  "
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "   creating: enonic-xp-6.3.1/service/init.d/\r\n"
+    ],
+    [
+      0.000097,
+      "  inflating: enonic-xp-6.3.1/service/init.d/xp  "
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "   creating: enonic-xp-6.3.1/system/\r\n"
+    ],
+    [
+      0.000110,
+      "  inflating: enonic-xp-6.3.1/system/bundles.xml  "
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "   creating: enonic-xp-6.3.1/system/com/\r\n"
+    ],
+    [
+      0.000057,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/\r\n"
+    ],
+    [
+      0.000062,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/\r\n"
+    ],
+    [
+      0.000038,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-api/\r\n"
+    ],
+    [
+      0.000047,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-api/6.3.1/\r\n"
+    ],
+    [
+      0.000086,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/admin-api/6.3.1/admin-api-6.3.1.jar  "
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-event/\r\n"
+    ],
+    [
+      0.000060,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-event/6.3.1/\r\n"
+    ],
+    [
+      0.000099,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/admin-event/6.3.1/admin-event-6.3.1.jar  "
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-impl/\r\n"
+    ],
+    [
+      0.000077,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-impl/6.3.1/\r\n"
+    ],
+    [
+      0.000123,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/admin-impl/6.3.1/admin-impl-6.3.1.jar  "
+    ],
+    [
+      0.322373,
+      "\r\n"
+    ],
+    [
+      0.000324,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-ui/\r\n"
+    ],
+    [
+      0.000156,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/admin-ui/6.3.1/\r\n"
+    ],
+    [
+      0.000165,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/admin-ui/6.3.1/admin-ui-6.3.1.jar  "
+    ],
+    [
+      0.097362,
+      "\r\n"
+    ],
+    [
+      0.000320,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-api/\r\n"
+    ],
+    [
+      0.000219,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-api/6.3.1/\r\n"
+    ],
+    [
+      0.000175,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-api/6.3.1/core-api-6.3.1.jar  "
+    ],
+    [
+      0.009210,
+      "\r\n   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-app/\r\n"
+    ],
+    [
+      0.000136,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-app/6.3.1/\r\n"
+    ],
+    [
+      0.000228,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-app/6.3.1/core-app-6.3.1.jar  "
+    ],
+    [
+      0.000392,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-content/\r\n"
+    ],
+    [
+      0.000071,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-content/6.3.1/\r\n"
+    ],
+    [
+      0.000148,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-content/6.3.1/core-content-6.3.1.jar  "
+    ],
+    [
+      0.001613,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-elasticsearch/\r\n"
+    ],
+    [
+      0.000071,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-elasticsearch/6.3.1/\r\n"
+    ],
+    [
+      0.000147,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-elasticsearch/6.3.1/core-elasticsearch-6.3.1.jar  "
+    ],
+    [
+      0.000397,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-event/\r\n"
+    ],
+    [
+      0.000046,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-event/6.3.1/\r\n"
+    ],
+    [
+      0.000098,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-event/6.3.1/core-event-6.3.1.jar  "
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-export/\r\n"
+    ],
+    [
+      0.000095,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-export/6.3.1/\r\n"
+    ],
+    [
+      0.000149,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-export/6.3.1/core-export-6.3.1.jar  "
+    ],
+    [
+      0.000473,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-i18n/\r\n"
+    ],
+    [
+      0.000083,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-i18n/6.3.1/\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-i18n/6.3.1/core-i18n-6.3.1.jar  "
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-image/\r\n"
+    ],
+    [
+      0.000067,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-image/6.3.1/\r\n"
+    ],
+    [
+      0.000122,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-image/6.3.1/core-image-6.3.1.jar  "
+    ],
+    [
+      0.003274,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-mail/\r\n"
+    ],
+    [
+      0.000076,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-mail/6.3.1/\r\n"
+    ],
+    [
+      0.000110,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-mail/6.3.1/core-mail-6.3.1.jar  "
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-media/\r\n"
+    ],
+    [
+      0.000067,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-media/6.3.1/\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-media/6.3.1/core-media-6.3.1.jar  "
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-repo/\r\n"
+    ],
+    [
+      0.000060,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-repo/6.3.1/\r\n"
+    ],
+    [
+      0.000144,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-repo/6.3.1/core-repo-6.3.1.jar  "
+    ],
+    [
+      0.003551,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-schema/\r\n"
+    ],
+    [
+      0.000051,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-schema/6.3.1/\r\n"
+    ],
+    [
+      0.000113,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-schema/6.3.1/core-schema-6.3.1.jar  "
+    ],
+    [
+      0.001103,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-security/\r\n"
+    ],
+    [
+      0.000053,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-security/6.3.1/\r\n"
+    ],
+    [
+      0.000087,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-security/6.3.1/core-security-6.3.1.jar  "
+    ],
+    [
+      0.000453,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-site/\r\n"
+    ],
+    [
+      0.000068,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/core-site/6.3.1/\r\n"
+    ],
+    [
+      0.000090,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/core-site/6.3.1/core-site-6.3.1.jar  "
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-api/\r\n"
+    ],
+    [
+      0.000045,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-api/6.3.1/\r\n"
+    ],
+    [
+      0.000082,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-api/6.3.1/jaxrs-api-6.3.1.jar  "
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-impl/\r\n"
+    ],
+    [
+      0.000074,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-impl/6.3.1/\r\n"
+    ],
+    [
+      0.000091,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-impl/6.3.1/jaxrs-impl-6.3.1.jar  "
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-swagger/\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-swagger/6.3.1/\r\n"
+    ],
+    [
+      0.000094,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/jaxrs-swagger/6.3.1/jaxrs-swagger-6.3.1.jar  "
+    ],
+    [
+      0.019551,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-api/\r\n"
+    ],
+    [
+      0.000164,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-api/6.3.1/\r\n"
+    ],
+    [
+      0.000109,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/portal-api/6.3.1/portal-api-6.3.1.jar  "
+    ],
+    [
+      0.000454,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-impl/\r\n"
+    ],
+    [
+      0.000063,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-impl/6.3.1/\r\n"
+    ],
+    [
+      0.000111,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/portal-impl/6.3.1/portal-impl-6.3.1.jar  "
+    ],
+    [
+      0.001238,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-owasp/\r\n"
+    ],
+    [
+      0.000085,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/portal-owasp/6.3.1/\r\n"
+    ],
+    [
+      0.000146,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/portal-owasp/6.3.1/portal-owasp-6.3.1.jar  "
+    ],
+    [
+      0.001107,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-attoparser/\r\n"
+    ],
+    [
+      0.000062,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-attoparser/6.3.1/\r\n"
+    ],
+    [
+      0.000103,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/repack-attoparser/6.3.1/repack-attoparser-6.3.1.jar  "
+    ],
+    [
+      0.001119,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-elasticsearch/\r\n"
+    ],
+    [
+      0.000079,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-elasticsearch/6.3.1/\r\n"
+    ],
+    [
+      0.000143,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/repack-elasticsearch/6.3.1/repack-elasticsearch-6.3.1.jar  "
+    ],
+    [
+      0.292434,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-jparsec/\r\n"
+    ],
+    [
+      0.000143,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-jparsec/6.3.1/\r\n"
+    ],
+    [
+      0.000285,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/repack-jparsec/6.3.1/repack-jparsec-6.3.1.jar  "
+    ],
+    [
+      0.002858,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-resteasy/\r\n"
+    ],
+    [
+      0.000136,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/repack-resteasy/6.3.1/\r\n"
+    ],
+    [
+      0.000147,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/repack-resteasy/6.3.1/repack-resteasy-6.3.1.jar  "
+    ],
+    [
+      0.009487,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/script-api/\r\n"
+    ],
+    [
+      0.000091,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/script-api/6.3.1/\r\n"
+    ],
+    [
+      0.000156,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/script-api/6.3.1/script-api-6.3.1.jar  "
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/script-impl/\r\n"
+    ],
+    [
+      0.000100,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/script-impl/6.3.1/\r\n"
+    ],
+    [
+      0.000201,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/script-impl/6.3.1/script-impl-6.3.1.jar  "
+    ],
+    [
+      0.000496,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/server-shell/\r\n"
+    ],
+    [
+      0.000115,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/server-shell/6.3.1/\r\n"
+    ],
+    [
+      0.000173,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/server-shell/6.3.1/server-shell-6.3.1.jar  "
+    ],
+    [
+      0.002508,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/server-status/\r\n"
+    ],
+    [
+      0.000112,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/server-status/6.3.1/\r\n"
+    ],
+    [
+      0.000185,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/server-status/6.3.1/server-status-6.3.1.jar  "
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-api/\r\n"
+    ],
+    [
+      0.000052,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-api/6.3.1/\r\n"
+    ],
+    [
+      0.000108,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/web-api/6.3.1/web-api-6.3.1.jar  "
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-dos/\r\n"
+    ],
+    [
+      0.000049,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-dos/6.3.1/\r\n"
+    ],
+    [
+      0.000117,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/web-dos/6.3.1/web-dos-6.3.1.jar  "
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-impl/\r\n"
+    ],
+    [
+      0.000069,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-impl/6.3.1/\r\n"
+    ],
+    [
+      0.000130,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/web-impl/6.3.1/web-impl-6.3.1.jar  "
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-jetty/\r\n"
+    ],
+    [
+      0.000096,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-jetty/6.3.1/\r\n"
+    ],
+    [
+      0.000116,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/web-jetty/6.3.1/web-jetty-6.3.1.jar  "
+    ],
+    [
+      0.019143,
+      "\r\n   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-vhost/\r\n"
+    ],
+    [
+      0.000008,
+      "   creating: enonic-xp-6.3.1/system/com/enonic/xp/web-vhost/6.3.1/\r\n"
+    ],
+    [
+      0.000158,
+      "  inflating: enonic-xp-6.3.1/system/com/enonic/xp/web-vhost/6.3.1/web-vhost-6.3.1.jar  "
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/\r\n"
+    ],
+    [
+      0.000055,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/\r\n"
+    ],
+    [
+      0.000124,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-annotations/\r\n"
+    ],
+    [
+      0.000085,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-annotations/2.6.2/\r\n"
+    ],
+    [
+      0.000156,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-annotations/2.6.2/jackson-annotations-2.6.2.jar  "
+    ],
+    [
+      0.000480,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-core/\r\n"
+    ],
+    [
+      0.000048,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-core/2.6.2/\r\n"
+    ],
+    [
+      0.000098,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-core/2.6.2/jackson-core-2.6.2.jar  "
+    ],
+    [
+      0.002932,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-databind/\r\n"
+    ],
+    [
+      0.000097,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-databind/2.6.2/\r\n"
+    ],
+    [
+      0.000146,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/core/jackson-databind/2.6.2/jackson-databind-2.6.2.jar  "
+    ],
+    [
+      0.008902,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/datatype/\r\n"
+    ],
+    [
+      0.000123,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/\r\n"
+    ],
+    [
+      0.000065,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.6.2/\r\n"
+    ],
+    [
+      0.000177,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.6.2/jackson-datatype-jsr310-2.6.2.jar  "
+    ],
+    [
+      0.000776,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/\r\n"
+    ],
+    [
+      0.000089,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/\r\n"
+    ],
+    [
+      0.000148,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.6.2/\r\n"
+    ],
+    [
+      0.000168,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.6.2/jackson-jaxrs-base-2.6.2.jar  "
+    ],
+    [
+      0.000271,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/\r\n"
+    ],
+    [
+      0.000044,
+      "   creating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.6.2/\r\n"
+    ],
+    [
+      0.000129,
+      "  inflating: enonic-xp-6.3.1/system/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.6.2/jackson-jaxrs-json-provider-2.6.2.jar  "
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "   creating: enonic-xp-6.3.1/system/com/google/\r\n"
+    ],
+    [
+      0.000117,
+      "   creating: enonic-xp-6.3.1/system/com/google/guava/\r\n"
+    ],
+    [
+      0.000122,
+      "   creating: enonic-xp-6.3.1/system/com/google/guava/guava/\r\n"
+    ],
+    [
+      0.000089,
+      "   creating: enonic-xp-6.3.1/system/com/google/guava/guava/18.0/\r\n"
+    ],
+    [
+      0.000123,
+      "  inflating: enonic-xp-6.3.1/system/com/google/guava/guava/18.0/guava-18.0.jar  "
+    ],
+    [
+      0.014972,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "   creating: enonic-xp-6.3.1/system/commons-codec/\r\n"
+    ],
+    [
+      0.000069,
+      "   creating: enonic-xp-6.3.1/system/commons-codec/commons-codec/\r\n"
+    ],
+    [
+      0.000120,
+      "   creating: enonic-xp-6.3.1/system/commons-codec/commons-codec/1.10/\r\n"
+    ],
+    [
+      0.000200,
+      "  inflating: enonic-xp-6.3.1/system/commons-codec/commons-codec/1.10/commons-codec-1.10.jar  "
+    ],
+    [
+      0.001914,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "   creating: enonic-xp-6.3.1/system/commons-io/\r\n"
+    ],
+    [
+      0.000138,
+      "   creating: enonic-xp-6.3.1/system/commons-io/commons-io/\r\n"
+    ],
+    [
+      0.000130,
+      "   creating: enonic-xp-6.3.1/system/commons-io/commons-io/2.4/\r\n"
+    ],
+    [
+      0.000135,
+      "  inflating: enonic-xp-6.3.1/system/commons-io/commons-io/2.4/commons-io-2.4.jar  "
+    ],
+    [
+      0.001385,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "   creating: enonic-xp-6.3.1/system/commons-lang/\r\n"
+    ],
+    [
+      0.000100,
+      "   creating: enonic-xp-6.3.1/system/commons-lang/commons-lang/\r\n"
+    ],
+    [
+      0.000085,
+      "   creating: enonic-xp-6.3.1/system/commons-lang/commons-lang/2.4/\r\n"
+    ],
+    [
+      0.000122,
+      "  inflating: enonic-xp-6.3.1/system/commons-lang/commons-lang/2.4/commons-lang-2.4.jar  "
+    ],
+    [
+      0.001877,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "   creating: enonic-xp-6.3.1/system/org/\r\n"
+    ],
+    [
+      0.000129,
+      "   creating: enonic-xp-6.3.1/system/org/apache/\r\n"
+    ],
+    [
+      0.000120,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/\r\n"
+    ],
+    [
+      0.000125,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.configadmin/\r\n"
+    ],
+    [
+      0.000064,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.configadmin/1.8.8/\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.configadmin/1.8.8/org.apache.felix.configadmin-1.8.8.jar  "
+    ],
+    [
+      0.001135,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.eventadmin/\r\n"
+    ],
+    [
+      0.000121,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.eventadmin/1.4.4/\r\n"
+    ],
+    [
+      0.000188,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.eventadmin/1.4.4/org.apache.felix.eventadmin-1.4.4.jar  "
+    ],
+    [
+      0.000716,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.fileinstall/\r\n"
+    ],
+    [
+      0.000057,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.fileinstall/3.5.0/\r\n"
+    ],
+    [
+      0.000191,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.fileinstall/3.5.0/org.apache.felix.fileinstall-3.5.0.jar  "
+    ],
+    [
+      0.000778,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.metatype/\r\n"
+    ],
+    [
+      0.000054,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.metatype/1.1.2/\r\n"
+    ],
+    [
+      0.000143,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.metatype/1.1.2/org.apache.felix.metatype-1.1.2.jar  "
+    ],
+    [
+      0.000632,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.scr/\r\n"
+    ],
+    [
+      0.000042,
+      "   creating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.scr/2.0.2/\r\n"
+    ],
+    [
+      0.000090,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/felix/org.apache.felix.scr/2.0.2/org.apache.felix.scr-2.0.2.jar  "
+    ],
+    [
+      0.003662,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "   creating: enonic-xp-6.3.1/system/org/apache/tika/\r\n"
+    ],
+    [
+      0.000168,
+      "   creating: enonic-xp-6.3.1/system/org/apache/tika/tika-bundle/\r\n"
+    ],
+    [
+      0.000042,
+      "   creating: enonic-xp-6.3.1/system/org/apache/tika/tika-bundle/1.6/\r\n"
+    ],
+    [
+      0.000176,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/tika/tika-bundle/1.6/tika-bundle-1.6.jar  "
+    ],
+    [
+      0.328761,
+      "\r\n   creating: enonic-xp-6.3.1/system/org/apache/tika/tika-core/\r\n"
+    ],
+    [
+      0.000076,
+      "   creating: enonic-xp-6.3.1/system/org/apache/tika/tika-core/1.6/\r\n"
+    ],
+    [
+      0.000202,
+      "  inflating: enonic-xp-6.3.1/system/org/apache/tika/tika-core/1.6/tika-core-1.6.jar  "
+    ],
+    [
+      0.003648,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "   creating: enonic-xp-6.3.1/toolbox/\r\n"
+    ],
+    [
+      0.000143,
+      "  inflating: enonic-xp-6.3.1/toolbox/toolbox.bat  "
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "  inflating: enonic-xp-6.3.1/toolbox/toolbox.sh  "
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "   creating: enonic-xp-6.3.1/toolbox/lib/\r\n"
+    ],
+    [
+      0.000163,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/airline-0.7.jar  "
+    ],
+    [
+      0.000692,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/annotations-2.0.3.jar  "
+    ],
+    [
+      0.000603,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/commons-codec-1.4.jar  "
+    ],
+    [
+      0.000464,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/commons-io-2.4.jar  "
+    ],
+    [
+      0.001361,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/commons-logging-1.1.1.jar  "
+    ],
+    [
+      0.000518,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/guava-18.0.jar  "
+    ],
+    [
+      0.015127,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/httpclient-4.1.3.jar  "
+    ],
+    [
+      0.003965,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/httpcore-4.1.4.jar  "
+    ],
+    [
+      0.001661,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/jackson-annotations-2.6.0.jar  "
+    ],
+    [
+      0.000464,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/jackson-core-2.6.2.jar  "
+    ],
+    [
+      0.002391,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/jackson-databind-2.6.2.jar  "
+    ],
+    [
+      0.010850,
+      "\r\n"
+    ],
+    [
+      0.000228,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/JavaEWAH-0.7.9.jar  "
+    ],
+    [
+      0.001020,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/javax.inject-1.jar  "
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/jsch-0.1.51.jar  "
+    ],
+    [
+      0.001855,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/log4j-1.2.17.jar  "
+    ],
+    [
+      0.003405,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/okhttp-2.4.0.jar  "
+    ],
+    [
+      0.002329,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/okio-1.4.0.jar  "
+    ],
+    [
+      0.000710,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/org.eclipse.jgit-4.0.1.201506240215-r.jar  "
+    ],
+    [
+      0.016816,
+      "\r\n"
+    ],
+    [
+      0.000273,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/slf4j-api-1.7.2.jar  "
+    ],
+    [
+      0.000376,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/slf4j-log4j12-1.7.2.jar  "
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/toolbox-6.3.1.jar  "
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "  inflating: enonic-xp-6.3.1/toolbox/lib/upgrade-6.3.1.jar  "
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.010353,
+      "\u001b]0;fish  /Users/srs/development/workspace/github\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000087,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b[32m~/d/w/github\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      1.375324,
+      "c"
+    ],
+    [
+      0.000138,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[m"
+    ],
+    [
+      0.000095,
+      "\u001b[38;5;240mlear\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047766,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000159,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.009321,
+      "\u001b[38;5;240m \u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.070565,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000134,
+      "\u0008 "
+    ],
+    [
+      0.231727,
+      "e"
+    ],
+    [
+      0.000257,
+      "\u001b[38;5;240mnonic-xp-6.3.1/\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000178,
+      "\u0008\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24mnonic-xp-6.3.1/\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.399415,
+      "\u001b[38;5;39m\u001b[4mnonic-xp-6.3.1/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.447893,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b"
+    ],
+    [
+      0.000006,
+      "[30m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      0.000275,
+      "\u001b]0;cd"
+    ],
+    [
+      0.000006,
+      "  /Users/srs/deve"
+    ],
+    [
+      0.000004,
+      "lopm"
+    ],
+    [
+      0.000003,
+      "ent"
+    ],
+    [
+      0.000003,
+      "/wo"
+    ],
+    [
+      0.000003,
+      "rks"
+    ],
+    [
+      0.000003,
+      "pac"
+    ],
+    [
+      0.000003,
+      "e/g"
+    ],
+    [
+      0.000003,
+      "ith"
+    ],
+    [
+      0.000003,
+      "ub\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b[30m"
+    ],
+    [
+      0.000004,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.007945,
+      "\u001b]7;file://ShinyBook.local/%55%73%65%72%73/%73%72%73/%64%65%76%65%6c%6f%70%6d%65%6e%74/%77%6f%72%6b%73%70%61%63%65/%67%69%74%68%75%62/%65%6e%6f%6e%69%63%2d%78%70%2d%36%2e%33%2e%31\u0007"
+    ],
+    [
+      0.010800,
+      "\u001b]0;fish  /Users/srs/development"
+    ],
+    [
+      0.000007,
+      "/workspace/github/enonic-xp-6.3.1\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000068,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000090,
+      "\u001b[32m~/d/w/g/enonic-xp-6.3.1\u001b[30m\u001b(B\u001b[m $ \u001b[K"
+    ],
+    [
+      0.189056,
+      "."
+    ],
+    [
+      0.000145,
+      "\u0008\u001b[38;5;26m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.010637,
+      "\u001b[38;5;240m/\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.348945,
+      "\u001b[38;5;26m/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.216135,
+      "\u001b[38;5;26mb\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000175,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1m./b\u001b(B\u001b[m"
+    ],
+    [
+      0.000120,
+      "\u001b[38;5;240min/\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215675,
+      "\u001b[31m\u001b[1min/\u001b(B\u001b[m"
+    ],
+    [
+      0.000131,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26m./bin/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.799457,
+      "\u001b[38;5;26ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[31m\u001b[1m./bin/s\u001b(B\u001b[m"
+    ],
+    [
+      0.000381,
+      "\u001b[38;5;240merver.sh \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.479762,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mrver.sh \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.165854,
+      "\r\n\u001b[36m./bin/se\u001b[30m\u001b(B\u001b[mrver.sh\u001b[38;5;240m  (Executable, 1.9kB)\u001b[30m\u001b(B\u001b[m  \u001b[36m./bin/se\u001b[30m\u001b(B\u001b[mrvice.sh\u001b[38;5;240m  (Executable, 1.2kB)\u001b[30m\u001b(B\u001b[m  \u001b[36m./bin/se\u001b[30m\u001b(B\u001b[mtenv.sh\u001b[38;5;240m  (Executable, 869B)\u001b[A\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.658428,
+      "\u001b[31m\u001b[1mrver.sh \u001b(B\u001b[m\r\n\u001b[K\u001b[A\u001b[42C"
+    ],
+    [
+      0.000186,
+      "\u001b[16D\u001b[38;5;26m./bin/server.sh\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.271661,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000004,
+      "\u001b[m"
+    ],
+    [
+      0.000413,
+      "\u001b]0"
+    ],
+    [
+      0.000005,
+      ";./bin/serve"
+    ],
+    [
+      0.000004,
+      "r.sh"
+    ],
+    [
+      0.000017,
+      "  /Users/srs/dev"
+    ],
+    [
+      0.000004,
+      "elop"
+    ],
+    [
+      0.000003,
+      "men"
+    ],
+    [
+      0.000003,
+      "t/w"
+    ],
+    [
+      0.000003,
+      "ork"
+    ],
+    [
+      0.000003,
+      "spa"
+    ],
+    [
+      0.000003,
+      "ce/"
+    ],
+    [
+      0.000003,
+      "git"
+    ],
+    [
+      0.000003,
+      "hub"
+    ],
+    [
+      0.000003,
+      "/en"
+    ],
+    [
+      0.000003,
+      "oni"
+    ],
+    [
+      0.000003,
+      "c-x"
+    ],
+    [
+      0.000003,
+      "p-6"
+    ],
+    [
+      0.000003,
+      ".3."
+    ],
+    [
+      0.000003,
+      "1\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b[m"
+    ],
+    [
+      0.320755,
+      "                        _                   \r\n  ___ _ __   ___  _ __ (_) ___  __  ___ __  \r\n / _ \\ '_ \\ / _ \\| '_ \\| |/ __| \\ \\/ / '_ \\ \r\n|  __/ | | | (_) | | | | | (__   \u003e  \u003c| |_) |\r\n \\___|_| |_|\\___/|_| |_|_|\\___| /_/\\_\\ .__/ \r\n                                     |_|    \r\n\r\n"
+    ],
+    [
+      0.000061,
+      "# Enonic XP 6.3.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.012601,
+      "# Built on 2016-01-21T12:14:01+0100 (hash = 7fd69cd6276c375e26c4d9a7691d31f33b75d5f1, branch = 6.3.1)\r\n"
+    ],
+    [
+      0.000707,
+      "# Java HotSpot(TM) 64-Bit Server VM 1.8.0_66 (Oracle Corporation)\r\n"
+    ],
+    [
+      0.000068,
+      "# Mac OS X 10.11.3 (x86_64)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "# Install directory is /Users/srs/development/workspace/github/enonic-xp-6.3.1"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "# Home directory is /Users/srs/development/workspace/github/enonic-xp-6.3.1/home"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.467326,
+      "22:45:33.677 INFO  c.e.x.l.i.framework.FrameworkService - Starting Enonic XP...\r\n"
+    ],
+    [
+      0.259020,
+      "22:45:33.937 INFO  c.e.x.l.i.p.ProvisionActivator - Installing 54 bundles...\r\n"
+    ],
+    [
+      0.943528,
+      "22:45:34.882 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.mail.cfg\r\n"
+    ],
+    [
+      0.002838,
+      "22:45:34.885 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.elasticsearch.cfg\r\n"
+    ],
+    [
+      0.001858,
+      "22:45:34.886 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.repo.cfg\r\n"
+    ],
+    [
+      0.002343,
+      "22:45:34.889 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.web.jetty.cfg\r\n"
+    ],
+    [
+      0.002331,
+      "22:45:34.891 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.web.vhost.cfg\r\n"
+    ],
+    [
+      0.001595,
+      "22:45:34.893 INFO  org.apache.felix.fileinstall - Creating configuration from org.apache.felix.fileinstall-deploy.cfg\r\n"
+    ],
+    [
+      0.003811,
+      "22:45:34.896 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.web.dos.cfg\r\n"
+    ],
+    [
+      0.002268,
+      "22:45:34.899 INFO  org.apache.felix.fileinstall - Creating configuration from com.enonic.xp.server.shell.cfg\r\n"
+    ],
+    [
+      0.503557,
+      "22:45:35.402 INFO  c.e.x.s.shell.impl.ShellActivator - Remote shell access is disabled\r\n"
+    ],
+    [
+      0.166691,
+      "22:45:35.569 INFO  org.elasticsearch.node - [local-node] version[1.4.4], pid[37064], build[NA/NA]\r\n"
+    ],
+    [
+      0.000061,
+      "22:45:35.569 INFO  org.elasticsearch.node - [local-node] initializing ...\r\n"
+    ],
+    [
+      0.002696,
+      "22:45:35.572 INFO  org.elasticsearch.plugins - [local-node] loaded [], sites []\r\n"
+    ],
+    [
+      1.005440,
+      "22:45:36.577 INFO  org.elasticsearch.node - [local-node] initialized\r\n"
+    ],
+    [
+      0.000113,
+      "22:45:36.577 INFO  org.elasticsearch.node - [local-node] starting ...\r\n"
+    ],
+    [
+      0.057187,
+      "22:45:36.634 INFO  org.elasticsearch.transport - [local-node] bound_address {inet[/127.0.0.1:9300]}, publish_address {inet[/127.0.0.1:9300]}\r\n"
+    ],
+    [
+      0.008707,
+      "22:45:36.643 INFO  org.elasticsearch.discovery - [local-node] mycluster/D9_0lZ8KRMWBkRGDcqxO5A\r\n"
+    ],
+    [
+      3.020956,
+      "22:45:39.664 INFO  org.elasticsearch.cluster.service - [local-node] new_master [local-node][D9_0lZ8KRMWBkRGDcqxO5A][ShinyBook.local][inet[/127.0.0.1:9300]]{master=true}, reason: zen-disco-join (elected_as_master)\r\n"
+    ],
+    [
+      0.008979,
+      "22:45:39.673 INFO  org.elasticsearch.node - [local-node] started\r\n"
+    ],
+    [
+      0.005116,
+      "22:45:39.678 INFO  c.e.x.e.impl.ClientActivator - Cluster operational, register elasticsearch-client\r\n"
+    ],
+    [
+      0.038405,
+      "22:45:39.717 INFO  org.elasticsearch.gateway - [local-node] recovered [0] indices into cluster_state\r\n"
+    ],
+    [
+      0.258503,
+      "22:45:39.975 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Executing ClusterHealtRequest\r\n"
+    ],
+    [
+      0.002055,
+      "22:45:39.977 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - ElasticSearch cluster 'mycluster' health (timedOut=false, timeOutValue=10s, used=421,8 μs): Status=GREEN, nodes=1, active shards=0, indices=[]\r\n"
+    ],
+    [
+      0.002109,
+      "22:45:39.979 INFO  c.e.x.r.i.r.RepositoryInitializer - Initializing repositoryId cms-repo\r\n"
+    ],
+    [
+      0.000072,
+      "22:45:39.979 INFO  c.e.x.r.i.r.RepositoryInitializer - Create storage-index for repositoryId cms-repo\r\n"
+    ],
+    [
+      0.029214,
+      "22:45:40.009 INFO  c.e.x.r.i.r.RepositoryInitializer - Applying storage-index settings for repo cms-repo: {\"index\":{\"number_of_shards\":1,\"number_of_replicas\":1}}\r\n"
+    ],
+    [
+      0.000179,
+      "22:45:40.009 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - creating index storage-cms-repo\r\n"
+    ],
+    [
+      0.153779,
+      "22:45:40.162 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-cms-repo] creating index, cause [api], shards [1]/[1], mappings []\r\n"
+    ],
+    [
+      0.103913,
+      "22:45:40.266 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Index storage-cms-repo created with status true\r\n"
+    ],
+    [
+      0.000127,
+      "22:45:40.267 INFO  c.e.x.r.i.r.RepositoryInitializer - Create search-index for repositoryId cms-repo\r\n"
+    ],
+    [
+      0.003546,
+      "22:45:40.270 INFO  c.e.x.r.i.r.RepositoryInitializer - Applying search-index settings for repo cms-repo: {\"index\":{\"number_of_shards\":1,\"number_of_replicas\":1},\"analysis\":{\"filter\":{\"front_ngram\":{\"side\":\"front\",\"max_gram\":12,\"min_gram\":1,\"type\":\"edgeNGram\"},\"ngram\":{\"type\":\"nGram\",\"min_gram\":\"2\",\"max_gram\":\"12\",\"token_chars\":[\"letter\",\"digit\"]}},\"analyzer\":{\"default_search\":{\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\",\"asciifolding\"]},\"keywordlowercase\":{\"type\":\"custom\",\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\"]},\"keywordasciilowercase\":{\"type\":\"custom\",\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\",\"asciifolding\"]},\"ngram_index_front\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\",\"front_ngram\"],\"tokenizer\":\"standard\"},\"ngram_index\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\",\"ngram\"],\"tokenizer\":\"standard\"},\"ngram_search_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard\"},"
+    ],
+    [
+      0.000034,
+      "\"fulltext_search_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard\"},\"document_index_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard\"},\"all_field_analyzer\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"front_ngram\"],\"tokenizer\":\"standard\"}}}}\r\n"
+    ],
+    [
+      0.000160,
+      "22:45:40.270 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - creating index search-cms-repo\r\n"
+    ],
+    [
+      0.060483,
+      "22:45:40.331 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-cms-repo] creating index, cause [api], shards [1]/[1], mappings []\r\n"
+    ],
+    [
+      0.038166,
+      "22:45:40.367 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Index search-cms-repo created with status true\r\n"
+    ],
+    [
+      0.003286,
+      "22:45:40.371 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index storage-cms-repo\r\n"
+    ],
+    [
+      0.076403,
+      "22:45:40.449 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-cms-repo] create_mapping [branch]\r\n"
+    ],
+    [
+      0.003011,
+      "22:45:40.452 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index storage-cms-repo applied\r\n"
+    ],
+    [
+      0.000285,
+      "22:45:40.452 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index storage-cms-repo\r\n"
+    ],
+    [
+      0.003508,
+      "22:45:40.455 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-cms-repo] create_mapping [version]\r\n"
+    ],
+    [
+      0.001587,
+      "22:45:40.457 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index storage-cms-repo applied\r\n"
+    ],
+    [
+      0.000537,
+      "22:45:40.458 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index search-cms-repo\r\n"
+    ],
+    [
+      0.006792,
+      "22:45:40.464 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-cms-repo] create_mapping [_default_]\r\n"
+    ],
+    [
+      0.002180,
+      "22:45:40.467 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index search-cms-repo applied\r\n"
+    ],
+    [
+      0.003612,
+      "22:45:40.470 INFO  c.e.x.r.i.r.RepositoryInitializer - Initializing repositoryId system-repo\r\n"
+    ],
+    [
+      0.000100,
+      "22:45:40.470 INFO  c.e.x.r.i.r.RepositoryInitializer - Create storage-index for repositoryId system-repo\r\n"
+    ],
+    [
+      0.000438,
+      "22:45:40.471 INFO  c.e.x.r.i.r.RepositoryInitializer - Applying storage-index settings for repo system-repo: {\"index\":{\"number_of_shards\":1,\"number_of_replicas\":1}}\r\n"
+    ],
+    [
+      0.000112,
+      "22:45:40.471 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - creating index storage-system-repo\r\n"
+    ],
+    [
+      0.008646,
+      "22:45:40.479 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-system-repo] creating index, cause [api], shards [1]/[1], mappings []\r\n"
+    ],
+    [
+      0.021554,
+      "22:45:40.501 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Index storage-system-repo created with status true\r\n"
+    ],
+    [
+      0.000127,
+      "22:45:40.501 INFO  c.e.x.r.i.r.RepositoryInitializer - Create search-index for repositoryId system-repo\r\n"
+    ],
+    [
+      0.001322,
+      "22:45:40.502 INFO  c.e.x.r.i.r.RepositoryInitializer - Applying search-index settings for repo system-repo: {\"index\":{\"number_of_shards\":1,\"number_of_replicas\":1},\"analysis\":{\"filter\":{\"front_ngram\":{\"side\":\"front\",\"max_gram\":12,\"min_gram\":1,\"type\":\"edgeNGram\"},\"ngram\":{\"type\":\"nGram\",\"min_gram\":\"2\",\"max_gram\":\"12\",\"token_chars\":[\"letter\",\"digit\"]}},\"analyzer\":{\"default_search\":{\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\",\"asciifolding\"]},\"keywordlowercase\":{\"type\":\"custom\",\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\"]},\"keywordasciilowercase\":{\"type\":\"custom\",\"tokenizer\":\"keyword\",\"filter\":[\"lowercase\",\"asciifolding\"]},\"ngram_index_front\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\",\"front_ngram\"],\"tokenizer\":\"standard\"},\"ngram_index\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\",\"ngram\"],\"tokenizer\":\"standard\"},\"ngram_search_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard"
+    ],
+    [
+      0.000025,
+      "\"},\"fulltext_search_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard\"},\"document_index_default\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"word_delimiter\"],\"tokenizer\":\"standard\"},\"all_field_analyzer\":{\"type\":\"custom\",\"filter\":[\"standard\",\"lowercase\",\"asciifolding\",\"front_ngram\"],\"tokenizer\":\"standard\"}}}}\r\n"
+    ],
+    [
+      0.000135,
+      "22:45:40.503 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - creating index search-system-repo\r\n"
+    ],
+    [
+      0.026031,
+      "22:45:40.529 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] creating index, cause [api], shards [1]/[1], mappings []\r\n"
+    ],
+    [
+      0.032378,
+      "22:45:40.561 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Index search-system-repo created with status true\r\n"
+    ],
+    [
+      0.000351,
+      "22:45:40.561 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index storage-system-repo\r\n"
+    ],
+    [
+      0.007715,
+      "22:45:40.569 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-system-repo] create_mapping [branch]\r\n"
+    ],
+    [
+      0.002713,
+      "22:45:40.572 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index storage-system-repo applied\r\n"
+    ],
+    [
+      0.000394,
+      "22:45:40.572 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index storage-system-repo\r\n"
+    ],
+    [
+      0.004971,
+      "22:45:40.577 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-system-repo] create_mapping [version]\r\n"
+    ],
+    [
+      0.001824,
+      "22:45:40.579 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index storage-system-repo applied\r\n"
+    ],
+    [
+      0.000304,
+      "22:45:40.579 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Apply mapping for index search-system-repo\r\n"
+    ],
+    [
+      0.005408,
+      "22:45:40.585 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] create_mapping [_default_]\r\n"
+    ],
+    [
+      0.002417,
+      "22:45:40.587 INFO  c.e.x.r.i.e.ElasticsearchIndexServiceInternal - Mapping for index search-system-repo applied\r\n"
+    ],
+    [
+      0.120795,
+      "22:45:40.708 INFO  c.e.x.c.i.s.SecurityInitializer - Initializing [master] branch...\r\n"
+    ],
+    [
+      0.090724,
+      "22:45:40.799 INFO  org.elasticsearch.cluster.metadata - [local-node] [storage-system-repo] update_mapping [version] (dynamic)\r\n"
+    ],
+    [
+      0.055657,
+      "22:45:40.854 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.004460,
+      "22:45:40.859 INFO  c.e.x.c.i.s.SecurityInitializer - Initializing [/roles] folder\r\n"
+    ],
+    [
+      0.106259,
+      "22:45:40.965 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.002058,
+      "22:45:40.967 INFO  c.e.x.c.i.s.SecurityInitializer - Initializing user store [system]\r\n"
+    ],
+    [
+      0.022871,
+      "22:45:40.990 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.138959,
+      "22:45:41.129 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.025405,
+      "22:45:41.154 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.admin\r\n"
+    ],
+    [
+      0.043625,
+      "22:45:41.198 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.authenticated\r\n"
+    ],
+    [
+      0.033485,
+      "22:45:41.231 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.everyone\r\n"
+    ],
+    [
+      0.042938,
+      "22:45:41.274 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.admin.login\r\n"
+    ],
+    [
+      0.029854,
+      "22:45:41.304 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.user.app\r\n"
+    ],
+    [
+      0.041440,
+      "22:45:41.346 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:system.user.admin\r\n"
+    ],
+    [
+      0.027453,
+      "22:45:41.373 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:cms.cm.app\r\n"
+    ],
+    [
+      0.037545,
+      "22:45:41.411 INFO  c.e.x.c.i.s.SecurityInitializer - Role created: role:cms.admin\r\n"
+    ],
+    [
+      0.019651,
+      "22:45:41.430 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.020415,
+      "22:45:41.451 INFO  c.e.x.c.i.s.SecurityInitializer - User created: user:system:anonymous\r\n"
+    ],
+    [
+      0.217607,
+      "22:45:41.668 INFO  c.e.x.c.i.s.SecurityInitializer - User created: user:system:su\r\n"
+    ],
+    [
+      0.019735,
+      "22:45:41.688 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-system-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.027727,
+      "22:45:41.716 INFO  c.e.x.c.i.s.SecurityInitializer - Added user:system:su as member of role:system.admin\r\n"
+    ],
+    [
+      0.031299,
+      "22:45:41.747 INFO  c.e.x.c.i.s.SecurityInitializer - Added user:system:su as member of role:system.admin.login\r\n"
+    ],
+    [
+      0.000112,
+      "22:45:41.747 INFO  c.e.x.c.i.s.SecurityInitializer - [master] branch successfully initialized\r\n"
+    ],
+    [
+      0.052159,
+      "22:45:41.799 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-cms-repo] update_mapping [draft] (dynamic)\r\n"
+    ],
+    [
+      0.021754,
+      "22:45:41.821 INFO  c.e.x.c.i.content.ContentInitializer - Content root-node not found, creating\r\n"
+    ],
+    [
+      0.019042,
+      "22:45:41.840 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-cms-repo] update_mapping [draft] (dynamic)\r\n"
+    ],
+    [
+      0.000794,
+      "22:45:41.841 INFO  c.e.x.c.i.content.ContentInitializer - Created content root-node: /content\r\n"
+    ],
+    [
+      0.067281,
+      "22:45:41.908 INFO  org.elasticsearch.cluster.metadata - [local-node] [search-cms-repo] update_mapping [master] (dynamic)\r\n"
+    ],
+    [
+      0.086792,
+      "22:45:41.995 INFO  org.eclipse.jetty.util.log - Logging initialized @8971ms\r\n"
+    ],
+    [
+      0.062573,
+      "22:45:42.058 INFO  org.eclipse.jetty.server.Server - jetty-9.3.5.v20151012\r\n"
+    ],
+    [
+      0.034441,
+      "22:45:42.092 INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@16f5569a{/,null,AVAILABLE}\r\n"
+    ],
+    [
+      0.009076,
+      "22:45:42.101 INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@2d123e72{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}\r\n"
+    ],
+    [
+      0.000206,
+      "22:45:42.101 INFO  org.eclipse.jetty.server.Server - Started @9077ms\r\n"
+    ],
+    [
+      0.503337,
+      "22:45:42.605 INFO  c.e.x.l.i.framework.FrameworkService - Started Enonic XP in 8929 ms\r\n"
+    ],
+    [
+      2.007053,
+      "^C"
+    ],
+    [
+      0.001283,
+      "22:45:44.613 INFO  c.e.x.l.i.framework.FrameworkService - Stopping server...\r\n"
+    ],
+    [
+      0.046014,
+      "22:45:44.659 INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@2d123e72{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}\r\n"
+    ],
+    [
+      0.004535,
+      "22:45:44.664 INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@16f5569a{/,null,UNAVAILABLE}\r\n"
+    ],
+    [
+      0.000523,
+      "22:45:44.664 INFO  c.e.xp.web.jetty.impl.JettyService - Stopped Jetty\r\n"
+    ],
+    [
+      0.019007,
+      "22:45:44.683 INFO  c.e.x.e.impl.ClientActivator - Cluster not operational, unregister elasticsearch-client\r\n"
+    ],
+    [
+      0.001964,
+      "22:45:44.685 INFO  org.elasticsearch.node - [local-node] stopping ...\r\n"
+    ],
+    [
+      0.036861,
+      "22:45:44.722 INFO  org.elasticsearch.node - [local-node] stopped\r\n"
+    ],
+    [
+      0.020301,
+      "22:45:44.742 INFO  c.e.x.l.i.framework.FrameworkService - Server has been stopped\r\n"
+    ],
+    [
+      0.407689,
+      "\u001b]0;fish  /Users/srs/development/workspace/github/enon"
+    ],
+    [
+      0.000007,
+      "ic-xp-6.3.1\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000056,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b[32m~/d/w/g/enonic-xp-6.3.1\u001b[30m\u001b(B\u001b[m \u001b[1m\u001b[31m$ \u001b[K"
+    ],
+    [
+      0.822759,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000019,
+      "\r\n\u001b[30m\u001b(B"
+    ],
+    [
+      0.000006,
+      "\u001b[m"
+    ]
+  ]
+}
