@@ -1,0 +1,1018 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 35.350850,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.176206,
+      "\u001b]0;fish  /Users/Luke/short-stack\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.050577,
+      "\u001b]0;fish  /Users/Luke/short-stack\u0007\u001b"
+    ],
+    [
+      0.000016,
+      "[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000220,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      1.136444,
+      "s"
+    ],
+    [
+      0.000377,
+      "\u0008\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000516,
+      "\u001b[38;5;240mhort-stack add RealLukeMartin.short-stack-tmux\u001b[46D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088660,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mort-stack add RealLukeMartin.short-stack-tmux\u001b[45D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000627,
+      "\u0008\u0008\u001b[38;5;26msh\u001b[38;5;240mort-stack add RealLukeMartin.short-stack-tmux\u001b[45D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.033120,
+      "\u001b[38;5;26mo\u001b[38;5;240mrt-stack add RealLukeMartin.short-stack-tmux\u001b[44D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000627,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1msho\u001b(B\u001b[m\u001b[38;5;240mrt-stack add RealLukeMartin.short-stack-tmux\u001b[44D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.066626,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240mt-stack add RealLukeMartin.short-stack-tmux\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.157975,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m-stack add RealLukeMartin.short-stack-tmux\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.315243,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mstack add RealLukeMartin.short-stack-tmux\u001b[41D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.235909,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mtack add RealLukeMartin.short-stack-tmux\u001b[40D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056332,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mack add RealLukeMartin.short-stack-tmux\u001b[39D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112439,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mck add RealLukeMartin.short-stack-tmux\u001b[38D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.134890,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mk add RealLukeMartin.short-stack-tmux\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078847,
+      "\u001b[31m\u001b[1mk\u001b(B\u001b[m\u001b[38;5;240m add RealLukeMartin.short-stack-tmux\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000660,
+      "\u001b[11D\u001b[38;5;26mshort-stack\u001b[38;5;240m add RealLukeMartin.short-stack-tmux\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.404256,
+      "\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[30m\u001b(B"
+    ],
+    [
+      0.000003,
+      "\u001b[m"
+    ],
+    [
+      0.000297,
+      "\u001b]0;short-stack  /Users/Luke/short-s"
+    ],
+    [
+      0.000009,
+      "tack\u0007\u001b[30m\u001b(B"
+    ],
+    [
+      0.000004,
+      "\u001b[m"
+    ],
+    [
+      0.116262,
+      "\r\n  Usage: short-stack [options] [command]\r\n\r\n\r\n  Commands:\r\n\r\n    install [name]           [not implemented] adds a new layer to your stack\r\n    uninstall|remove [name]  [not implemented] removes a layer from your stack\r\n    add [options] [role]     add role to stack\r\n    search [query]           searches for short-stack roles, if query is left blank it will display all short-stack roles available\r\n    list                     [not implemented] list current layers in your stack\r\n    update                   [not implemented] updates your stack\r\n\r\n  Options:\r\n\r\n    -h, --help     output usage information\r\n    -V, --version  output the version number\r\n\r\n"
+    ],
+    [
+      0.041060,
+      "\u001b]0;fish  /Users/Luke/short-stack"
+    ],
+    [
+      0.000007,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000076,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000146,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      1.305096,
+      "s"
+    ],
+    [
+      0.000360,
+      "\u0008\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\u001b[38;5;240mhort-stack\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.066391,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mort-stack\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000439,
+      "\u0008\u0008\u001b[38;5;26msh\u001b[38;5;240mort-stack\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055583,
+      "\u001b[38;5;26mo\u001b[38;5;240mrt-stack\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000436,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1msho\u001b(B\u001b[m\u001b[38;5;240mrt-stack\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.089620,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240mt-stack\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.146204,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m-stack\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123795,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mstack\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.348628,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mtack\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.134905,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mack\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123964,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mck\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123636,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mk\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.090049,
+      "\u001b[31m\u001b[1mk\u001b(B\u001b[m"
+    ],
+    [
+      0.000448,
+      "\u001b[11D\u001b[38;5;26mshort-stack\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.393399,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000365,
+      "\u0008 "
+    ],
+    [
+      0.000382,
+      "\u001b[38;5;240madd RealLukeMartin.short-stack-tmux\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100247,
+      "s\u001b[K"
+    ],
+    [
+      0.000436,
+      "\u001b[38;5;240mearch tmux\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u0008\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mearch tmux\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112258,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24march tmux\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000456,
+      "\u0008\u0008\u001b[38;5;39mse\u001b[38;5;240march tmux\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.179286,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.033642,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.742630,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.416223,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.202485,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000427,
+      "\u001b[38;5;240mrch tmux\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112143,
+      "\u001b[38;5;39mr\u001b[38;5;240mch tmux\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.202566,
+      "\u001b[38;5;39mc\u001b[38;5;240mh tmux\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101394,
+      "\u001b[38;5;39mh\u001b[38;5;240m tmux\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.337198,
+      "\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000230,
+      "\u001b]0;sho"
+    ],
+    [
+      0.000005,
+      "rt-stack  /Users/"
+    ],
+    [
+      0.000003,
+      "Luke/"
+    ],
+    [
+      0.000003,
+      "sho"
+    ],
+    [
+      0.000003,
+      "rt-"
+    ],
+    [
+      0.000003,
+      "sta"
+    ],
+    [
+      0.000003,
+      "ck\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b[30m"
+    ],
+    [
+      0.000005,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      1.390310,
+      " \r\n"
+    ],
+    [
+      0.000459,
+      "\r\nFound 2 roles matching your search:\r\n\r\n Name                            Description\r\n ----                            -----------\r\n poetic.short-stack-mongodb      Installs MongoDB and adds launch agent.\r\n RealLukeMartin.short-stack-tmux Installs tmux and common configuration.\r\n\r\n"
+    ],
+    [
+      0.048214,
+      "\u001b]0;fish  /Users/Luke/short-stack"
+    ],
+    [
+      0.000008,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000158,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      1.091775,
+      "s"
+    ],
+    [
+      0.000311,
+      "\u0008\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;240mhort-stack search\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100856,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mort-stack search\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000469,
+      "\u0008\u0008\u001b[38;5;26msh\u001b[38;5;240mort-stack search\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055938,
+      "\u001b[38;5;26mo\u001b[38;5;240mrt-stack search\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000469,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1msho\u001b(B\u001b[m\u001b[38;5;240mrt-stack search\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.145614,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240mt-stack search\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191258,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m-stack search\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.258722,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mstack search\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.202415,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mtack search\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078669,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mack search\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.090192,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mck search\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168792,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mk search\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100802,
+      "\u001b[31m\u001b[1mk\u001b(B\u001b[m\u001b[38;5;240m search\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000488,
+      "\u001b[11D\u001b[38;5;26mshort-stack\u001b[38;5;240m search\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.393716,
+      "\u001b[38;5;26m \u001b[38;5;240msearch\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000416,
+      "\u0008 \u001b[38;5;240msearch\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123101,
+      "s\u001b[38;5;240mearch\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000422,
+      "\u0008\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mearch\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123150,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24march\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000413,
+      "\u0008\u0008\u001b[38;5;39mse\u001b[38;5;240march\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.134764,
+      "\u001b[38;5;39ma\u001b[38;5;240mrch\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056268,
+      "\u001b[38;5;39mr\u001b[38;5;240mch\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.281113,
+      "\u001b[38;5;39mc\u001b[38;5;240mh\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135049,
+      "\u001b[38;5;39mh\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191683,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000376,
+      "\u0008 "
+    ],
+    [
+      0.000220,
+      "\u001b[38;5;240mtmux\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.089105,
+      "m\u001b[K"
+    ],
+    [
+      0.000428,
+      "\u001b[38;5;240mongo\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u0008\u001b[38;5;39mm\u001b[38;5;240mongo\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.145489,
+      "\u001b[38;5;39mo\u001b[38;5;240mngo\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.067661,
+      "\u001b[38;5;39mn\u001b[38;5;240mgo\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112440,
+      "\u001b[38;5;39mg\u001b[38;5;240mo\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123740,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.405109,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000262,
+      "\u001b]0;sho"
+    ],
+    [
+      0.000006,
+      "rt-stack  /Users"
+    ],
+    [
+      0.000003,
+      "/Luk"
+    ],
+    [
+      0.000003,
+      "e/s"
+    ],
+    [
+      0.000020,
+      "hort-stack\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b[3"
+    ],
+    [
+      0.000003,
+      "0m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b"
+    ],
+    [
+      0.000003,
+      "[m"
+    ],
+    [
+      1.419563,
+      "mongo\r\n"
+    ],
+    [
+      0.000438,
+      "\r\nFound 1 roles matching your search:\r\n\r\n Name                       Description\r\n ----                       -----------\r\n poetic.short-stack-mongodb Installs MongoDB and adds launch agent.\r\n\r\n"
+    ],
+    [
+      0.042002,
+      "\u001b]0;fish  /Users/Luke/short-stack"
+    ],
+    [
+      0.000007,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000105,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000156,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      0.697921,
+      "s"
+    ],
+    [
+      0.000371,
+      "\u0008\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000316,
+      "\u001b[38;5;240mhort-stack search mongo\u001b[23D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111246,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mort-stack search mongo\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000527,
+      "\u0008\u0008\u001b[38;5;26msh\u001b[38;5;240mort-stack search mongo\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.050996,
+      "\u001b[38;5;26mo\u001b[38;5;240mrt-stack search mongo\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000384,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1msho\u001b(B\u001b[m\u001b[38;5;240mrt-stack search mongo\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.049396,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240mt-stack search mongo\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168661,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m-stack search mongo\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101237,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mstack search mongo\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191360,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mtack search mongo\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078697,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mack search mongo\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078629,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mck search mongo\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168876,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mk search mongo\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.090027,
+      "\u001b[31m\u001b[1mk\u001b(B\u001b[m\u001b[38;5;240m search mongo\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000521,
+      "\u001b[11D\u001b[38;5;26mshort-stack\u001b[38;5;240m search mongo\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.145674,
+      "\u001b[38;5;26m \u001b[38;5;240msearch mongo\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000450,
+      "\u0008 \u001b[38;5;240msearch mongo\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123276,
+      "s\u001b[38;5;240mearch mongo\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000484,
+      "\u0008\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mearch mongo\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123280,
+      "\u001b[38;5;39m\u001b[4me\u001b[38;5;240m\u001b[24march mongo\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000473,
+      "\u0008\u0008\u001b[38;5;39mse\u001b[38;5;240march mongo\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168000,
+      "\u001b[38;5;39ma\u001b[38;5;240mrch mongo\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101541,
+      "\u001b[38;5;39mr\u001b[38;5;240mch mongo\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.303630,
+      "\u001b[38;5;39mc\u001b[38;5;240mh mongo\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101134,
+      "\u001b[38;5;39mh\u001b[38;5;240m mongo\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101553,
+      "\u001b[38;5;39m \u001b[38;5;240mmongo\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000404,
+      "\u0008 \u001b[38;5;240mmongo\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.201951,
+      "t\u001b[K"
+    ],
+    [
+      0.000404,
+      "\u001b[38;5;240mmux\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000228,
+      "\u0008\u001b[38;5;39mt\u001b[38;5;240mmux\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168044,
+      "\u001b[38;5;39mm\u001b[38;5;240mux\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.258783,
+      "\u001b[38;5;39mu\u001b[38;5;240mx\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.067707,
+      "\u001b[38;5;39mx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.157620,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\u001b]0;sho"
+    ],
+    [
+      0.000007,
+      "rt-stack  /Users/Luk"
+    ],
+    [
+      0.000004,
+      "e/sho"
+    ],
+    [
+      0.000003,
+      "rt-s"
+    ],
+    [
+      0.000003,
+      "tac"
+    ],
+    [
+      0.000003,
+      "k\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b[3"
+    ],
+    [
+      0.000006,
+      "0m\u001b(B\u001b[m"
+    ],
+    [
+      1.367638,
+      "tmux\r\n"
+    ],
+    [
+      0.000408,
+      "\r\nFound 1 roles matching your search:\r\n\r\n Name                            Description\r\n ----                            -----------\r\n RealLukeMartin.short-stack-tmux Installs tmux and common configuration.\r\n\r\n"
+    ],
+    [
+      0.044473,
+      "\u001b]0;fish  /Users/Luke/short-stack\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000058,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000135,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      0.623555,
+      "s"
+    ],
+    [
+      0.000360,
+      "\u0008\u001b[31m\u001b[1ms\u001b(B\u001b[m"
+    ],
+    [
+      0.000315,
+      "\u001b[38;5;240mhort-stack search tmux\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088754,
+      "\u001b[31m\u001b[1mh\u001b(B\u001b[m\u001b[38;5;240mort-stack search tmux\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000500,
+      "\u0008\u0008\u001b[38;5;26msh\u001b[38;5;240mort-stack search tmux\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.033001,
+      "\u001b[38;5;26mo\u001b[38;5;240mrt-stack search tmux\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000500,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1msho\u001b(B\u001b[m\u001b[38;5;240mrt-stack search tmux\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123467,
+      "\u001b[31m\u001b[1mr\u001b(B\u001b[m\u001b[38;5;240mt-stack search tmux\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.202701,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240m-stack search tmux\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.539873,
+      "\u001b[31m\u001b[1m-\u001b(B\u001b[m\u001b[38;5;240mstack search tmux\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.292844,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m\u001b[38;5;240mtack search tmux\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.067342,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m\u001b[38;5;240mack search tmux\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101033,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[m\u001b[38;5;240mck search tmux\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.123498,
+      "\u001b[31m\u001b[1mc\u001b(B\u001b[m\u001b[38;5;240mk search tmux\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.101452,
+      "\u001b[31m\u001b[1mk\u001b(B\u001b[m\u001b[38;5;240m search tmux\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000515,
+      "\u001b[11D\u001b[38;5;26mshort-stack\u001b[38;5;240m search tmux\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.078299,
+      "\u001b[38;5;26m \u001b[38;5;240msearch tmux\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000441,
+      "\u0008 \u001b[38;5;240msearch tmux\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111895,
+      "a\u001b[K"
+    ],
+    [
+      0.000433,
+      "\u0008\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000387,
+      "\u001b[38;5;240mdd RealLukeMartin.short-stack-tmux\u001b[34D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100703,
+      "\u001b[38;5;39md\u001b[38;5;240md RealLukeMartin.short-stack-tmux\u001b[33D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.225145,
+      "\u001b[38;5;39md\u001b[38;5;240m RealLukeMartin.short-stack-tmux\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.618928,
+      "\u001b[38;5;39m RealLukeMartin.short-stack-tmux\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000390,
+      "\u001b[32D \u001b[38;5;39mRealLukeMartin.short-stack-tmux\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.831963,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ],
+    [
+      0.000268,
+      "\u001b]0;s"
+    ],
+    [
+      0.000005,
+      "hort-stack "
+    ],
+    [
+      0.000004,
+      " /Us"
+    ],
+    [
+      0.000004,
+      "ers/"
+    ],
+    [
+      0.000003,
+      "Luke"
+    ],
+    [
+      0.000003,
+      "/sh"
+    ],
+    [
+      0.000003,
+      "ort"
+    ],
+    [
+      0.000003,
+      "-st"
+    ],
+    [
+      0.000003,
+      "ack"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000006,
+      "(B\u001b[m"
+    ],
+    [
+      5.086315,
+      "- downloading role 'short-stack-tmux', owned by RealLukeMartin\r\n- downloading role from https://github.com/RealLukeMartin/short-stack-tmux/archive/master.tar.gz\r\n- extracting RealLukeMartin.short-stack-tmux to /usr/local/etc/ansible/roles/RealLukeMartin.short-stack-tmux\r\n- RealLukeMartin.short-stack-tmux was installed successfully\r\n\r\n"
+    ],
+    [
+      0.001637,
+      "done\r\n"
+    ],
+    [
+      0.047301,
+      "\u001b]0;fish  /Users/Luke/short-stack\u0007\u001b"
+    ],
+    [
+      0.000008,
+      "[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000052,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000165,
+      "\u001b[44m\u001b[30m ~/short-stack \u001b[43m\u001b[34m \u001b[43m\u001b[30m cli ± \u001b[40m\u001b(B\u001b[m\u001b[33m \u001b[K"
+    ],
+    [
+      3.256944,
+      "e"
+    ],
+    [
+      0.000392,
+      "\u001b[38;5;240mxit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u0008\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240mxit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.212603,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000392,
+      "\u0008\u0008\u001b[38;5;26mex\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055755,
+      "\u001b[38;5;26mi\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000393,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mexi\u001b(B\u001b[m\u001b[38;5;240mt\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.393190,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m"
+    ],
+    [
+      0.000411,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mexit\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.269900,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000549,
+      "\u001b]0;exit  /Users/Luke/short-stack\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000003,
+      "m"
+    ]
+  ]
+}
