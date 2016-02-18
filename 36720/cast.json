@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 43,
+  "duration": 13.314558,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067702,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.512611,
+      "\u001b[?1034h\u001b]0;~\u0007\u001b[1m\r\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      0.940624,
+      "d"
+    ],
+    [
+      0.000009,
+      "oc"
+    ],
+    [
+      0.000024,
+      "ker "
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000006,
+      "n "
+    ],
+    [
+      0.000018,
+      "--"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000012,
+      "m"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000322,
+      "-t svagi/curl htt"
+    ],
+    [
+      0.000243,
+      "ps://h2.s"
+    ],
+    [
+      0.000110,
+      "vager.cz"
+    ],
+    [
+      1.094275,
+      "\r\n"
+    ],
+    [
+      0.618755,
+      "\r\r\nHello HTTP/2!\r\r\n\r\r\n"
+    ],
+    [
+      0.123109,
+      "\u001b]0;~\u0007\u001b[1m\r\r\n\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      0.930792,
+      "d"
+    ],
+    [
+      0.000008,
+      "oc"
+    ],
+    [
+      0.000007,
+      "k"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000012,
+      " "
+    ],
+    [
+      0.000009,
+      "r"
+    ],
+    [
+      0.000019,
+      "un"
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000003,
+      "-"
+    ],
+    [
+      0.000019,
+      "r"
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000029,
+      " "
+    ],
+    [
+      0.000029,
+      "-t sv"
+    ],
+    [
+      0.000016,
+      "a"
+    ],
+    [
+      0.000009,
+      "g"
+    ],
+    [
+      0.000030,
+      "i/"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.000012,
+      "u"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000016,
+      "l"
+    ],
+    [
+      0.000020,
+      " "
+    ],
+    [
+      0.000004,
+      "h"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000026,
+      "p"
+    ],
+    [
+      0.000004,
+      "s"
+    ],
+    [
+      0.000017,
+      ":"
+    ],
+    [
+      0.000018,
+      "/"
+    ],
+    [
+      0.000020,
+      "/"
+    ],
+    [
+      0.000005,
+      "h"
+    ],
+    [
+      0.000291,
+      "2.svager.c"
+    ],
+    [
+      0.000019,
+      "z"
+    ],
+    [
+      0.534761,
+      " "
+    ],
+    [
+      0.216055,
+      "-"
+    ],
+    [
+      0.295923,
+      "I"
+    ],
+    [
+      0.759924,
+      "\r\n"
+    ],
+    [
+      0.600239,
+      "HTTP/2.0 200\r\r\r\nserver:nginx\r\r\r\ndate:Thu, 18 Feb 2016 16:38:08 GMT\r\r\r\ncontent-type:text/plain; charset=utf-8\r\r\r\ncontent-length:16\r\r\r\n\r\r\r\n"
+    ],
+    [
+      0.124483,
+      "\u001b]0;~\u0007\u001b[1m\r\r\n\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.508063,
+      "d"
+    ],
+    [
+      0.000007,
+      "oc"
+    ],
+    [
+      0.000004,
+      "k"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000005,
+      "r"
+    ],
+    [
+      0.000006,
+      " "
+    ],
+    [
+      0.000064,
+      "run"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000004,
+      "-"
+    ],
+    [
+      0.000239,
+      "-rm -t svagi/c"
+    ],
+    [
+      0.000226,
+      "url https://h2"
+    ],
+    [
+      0.000005,
+      "."
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000042,
+      "va"
+    ],
+    [
+      0.000005,
+      "g"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000030,
+      "r"
+    ],
+    [
+      0.000005,
+      "."
+    ],
+    [
+      0.000017,
+      "c"
+    ],
+    [
+      0.000022,
+      "z"
+    ],
+    [
+      0.742652,
+      " "
+    ],
+    [
+      1.280005,
+      "-"
+    ],
+    [
+      0.152345,
+      "v"
+    ],
+    [
+      0.274494,
+      "\r\n"
+    ],
+    [
+      0.190790,
+      "* Rebuilt URL to: https://h2.svager.cz/\r\r\n"
+    ],
+    [
+      0.051064,
+      "*   Trying 46.28.108.112...\r\r\n"
+    ],
+    [
+      0.050777,
+      "* Connected to h2.svager.cz (46.28.108.112) port 443 (#0)\r\r\n* ALPN, offering h2\r\r\n* ALPN, offering http/1.1\r\r\n* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH\r\r\n"
+    ],
+    [
+      0.012043,
+      "* successfully set certificate verify locations:\r\r\n*   CAfile: /etc/ssl/certs/ca-certificates.crt\r\r\n  CApath: none\r\r\n* TLSv1.2 (OUT), TLS header, Certificate Status (22):\r\r\n* TLSv1.2 (OUT), TLS handshake, Client hello (1):\r\r\n"
+    ],
+    [
+      0.065793,
+      "* TLSv1.2 (IN), TLS handshake, Server hello (2):\r\r\n* NPN, negotiated HTTP2 (h2)\r\r\n"
+    ],
+    [
+      0.002771,
+      "* TLSv1.2 (IN), TLS handshake, Certificate (11):\r\r\n* TLSv1.2 (IN), TLS handshake, Server key exchange (12):\r\r\n* TLSv1.2 (IN), TLS handshake, Server finished (14):\r\r\n* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\r\r\n* TLSv1.2 (OUT), TLS change cipher, Client hello (1):\r\r\n* TLSv1.2 (OUT), TLS handshake, Unknown (67):\r\r\n* TLSv1.2 (OUT), TLS handshake, Finished (20):\r\r\n"
+    ],
+    [
+      0.071960,
+      "* TLSv1.2 (IN), TLS change cipher, Client hello (1):\r\r\n* TLSv1.2 (IN), TLS handshake, Finished (20):\r\r\n* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\r\r\n* ALPN, server did not agree to a protocol\r\r\n* Server certificate:\r\r\n* \t subject: CN=h2.svager.cz\r\r\n* \t start date: Feb 15 20:20:34 2016 GMT\r\r\n* \t expire date: Feb 15 20:20:34 2017 GMT\r\r\n* \t subjectAltName: h2.svager.cz matched\r\r\n* \t issuer: C=IL; O=StartCom Ltd.; OU=StartCom Certification Authority; CN=StartCom Class 1 DV Server CA\r\r\n* \t SSL certificate verify ok.\r\r\n* Using HTTP2, server supports multi-use\r\r\n* Connection state changed (HTTP/2 confirmed)\r\r\n* TCP_NODELAY set\r\r\n* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\r\r\n"
+    ],
+    [
+      0.001363,
+      "* Using Stream ID: 1 (easy handle 0x55b369395dc0)\r\r\n\u003e GET / HTTP/1.1\r\r\r\n\u003e Host: h2.svager.cz\r\r\r\n\u003e User-Agent: curl/7.47.1\r\r\r\n\u003e Accept: */*\r\r\r\n\u003e \r\r\r\n* Connection state changed (MAX_CONCURRENT_STREAMS updated)!\r\r\n"
+    ],
+    [
+      0.136948,
+      "\u003c HTTP/2.0 200\r\r\r\n\u003c server:nginx\r\r\r\n\u003c date:Thu, 18 Feb 2016 16:38:12 GMT\r\r\r\n\u003c content-type:text/plain; charset=utf-8\r\r\r\n\u003c content-length:16\r\r\r\n\u003c \r\r\r\n\r\r\nHello HTTP/2!\r\r\n\r\r\n* Connection #0 to host h2.svager.cz left intact\r\r\n"
+    ],
+    [
+      0.120281,
+      "\u001b]0;~\u0007\u001b[1m\r\r\n\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.829650,
+      "exit\r\n"
+    ]
+  ]
+}
