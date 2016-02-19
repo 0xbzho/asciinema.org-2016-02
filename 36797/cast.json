@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 38,
+  "duration": 27.377198,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.395421,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000038,
+      "\u001bk..3-ui-patterns\u001b\\"
+    ],
+    [
+      0.044318,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n│┌──(\u001b[36mdbr\u001b[35m@\u001b[33mMcDan\u001b[00m) \u001b[32m~/htdocs/bss/p3-ui-patterns\u001b[0m\u001b[00m (\u001b[35m±\u001b[00m on \u001b[36mmaster\u001b[00m)\r\n└┘#! "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000102,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.632560,
+      "asciinema rec"
+    ],
+    [
+      0.351423,
+      "\u001b[13Dclear        \u001b[8D"
+    ],
+    [
+      0.447434,
+      "\u0008\u0008\u0008\u0008\u0008asciinema rec"
+    ],
+    [
+      0.432165,
+      "\u001b[13Dexit         \u001b[9D"
+    ],
+    [
+      0.392021,
+      "\u0008\u0008\u0008\u0008curl -i \\\r\r\n    -H \"Accept: application/json\" \\\u001b[K\r\r\n    -H \"Content-Type:application/json\" \\\u001b[K\r\r\n    -X POST --data '[{ \"name\": \"users\", \"schema\": { \"firstName\": { \"faker\": \"name.firstName\" }, \"lastName\": { \"faker\": \"name.lastName\" }, \"country\": { \"faker\": \"address.country\" }, \"createdAt\": { \"faker\": \"date.past\" } }, \"options\": 5 },{ \"name\": \"cats\", \"schema\": { \"name\":{ \"values\": [\"pitxi\", \"txury\", \"kitty\"] } }, \"options\": 4 }]' https://mocker-api.herokuapp.com/schemas | json\u001b[K\u001b[6A\u001b[12D"
+    ],
+    [
+      1.759922,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000110,
+      "\u001b[6B\r\r\n"
+    ],
+    [
+      0.001082,
+      "\u001bkcurl\u001b\\"
+    ],
+    [
+      0.010973,
+      "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n                                 Dload  Upload   Total   Spent    Left  Speed\r\n\r  0     0    0"
+    ],
+    [
+      0.000013,
+      "     0    0     0   "
+    ],
+    [
+      0.000004,
+      "   0"
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000008,
+      "    0 "
+    ],
+    [
+      0.000004,
+      "--:"
+    ],
+    [
+      0.000004,
+      "--:"
+    ],
+    [
+      0.000004,
+      "-- "
+    ],
+    [
+      0.000004,
+      "--:"
+    ],
+    [
+      0.000003,
+      "--"
+    ],
+    [
+      0.000003,
+      ":--"
+    ],
+    [
+      0.000003,
+      " -"
+    ],
+    [
+      0.000004,
+      "-:-"
+    ],
+    [
+      0.000004,
+      "-:"
+    ],
+    [
+      0.000004,
+      "-- "
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      "  0"
+    ],
+    [
+      0.605408,
+      "\r  0     "
+    ],
+    [
+      0.000009,
+      "0    0     0    0     0      0   "
+    ],
+    [
+      0.000004,
+      "   0"
+    ],
+    [
+      0.000027,
+      " --:--:-- --:--:-- -"
+    ],
+    [
+      0.000004,
+      "-:--"
+    ],
+    [
+      0.000004,
+      ":--"
+    ],
+    [
+      0.000004,
+      "  "
+    ],
+    [
+      0.000003,
+      "   "
+    ],
+    [
+      0.000003,
+      "0"
+    ],
+    [
+      0.135183,
+      "\r100   982  100   668  100   3"
+    ],
+    [
+      0.000011,
+      "14    901    423 --:--:-- --:--:-- -"
+    ],
+    [
+      0.000005,
+      "-:--:"
+    ],
+    [
+      0.000004,
+      "-- "
+    ],
+    [
+      0.000004,
+      "  9"
+    ],
+    [
+      0.000004,
+      "01"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.005467,
+      "HTTP/1.1 200 OK\r\r\nServer: Cowboy\r\r\nConnection: keep-alive\r\r\nX-Powered-By: Express\r\r\nContent-Type: application/json; charset=utf-8\r\r\nContent-Length: 668\r\r\nEtag: W/\"29c-Z5ST7ckNl0RJFjozfn2lGQ\"\r\r\nDate: Fri, 19 Feb 2016 09:37:53 GMT\r\r\nVia: 1.1 vegur\r\r\n\r\r\n"
+    ],
+    [
+      0.002820,
+      "{\r\n  \"users\": [\r\n    {\r\n      \"firstName\": \"Hassan\",\r\n      \"lastName\": \"Lemke\",\r\n      \"country\": \"Ecuador\",\r\n      \"createdAt\": \"2015-04-20T15:27:20.308Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Dejon\",\r\n      \"lastName\": \"Gaylord\",\r\n      \"country\": \"Puerto Rico\",\r\n      \"createdAt\": \"2016-01-27T14:13:32.906Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Dortha\",\r\n      \"lastName\": \"Funk\",\r\n      \"country\": \"Bosnia and Herzegovina\",\r\n      \"createdAt\": \"2015-08-07T17:54:03.379Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Maureen\",\r\n      \"lastName\": \"Pfeffer\",\r\n      \"country\": \"El Salvador\",\r\n      \"createdAt\": \"2015-08-19T02:47:15.849Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Kenna\",\r\n      \"lastName\": \"Okuneva\",\r\n      \"country\": \"Madagascar\",\r\n      \"createdAt\": \"2015-10-27T16:36:43.177Z\"\r\n    }\r\n  ],\r\n  \"cats\": [\r\n    {\r\n      \"name\": \"txury\"\r\n    },\r\n    {\r\n      \"name\": \"pitxi\"\r\n    },\r\n    {\r\n      \"name\": \"kitty\"\r\n    },\r\n    {\r\n      \"name\": \"pitxi\"\r\n    }\r\n  ],\r\n  \"metadata\": {\r\n    \"generationTime(seconds)\": 0.002\r\n  "
+    ],
+    [
+      0.000032,
+      "}\r\n}"
+    ],
+    [
+      0.000321,
+      "\r\n"
+    ],
+    [
+      0.002531,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000114,
+      "\u001bk..3-ui-patterns\u001b\\"
+    ],
+    [
+      0.033521,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n│┌──(\u001b[36mdbr\u001b[35m@\u001b[33mMcDan\u001b[00m) \u001b[32m~/htdocs/bss/p3-ui-patterns\u001b[0m\u001b[00m (\u001b[35m±\u001b[00m on \u001b[36mmaster\u001b[00m)\r\n└┘#! "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.802753,
+      "curl -i \\\r\r\n    -H \"Accept: application/json\" \\\u001b[K\r\r\n    -H \"Content-Type:application/json\" \\\u001b[K\r\r\n    -X POST --data '[{ \"name\": \"users\", \"schema\": { \"firstName\": { \"faker\": \"name.firstName\" }, \"lastName\": { \"faker\": \"name.lastName\" }, \"country\": { \"faker\": \"address.country\" }, \"createdAt\": { \"faker\": \"date.past\" } }, \"options\": 5 },{ \"name\": \"cats\", \"schema\": { \"name\":{ \"values\": [\"pitxi\", \"txury\", \"kitty\"] } }, \"options\": 4 }]' https://mocker-api.herokuapp.com/schemas | json\u001b[K\u001b[6A\u001b[12D"
+    ],
+    [
+      0.495650,
+      "\u001b[9Dasciinema rec\u001b[1B\r\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[6A\u001b[18C"
+    ],
+    [
+      0.399902,
+      "\u001b[13Dclear        \u001b[8D"
+    ],
+    [
+      0.383795,
+      "\u0008\u0008\u0008\u0008\u0008asciinema rec"
+    ],
+    [
+      0.400238,
+      "\u001b[13Dexit         \u001b[9D"
+    ],
+    [
+      0.376156,
+      "\u0008\u0008\u0008\u0008curl -i \\\u001b[1B\r    -H \"Accept: application/json\" \\\u001b[K\u001b[1B\r    -H \"Content-Type:application/json\" \\\u001b[K\u001b[1B\r    -X POST --data '[{ \"name\": \"users\", \"schema\": { \"firstName\": { \"faker\": \"name.firstName\" }, \"lastName\": { \"faker\": \"name.lastName\" }, \"country\": { \"faker\": \"address.country\" }, \"createdAt\": { \"faker\": \"date.past\" } }, \"options\": 5 },{ \"name\": \"cats\", \"schema\": { \"name\":{ \"values\": [\"pitxi\", \"txury\", \"kitty\"] } }, \"options\": 4 }]' https://mocker-api.herokuapp.com/schemas | json\u001b[K\u001b[6A\u001b[12D"
+    ],
+    [
+      0.447682,
+      "\u001b[1B\u001b[12D\u001b[P\u001b[P\u001b[115C\u001b[K\u001b[1B\u001b[115D\u001b[P\u001b[P\u001b[115C\u001b[K\u001b[1B\u001b[115D\u001b[P\u001b[P\u001b[16C{\u001b[18P\u001b[80C\"name.lastName\" }, \"c\u001b[20P\u001b[96C' https://mocker-api.herokuapp.com/schema/users | json\u001b[K\u001b[1B\r\u001b[K\u001b[6A\u001b[14C"
+    ],
+    [
+      2.031748,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\u001b[6B\r"
+    ],
+    [
+      0.001049,
+      "\u001bkcurl\u001b\\"
+    ],
+    [
+      0.009765,
+      "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n                      "
+    ],
+    [
+      0.000014,
+      "           Dload  Uplo"
+    ],
+    [
+      0.000005,
+      "ad  "
+    ],
+    [
+      0.000004,
+      " To"
+    ],
+    [
+      0.000004,
+      "tal"
+    ],
+    [
+      0.000004,
+      "  "
+    ],
+    [
+      0.000004,
+      " Sp"
+    ],
+    [
+      0.000004,
+      "ent"
+    ],
+    [
+      0.000004,
+      "   "
+    ],
+    [
+      0.000004,
+      " Le"
+    ],
+    [
+      0.000003,
+      "ft"
+    ],
+    [
+      0.000004,
+      "  S"
+    ],
+    [
+      0.000004,
+      "pee"
+    ],
+    [
+      0.000003,
+      "d\r\n"
+    ],
+    [
+      0.000446,
+      "\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.281447,
+      "\r  0  "
+    ],
+    [
+      0.000007,
+      "   0    0     0    0     0      0      0 "
+    ],
+    [
+      0.000002,
+      "--:-"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000002,
+      "- -"
+    ],
+    [
+      0.000002,
+      "-:"
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000003,
+      " --"
+    ],
+    [
+      0.000002,
+      ":--:-"
+    ],
+    [
+      0.000002,
+      "-  "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      " 0"
+    ],
+    [
+      0.408106,
+      "\r100   800  100   602  100   "
+    ],
+    [
+      0.000012,
+      "198    872    286 --:--:-- --:--:-- --"
+    ],
+    [
+      0.000006,
+      ":--:"
+    ],
+    [
+      0.000004,
+      "--  "
+    ],
+    [
+      0.000004,
+      " 87"
+    ],
+    [
+      0.000004,
+      "1\r\n"
+    ],
+    [
+      0.005615,
+      "HTTP/1.1 200 OK\r\r\nServer: Cowboy\r\r\nConnection: keep-alive\r\r\nX-Powered-By: Express\r\r\nContent-Type: application/json; charset=utf-8\r\r\nContent-Length: 602\r\r\nEtag: W/\"25a-bsquFTUX9XHJyDYZSZ2AGQ\"\r\r\nDate: Fri, 19 Feb 2016 09:38:07 GMT\r\r\nVia: 1.1 vegur\r\r\n\r\r\n"
+    ],
+    [
+      0.002957,
+      "{\r\n  \"metadata\": {\r\n    \"count\": 5,\r\n    \"generationTime(seconds)\": 0.006\r\n  },\r\n  \"users\": [\r\n    {\r\n      \"firstName\": \"Celia\",\r\n      \"lastName\": \"Hoppe\",\r\n      \"country\": \"French Polynesia\",\r\n      \"createdAt\": \"2015-06-02T06:23:35.915Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Ramona\",\r\n      \"lastName\": \"Torphy\",\r\n      \"country\": \"Belgium\",\r\n      \"createdAt\": \"2015-09-30T21:02:23.088Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Ben\",\r\n      \"lastName\": \"Bechtelar\",\r\n      \"country\": \"Venezuela\",\r\n      \"createdAt\": \"2015-03-26T05:39:15.367Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Bernice\",\r\n      \"lastName\": \"Wilkinson\",\r\n      \"country\": \"Burkina Faso\",\r\n      \"createdAt\": \"2015-12-20T06:45:57.949Z\"\r\n    },\r\n    {\r\n      \"firstName\": \"Leopoldo\",\r\n      \"lastName\": \"Langworth\",\r\n      \"country\": \"San Marino\",\r\n      \"createdAt\": \"2015-04-09T21:05:48.813Z\"\r\n    }\r\n  ]\r\n}"
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.002244,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000101,
+      "\u001bk..3-ui-patterns\u001b\\"
+    ],
+    [
+      0.035192,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n│┌──(\u001b[36mdbr\u001b[35m@\u001b[33mMcDan\u001b[00m) \u001b[32m~/htdocs/bss/p3-ui-patterns\u001b[0m\u001b[00m (\u001b[35m±\u001b[00m on \u001b[36mmaster\u001b[00m)\r\n└┘#! "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000051,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.021155,
+      "\r\r\n"
+    ]
+  ]
+}
