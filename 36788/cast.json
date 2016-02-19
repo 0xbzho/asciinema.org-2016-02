@@ -1,0 +1,958 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 25,
+  "duration": 60.714385,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.230695,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000111,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jadrian@felicitrans: ~ \u003e "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000116,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.512205,
+      "f"
+    ],
+    [
+      0.140832,
+      "\u0008fe"
+    ],
+    [
+      0.105476,
+      "l"
+    ],
+    [
+      0.149432,
+      "i"
+    ],
+    [
+      0.181714,
+      "x"
+    ],
+    [
+      0.235899,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.464215,
+      "FeliX v.1.0.0\r\n(FeliciTrans eXecutable for Team Project Creation)\r\n\r\n"
+    ],
+    [
+      0.000414,
+      "Project name                   : "
+    ],
+    [
+      0.590533,
+      "N"
+    ],
+    [
+      0.185998,
+      "e"
+    ],
+    [
+      0.104759,
+      "w"
+    ],
+    [
+      0.221271,
+      " "
+    ],
+    [
+      0.292363,
+      "P"
+    ],
+    [
+      0.115453,
+      "r"
+    ],
+    [
+      0.223141,
+      "j"
+    ],
+    [
+      0.463046,
+      "\u0008 \u0008"
+    ],
+    [
+      0.253412,
+      "o"
+    ],
+    [
+      0.197277,
+      "j"
+    ],
+    [
+      0.110505,
+      "e"
+    ],
+    [
+      0.262353,
+      "c"
+    ],
+    [
+      0.230689,
+      "t"
+    ],
+    [
+      0.320527,
+      "\r\n"
+    ],
+    [
+      0.000524,
+      "Cloning project template...\r\n"
+    ],
+    [
+      0.002159,
+      "Cloning into '.'..."
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      9.453549,
+      "remote: Counting objects: 9, done.\u001b[K\r\nremote: Compressing objects:  14% (1/7)   \u001b[K\r"
+    ],
+    [
+      0.000028,
+      "remote: Compressing objects:  28% (2/7)   \u001b[K\rremote: Compressing objects:  42% (3/7)   \u001b[K\rremote: Compressing objects:  57% (4/7)   \u001b[K\rremote: Compressing objects:  71% (5/7)   \u001b[K\r"
+    ],
+    [
+      0.000026,
+      "remote: Compressing objects:  85% (6/7)   \u001b[K\rremote: Compressing objects: 100% (7/7)   \u001b[K\r"
+    ],
+    [
+      0.000026,
+      "remote: Compressing objects: 100% (7/7), done.\u001b[K\r\n"
+    ],
+    [
+      0.000295,
+      "remote: Total 9 (delta 0), reused 9 (delta 0)\u001b[K\r\n"
+    ],
+    [
+      0.000485,
+      "Receiving objects:  11% (1/9)   \r"
+    ],
+    [
+      0.000184,
+      "Receiving objects:  22% (2/9)   \r"
+    ],
+    [
+      0.000145,
+      "Receiving objects:  33% (3/9)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  44% (4/9)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  55% (5/9)   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  66% (6/9)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  77% (7/9)   \r"
+    ],
+    [
+      0.000087,
+      "Receiving objects:  88% (8/9)   \r"
+    ],
+    [
+      0.000197,
+      "Receiving objects: 100% (9/9)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects: 100% (9/9), done.\r\n"
+    ],
+    [
+      0.084073,
+      "Checking connectivity... "
+    ],
+    [
+      0.002313,
+      "done.\r\n"
+    ],
+    [
+      0.506192,
+      "\r\u001b[7A                                                                                                    \r\n"
+    ],
+    [
+      0.000025,
+      "                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000026,
+      "                                                                                                    \r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000020,
+      "                                                                                                    \r\n"
+    ],
+    [
+      0.000018,
+      "\r\u001b[7A"
+    ],
+    [
+      0.000593,
+      "Path to source folder          : "
+    ],
+    [
+      0.920682,
+      "~"
+    ],
+    [
+      0.873028,
+      "/"
+    ],
+    [
+      0.685902,
+      "D"
+    ],
+    [
+      0.229592,
+      "o"
+    ],
+    [
+      0.184408,
+      "w"
+    ],
+    [
+      0.115081,
+      "n"
+    ],
+    [
+      0.183295,
+      "l"
+    ],
+    [
+      0.201870,
+      "o"
+    ],
+    [
+      0.110209,
+      "a"
+    ],
+    [
+      0.208477,
+      "d"
+    ],
+    [
+      0.246705,
+      "s"
+    ],
+    [
+      0.322467,
+      "\r\n"
+    ],
+    [
+      0.000908,
+      "Source file names              : "
+    ],
+    [
+      1.054182,
+      "i"
+    ],
+    [
+      0.186948,
+      "m"
+    ],
+    [
+      0.208000,
+      "p"
+    ],
+    [
+      0.137913,
+      "o"
+    ],
+    [
+      0.173170,
+      "r"
+    ],
+    [
+      0.223105,
+      "t"
+    ],
+    [
+      0.143648,
+      "a"
+    ],
+    [
+      0.140319,
+      "n"
+    ],
+    [
+      0.130638,
+      "t"
+    ],
+    [
+      0.440395,
+      "."
+    ],
+    [
+      0.368780,
+      "t"
+    ],
+    [
+      0.339088,
+      "x"
+    ],
+    [
+      0.168687,
+      "t"
+    ],
+    [
+      0.209926,
+      ","
+    ],
+    [
+      0.127720,
+      " "
+    ],
+    [
+      0.476847,
+      "n"
+    ],
+    [
+      0.206210,
+      "e"
+    ],
+    [
+      0.232870,
+      "w"
+    ],
+    [
+      0.218831,
+      " "
+    ],
+    [
+      0.183061,
+      "d"
+    ],
+    [
+      0.106693,
+      "o"
+    ],
+    [
+      0.205884,
+      "c"
+    ],
+    [
+      0.071734,
+      "u"
+    ],
+    [
+      0.206430,
+      "m"
+    ],
+    [
+      0.169561,
+      "e"
+    ],
+    [
+      0.120400,
+      "n"
+    ],
+    [
+      0.125125,
+      "t"
+    ],
+    [
+      0.238810,
+      "."
+    ],
+    [
+      0.261234,
+      "d"
+    ],
+    [
+      0.127673,
+      "o"
+    ],
+    [
+      0.256509,
+      "c"
+    ],
+    [
+      0.272284,
+      "x"
+    ],
+    [
+      0.629241,
+      ","
+    ],
+    [
+      0.115991,
+      " "
+    ],
+    [
+      0.163259,
+      "a"
+    ],
+    [
+      0.142169,
+      "n"
+    ],
+    [
+      0.170555,
+      "o"
+    ],
+    [
+      0.105707,
+      "t"
+    ],
+    [
+      0.137460,
+      "h"
+    ],
+    [
+      0.107845,
+      "e"
+    ],
+    [
+      0.142934,
+      "r"
+    ],
+    [
+      0.166060,
+      " "
+    ],
+    [
+      0.211825,
+      "d"
+    ],
+    [
+      0.111477,
+      "o"
+    ],
+    [
+      0.234501,
+      "c"
+    ],
+    [
+      0.290085,
+      "."
+    ],
+    [
+      0.450075,
+      "d"
+    ],
+    [
+      0.141577,
+      "o"
+    ],
+    [
+      0.195937,
+      "x"
+    ],
+    [
+      0.504269,
+      "\u0008 \u0008"
+    ],
+    [
+      0.131005,
+      "c"
+    ],
+    [
+      0.239351,
+      "x"
+    ],
+    [
+      0.541210,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "Copying source file to OmegaT...\r\n"
+    ],
+    [
+      0.000188,
+      "cp important.txt new document.docx another doc.docx /home/siti/.felicitrans/New Project/source\r\n"
+    ],
+    [
+      0.500852,
+      "\r\u001b[2A                                                                                                    \r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000090,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000302,
+      "Language pair (e.g. EN-US-\u003eID) : "
+    ],
+    [
+      1.190278,
+      "E"
+    ],
+    [
+      0.139335,
+      "N"
+    ],
+    [
+      0.595815,
+      "-"
+    ],
+    [
+      0.519110,
+      "G"
+    ],
+    [
+      0.384835,
+      "B"
+    ],
+    [
+      0.507183,
+      " "
+    ],
+    [
+      0.192217,
+      "-"
+    ],
+    [
+      0.286494,
+      "\u003e"
+    ],
+    [
+      0.318788,
+      " "
+    ],
+    [
+      0.245758,
+      "I"
+    ],
+    [
+      0.314859,
+      "D"
+    ],
+    [
+      0.530798,
+      "\r\n"
+    ],
+    [
+      0.000265,
+      "Setting source and target language...\r\n"
+    ],
+    [
+      0.001438,
+      "Source language is set to:\r\n"
+    ],
+    [
+      0.000014,
+      "   EN-GB\r\n"
+    ],
+    [
+      0.500280,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000026,
+      "                                                                                                    \r\n                                                                                                    \r\n\r\u001b[2A"
+    ],
+    [
+      0.000398,
+      "Target language is set to:"
+    ],
+    [
+      0.000020,
+      "\r\n   ID"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.500259,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000024,
+      "                                                                                                    \r\n"
+    ],
+    [
+      0.000016,
+      "                                                                                                    \r\n"
+    ],
+    [
+      0.000027,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000408,
+      "Source tokenizer is set to:"
+    ],
+    [
+      0.000017,
+      "\r\n   org.omegat.tokenizer.LuceneEnglishTokenizer"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.500181,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000026,
+      "                                                                                                    \r\n                                                                                                    "
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000406,
+      "Target tokenizer is set to:"
+    ],
+    [
+      0.000016,
+      "\r\n   org.omegat.tokenizer.LuceneIndonesianTokenizer"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.500362,
+      "\r\u001b[2A"
+    ],
+    [
+      0.000030,
+      "                                                                                                    \r\n                                                                                                    \r\n\r\u001b[2A"
+    ],
+    [
+      0.001125,
+      "TMX Header source language is set to:"
+    ],
+    [
+      0.000018,
+      "\r\n   EN-GB\r\n"
+    ],
+    [
+      0.500574,
+      "\r\u001b[3A"
+    ],
+    [
+      0.000034,
+      "                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n\r\u001b[3A"
+    ],
+    [
+      4.320846,
+      "Initializing git repository...\r\n"
+    ],
+    [
+      0.004179,
+      "Initialized empty Git repository in /home/siti/.felicitrans/New Project/.git/\r\n"
+    ],
+    [
+      0.500474,
+      "\r\u001b[2A                                                                                                    \r\n                                                                                                    "
+    ],
+    [
+      0.000025,
+      "\r\n\r\u001b[2A"
+    ],
+    [
+      0.007653,
+      "Committing project...\r\n"
+    ],
+    [
+      0.009767,
+      "[master (root-commit) f7fbca7] Project \"New Project\" created by FeliciTrans\r\n"
+    ],
+    [
+      0.000359,
+      " 8 files changed, 393 insertions(+)\r\n"
+    ],
+    [
+      0.000019,
+      " create mode 100644 .gitignore\r\n create mode 100644 glossary/glossary.txt\r\n create mode 100644 omegat.project\r\n create mode 100644 omegat/project_save.tmx\r\n create mode 100644 omegat/segmentation.conf\r\n"
+    ],
+    [
+      0.000014,
+      " create mode 100644 source/another doc.docx\r\n create mode 100644 source/important.txt"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      " create mode 100644 source/new document.docx\r\n"
+    ],
+    [
+      0.500632,
+      "\r\u001b[11A"
+    ],
+    [
+      0.000025,
+      "                                                                                                    \r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000038,
+      "                                                                                                    "
+    ],
+    [
+      0.000017,
+      "\r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000023,
+      "                                                                                                    "
+    ],
+    [
+      0.000019,
+      "\r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000018,
+      "                                                                                                    "
+    ],
+    [
+      0.000014,
+      "\r\n                                                                                                    "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                                                                                                    "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "                                                                                                    "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                                                                                                    "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\r\u001b[11A"
+    ],
+    [
+      0.000030,
+      "Pushing project to server..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      12.165651,
+      "Counting objects: 11, done.\r\n"
+    ],
+    [
+      0.000089,
+      "Delta compression using up to 4 threads.\r\n"
+    ],
+    [
+      0.000234,
+      "Compressing objects:  12% (1/8)   \r"
+    ],
+    [
+      0.000021,
+      "Compressing objects:  25% (2/8)   \rCompressing objects:  37% (3/8)   \r"
+    ],
+    [
+      0.000249,
+      "Compressing objects:  50% (4/8)   \r"
+    ],
+    [
+      0.000045,
+      "Compressing objects:  62% (5/8)   \r"
+    ],
+    [
+      0.000026,
+      "Compressing objects:  75% (6/8)   \r"
+    ],
+    [
+      0.000094,
+      "Compressing objects:  87% (7/8)   \r"
+    ],
+    [
+      0.000055,
+      "Compressing objects: 100% (8/8)   \r"
+    ],
+    [
+      0.000115,
+      "Compressing objects: 100% (8/8), done."
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000306,
+      "Writing objects:   9% (1/11)   \r"
+    ],
+    [
+      0.000264,
+      "Writing objects:  18% (2/11)   \r"
+    ],
+    [
+      0.000170,
+      "Writing objects:  27% (3/11)   \r"
+    ],
+    [
+      0.000112,
+      "Writing objects:  36% (4/11)   \r"
+    ],
+    [
+      0.000114,
+      "Writing objects:  45% (5/11)   \r"
+    ],
+    [
+      0.000199,
+      "Writing objects:  54% (6/11)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  63% (7/11)   \r"
+    ],
+    [
+      0.000168,
+      "Writing objects:  72% (8/11)   \r"
+    ],
+    [
+      0.000368,
+      "Writing objects:  81% (9/11)   \r"
+    ],
+    [
+      0.000129,
+      "Writing objects:  90% (10/11)   \r"
+    ],
+    [
+      0.000115,
+      "Writing objects: 100% (11/11)   \r"
+    ],
+    [
+      0.000245,
+      "Writing objects: 100% (11/11), 1.95 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000043,
+      "Total 11 (delta 0), reused 0 (delta 0)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.095216,
+      "To git@gitlab.com:FeliciTrans/new-project.git\r\n * [new branch]      master -\u003e master\r\n"
+    ],
+    [
+      0.000677,
+      "Branch master set up to track remote branch master from origin.\r\n"
+    ],
+    [
+      0.501162,
+      "\r\u001b[9A                                                                                                    \r\n                                                                                                    "
+    ],
+    [
+      0.000025,
+      "\r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n"
+    ],
+    [
+      0.000014,
+      "                                                                                                    \r\n"
+    ],
+    [
+      0.000018,
+      "                                                                                                    "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "                                                                                                    \r\n"
+    ],
+    [
+      0.000011,
+      "\r\u001b[9A\r\n"
+    ],
+    [
+      0.000031,
+      "Finished creating project \"New Project\"."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "Repository URL:"
+    ],
+    [
+      0.000011,
+      "\r\nhttps://gitlab.com/FeliciTrans/new-project.git\r\n"
+    ],
+    [
+      0.014168,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000029,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jadrian@felicitrans: ~ \u003e \u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.963583,
+      "\r"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ]
+  ]
+}
