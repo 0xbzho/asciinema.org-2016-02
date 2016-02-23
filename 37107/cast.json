@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 16.656436,
+  "command": "/bin/bash",
+  "title": "svn pre-commit sanity check",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.215484,
+      "\u001b[31m\u001b[00m\u001b[30;46m wordpress-develop \u001b[00m[21:04:51]:\u001b[35m\u001b[00m\u001b[31m (master +) (trunk)\u001b[00m\r\r\n32716$ "
+    ],
+    [
+      0.416574,
+      "s"
+    ],
+    [
+      0.167958,
+      "v"
+    ],
+    [
+      0.128083,
+      "n"
+    ],
+    [
+      0.056046,
+      " "
+    ],
+    [
+      0.455885,
+      "c"
+    ],
+    [
+      0.104042,
+      "o"
+    ],
+    [
+      0.191968,
+      "m"
+    ],
+    [
+      0.152113,
+      "m"
+    ],
+    [
+      0.112028,
+      "i"
+    ],
+    [
+      0.168006,
+      "t"
+    ],
+    [
+      0.824148,
+      "\r\n"
+    ],
+    [
+      0.014779,
+      "Repo URL: https://develop.svn.wordpress.org/trunk\r\n"
+    ],
+    [
+      0.000007,
+      "\r\nStaged changes for commit:\r\n"
+    ],
+    [
+      0.027216,
+      "M       src/wp-includes/customize/class-wp-customize-partial.php\r\n"
+    ],
+    [
+      0.000806,
+      "M       src/wp-includes/customize/class-wp-customize-selective-refresh.php\r\n"
+    ],
+    [
+      0.024080,
+      "Lines: "
+    ],
+    [
+      0.047830,
+      "      60\r\n"
+    ],
+    [
+      0.000275,
+      "Sanity check countdown... 5"
+    ],
+    [
+      1.010060,
+      "\u00084"
+    ],
+    [
+      1.005594,
+      "\u00083"
+    ],
+    [
+      1.005243,
+      "\u00082"
+    ],
+    [
+      1.004864,
+      "\u00081"
+    ],
+    [
+      1.005902,
+      "\u00080"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "Are you sure you want to commit? [y/n] "
+    ],
+    [
+      1.221735,
+      "n"
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Aborting!\r\n"
+    ],
+    [
+      0.214140,
+      "\u001b[31m^E1 \u001b[00m\u001b[30;46m wordpress-develop \u001b[00m[21:05:01]:\u001b[35m\u001b[00m\u001b[31m (master +) (trunk)\u001b[00m\r\r\n32717$ "
+    ]
+  ]
+}
