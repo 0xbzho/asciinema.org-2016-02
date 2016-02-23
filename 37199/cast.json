@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 27,
+  "duration": 58.000040,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.056167,
+      "Demo:$ "
+    ],
+    [
+      0.607855,
+      "c"
+    ],
+    [
+      0.174025,
+      "d"
+    ],
+    [
+      0.269800,
+      " "
+    ],
+    [
+      2.722888,
+      "/opt/deployment/splunk-vagrant-ansible-collections/create_monosite-clust"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000131,
+      "r"
+    ],
+    [
+      0.360383,
+      "\r\nDemo:$ "
+    ],
+    [
+      0.787032,
+      "."
+    ],
+    [
+      0.200712,
+      "/"
+    ],
+    [
+      0.268685,
+      "d"
+    ],
+    [
+      0.160497,
+      "e"
+    ],
+    [
+      0.322154,
+      "stroy.sh "
+    ],
+    [
+      0.106506,
+      "\r\n"
+    ],
+    [
+      0.003180,
+      "****************** Desroying vagrant VMs: ******************\r\n"
+    ],
+    [
+      4.816194,
+      "\u001b[1m==\u003e master: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.454804,
+      "\u001b[1m==\u003e master: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      3.817054,
+      "\u001b[1m==\u003e peer1: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.487885,
+      "\u001b[1m==\u003e peer1: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      4.448557,
+      "\u001b[1m==\u003e peer2: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.324205,
+      "\u001b[1m==\u003e peer2: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      4.815746,
+      "\u001b[1m==\u003e head1: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.319865,
+      "\u001b[1m==\u003e head1: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      5.179310,
+      "\u001b[1m==\u003e head2: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.284824,
+      "\u001b[1m==\u003e head2: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      4.450853,
+      "\u001b[1m==\u003e head3: Forcing shutdown of VM...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      1.371830,
+      "\u001b[1m==\u003e head3: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      4.918085,
+      "\u001b[1m==\u003e deployment1: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.313519,
+      "\u001b[1m==\u003e deployment1: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      4.354333,
+      "\u001b[1m==\u003e uf1: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.310268,
+      "\u001b[1m==\u003e uf1: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.560777,
+      "****************** Done. ******************\r\n"
+    ],
+    [
+      0.000212,
+      "Demo:$ "
+    ],
+    [
+      3.731158,
+      "exit\r\n"
+    ]
+  ]
+}
