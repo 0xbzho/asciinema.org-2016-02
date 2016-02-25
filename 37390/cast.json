@@ -1,0 +1,1122 @@
+{
+  "version": 1,
+  "width": 64,
+  "height": 21,
+  "duration": 41.499807,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.010111,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.003006,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K"
+    ],
+    [
+      0.000023,
+      "\u001b[?2004h"
+    ],
+    [
+      1.008942,
+      "\u001b[7mgit clone https://github.com/zsh-users/zsh-autosuggestions ~/.\u001b[7mz\u001b[7msh/zsh-autosuggestions\u001b[27m\u001b[K"
+    ],
+    [
+      2.478381,
+      "\u001b[A\u001b[21D\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27m \u001b[27mc\u001b[27ml\u001b[27mo\u001b[27mn\u001b[27me\u001b[27m \u001b[27mh\u001b[27mt\u001b[27mt\u001b[27mp\u001b[27ms\u001b[27m:\u001b[27m/\u001b[27m/\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27mh\u001b[27mu\u001b[27mb\u001b[27m.\u001b[27mc\u001b[27mo\u001b[27mm\u001b[27m/\u001b[27mz\u001b[27ms\u001b[27mh\u001b[27m-\u001b[27mu\u001b[27ms\u001b[27me\u001b[27mr\u001b[27ms\u001b[27m/\u001b[27mz\u001b[27ms\u001b[27mh\u001b[27m-\u001b[27ma\u001b[27mu\u001b[27mt\u001b[27mo\u001b[27ms\u001b[27mu\u001b[27mg\u001b[27mg\u001b[27me\u001b[27ms\u001b[27mt\u001b[27mi\u001b[27mo\u001b[27mn\u001b[27ms\u001b[27m \u001b[27m~\u001b[27m/\u001b[27m.z\u001b[27ms\u001b[27mh\u001b[27m/\u001b[27mz\u001b[27ms\u001b[27mh\u001b[27m-\u001b[27ma\u001b[27mu\u001b[27mt\u001b[27mo\u001b[27ms\u001b[27mu\u001b[27mg\u001b[27mg\u001b[27me\u001b[27ms\u001b[27mt\u001b[27mi\u001b[27mo\u001b[27mn\u001b[27ms"
+    ],
+    [
+      0.000045,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.005423,
+      "Cloning into '/Users/ericfreese/.zsh/zsh-autosuggestions'...\r\n"
+    ],
+    [
+      0.952661,
+      "remote: Counting objects: 579, done.\u001b[K\r\n"
+    ],
+    [
+      0.000031,
+      "remote: Compressing objects:  11% (1/9)   \u001b[K\rremote: Compressing objects:  22% (2/9)   \u001b[K\rremote: Compressing objects:  33% (3/9)   \u001b[K\rremote: Compressing objects:  44% (4/9)   \u001b[K\rremote: Compressing objects:  55% (5/9)   \u001b[K\rremote: Compressing objects:  66% (6/9)   \u001b[K\rremote: Compressing objects:  77% (7/9)   \u001b[K\rremote: Compressing objects:  88% (8/9)   \u001b[K\rremote: Compressing objects: 100% (9/9)   \u001b[K\rremote: Compressing objects: 100% (9/9), done.\u001b[K\r\n"
+    ],
+    [
+      0.004659,
+      "Receiving objects:   0% (1/579)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:   1% (6/579)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:   2% (12/579)   \r"
+    ],
+    [
+      0.000093,
+      "Receiving objects:   3% (18/579)   \r"
+    ],
+    [
+      0.000156,
+      "Receiving objects:   4% (24/579)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:   5% (29/579)   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:   6% (35/579)   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:   7% (41/579)   \r"
+    ],
+    [
+      0.055225,
+      "Receiving objects:   8% (47/579)   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:   9% (53/579)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  10% (58/579)   \r"
+    ],
+    [
+      0.000147,
+      "Receiving objects:  11% (64/579)   \r"
+    ],
+    [
+      0.000395,
+      "Receiving objects:  12% (70/579)   \r"
+    ],
+    [
+      0.000146,
+      "Receiving objects:  13% (76/579)   \r"
+    ],
+    [
+      0.000220,
+      "Receiving objects:  14% (82/579)   \r"
+    ],
+    [
+      0.003287,
+      "Receiving objects:  15% (87/579)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  16% (93/579)   \r"
+    ],
+    [
+      0.000115,
+      "Receiving objects:  17% (99/579)   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  18% (105/579)   \r"
+    ],
+    [
+      0.000156,
+      "Receiving objects:  19% (111/579)   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  20% (116/579)   \r"
+    ],
+    [
+      0.000147,
+      "Receiving objects:  21% (122/579)   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  22% (128/579)   \r"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  23% (134/579)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:  24% (139/579)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  25% (145/579)   \r"
+    ],
+    [
+      0.000136,
+      "Receiving objects:  26% (151/579)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  27% (157/579)   \r"
+    ],
+    [
+      0.043046,
+      "Receiving objects:  28% (163/579)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  29% (168/579)   \r"
+    ],
+    [
+      0.012715,
+      "Receiving objects:  30% (174/579)   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  31% (180/579)   \r"
+    ],
+    [
+      0.000084,
+      "Receiving objects:  32% (186/579)   \r"
+    ],
+    [
+      0.000290,
+      "Receiving objects:  33% (192/579)   \r"
+    ],
+    [
+      0.005254,
+      "Receiving objects:  34% (197/579)   \r"
+    ],
+    [
+      0.000487,
+      "Receiving objects:  35% (203/579)   \r"
+    ],
+    [
+      0.000325,
+      "Receiving objects:  36% (209/579)   \r"
+    ],
+    [
+      0.042873,
+      "Receiving objects:  37% (215/579)   \r"
+    ],
+    [
+      0.000954,
+      "Receiving objects:  38% (221/579)   \r"
+    ],
+    [
+      0.008475,
+      "Receiving objects:  39% (226/579)   \r"
+    ],
+    [
+      0.000430,
+      "Receiving objects:  40% (232/579)   \r"
+    ],
+    [
+      0.003938,
+      "Receiving objects:  41% (238/579)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  42% (244/579)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  43% (249/579)   \rReceiving objects:  44% (255/579)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  45% (261/579)   \r"
+    ],
+    [
+      0.000189,
+      "Receiving objects:  46% (267/579)   \r"
+    ],
+    [
+      0.000163,
+      "Receiving objects:  47% (273/579)   \r"
+    ],
+    [
+      0.000168,
+      "Receiving objects:  48% (278/579)   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  49% (284/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  50% (290/579)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  51% (296/579)   \r"
+    ],
+    [
+      0.000100,
+      "Receiving objects:  52% (302/579)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  53% (307/579)   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  54% (313/579)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  55% (319/579)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  56% (325/579)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  57% (331/579)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  58% (336/579)   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  59% (342/579)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  60% (348/579)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  61% (354/579)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:  62% (359/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  63% (365/579)   \r"
+    ],
+    [
+      0.000085,
+      "Receiving objects:  64% (371/579)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  65% (377/579)   \r"
+    ],
+    [
+      0.000132,
+      "Receiving objects:  66% (383/579)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  67% (388/579)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  68% (394/579)   \r"
+    ],
+    [
+      0.005413,
+      "Receiving objects:  69% (400/579)   \r"
+    ],
+    [
+      0.000233,
+      "Receiving objects:  70% (406/579)   \r"
+    ],
+    [
+      0.002411,
+      "Receiving objects:  71% (412/579)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  72% (417/579)   \r"
+    ],
+    [
+      0.000448,
+      "remote: Total 579 (delta 3), reused 0 (delta 0), pack-reused 568\u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  73% (423/579)   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  74% (429/579)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  75% (435/579)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  76% (441/579)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  77% (446/579)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  78% (452/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  79% (458/579)   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  80% (464/579)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  81% (469/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  82% (475/579)   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:  83% (481/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  84% (487/579)   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  85% (493/579)   \r"
+    ],
+    [
+      0.000066,
+      "Receiving objects:  86% (498/579)   \rReceiving objects:  87% (504/579)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  88% (510/579)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  89% (516/579)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  90% (522/579)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  91% (527/579)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  92% (533/579)   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  93% (539/579)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  94% (545/579)   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  95% (551/579)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  96% (556/579)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  97% (562/579)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  98% (568/579)   \r"
+    ],
+    [
+      0.000201,
+      "Receiving objects:  99% (574/579)   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects: 100% (579/579)   \rReceiving objects: 100% (579/579), 178.52 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000236,
+      "Resolving deltas:   0% (0/316)   \r"
+    ],
+    [
+      0.001222,
+      "Resolving deltas:   2% (7/316)   \r"
+    ],
+    [
+      0.000437,
+      "Resolving deltas:   8% (28/316)   \r"
+    ],
+    [
+      0.000821,
+      "Resolving deltas:  20% (66/316)   \r"
+    ],
+    [
+      0.000064,
+      "Resolving deltas:  21% (67/316)   \r"
+    ],
+    [
+      0.000288,
+      "Resolving deltas:  26% (84/316)   \r"
+    ],
+    [
+      0.000058,
+      "Resolving deltas:  27% (87/316)   \r"
+    ],
+    [
+      0.000089,
+      "Resolving deltas:  29% (93/316)   \r"
+    ],
+    [
+      0.000061,
+      "Resolving deltas:  30% (96/316)   \r"
+    ],
+    [
+      0.000057,
+      "Resolving deltas:  31% (98/316)   \r"
+    ],
+    [
+      0.000146,
+      "Resolving deltas:  32% (102/316)   \r"
+    ],
+    [
+      0.000082,
+      "Resolving deltas:  33% (105/316)   \r"
+    ],
+    [
+      0.000099,
+      "Resolving deltas:  34% (108/316)   \r"
+    ],
+    [
+      0.000049,
+      "Resolving deltas:  35% (111/316)   \r"
+    ],
+    [
+      0.000057,
+      "Resolving deltas:  36% (114/316)   \r"
+    ],
+    [
+      0.000095,
+      "Resolving deltas:  37% (119/316)   \r"
+    ],
+    [
+      0.000225,
+      "Resolving deltas:  41% (130/316)   \r"
+    ],
+    [
+      0.000254,
+      "Resolving deltas:  44% (142/316)   \r"
+    ],
+    [
+      0.000072,
+      "Resolving deltas:  46% (146/316)   \r"
+    ],
+    [
+      0.000266,
+      "Resolving deltas:  50% (160/316)   \r"
+    ],
+    [
+      0.000080,
+      "Resolving deltas:  52% (165/316)   \r"
+    ],
+    [
+      0.000177,
+      "Resolving deltas:  54% (173/316)   \r"
+    ],
+    [
+      0.000150,
+      "Resolving deltas:  57% (183/316)   \r"
+    ],
+    [
+      0.000872,
+      "Resolving deltas:  83% (264/316)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:  84% (267/316)   \r"
+    ],
+    [
+      0.000274,
+      "Resolving deltas:  89% (282/316)   \r"
+    ],
+    [
+      0.000167,
+      "Resolving deltas:  92% (292/316)   \r"
+    ],
+    [
+      0.000051,
+      "Resolving deltas:  93% (297/316)   \r"
+    ],
+    [
+      0.000031,
+      "Resolving deltas:  94% (298/316)   \r"
+    ],
+    [
+      0.000083,
+      "Resolving deltas:  95% (301/316)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  99% (313/316)   \r"
+    ],
+    [
+      0.000054,
+      "Resolving deltas: 100% (316/316)   \r"
+    ],
+    [
+      0.000064,
+      "Resolving deltas: 100% (316/316), done.\r\n"
+    ],
+    [
+      0.002888,
+      "Checking connectivity... "
+    ],
+    [
+      0.003149,
+      "done.\r\n"
+    ],
+    [
+      0.013563,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.000033,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?2004h"
+    ],
+    [
+      0.673703,
+      "s"
+    ],
+    [
+      0.271747,
+      "\u0008so"
+    ],
+    [
+      0.104089,
+      "u"
+    ],
+    [
+      0.064203,
+      "r"
+    ],
+    [
+      0.223222,
+      "c"
+    ],
+    [
+      0.184105,
+      "e"
+    ],
+    [
+      0.120472,
+      " "
+    ],
+    [
+      0.336168,
+      "~"
+    ],
+    [
+      0.263882,
+      "/"
+    ],
+    [
+      0.183842,
+      "."
+    ],
+    [
+      0.080096,
+      "z"
+    ],
+    [
+      0.192066,
+      "s"
+    ],
+    [
+      0.095998,
+      "h"
+    ],
+    [
+      0.399865,
+      "/"
+    ],
+    [
+      0.248071,
+      "z"
+    ],
+    [
+      0.224095,
+      "s"
+    ],
+    [
+      0.088071,
+      "h"
+    ],
+    [
+      0.223877,
+      "-"
+    ],
+    [
+      0.199858,
+      "a"
+    ],
+    [
+      0.056027,
+      "u"
+    ],
+    [
+      0.136287,
+      "t"
+    ],
+    [
+      0.039738,
+      "o"
+    ],
+    [
+      0.272068,
+      "s"
+    ],
+    [
+      0.240920,
+      "uggestions\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.943635,
+      "\u0008\u001b[0m/z"
+    ],
+    [
+      0.335428,
+      "s"
+    ],
+    [
+      0.168089,
+      "h"
+    ],
+    [
+      0.271692,
+      "-"
+    ],
+    [
+      0.247842,
+      "a"
+    ],
+    [
+      0.080714,
+      "u"
+    ],
+    [
+      0.103588,
+      "t"
+    ],
+    [
+      0.119953,
+      "o"
+    ],
+    [
+      0.376403,
+      "suggestions."
+    ],
+    [
+      0.767620,
+      "z"
+    ],
+    [
+      0.175987,
+      "s"
+    ],
+    [
+      0.063985,
+      "h"
+    ],
+    [
+      0.864136,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009558,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.017963,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.864118,
+      "e"
+    ],
+    [
+      0.319889,
+      "\u0008ec"
+    ],
+    [
+      0.071998,
+      "h"
+    ],
+    [
+      0.048767,
+      "o"
+    ],
+    [
+      0.087145,
+      " "
+    ],
+    [
+      0.136131,
+      "'"
+    ],
+    [
+      0.160230,
+      "s"
+    ],
+    [
+      0.063648,
+      "o"
+    ],
+    [
+      0.160022,
+      "m"
+    ],
+    [
+      0.064003,
+      "e"
+    ],
+    [
+      0.152023,
+      "t"
+    ],
+    [
+      0.095941,
+      "h"
+    ],
+    [
+      0.040756,
+      "i"
+    ],
+    [
+      0.127349,
+      "n"
+    ],
+    [
+      0.104048,
+      "g"
+    ],
+    [
+      0.144125,
+      "'"
+    ],
+    [
+      0.612417,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000103,
+      "something\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.017649,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.409626,
+      "e\u001b[90mcho 'something'\u001b[39m\u001b[15D"
+    ],
+    [
+      0.551960,
+      "\u0008e\u001b[39mc"
+    ],
+    [
+      1.023793,
+      "\u001b[39mh"
+    ],
+    [
+      0.160479,
+      "\u001b[39mo"
+    ],
+    [
+      0.391764,
+      "\u001b[39m "
+    ],
+    [
+      0.399924,
+      "\u001b[39m'"
+    ],
+    [
+      0.375952,
+      "\u001b[39ms"
+    ],
+    [
+      0.040746,
+      "\u001b[39mo"
+    ],
+    [
+      0.454734,
+      "\u001b[39mm"
+    ],
+    [
+      0.144661,
+      "\u001b[39me"
+    ],
+    [
+      0.095899,
+      "\u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127635,
+      "o"
+    ],
+    [
+      0.216129,
+      "t"
+    ],
+    [
+      0.103811,
+      "h"
+    ],
+    [
+      0.096008,
+      "e"
+    ],
+    [
+      0.088355,
+      "r"
+    ],
+    [
+      0.072394,
+      " "
+    ],
+    [
+      0.127706,
+      "t"
+    ],
+    [
+      0.071911,
+      "h"
+    ],
+    [
+      0.080044,
+      "i"
+    ],
+    [
+      0.127939,
+      "n"
+    ],
+    [
+      0.088169,
+      "g"
+    ],
+    [
+      0.375813,
+      "'"
+    ],
+    [
+      0.732556,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000096,
+      "some other thing\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.017595,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.169642,
+      "e\u001b[90mcho 'some other thing'\u001b[39m\u001b[22D"
+    ],
+    [
+      0.224047,
+      "\u0008e\u001b[39mc"
+    ],
+    [
+      0.064297,
+      "\u001b[39mh"
+    ],
+    [
+      0.055097,
+      "\u001b[39mo"
+    ],
+    [
+      0.128926,
+      "\u001b[39m "
+    ],
+    [
+      1.371964,
+      "\u001b[39m'\u001b[39ms\u001b[39mo\u001b[39mm\u001b[39me\u001b[39m \u001b[39mo\u001b[39mt\u001b[39mh\u001b[39me\u001b[39mr\u001b[39m \u001b[39mt\u001b[39mh\u001b[39mi\u001b[39mn\u001b[39mg\u001b[39m'"
+    ],
+    [
+      0.648007,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000074,
+      "some other thing\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.017578,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.666107,
+      "e\u001b[90mcho 'some other thing'\u001b[39m\u001b[22D"
+    ],
+    [
+      0.239989,
+      "\u0008e\u001b[39mc"
+    ],
+    [
+      0.095829,
+      "\u001b[39mh"
+    ],
+    [
+      0.040862,
+      "\u001b[39mo"
+    ],
+    [
+      0.111023,
+      "\u001b[39m "
+    ],
+    [
+      0.560297,
+      "\u001b[39m'"
+    ],
+    [
+      0.240091,
+      "\u001b[39ms"
+    ],
+    [
+      0.047780,
+      "\u001b[39mo"
+    ],
+    [
+      0.167972,
+      "\u001b[39mm"
+    ],
+    [
+      0.104056,
+      "\u001b[39me"
+    ],
+    [
+      0.288023,
+      "\u001b[39mt\u001b[90mh\u001b[90mi\u001b[90mn\u001b[90mg\u001b[90m'\u001b[39m\u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[12D"
+    ],
+    [
+      0.980324,
+      "\u001b[39mh\u001b[39mi\u001b[39mn\u001b[39mg\u001b[39m'"
+    ],
+    [
+      1.008192,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000071,
+      "something\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.017615,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      0.337368,
+      "e\u001b[90mcho 'something'\u001b[39m\u001b[15D"
+    ],
+    [
+      0.288435,
+      "\u0008e\u001b[39mc"
+    ],
+    [
+      0.071844,
+      "\u001b[39mh"
+    ],
+    [
+      0.041047,
+      "\u001b[39mo"
+    ],
+    [
+      0.094744,
+      "\u001b[39m "
+    ],
+    [
+      0.735815,
+      "\u001b[39m'"
+    ],
+    [
+      0.920554,
+      "\u001b[39ms"
+    ],
+    [
+      0.119714,
+      "\u001b[39mo"
+    ],
+    [
+      0.168079,
+      "\u001b[39mm"
+    ],
+    [
+      0.104101,
+      "\u001b[39me"
+    ],
+    [
+      0.807724,
+      "\u001b[39m \u001b[90mo\u001b[90mt\u001b[90mh\u001b[90me\u001b[90mr\u001b[90m thing'\u001b[39m\u001b[12D"
+    ],
+    [
+      1.388020,
+      "\u001b[39mo\u001b[39mt\u001b[39mh\u001b[39me\u001b[39mr\u001b[39m "
+    ],
+    [
+      1.008113,
+      "\u001b[39mt\u001b[39mh\u001b[39mi\u001b[39mn\u001b[39mg\u001b[39m'"
+    ],
+    [
+      2.136135,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000086,
+      "some other thing\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                               \r \r"
+    ],
+    [
+      0.018616,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K\u001b[?2004h"
+    ],
+    [
+      2.213003,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
