@@ -1,0 +1,7614 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 396.568796,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.243118,
+      " ________________________________________"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "( \"I almost never get problems with my   )"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "( systems, and when I do they are really )"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "( serious\"                               )"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "(                                        )"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "( Husse Nov 28 2007                      )"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      " ----------------------------------------"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "   o"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    o"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "        .--."
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "       |o_o |"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "       |:_/ |"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "      //   \\ \\"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "     (|     | )"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    /'\\_   _/`\\"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "    \\___)=(___/"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.003357,
+      "\u001b[01;32mjohnblood@johnblood-HP-Compaq-nx6325-RM158UT-ABA\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.018065,
+      "I"
+    ],
+    [
+      0.140236,
+      " "
+    ],
+    [
+      0.160461,
+      "w"
+    ],
+    [
+      0.093521,
+      "i"
+    ],
+    [
+      0.177273,
+      "l"
+    ],
+    [
+      0.150257,
+      "l"
+    ],
+    [
+      0.130512,
+      " "
+    ],
+    [
+      0.622278,
+      "n"
+    ],
+    [
+      0.170376,
+      "o"
+    ],
+    [
+      0.541419,
+      "w"
+    ],
+    [
+      0.073406,
+      " "
+    ],
+    [
+      0.187137,
+      "s"
+    ],
+    [
+      0.101258,
+      "h"
+    ],
+    [
+      0.481356,
+      "o"
+    ],
+    [
+      0.160355,
+      "w"
+    ],
+    [
+      0.083412,
+      " "
+    ],
+    [
+      0.167078,
+      "y"
+    ],
+    [
+      0.084472,
+      "o"
+    ],
+    [
+      0.066932,
+      "u"
+    ],
+    [
+      0.140293,
+      " "
+    ],
+    [
+      0.140343,
+      "h"
+    ],
+    [
+      0.401092,
+      "o"
+    ],
+    [
+      0.823033,
+      " "
+    ],
+    [
+      0.130294,
+      "t"
+    ],
+    [
+      0.083459,
+      "o"
+    ],
+    [
+      0.137002,
+      " "
+    ],
+    [
+      0.201497,
+      "u \r"
+    ],
+    [
+      0.170378,
+      "p"
+    ],
+    [
+      0.260669,
+      "d"
+    ],
+    [
+      0.160288,
+      "a"
+    ],
+    [
+      0.140294,
+      "t"
+    ],
+    [
+      0.111138,
+      "e"
+    ],
+    [
+      0.070351,
+      " "
+    ],
+    [
+      0.170323,
+      "a"
+    ],
+    [
+      0.140315,
+      " "
+    ],
+    [
+      1.414801,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.231365,
+      "n"
+    ],
+    [
+      0.200510,
+      " "
+    ],
+    [
+      0.581291,
+      "U"
+    ],
+    [
+      0.321874,
+      "b"
+    ],
+    [
+      0.080249,
+      "u"
+    ],
+    [
+      0.220475,
+      "n"
+    ],
+    [
+      0.140294,
+      "t"
+    ],
+    [
+      0.100276,
+      "u"
+    ],
+    [
+      0.140427,
+      " "
+    ],
+    [
+      0.381922,
+      "b"
+    ],
+    [
+      0.200500,
+      "a"
+    ],
+    [
+      0.180388,
+      "s"
+    ],
+    [
+      0.140348,
+      "e"
+    ],
+    [
+      0.190454,
+      "d"
+    ],
+    [
+      0.060264,
+      " "
+    ],
+    [
+      0.201343,
+      "s"
+    ],
+    [
+      0.140404,
+      "y"
+    ],
+    [
+      0.150373,
+      "s"
+    ],
+    [
+      0.150312,
+      "t"
+    ],
+    [
+      0.180483,
+      "e"
+    ],
+    [
+      0.110220,
+      "m"
+    ],
+    [
+      0.141393,
+      " "
+    ],
+    [
+      0.471199,
+      "f"
+    ],
+    [
+      0.160280,
+      "r"
+    ],
+    [
+      0.130488,
+      "o"
+    ],
+    [
+      0.150466,
+      "m"
+    ],
+    [
+      0.051156,
+      " "
+    ],
+    [
+      0.050905,
+      "t"
+    ],
+    [
+      0.113574,
+      "h"
+    ],
+    [
+      0.087051,
+      "e"
+    ],
+    [
+      0.060158,
+      " "
+    ],
+    [
+      0.300653,
+      "t"
+    ],
+    [
+      0.220546,
+      "e"
+    ],
+    [
+      0.060102,
+      "r"
+    ],
+    [
+      0.171424,
+      "m"
+    ],
+    [
+      0.180459,
+      "i"
+    ],
+    [
+      0.100272,
+      "n"
+    ],
+    [
+      0.150257,
+      "a"
+    ],
+    [
+      0.120438,
+      "l"
+    ],
+    [
+      0.522264,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500078,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033148,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033520,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032756,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033541,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033747,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032945,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033170,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033309,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033790,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035085,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034270,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034562,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035246,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035305,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034173,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034002,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034328,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034608,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034007,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033941,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033941,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034265,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035315,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035069,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035258,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035083,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034718,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034690,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033738,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034053,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034101,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034045,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034015,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033706,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034732,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034702,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035292,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035068,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034220,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033986,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034593,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034900,
+      "\r\u001b[K"
+    ],
+    [
+      0.035438,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034607,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034988,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034987,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035109,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034851,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034419,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034530,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034561,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034155,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034977,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034149,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034777,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034293,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035472,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033927,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035124,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033901,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034654,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033524,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033602,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033239,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033508,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035246,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032670,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033403,
+      "\u0007"
+    ],
+    [
+      0.034028,
+      "\u0007"
+    ],
+    [
+      0.034060,
+      "\u0007"
+    ],
+    [
+      0.034087,
+      "\u0007"
+    ],
+    [
+      0.033144,
+      "\u0007"
+    ],
+    [
+      0.032963,
+      "\u0007"
+    ],
+    [
+      0.033149,
+      "\u0007"
+    ],
+    [
+      0.033025,
+      "\u0007"
+    ],
+    [
+      0.780104,
+      "F"
+    ],
+    [
+      0.180594,
+      "i"
+    ],
+    [
+      0.040057,
+      "r"
+    ],
+    [
+      0.130272,
+      "s"
+    ],
+    [
+      0.070271,
+      "t"
+    ],
+    [
+      0.080263,
+      " "
+    ],
+    [
+      0.592288,
+      "w"
+    ],
+    [
+      0.090262,
+      "e"
+    ],
+    [
+      0.070154,
+      " "
+    ],
+    [
+      1.284100,
+      "r"
+    ],
+    [
+      0.110231,
+      "u"
+    ],
+    [
+      0.200607,
+      "n"
+    ],
+    [
+      0.221526,
+      " "
+    ],
+    [
+      0.103516,
+      "t"
+    ],
+    [
+      0.056853,
+      "h"
+    ],
+    [
+      0.150355,
+      "e"
+    ],
+    [
+      0.063704,
+      " "
+    ],
+    [
+      1.702717,
+      "s"
+    ],
+    [
+      0.190427,
+      "u"
+    ],
+    [
+      0.812928,
+      "d"
+    ],
+    [
+      0.160543,
+      "o"
+    ],
+    [
+      0.120152,
+      " "
+    ],
+    [
+      0.562357,
+      "a"
+    ],
+    [
+      0.170735,
+      "p"
+    ],
+    [
+      0.340597,
+      "t"
+    ],
+    [
+      0.170452,
+      " "
+    ],
+    [
+      0.883096,
+      "u \r"
+    ],
+    [
+      0.802878,
+      "p"
+    ],
+    [
+      0.110127,
+      "d"
+    ],
+    [
+      0.120385,
+      "a"
+    ],
+    [
+      0.110302,
+      "t"
+    ],
+    [
+      0.160314,
+      "e"
+    ],
+    [
+      0.124651,
+      " "
+    ],
+    [
+      1.671819,
+      "c"
+    ],
+    [
+      0.090184,
+      "o"
+    ],
+    [
+      0.211546,
+      "m"
+    ],
+    [
+      0.160373,
+      "m"
+    ],
+    [
+      0.180918,
+      "a"
+    ],
+    [
+      0.109759,
+      "n"
+    ],
+    [
+      0.110305,
+      "d"
+    ],
+    [
+      0.103698,
+      " "
+    ],
+    [
+      0.699349,
+      "t"
+    ],
+    [
+      0.120298,
+      "o"
+    ],
+    [
+      0.150346,
+      " "
+    ],
+    [
+      1.003408,
+      "c"
+    ],
+    [
+      0.103477,
+      "h"
+    ],
+    [
+      0.117171,
+      "e"
+    ],
+    [
+      0.231611,
+      "c"
+    ],
+    [
+      0.140268,
+      "k"
+    ],
+    [
+      0.120326,
+      " "
+    ],
+    [
+      0.070091,
+      "t"
+    ],
+    [
+      0.130290,
+      "h"
+    ],
+    [
+      0.080288,
+      "e"
+    ],
+    [
+      0.090238,
+      " "
+    ],
+    [
+      1.975771,
+      "r"
+    ],
+    [
+      0.140213,
+      "e"
+    ],
+    [
+      0.933700,
+      "p"
+    ],
+    [
+      0.180182,
+      "o"
+    ],
+    [
+      0.131274,
+      "s"
+    ],
+    [
+      0.083475,
+      " "
+    ],
+    [
+      0.137042,
+      "f"
+    ],
+    [
+      0.083507,
+      "o"
+    ],
+    [
+      0.097120,
+      "r"
+    ],
+    [
+      0.060106,
+      " "
+    ],
+    [
+      0.280579,
+      "n"
+    ],
+    [
+      0.100346,
+      "e"
+    ],
+    [
+      0.081070,
+      "w"
+    ],
+    [
+      0.053776,
+      " "
+    ],
+    [
+      0.738252,
+      "i"
+    ],
+    [
+      0.110216,
+      "n"
+    ],
+    [
+      0.121327,
+      "f"
+    ],
+    [
+      0.140263,
+      "o"
+    ],
+    [
+      0.080277,
+      "r"
+    ],
+    [
+      0.833036,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.892290,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.499926,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033156,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033682,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032998,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033240,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032390,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034101,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033039,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033106,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033116,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035218,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034894,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035434,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034553,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035228,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035029,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035054,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034552,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034059,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034072,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033787,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033982,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034004,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034898,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034048,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034465,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035100,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035104,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035058,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034780,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034820,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033978,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033691,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034122,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035142,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034043,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034086,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034759,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033839,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034039,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034648,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035130,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034111,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034874,
+      "\r\u001b[K"
+    ],
+    [
+      0.034505,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033604,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034420,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034947,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035086,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035158,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035103,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034371,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034278,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035389,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035193,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034282,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034289,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032827,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033475,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033620,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033556,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033633,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033224,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033854,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033269,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033503,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033539,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033140,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033027,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033215,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033645,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033329,
+      "\u0007"
+    ],
+    [
+      0.032981,
+      "\u0007"
+    ],
+    [
+      0.033101,
+      "\u0007"
+    ],
+    [
+      0.033204,
+      "\u0007"
+    ],
+    [
+      0.033946,
+      "\u0007"
+    ],
+    [
+      0.034157,
+      "\u0007"
+    ],
+    [
+      0.033988,
+      "\u0007"
+    ],
+    [
+      0.034072,
+      "\u0007"
+    ],
+    [
+      0.492512,
+      "s"
+    ],
+    [
+      0.180423,
+      "u"
+    ],
+    [
+      0.140301,
+      "d"
+    ],
+    [
+      0.412092,
+      "o"
+    ],
+    [
+      0.140419,
+      " "
+    ],
+    [
+      0.200471,
+      "a"
+    ],
+    [
+      0.120178,
+      "p"
+    ],
+    [
+      0.113619,
+      "t"
+    ],
+    [
+      0.148119,
+      " "
+    ],
+    [
+      0.882162,
+      "u"
+    ],
+    [
+      0.502107,
+      "p"
+    ],
+    [
+      0.190512,
+      "d"
+    ],
+    [
+      0.110272,
+      "a"
+    ],
+    [
+      0.150383,
+      "t"
+    ],
+    [
+      0.131237,
+      "e"
+    ],
+    [
+      0.404276,
+      "\r\n"
+    ],
+    [
+      0.021235,
+      "[sudo] password for johnblood: "
+    ],
+    [
+      2.886739,
+      "\r\n"
+    ],
+    [
+      0.263663,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.504091,
+      "\r            \r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.501104,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500825,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500679,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500659,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500668,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500674,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500672,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500650,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500826,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.500664,
+      "\r0% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.179730,
+      "\r                                                                               \rIgn http://mirrors.liquidweb.com trusty InRelease"
+    ],
+    [
+      0.000410,
+      "\r\n"
+    ],
+    [
+      0.000332,
+      "\r2% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.054581,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates InRelease"
+    ],
+    [
+      0.000287,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "\r3% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.003074,
+      "\r3% [InRelease gpgv 65.9 kB] [Connecting to ppa.launchpad.net] [Connecting to dl"
+    ],
+    [
+      0.032685,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty Release.gpg"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.000357,
+      "\r6% [InRelease gpgv 65.9 kB] [Connecting to ppa.launchpad.net] [Connecting to dl"
+    ],
+    [
+      0.037170,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty Release"
+    ],
+    [
+      0.000434,
+      "\r\n"
+    ],
+    [
+      0.000469,
+      "\r6% [InRelease gpgv 65.9 kB] [Connecting to ppa.launchpad.net] [Connecting to dl"
+    ],
+    [
+      0.033472,
+      "\r8% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.008577,
+      "\r8% [Release gpgv 58.5 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.g"
+    ],
+    [
+      0.016662,
+      "\r8% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.028170,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/main i386 Packages"
+    ],
+    [
+      0.001877,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "\r8% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connecting "
+    ],
+    [
+      0.001882,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.038083,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/restricted i386 Packages"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.034707,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/universe i386 Packages"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.035031,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/multiverse i386 Packages"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.034959,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/main Translation-en"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.039759,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/multiverse Translation-en"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.034468,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/restricted Translation-en"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000217,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.035105,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty-updates/universe Translation-en"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.035207,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/main i386 Packages"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.036857,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/restricted i386 Packages"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.036979,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/universe i386 Packages"
+    ],
+    [
+      0.001838,
+      "\r\n"
+    ],
+    [
+      0.000298,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.037743,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/multiverse i386 Packages"
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.070091,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/main Translation-en"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\r8% [Packages 4,597 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.037543,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000429,
+      "\r100% [Packages 221 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.020504,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000417,
+      "\r100% [Packages 1,994 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.082552,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/multiverse Translation-en"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "\r100% [Packages 1,994 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.070609,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/restricted Translation-en"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "\r100% [Packages 1,994 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.033090,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000577,
+      "\r100% [Packages 67.2 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.007196,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000419,
+      "\r100% [Translation-en 4,248 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.029313,
+      "\r                                                                               \rHit http://mirrors.liquidweb.com trusty/universe Translation-en"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "\r100% [Translation-en 4,248 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.333660,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000425,
+      "\r100% [Translation-en 25.2 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.002621,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000399,
+      "\r100% [Translation-en 30.3 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.002977,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000447,
+      "\r100% [Translation-en 912 kB] [Connecting to ppa.launchpad.net] [Connecting to d"
+    ],
+    [
+      0.077452,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000424,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.046321,
+      "\r                                                                               \rIgn http://mirrors.liquidweb.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.037056,
+      "\r                                                                               \rIgn http://mirrors.liquidweb.com trusty/multiverse Translation-en_US"
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.037061,
+      "\r                                                                               \rIgn http://mirrors.liquidweb.com trusty/restricted Translation-en_US"
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.036807,
+      "\r                                                                               \rIgn http://mirrors.liquidweb.com trusty/universe Translation-en_US"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.500730,
+      "\r100% [Packages 8,205 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.053301,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000435,
+      "\r100% [Packages 185 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.017340,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000418,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.500779,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.500825,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.500824,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.500614,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.500825,
+      "\r100% [Packages 31.7 MB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.083978,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000434,
+      "\r100% [Packages 674 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.057505,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Connectin"
+    ],
+    [
+      0.000434,
+      "\r100% [Translation-en 4,149 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.339518,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa InRelease"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r100% [Translation-en 4,149 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.004525,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Waiting f"
+    ],
+    [
+      0.000449,
+      "\r100% [Translation-en 409 kB] [Connecting to ppa.launchpad.net] [Connecting to d"
+    ],
+    [
+      0.044031,
+      "\r                                                                               \rHit http://mirror.csclub.uwaterloo.ca rosa Release.gpg"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "\r100% [Translation-en 409 kB] [Connecting to ppa.launchpad.net] [Connecting to d"
+    ],
+    [
+      0.001868,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Waiting f"
+    ],
+    [
+      0.000407,
+      "\r100% [Translation-en 21.2 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.001327,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rosa InRelease"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "\r100% [Translation-en 21.2 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.002398,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [Waiting f"
+    ],
+    [
+      0.000408,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.035833,
+      "\r                                                                               \rHit http://extra.linuxmint.com rosa Release.gpg"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.001992,
+      "\r                                                                               \rHit http://mirror.csclub.uwaterloo.ca rosa Release"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.000615,
+      "\r100% [Translation-en 18.6 MB] [Release gpgv 24.1 kB] [Connecting to ppa.launchp"
+    ],
+    [
+      0.020539,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.041309,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security InRelease"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.000632,
+      "\r100% [Translation-en 18.6 MB] [InRelease gpgv 65.9 kB] [Connecting to ppa.launc"
+    ],
+    [
+      0.002738,
+      "\r                                                                               \rHit http://extra.linuxmint.com rosa Release"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\r100% [Translation-en 18.6 MB] [InRelease gpgv 65.9 kB] [Connecting to ppa.launc"
+    ],
+    [
+      0.001849,
+      "\r                                                                               \rHit http://mirror.csclub.uwaterloo.ca rosa/main i386 Packages"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "\r100% [Translation-en 18.6 MB] [InRelease gpgv 65.9 kB] [Connecting to ppa.launc"
+    ],
+    [
+      0.046891,
+      "\r                                                                               \rHit http://mirror.csclub.uwaterloo.ca rosa/upstream i386 Packages"
+    ],
+    [
+      0.000788,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "\r100% [Translation-en 18.6 MB] [InRelease gpgv 65.9 kB] [Connecting to ppa.launc"
+    ],
+    [
+      0.026682,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.001019,
+      "\r100% [Translation-en 18.6 MB] [Release gpgv 3,206 B] [Connecting to ppa.launchp"
+    ],
+    [
+      0.014117,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.004615,
+      "\r                                                                               \rHit http://mirror.csclub.uwaterloo.ca rosa/import i386 Packages"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.036999,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/main i386 Packages"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.060511,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/restricted i386 Packages"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.056929,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/universe i386 Packages"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.056631,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/multiverse i386 Packages"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.017567,
+      "\r                                                                               \rHit http://repo.steampowered.com precise InRelease"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.000734,
+      "\r100% [Translation-en 18.6 MB] [InRelease gpgv 2,840 B] [Connecting to ppa.launc"
+    ],
+    [
+      0.024690,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.015579,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/main Translation-en"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.062725,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/multiverse Translation-en"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000234,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.072483,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/restricted Translation-en"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.031393,
+      "\r                                                                               \rHit http://repo.steampowered.com precise/steam Sources"
+    ],
+    [
+      0.001131,
+      "\r\n"
+    ],
+    [
+      0.000394,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.015433,
+      "\r                                                                               \rIgn https://deb.nodesource.com trusty InRelease"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "\r                                                                               \rIgn https://tiliado.eu trusty InRelease"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.022296,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/universe Translation-en"
+    ],
+    [
+      0.000436,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.100608,
+      "\r                                                                               \rHit http://repo.steampowered.com precise/steam amd64 Packages"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.056992,
+      "\r                                                                               \rIgn http://archive.canonical.com trusty InRelease"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.080328,
+      "\r                                                                               \rHit http://repo.steampowered.com precise/steam i386 Packages"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.054504,
+      "\r                                                                               \rHit http://archive.canonical.com trusty Release.gpg"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.135680,
+      "\r                                                                               \rHit http://archive.canonical.com trusty Release"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.000662,
+      "\r100% [Translation-en 18.6 MB] [Release gpgv 9,359 B] [Connecting to ppa.launchp"
+    ],
+    [
+      0.041088,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.105910,
+      "\r                                                                               \rHit http://extra.linuxmint.com rosa/main i386 Packages"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.031550,
+      "\r                                                                               \rHit http://archive.canonical.com trusty/partner i386 Packages"
+    ],
+    [
+      0.001002,
+      "\r\n"
+    ],
+    [
+      0.000893,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.147212,
+      "\r                                                                               \rHit http://archive.canonical.com trusty/partner Translation-en"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.083436,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/import Translation-en_US"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.050064,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/import Translation-en"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.046745,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/main Translation-en_US"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000223,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.038935,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rosa/main Translation-en_US"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.012025,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/main Translation-en"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.018608,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rosa/main Translation-en"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.027409,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/upstream Translation-en_US"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.046556,
+      "\r                                                                               \rIgn http://mirror.csclub.uwaterloo.ca rosa/upstream Translation-en"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.500814,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.125900,
+      "\r                                                                               \rIgn http://repo.steampowered.com precise/steam Translation-en_US"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000265,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.103831,
+      "\r                                                                               \rIgn http://repo.steampowered.com precise/steam Translation-en"
+    ],
+    [
+      0.000199,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.201849,
+      "\r                                                                               \rGet:1 https://tiliado.eu trusty Release.gpg"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000324,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.160054,
+      "\r                                                                               \rHit https://tiliado.eu trusty Release"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000202,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.000646,
+      "\r100% [Translation-en 18.6 MB] [Release gpgv 14.4 kB] [Connecting to ppa.launchp"
+    ],
+    [
+      0.032208,
+      "\r                                                                               \rIgn https://tiliado.eu trusty Release"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "\r100% [Translation-en 18.6 MB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.071012,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.005845,
+      "\r                                                                    \r100% [Packages 115 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.016633,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000432,
+      "\r                                                                    \r100% [Packages 201 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.032940,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.002009,
+      "\r                                                                    \r100% [Packages 1,521 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.050811,
+      "\r                                                                               \rGet:2 https://tiliado.eu trusty/stable i386 Packages/DiffIndex"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "\r100% [Packages 1,521 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.000428,
+      "\r                                                                               \rIgn https://tiliado.eu trusty/stable i386 Packages/DiffIndex"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "\r100% [Packages 1,521 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.199421,
+      "\r                                                                               \rGet:3 https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000255,
+      "\r100% [Packages 1,521 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.014927,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000439,
+      "\r                                                                    \r100% [Packages 2,706 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.163536,
+      "\r                                                                               \rGet:4 https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "\r100% [Packages 2,706 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.go"
+    ],
+    [
+      0.115737,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000454,
+      "\r                                                                    \r100% [Packages 186 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.016000,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000477,
+      "\r                                                                    \r100% [Packages 739 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.031217,
+      "\r                                                                               \rHit https://tiliado.eu trusty/stable i386 Packages"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "\r100% [Packages 739 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.019556,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty Release.gpg"
+    ],
+    [
+      0.002042,
+      "\r\n"
+    ],
+    [
+      0.000415,
+      "\r100% [Packages 739 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.032793,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000439,
+      "\r                                                                    \r100% [Packages 20.9 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.002592,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000437,
+      "\r                                                                    \r100% [Translation-en 3,375 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.118026,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty Release"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "\r100% [Translation-en 3,375 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.000643,
+      "\r100% [Translation-en 3,375 kB] [Release gpgv 2,990 B] [Connecting to ppa.launch"
+    ],
+    [
+      0.002909,
+      "\r                                                                               \rGet:5 https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "\r100% [Translation-en 3,375 kB] [Release gpgv 2,990 B] [Connecting to ppa.launch"
+    ],
+    [
+      0.017230,
+      "\r100% [Translation-en 3,375 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.086822,
+      "\r                                                                               \rHit https://deb.nodesource.com trusty/main Sources"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "\r100% [Translation-en 3,375 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.074608,
+      "\r                                                                               \rGet:6 https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "\r100% [Translation-en 3,375 kB] [Connecting to ppa.launchpad.net] [Connecting to"
+    ],
+    [
+      0.008873,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000428,
+      "\r                                                                    \r100% [Translation-en 9,314 B] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.005134,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.001363,
+      "\r                                                                    \rHit https://deb.nodesource.com trusty/main i386 Packages"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000432,
+      "\r                                                                    \r100% [Translation-en 27.7 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.002878,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000410,
+      "\r                                                                    \r100% [Sources 917 B] [Connecting to ppa.launchpad.net] [Connecting to dl.google"
+    ],
+    [
+      0.000839,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000425,
+      "\r                                                                    \r100% [Translation-en 365 kB] [Connecting to ppa.launchpad.net] [Connecting to d"
+    ],
+    [
+      0.040421,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000429,
+      "\r                                                                    \r100% [Packages 928 B] [Connecting to ppa.launchpad.net] [Connecting to dl.googl"
+    ],
+    [
+      0.000706,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.002206,
+      "\r                                                                    \r100% [Packages 1,549 B] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.000786,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000424,
+      "\r                                                                    \r100% [Packages 23.1 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.002567,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000431,
+      "\r                                                                    \r100% [Packages 19.8 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.002256,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000428,
+      "\r                                                                    \r100% [Translation-en 14.0 kB] [Connecting to ppa.launchpad.net] [Connecting to "
+    ],
+    [
+      0.001769,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000417,
+      "\r                                                                    \r100% [Packages 22.4 kB] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.002532,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000432,
+      "\r                                                                    \r100% [Sources 1,326 B] [Connecting to ppa.launchpad.net] [Connecting to dl.goog"
+    ],
+    [
+      0.000731,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.000412,
+      "\r                                                                    \r100% [Packages 2,247 B] [Connecting to ppa.launchpad.net] [Connecting to dl.goo"
+    ],
+    [
+      0.000777,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.074522,
+      "\r                                                                    \rGet:7 https://deb.nodesource.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000834,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "\r                                                                    \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [7 Transla"
+    ],
+    [
+      0.024351,
+      "\r                                                                               \rGet:8 https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.005567,
+      "\r\n"
+    ],
+    [
+      0.000410,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [8 Transla"
+    ],
+    [
+      0.181927,
+      "\r                                                                               \rGet:9 https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000356,
+      "\r\n"
+    ],
+    [
+      0.000584,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [9 Transla"
+    ],
+    [
+      0.178366,
+      "\r                                                                               \rGet:10 https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000426,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [10 Transl"
+    ],
+    [
+      0.180739,
+      "\r                                                                               \rGet:11 https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000349,
+      "\r\n"
+    ],
+    [
+      0.000488,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [11 Transl"
+    ],
+    [
+      0.180417,
+      "\r                                                                               \rGet:12 https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.000350,
+      "\r\n"
+    ],
+    [
+      0.000421,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [12 Transl"
+    ],
+    [
+      0.000688,
+      "\r                                                                               \rIgn https://tiliado.eu trusty/stable Translation-en_US"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.040213,
+      "\r                                                                    \rIgn https://deb.nodesource.com trusty/main Translation-en_US"
+    ],
+    [
+      0.000443,
+      "\r\n"
+    ],
+    [
+      0.000461,
+      "\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.101777,
+      "\r                                                                    \rIgn https://deb.nodesource.com trusty/main Translation-en\r\n\r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.038646,
+      "\r                                                                    \rGet:13 https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.000442,
+      "\r                                                                    \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com] [13 Transl"
+    ],
+    [
+      0.000641,
+      "\r                                                                               \rIgn https://tiliado.eu trusty/stable Translation-en"
+    ],
+    [
+      0.000260,
+      "\r\n"
+    ],
+    [
+      0.000358,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net] [Connecting to dl.google.com]"
+    ],
+    [
+      0.356527,
+      "\r                                                                    \rIgn http://dl.google.com stable InRelease"
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.000754,
+      "\r                                                                    \r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.060305,
+      "\r                                                                               \rHit http://dl.google.com stable Release.gpg\r\n\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.058961,
+      "\r                                                                               \rHit http://dl.google.com stable Release\r\n\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s\r100% [Release gpgv 1,347 B] [Connecting to ppa.launchpad.net]     9,527 kB/s 0s"
+    ],
+    [
+      0.038599,
+      "\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.059205,
+      "\r                                                                               \rHit http://dl.google.com stable/main i386 Packages"
+    ],
+    [
+      0.000343,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.002289,
+      "\r100% [Connecting to ppa.launchpad.net] [Waiting for headers]      9,527 kB/s 0s"
+    ],
+    [
+      0.503144,
+      "\r100% [Connecting to ppa.launchpad.net] [Waiting for headers]      9,527 kB/s 0s"
+    ],
+    [
+      0.118497,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en_US"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000397,
+      "\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.070404,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en\r\n\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.500624,
+      "\r100% [Connecting to ppa.launchpad.net]                            9,527 kB/s 0s"
+    ],
+    [
+      0.500728,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500739,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500719,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500777,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500525,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.501073,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500525,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500726,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500756,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500721,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500723,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500726,
+      "\r100% [Connecting to ppa.launchpad.net]                            4,520 kB/s 0s"
+    ],
+    [
+      0.500685,
+      "\r                                                                               \r100% [Connecting to ppa.launchpad.net]"
+    ],
+    [
+      0.500670,
+      "\r100% [Connecting to ppa.launchpad.net]"
+    ],
+    [
+      0.500690,
+      "\r100% [Connecting to ppa.launchpad.net]"
+    ],
+    [
+      0.500673,
+      "\r100% [Connecting to ppa.launchpad.net]"
+    ],
+    [
+      0.500352,
+      "\r                                      \r100% [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.169606,
+      "\r                                                     \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000095,
+      "\r\n"
+    ],
+    [
+      0.000254,
+      "\r                                                     \r100% [Waiting for headers]"
+    ],
+    [
+      0.127583,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.001461,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.040946,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.083404,
+      "\r                          \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.000350,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.125463,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.001445,
+      "\r                          \r100% [InRelease gpgv 15.4 kB] [Waiting for headers]"
+    ],
+    [
+      0.041642,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.099687,
+      "\r                          \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000391,
+      "\r\n"
+    ],
+    [
+      0.000380,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.108842,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.001426,
+      "\r                          \r100% [InRelease gpgv 15.4 kB] [Waiting for headers]"
+    ],
+    [
+      0.040220,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.084303,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000353,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.001400,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.040583,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.083330,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000355,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.001485,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.039903,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.084124,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000505,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "\r                          \r100% [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.001197,
+      "\r                                                     \r100% [InRelease gpgv 15.5 kB] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.042602,
+      "\r                                                                              \r100% [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.205675,
+      "\r                                                     \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000443,
+      "\r\n"
+    ],
+    [
+      0.000381,
+      "\r                                                     \r100% [Waiting for headers]"
+    ],
+    [
+      0.001395,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.041248,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.082574,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000493,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.001481,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.040137,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.083767,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000366,
+      "\r\n"
+    ],
+    [
+      0.000362,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.001426,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.041327,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.082747,
+      "\r                          \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000459,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.126020,
+      "\r                          \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.140955,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.001389,
+      "\r                          \r100% [InRelease gpgv 15.4 kB] [Waiting for headers]"
+    ],
+    [
+      0.041047,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.223960,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000462,
+      "\r\n"
+    ],
+    [
+      0.000385,
+      "\r                          \r100% [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.001215,
+      "\r                                                     \r100% [InRelease gpgv 15.4 kB] [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.041343,
+      "\r                                                                              \r100% [Connecting to ppa.launchpad.net (91.189.95.83)]"
+    ],
+    [
+      0.386051,
+      "\r                                                     \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000357,
+      "\r\n"
+    ],
+    [
+      0.000360,
+      "\r                                                     \r100% [Waiting for headers]"
+    ],
+    [
+      0.001501,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.041620,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.082561,
+      "\r                          \rHit http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.001410,
+      "\r                          \r100% [InRelease gpgv 15.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.040672,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.083375,
+      "\r                          \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.125587,
+      "\r                          \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.126112,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.003039,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.123155,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.003420,
+      "\r                          \r100% [Packages 62.1 kB] [Waiting for headers]"
+    ],
+    [
+      0.018057,
+      "\r                                             \r100% [Waiting for headers]"
+    ],
+    [
+      0.102884,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.000814,
+      "\r                          \r100% [Translation-en 31.7 kB] [Waiting for headers]"
+    ],
+    [
+      0.006911,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.117907,
+      "\r                          \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.130800,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.000772,
+      "\r                          \r100% [Sources 32.1 kB] [Waiting for headers]"
+    ],
+    [
+      0.007193,
+      "\r                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.117798,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.000902,
+      "\r                          \r100% [Packages 193 kB] [Waiting for headers]"
+    ],
+    [
+      0.054304,
+      "\r                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.070512,
+      "\r                          \rHit http://ppa.launchpad.net trusty/main Translation-en"
+    ],
+    [
+      0.000349,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "\r                          \r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000904,
+      "\r100% [Translation-en 126 kB] [Waiting for headers]                 53.9 kB/s 0s"
+    ],
+    [
+      0.042478,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.082216,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg"
+    ],
+    [
+      0.000426,
+      "\r\n"
+    ],
+    [
+      0.000433,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.127594,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000841,
+      "\r100% [Sources 13.5 kB] [Waiting for headers]                       53.9 kB/s 0s"
+    ],
+    [
+      0.003919,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.121225,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000824,
+      "\r100% [Packages 8,667 B] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.002920,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.125492,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000913,
+      "\r100% [Translation-en 2,460 B] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.001570,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124593,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000853,
+      "\r100% [Sources 19.3 kB] [Waiting for headers]                       53.9 kB/s 0s"
+    ],
+    [
+      0.004941,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.120014,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages"
+    ],
+    [
+      0.000466,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000905,
+      "\r100% [Packages 49.9 kB] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.018788,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.105867,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000889,
+      "\r100% [Translation-en 19.0 kB] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.004693,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.278207,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources"
+    ],
+    [
+      0.000749,
+      "\r\n"
+    ],
+    [
+      0.000421,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001517,
+      "\r100% [Sources 75.2 kB] [Waiting for headers]                       53.9 kB/s 0s"
+    ],
+    [
+      0.023782,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.099541,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001072,
+      "\r100% [Packages 42.1 kB] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.009082,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.115719,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en"
+    ],
+    [
+      0.000721,
+      "\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000948,
+      "\r100% [Translation-en 17.1 kB] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.004321,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.120673,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000922,
+      "\r100% [Sources 10.7 kB] [Waiting for headers]                       53.9 kB/s 0s"
+    ],
+    [
+      0.003317,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.121850,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000900,
+      "\r100% [Packages 6,057 B] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.002379,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.123033,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000831,
+      "\r100% [Translation-en 2,355 B] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.001519,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.123807,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000752,
+      "\r100% [Sources 102 kB] [Waiting for headers]                        53.9 kB/s 0s"
+    ],
+    [
+      0.038463,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.086550,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001109,
+      "\r100% [Packages 64.9 kB] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.021098,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.104084,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000928,
+      "\r100% [Translation-en 20.6 kB] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.004915,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.122368,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000906,
+      "\r100% [Sources 21.9 kB] [Waiting for headers]                       53.9 kB/s 0s"
+    ],
+    [
+      0.005333,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.119862,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000834,
+      "\r100% [Packages 11.3 kB] [Waiting for headers]                      53.9 kB/s 0s"
+    ],
+    [
+      0.003415,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.121498,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en"
+    ],
+    [
+      0.000818,
+      "\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000864,
+      "\r100% [Translation-en 3,918 B] [Waiting for headers]                53.9 kB/s 0s"
+    ],
+    [
+      0.001793,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.123099,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.000837,
+      "\r100% [Sources 0 B] [Waiting for headers]                           53.9 kB/s 0s"
+    ],
+    [
+      0.001284,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124161,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001504,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124513,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001334,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124753,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.125992,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.284005,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001832,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.128329,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001667,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124472,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001583,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124635,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001794,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124559,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001471,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124308,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001459,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124751,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001798,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.123924,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages"
+    ],
+    [
+      0.000685,
+      "\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001681,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124272,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001340,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124683,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001933,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.126457,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001750,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.124622,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001489,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.234144,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.126767,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001065,
+      "\r100% [Release gpgv 14.5 kB] [Waiting for headers]                  53.9 kB/s 0s"
+    ],
+    [
+      0.009895,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.115024,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001522,
+      "\r100% [Release gpgv 14.0 kB] [Waiting for headers]                  53.9 kB/s 0s"
+    ],
+    [
+      0.018001,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.108527,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001208,
+      "\r100% [Release gpgv 15.1 kB] [Waiting for headers]                  53.9 kB/s 0s"
+    ],
+    [
+      0.018112,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.108404,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001653,
+      "\r100% [Release gpgv 15.1 kB] [Waiting for headers]                  53.9 kB/s 0s"
+    ],
+    [
+      0.018094,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.106622,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.001530,
+      "\r100% [Release gpgv 15.1 kB] [Waiting for headers]                  53.9 kB/s 0s"
+    ],
+    [
+      0.018845,
+      "\r100% [Waiting for headers]                                         53.9 kB/s 0s"
+    ],
+    [
+      0.259911,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001047,
+      "\r100% [Release gpgv 15.1 kB] [Waiting for headers]                   105 kB/s 0s"
+    ],
+    [
+      0.018650,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.106285,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.002931,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.123784,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001122,
+      "\r100% [Packages 29.1 kB] [Waiting for headers]                       105 kB/s 0s"
+    ],
+    [
+      0.007353,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.117094,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.000899,
+      "\r100% [Translation-en 15.5 kB] [Waiting for headers]                 105 kB/s 0s"
+    ],
+    [
+      0.004118,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.123134,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.000824,
+      "\r100% [Sources 1,504 B] [Waiting for headers]                        105 kB/s 0s"
+    ],
+    [
+      0.001604,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.125671,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.000864,
+      "\r100% [Packages 1,509 B] [Waiting for headers]                       105 kB/s 0s"
+    ],
+    [
+      0.001603,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.377487,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000439,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001592,
+      "\r100% [Sources 3,206 B] [Waiting for headers]                        105 kB/s 0s"
+    ],
+    [
+      0.001333,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.122915,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001978,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.126284,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001684,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.127995,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001952,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124451,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001445,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124664,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001374,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124741,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001596,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.126521,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001516,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124809,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001170,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124857,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.002094,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.283519,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001716,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.124323,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.001565,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.502281,
+      "\r100% [Waiting for headers]                                          105 kB/s 0s"
+    ],
+    [
+      0.388409,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-en_US"
+    ],
+    [
+      0.000350,
+      "\r\n"
+    ],
+    [
+      0.000414,
+      "\r100% [Working]                                                      105 kB/s 0s"
+    ],
+    [
+      0.129822,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      105 kB/s 0s\r                                                                               \rFetched 819 B in 39s (20 B/s)\r\n"
+    ],
+    [
+      0.101560,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.083021,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003114,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000409,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002416,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000358,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.006087,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000367,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001682,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000315,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001503,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000598,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001790,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000766,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.033161,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000684,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.007224,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000597,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001900,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000687,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003699,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000619,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.005398,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000603,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001138,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000684,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001701,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000643,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.009589,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000639,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002228,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000719,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010831,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000644,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003176,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000609,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004964,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000593,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001064,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000592,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010794,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.006738,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000744,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000301,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002362,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000310,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000692,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000289,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001933,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000300,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000350,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000288,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.007795,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000352,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003783,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.009222,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000351,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.074872,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000366,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.001488,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000347,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.422883,
+      "\rReading package lists... 12%\r"
+    ],
+    [
+      0.000365,
+      "\rReading package lists... 12%\r"
+    ],
+    [
+      0.003831,
+      "\rReading package lists... 12%\r"
+    ],
+    [
+      0.000353,
+      "\rReading package lists... 12%\r"
+    ],
+    [
+      0.226363,
+      "\rReading package lists... 17%\r"
+    ],
+    [
+      0.735420,
+      "\rReading package lists... 31%\r"
+    ],
+    [
+      0.700041,
+      "\rReading package lists... 42%\r"
+    ],
+    [
+      0.437352,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.000379,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.057159,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.000374,
+      "\rReading package lists... 48%\r"
+    ],
+    [
+      0.161174,
+      "\rReading package lists... 53%\r"
+    ],
+    [
+      0.000405,
+      "\rReading package lists... 53%\r"
+    ],
+    [
+      0.014697,
+      "\rReading package lists... 54%\r"
+    ],
+    [
+      0.000338,
+      "\rReading package lists... 54%\r"
+    ],
+    [
+      0.001473,
+      "\rReading package lists... 54%\r"
+    ],
+    [
+      0.000349,
+      "\rReading package lists... 54%\r"
+    ],
+    [
+      0.050547,
+      "\rReading package lists... 56%\r"
+    ],
+    [
+      0.616634,
+      "\rReading package lists... 75%\r"
+    ],
+    [
+      0.000370,
+      "\rReading package lists... 75%\r"
+    ],
+    [
+      0.106733,
+      "\rReading package lists... 77%\r"
+    ],
+    [
+      0.211017,
+      "\rReading package lists... 80%\r"
+    ],
+    [
+      0.000374,
+      "\rReading package lists... 80%\r"
+    ],
+    [
+      0.010968,
+      "\rReading package lists... 80%\r"
+    ],
+    [
+      0.000350,
+      "\rReading package lists... 80%\r"
+    ],
+    [
+      0.155776,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.000372,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.011987,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.000355,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.146808,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.000367,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.001627,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.000351,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.001802,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.000353,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.039494,
+      "\rReading package lists... 88%\r"
+    ],
+    [
+      0.000350,
+      "\rReading package lists... 88%\r"
+    ],
+    [
+      0.082065,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.000418,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.007038,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000352,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.024407,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000351,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.006311,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000354,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.005387,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.102707,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000348,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000888,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000340,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.001680,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000349,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.015263,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000333,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002797,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000320,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001081,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000311,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000881,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000341,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000436,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000278,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001031,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001795,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000550,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000286,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001250,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000311,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.001083,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000329,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002293,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000316,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002439,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000309,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000422,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000270,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002555,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000317,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000432,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000273,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002492,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000312,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000482,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000279,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.002473,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000309,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000580,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000316,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000919,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000313,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      1.162496,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000620,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.040186,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      1.253605,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000389,
+      "\r\n"
+    ],
+    [
+      0.008246,
+      "W"
+    ],
+    [
+      0.000389,
+      ": "
+    ],
+    [
+      0.000217,
+      "GPG error: https://tiliado.eu trusty Release: The following signatures were invalid: KEYEXPIRED 1435053600 KEYEXPIRED 1435053600 KEYEXPIRED 1435053600"
+    ],
+    [
+      0.000168,
+      "\r\n"
+    ],
+    [
+      0.038535,
+      "\u001b[01;32mjohnblood@johnblood-HP-Compaq-nx6325-RM158UT-ABA\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      3.901480,
+      "n"
+    ],
+    [
+      0.420801,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.340808,
+      "N"
+    ],
+    [
+      0.190524,
+      "o"
+    ],
+    [
+      0.110417,
+      "w"
+    ],
+    [
+      0.103338,
+      " "
+    ],
+    [
+      1.230659,
+      "w"
+    ],
+    [
+      0.492245,
+      "e"
+    ],
+    [
+      0.133569,
+      " "
+    ],
+    [
+      1.200663,
+      "r"
+    ],
+    [
+      0.180394,
+      "u"
+    ],
+    [
+      0.220562,
+      "n"
+    ],
+    [
+      0.120221,
+      " "
+    ],
+    [
+      0.040216,
+      "t"
+    ],
+    [
+      0.113437,
+      "h"
+    ],
+    [
+      0.096918,
+      "e"
+    ],
+    [
+      0.080346,
+      " "
+    ],
+    [
+      0.522303,
+      "s"
+    ],
+    [
+      0.531349,
+      "u"
+    ],
+    [
+      0.270624,
+      "d"
+    ],
+    [
+      0.341889,
+      "o"
+    ],
+    [
+      0.120248,
+      " "
+    ],
+    [
+      0.160397,
+      "a"
+    ],
+    [
+      0.140275,
+      "p"
+    ],
+    [
+      0.140325,
+      "t"
+    ],
+    [
+      0.090480,
+      " "
+    ],
+    [
+      0.772828,
+      "u"
+    ],
+    [
+      0.592300,
+      "p"
+    ],
+    [
+      0.210567,
+      "g \r"
+    ],
+    [
+      0.240471,
+      "r"
+    ],
+    [
+      1.053698,
+      "a"
+    ],
+    [
+      0.191214,
+      "d"
+    ],
+    [
+      0.190568,
+      "e"
+    ],
+    [
+      0.070166,
+      " "
+    ],
+    [
+      1.314354,
+      "c"
+    ],
+    [
+      0.090092,
+      "o"
+    ],
+    [
+      0.230633,
+      "m"
+    ],
+    [
+      0.141273,
+      "m"
+    ],
+    [
+      0.140378,
+      "a"
+    ],
+    [
+      0.130255,
+      "n"
+    ],
+    [
+      0.090415,
+      "d"
+    ],
+    [
+      0.093522,
+      " "
+    ],
+    [
+      0.427605,
+      "t"
+    ],
+    [
+      0.422102,
+      "o"
+    ],
+    [
+      0.180450,
+      " "
+    ],
+    [
+      0.180368,
+      "u"
+    ],
+    [
+      0.180522,
+      "p"
+    ],
+    [
+      0.131425,
+      "d"
+    ],
+    [
+      0.120118,
+      "a"
+    ],
+    [
+      0.120341,
+      "t"
+    ],
+    [
+      0.180571,
+      "e"
+    ],
+    [
+      0.029931,
+      " "
+    ],
+    [
+      3.200876,
+      "o"
+    ],
+    [
+      0.080250,
+      "u"
+    ],
+    [
+      0.200446,
+      " "
+    ],
+    [
+      0.361852,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.100123,
+      "r"
+    ],
+    [
+      0.080457,
+      " "
+    ],
+    [
+      0.140144,
+      "p"
+    ],
+    [
+      0.230530,
+      "a"
+    ],
+    [
+      0.211648,
+      "c"
+    ],
+    [
+      0.230521,
+      "a"
+    ],
+    [
+      0.541335,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.281689,
+      "k"
+    ],
+    [
+      0.140259,
+      "a"
+    ],
+    [
+      0.200504,
+      "g"
+    ],
+    [
+      0.170447,
+      "e"
+    ],
+    [
+      0.080188,
+      "s"
+    ],
+    [
+      0.452180,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500012,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033202,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032790,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033590,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033664,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034298,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033360,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032809,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033157,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033191,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032742,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035271,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035460,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034678,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034828,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034929,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034230,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034761,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033992,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033798,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034152,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034062,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034037,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034388,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034172,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035325,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034856,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034806,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033843,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033755,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034094,
+      "\r\u001b[K"
+    ],
+    [
+      0.034225,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034069,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034111,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035284,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034370,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034371,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035058,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035147,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035107,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034809,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034833,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034927,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035090,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034626,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034190,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035173,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034857,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033883,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034739,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034767,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035229,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035040,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034973,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034210,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034743,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034758,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034652,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034056,
+      "\u0007"
+    ],
+    [
+      0.034020,
+      "\u0007"
+    ],
+    [
+      0.034092,
+      "\u0007"
+    ],
+    [
+      0.034952,
+      "\u0007"
+    ],
+    [
+      0.035137,
+      "\u0007"
+    ],
+    [
+      0.034399,
+      "\u0007"
+    ],
+    [
+      0.229539,
+      "s"
+    ],
+    [
+      0.200462,
+      "u"
+    ],
+    [
+      0.893211,
+      "d"
+    ],
+    [
+      0.150269,
+      "o"
+    ],
+    [
+      0.150497,
+      " "
+    ],
+    [
+      0.953311,
+      "a"
+    ],
+    [
+      0.120218,
+      "p"
+    ],
+    [
+      0.180454,
+      "t"
+    ],
+    [
+      0.372014,
+      " "
+    ],
+    [
+      0.591644,
+      "u"
+    ],
+    [
+      0.582271,
+      "p"
+    ],
+    [
+      0.240663,
+      "g"
+    ],
+    [
+      0.180334,
+      "r"
+    ],
+    [
+      0.160367,
+      "a"
+    ],
+    [
+      0.201490,
+      "d"
+    ],
+    [
+      0.180621,
+      "e"
+    ],
+    [
+      0.412525,
+      "\r\n"
+    ],
+    [
+      0.113568,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.020873,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000372,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.026793,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000199,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.063919,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000206,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.387218,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000240,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.015169,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000180,
+      "\r\n"
+    ],
+    [
+      0.209156,
+      "Calculating upgrade... "
+    ],
+    [
+      0.413857,
+      "Done"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.292539,
+      "The following packages were automatically installed and are no longer required:"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "  ax25-node expect faenza-icon-theme gyp libao-common libao4 libax25"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "  libc-ares-dev libcec2 libetpan15 libid3tag0 libjs-node-uuid liblockdev1"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  libmicrohttpd10 libmozjs185-1.0 libnfs1 libshairplay0 libshairport1 libtagc0"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libv8-3.14-dev libv8-3.14.5 libva-glx1 libxdo3 node-abbrev node-ansi"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-archy node-async node-block-stream node-combined-stream node-cookie-jar"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-delayed-stream node-forever-agent node-form-data node-fstream"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-fstream-ignore node-github-url-from-git node-glob node-graceful-fs"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-gyp node-inherits node-ini node-json-stringify-safe node-lockfile"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  node-lru-cache node-mime node-minimatch node-mkdirp node-mute-stream"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-node-uuid node-nopt node-normalize-package-data node-npmlog node-once"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-osenv node-qs node-read node-read-package-json node-request node-retry"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  node-rimraf node-semver node-sha node-sigmund node-slide node-tar"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  node-tunnel-agent node-which nuvolaplayer3-grooveshark"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  nuvolaplayer3-this-is-my-jam openbsd-inetd php-auth php-mail-mime"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  php-net-smtp php-net-socket python-bluez python-decorator python-mutagen"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "  python-scipy tinymce xdotool"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "Use 'apt-get autoremove' to remove them."
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.081021,
+      "The following packages have been kept back:"
+    ],
+    [
+      0.000186,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  libavcodec54 libavformat54 linux-kernel-generic virtualbox-guest-dkms"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  virtualbox-guest-utils virtualbox-guest-x11"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.008713,
+      "The following packages will be upgraded:"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "  base-files ca-certificates glib-networking glib-networking-common"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  glib-networking-services grub-common grub-pc grub-pc-bin grub2-common"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libegl1-mesa libegl1-mesa-drivers libgbm1 libgl1-mesa-dri libgl1-mesa-glx"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  libglapi-mesa libgles2-mesa libgnutls-openssl27 libgnutls26 libopenvg1-mesa"
+    ],
+    [
+      0.003860,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "  libssl-dev libssl1.0.0 libwayland-egl1-mesa libxatracker2 linux-firmware"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  linux-libc-dev openssl pm-utils syslinux-themes-linuxmint-cinnamon"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "  xserver-xorg-video-intel"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.030562,
+      "29 upgraded, 0 newly installed, 0 to remove and 6 not upgraded."
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.131818,
+      "Need to get 7,685 kB/39.4 MB of archives."
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "After this operation, 20.1 MB of additional disk space will be used."
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "Do you want to continue?"
+    ],
+    [
+      0.000135,
+      " [Y/n] "
+    ],
+    [
+      2.448836,
+      "\r\n"
+    ],
+    [
+      0.040479,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.270507,
+      "\r            \rGet:1 http://mirror.csclub.uwaterloo.ca/linuxmint-packages/ rosa/main syslinux-themes-linuxmint-cinnamon all 1.1.0 [43.6 kB]"
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.000388,
+      "\r            \r0% [Waiting for headers] [1 syslinux-themes-linuxmint-cinnamon 0 B/43.6 kB 0%]"
+    ],
+    [
+      0.087832,
+      "\r                                                                              \rGet:2 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main base-files i386 7.2ubuntu5.4 [67.6 kB]"
+    ],
+    [
+      0.000448,
+      "\r\n"
+    ],
+    [
+      0.000409,
+      "\r                                                                              \r0% [2 base-files 0 B/67.6 kB 0%] [1 syslinux-themes-linuxmint-cinnamon 14.1 kB/"
+    ],
+    [
+      0.440411,
+      "\r                                                                               \r1% [2 base-files 43.0 kB/67.6 kB 64%]"
+    ],
+    [
+      0.501128,
+      "\r1% [2 base-files 47.3 kB/67.6 kB 70%]"
+    ],
+    [
+      0.501138,
+      "\r1% [2 base-files 47.3 kB/67.6 kB 70%]"
+    ],
+    [
+      0.500911,
+      "\r1% [2 base-files 47.3 kB/67.6 kB 70%]"
+    ],
+    [
+      0.500716,
+      "\r1% [2 base-files 47.3 kB/67.6 kB 70%]"
+    ],
+    [
+      0.302271,
+      "\r                                     \r1% [Working]"
+    ],
+    [
+      0.072458,
+      "\r            \rGet:3 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main libgnutls-openssl27 i386 2.12.23-12ubuntu2.5 [18.4 kB]"
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.000435,
+      "\r            \r1% [3 libgnutls-openssl27 0 B/18.4 kB 0%]"
+    ],
+    [
+      0.161313,
+      "\r                                         \r2% [Working]"
+    ],
+    [
+      0.047098,
+      "\r            \rGet:4 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main libgnutls26 i386 2.12.23-12ubuntu2.5 [375 kB]"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "\r            \r2% [4 libgnutls26 0 B/375 kB 0%]"
+    ],
+    [
+      0.500974,
+      "\r                                \r3% [4 libgnutls26 81.9 kB/375 kB 22%]"
+    ],
+    [
+      0.501095,
+      "\r                                     \r4% [4 libgnutls26 139 kB/375 kB 37%]"
+    ],
+    [
+      0.501107,
+      "\r5% [4 libgnutls26 242 kB/375 kB 64%]"
+    ],
+    [
+      0.501103,
+      "\r6% [4 libgnutls26 322 kB/375 kB 86%]"
+    ],
+    [
+      0.317159,
+      "\r                                    \r7% [Working]"
+    ],
+    [
+      0.067928,
+      "\r            \rGet:5 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main libssl-dev i386 1.0.1f-1ubuntu2.17 [993 kB]"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.000347,
+      "\r            \r7% [5 libssl-dev 0 B/993 kB 0%]"
+    ],
+    [
+      0.501033,
+      "\r                               \r8% [5 libssl-dev 83.3 kB/993 kB 8%]                          93.4 kB/s 1min 15s"
+    ],
+    [
+      0.501147,
+      "\r9% [5 libssl-dev 164 kB/993 kB 17%]                          93.4 kB/s 1min 15s"
+    ],
+    [
+      0.501274,
+      "\r10% [5 libssl-dev 245 kB/993 kB 25%]                         93.4 kB/s 1min 14s"
+    ],
+    [
+      0.501212,
+      "\r11% [5 libssl-dev 327 kB/993 kB 33%]                         93.4 kB/s 1min 13s"
+    ],
+    [
+      0.501132,
+      "\r12% [5 libssl-dev 407 kB/993 kB 41%]                         93.4 kB/s 1min 12s"
+    ],
+    [
+      0.501120,
+      "\r13% [5 libssl-dev 489 kB/993 kB 49%]                         93.4 kB/s 1min 11s"
+    ],
+    [
+      0.501141,
+      "\r14% [5 libssl-dev 570 kB/993 kB 57%]                         93.4 kB/s 1min 10s"
+    ],
+    [
+      0.501134,
+      "\r15% [5 libssl-dev 651 kB/993 kB 66%]                          93.4 kB/s 1min 9s"
+    ],
+    [
+      0.501138,
+      "\r16% [5 libssl-dev 731 kB/993 kB 74%]                          93.4 kB/s 1min 9s"
+    ],
+    [
+      0.501134,
+      "\r17% [5 libssl-dev 813 kB/993 kB 82%]                          93.4 kB/s 1min 8s"
+    ],
+    [
+      0.501168,
+      "\r18% [5 libssl-dev 881 kB/993 kB 89%]                          93.4 kB/s 1min 7s"
+    ],
+    [
+      0.501151,
+      "\r19% [5 libssl-dev 976 kB/993 kB 98%]                          93.4 kB/s 1min 6s"
+    ],
+    [
+      0.101066,
+      "\r19% [Working]                                                 93.4 kB/s 1min 6s"
+    ],
+    [
+      0.044610,
+      "\r                                                                               \rGet:6 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main libssl1.0.0 i386 1.0.1f-1ubuntu2.17 [780 kB]"
+    ],
+    [
+      0.000334,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "\r19% [6 libssl1.0.0 0 B/780 kB 0%]                             93.4 kB/s 1min 6s"
+    ],
+    [
+      0.501020,
+      "\r21% [6 libssl1.0.0 81.9 kB/780 kB 10%]                             161 kB/s 37s"
+    ],
+    [
+      0.501133,
+      "\r22% [6 libssl1.0.0 164 kB/780 kB 21%]                              161 kB/s 37s"
+    ],
+    [
+      0.501136,
+      "\r23% [6 libssl1.0.0 245 kB/780 kB 31%]                              161 kB/s 36s"
+    ],
+    [
+      0.501191,
+      "\r24% [6 libssl1.0.0 327 kB/780 kB 42%]                              161 kB/s 36s"
+    ],
+    [
+      0.501188,
+      "\r25% [6 libssl1.0.0 397 kB/780 kB 51%]                              161 kB/s 35s"
+    ],
+    [
+      0.501123,
+      "\r25% [6 libssl1.0.0 448 kB/780 kB 57%]                              161 kB/s 35s"
+    ],
+    [
+      0.501123,
+      "\r26% [6 libssl1.0.0 497 kB/780 kB 64%]                              161 kB/s 35s"
+    ],
+    [
+      0.501128,
+      "\r27% [6 libssl1.0.0 550 kB/780 kB 70%]                              161 kB/s 35s"
+    ],
+    [
+      0.501198,
+      "\r27% [6 libssl1.0.0 586 kB/780 kB 75%]                              161 kB/s 34s"
+    ],
+    [
+      0.501133,
+      "\r28% [6 libssl1.0.0 632 kB/780 kB 81%]                              161 kB/s 34s"
+    ],
+    [
+      0.501216,
+      "\r28% [6 libssl1.0.0 687 kB/780 kB 88%]                              161 kB/s 34s"
+    ],
+    [
+      0.501107,
+      "\r29% [6 libssl1.0.0 730 kB/780 kB 94%]                              161 kB/s 33s"
+    ],
+    [
+      0.376039,
+      "\r30% [Working]                                                      161 kB/s 33s"
+    ],
+    [
+      0.043054,
+      "\r                                                                               \rGet:7 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main openssl i386 1.0.1f-1ubuntu2.17 [480 kB]"
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.000394,
+      "\r30% [7 openssl 0 B/480 kB 0%]                                      161 kB/s 33s"
+    ],
+    [
+      0.501010,
+      "\r31% [7 openssl 81.9 kB/480 kB 17%]                                 121 kB/s 43s"
+    ],
+    [
+      0.501263,
+      "\r32% [7 openssl 162 kB/480 kB 34%]                                  121 kB/s 43s"
+    ],
+    [
+      0.501149,
+      "\r33% [7 openssl 240 kB/480 kB 50%]                                  121 kB/s 42s"
+    ],
+    [
+      0.501137,
+      "\r34% [7 openssl 321 kB/480 kB 67%]                                  121 kB/s 41s"
+    ],
+    [
+      0.501135,
+      "\r35% [7 openssl 397 kB/480 kB 83%]                                  121 kB/s 41s"
+    ],
+    [
+      0.501139,
+      "\r35% [7 openssl 423 kB/480 kB 88%]                                  121 kB/s 41s"
+    ],
+    [
+      0.501122,
+      "\r36% [7 openssl 478 kB/480 kB 99%]                                  121 kB/s 40s"
+    ],
+    [
+      0.012269,
+      "\r36% [Working]                                                      121 kB/s 40s"
+    ],
+    [
+      0.044611,
+      "\r                                                                               \rGet:8 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main ca-certificates all 20160104ubuntu0.14.04.1 [190 kB]"
+    ],
+    [
+      0.000329,
+      "\r\n"
+    ],
+    [
+      0.000399,
+      "\r36% [8 ca-certificates 0 B/190 kB 0%]                              121 kB/s 40s"
+    ],
+    [
+      0.501077,
+      "\r37% [8 ca-certificates 60.3 kB/190 kB 32%]                         121 kB/s 40s"
+    ],
+    [
+      0.501168,
+      "\r38% [8 ca-certificates 141 kB/190 kB 74%]                          121 kB/s 39s"
+    ],
+    [
+      0.298475,
+      "\r38% [Working]                                                      121 kB/s 39s"
+    ],
+    [
+      0.044893,
+      "\r                                                                               \rGet:9 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main glib-networking-services i386 2.40.0-1ubuntu0.1 [13.9 kB]"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\r38% [9 glib-networking-services 0 B/13.9 kB 0%]                    121 kB/s 39s"
+    ],
+    [
+      0.076350,
+      "\r39% [Working]                                                      121 kB/s 38s"
+    ],
+    [
+      0.044974,
+      "\r                                                                               \rGet:10 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main glib-networking i386 2.40.0-1ubuntu0.1 [39.4 kB]"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.000396,
+      "\r39% [10 glib-networking 0 B/39.4 kB 0%]                            121 kB/s 38s"
+    ],
+    [
+      0.236009,
+      "\r39% [Working]                                                      121 kB/s 38s"
+    ],
+    [
+      0.045344,
+      "\r                                                                               \rGet:11 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main glib-networking-common all 2.40.0-1ubuntu0.1 [9,254 B]"
+    ],
+    [
+      0.000330,
+      "\r\n"
+    ],
+    [
+      0.000399,
+      "\r39% [11 glib-networking-common 0 B/9,254 B 0%]                     121 kB/s 38s"
+    ],
+    [
+      0.048574,
+      "\r39% [Working]                                                      121 kB/s 38s"
+    ],
+    [
+      0.043095,
+      "\r                                                                               \rGet:12 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main grub-pc i386 2.02~beta2-9ubuntu1.7 [173 kB]"
+    ],
+    [
+      0.000336,
+      "\r\n"
+    ],
+    [
+      0.000399,
+      "\r39% [12 grub-pc 0 B/173 kB 0%]                                     121 kB/s 38s"
+    ],
+    [
+      0.500999,
+      "\r40% [12 grub-pc 81.9 kB/173 kB 47%]                                121 kB/s 37s"
+    ],
+    [
+      0.501135,
+      "\r41% [12 grub-pc 162 kB/173 kB 94%]                                 121 kB/s 37s"
+    ],
+    [
+      0.060319,
+      "\r41% [Working]                                                      121 kB/s 37s"
+    ],
+    [
+      0.044790,
+      "\r                                                                               \rGet:13 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main grub-pc-bin i386 2.02~beta2-9ubuntu1.7 [890 kB]"
+    ],
+    [
+      0.000330,
+      "\r\n"
+    ],
+    [
+      0.000398,
+      "\r41% [13 grub-pc-bin 0 B/890 kB 0%]                                 137 kB/s 32s"
+    ],
+    [
+      0.501008,
+      "\r42% [13 grub-pc-bin 81.9 kB/890 kB 9%]                             137 kB/s 32s"
+    ],
+    [
+      0.501120,
+      "\r44% [13 grub-pc-bin 164 kB/890 kB 18%]                             137 kB/s 31s"
+    ],
+    [
+      0.501213,
+      "\r45% [13 grub-pc-bin 245 kB/890 kB 27%]                             137 kB/s 31s"
+    ],
+    [
+      0.501122,
+      "\r46% [13 grub-pc-bin 327 kB/890 kB 37%]                             137 kB/s 30s"
+    ],
+    [
+      0.501130,
+      "\r47% [13 grub-pc-bin 409 kB/890 kB 46%]                             137 kB/s 29s"
+    ],
+    [
+      0.501139,
+      "\r48% [13 grub-pc-bin 489 kB/890 kB 55%]                             137 kB/s 29s"
+    ],
+    [
+      0.501131,
+      "\r49% [13 grub-pc-bin 567 kB/890 kB 64%]                             137 kB/s 28s"
+    ],
+    [
+      0.501129,
+      "\r50% [13 grub-pc-bin 646 kB/890 kB 73%]                             137 kB/s 28s"
+    ],
+    [
+      0.501139,
+      "\r51% [13 grub-pc-bin 724 kB/890 kB 81%]                             137 kB/s 27s"
+    ],
+    [
+      0.501209,
+      "\r52% [13 grub-pc-bin 802 kB/890 kB 90%]                             137 kB/s 27s"
+    ],
+    [
+      0.501130,
+      "\r53% [13 grub-pc-bin 880 kB/890 kB 99%]                             137 kB/s 26s"
+    ],
+    [
+      0.061545,
+      "\r53% [Working]                                                      137 kB/s 26s"
+    ],
+    [
+      0.044593,
+      "\r                                                                               \rGet:14 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main grub2-common i386 2.02~beta2-9ubuntu1.7 [514 kB]"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "\r53% [14 grub2-common 0 B/514 kB 0%]                                137 kB/s 26s"
+    ],
+    [
+      0.501017,
+      "\r54% [14 grub2-common 81.9 kB/514 kB 16%]                           159 kB/s 22s"
+    ],
+    [
+      0.501133,
+      "\r55% [14 grub2-common 164 kB/514 kB 32%]                            159 kB/s 21s"
+    ],
+    [
+      0.501158,
+      "\r56% [14 grub2-common 245 kB/514 kB 48%]                            159 kB/s 21s"
+    ],
+    [
+      0.501141,
+      "\r57% [14 grub2-common 322 kB/514 kB 63%]                            159 kB/s 20s"
+    ],
+    [
+      0.501150,
+      "\r58% [14 grub2-common 400 kB/514 kB 78%]                            159 kB/s 20s"
+    ],
+    [
+      0.501127,
+      "\r59% [14 grub2-common 485 kB/514 kB 94%]                            159 kB/s 19s"
+    ],
+    [
+      0.176499,
+      "\r60% [Working]                                                      159 kB/s 19s"
+    ],
+    [
+      0.044629,
+      "\r                                                                               \rGet:15 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main grub-common i386 2.02~beta2-9ubuntu1.7 [1,674 kB]"
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.000404,
+      "\r60% [15 grub-common 0 B/1,674 kB 0%]                               159 kB/s 19s"
+    ],
+    [
+      0.501077,
+      "\r61% [15 grub-common 81.9 kB/1,674 kB 5%]                           159 kB/s 18s"
+    ],
+    [
+      0.501172,
+      "\r62% [15 grub-common 164 kB/1,674 kB 10%]                           159 kB/s 18s"
+    ],
+    [
+      0.501197,
+      "\r63% [15 grub-common 246 kB/1,674 kB 15%]                           159 kB/s 17s"
+    ],
+    [
+      0.501130,
+      "\r64% [15 grub-common 327 kB/1,674 kB 20%]                           159 kB/s 17s"
+    ],
+    [
+      0.501436,
+      "\r65% [15 grub-common 400 kB/1,674 kB 24%]                           159 kB/s 16s"
+    ],
+    [
+      0.500781,
+      "\r66% [15 grub-common 491 kB/1,674 kB 29%]                           159 kB/s 16s"
+    ],
+    [
+      0.501136,
+      "\r67% [15 grub-common 571 kB/1,674 kB 34%]                           161 kB/s 15s"
+    ],
+    [
+      0.501140,
+      "\r68% [15 grub-common 654 kB/1,674 kB 39%]                           161 kB/s 15s"
+    ],
+    [
+      0.501219,
+      "\r69% [15 grub-common 734 kB/1,674 kB 44%]                           161 kB/s 14s"
+    ],
+    [
+      0.500851,
+      "\r70% [15 grub-common 816 kB/1,674 kB 49%]                           161 kB/s 14s"
+    ],
+    [
+      0.501148,
+      "\r71% [15 grub-common 898 kB/1,674 kB 54%]                           161 kB/s 13s"
+    ],
+    [
+      0.501147,
+      "\r72% [15 grub-common 979 kB/1,674 kB 58%]                           161 kB/s 13s"
+    ],
+    [
+      0.501170,
+      "\r74% [15 grub-common 1,061 kB/1,674 kB 63%]                         161 kB/s 12s"
+    ],
+    [
+      0.501118,
+      "\r75% [15 grub-common 1,143 kB/1,674 kB 68%]                         161 kB/s 12s"
+    ],
+    [
+      0.501130,
+      "\r76% [15 grub-common 1,224 kB/1,674 kB 73%]                         161 kB/s 11s"
+    ],
+    [
+      0.501135,
+      "\r77% [15 grub-common 1,306 kB/1,674 kB 78%]                         161 kB/s 11s"
+    ],
+    [
+      0.501143,
+      "\r78% [15 grub-common 1,386 kB/1,674 kB 83%]                         161 kB/s 10s"
+    ],
+    [
+      0.501139,
+      "\r79% [15 grub-common 1,469 kB/1,674 kB 88%]                         161 kB/s 10s"
+    ],
+    [
+      0.501141,
+      "\r80% [15 grub-common 1,551 kB/1,674 kB 93%]                          163 kB/s 9s"
+    ],
+    [
+      0.501167,
+      "\r81% [15 grub-common 1,630 kB/1,674 kB 97%]                          163 kB/s 9s"
+    ],
+    [
+      0.282086,
+      "\r81% [Working]                                                       163 kB/s 8s"
+    ],
+    [
+      0.044486,
+      "\r                                                                               \rGet:16 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main linux-libc-dev i386 3.13.0-79.123 [775 kB]"
+    ],
+    [
+      0.000331,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "\r81% [16 linux-libc-dev 0 B/775 kB 0%]                               163 kB/s 8s"
+    ],
+    [
+      0.501012,
+      "\r83% [16 linux-libc-dev 81.9 kB/775 kB 11%]                          163 kB/s 8s"
+    ],
+    [
+      0.501130,
+      "\r84% [16 linux-libc-dev 164 kB/775 kB 21%]                           163 kB/s 7s"
+    ],
+    [
+      0.501203,
+      "\r85% [16 linux-libc-dev 245 kB/775 kB 32%]                           163 kB/s 7s"
+    ],
+    [
+      0.500754,
+      "\r86% [16 linux-libc-dev 327 kB/775 kB 42%]                           163 kB/s 6s"
+    ],
+    [
+      0.501141,
+      "\r87% [16 linux-libc-dev 407 kB/775 kB 53%]                           163 kB/s 6s"
+    ],
+    [
+      0.501139,
+      "\r88% [16 linux-libc-dev 489 kB/775 kB 63%]                           163 kB/s 5s"
+    ],
+    [
+      0.501129,
+      "\r89% [16 linux-libc-dev 571 kB/775 kB 74%]                           163 kB/s 5s"
+    ],
+    [
+      0.501183,
+      "\r90% [16 linux-libc-dev 652 kB/775 kB 84%]                           163 kB/s 4s"
+    ],
+    [
+      0.501146,
+      "\r91% [16 linux-libc-dev 734 kB/775 kB 95%]                           163 kB/s 4s"
+    ],
+    [
+      0.250100,
+      "\r92% [Working]                                                       163 kB/s 3s"
+    ],
+    [
+      0.042754,
+      "\r                                                                               \rGet:17 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main pm-utils all 1.4.1-13ubuntu0.2 [51.0 kB]"
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.000399,
+      "\r92% [17 pm-utils 0 B/51.0 kB 0%]                                    163 kB/s 3s"
+    ],
+    [
+      0.306859,
+      "\r92% [Working]                                                       163 kB/s 3s"
+    ],
+    [
+      0.060990,
+      "\r                                                                               \rGet:18 http://mirrors.liquidweb.com/ubuntu/ trusty-updates/main xserver-xorg-video-intel i386 2:2.99.910-0ubuntu1.6 [597 kB]"
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.000386,
+      "\r92% [18 xserver-xorg-video-intel 0 B/597 kB 0%]                     158 kB/s 3s"
+    ],
+    [
+      0.501014,
+      "\r93% [18 xserver-xorg-video-intel 81.9 kB/597 kB 14%]                158 kB/s 3s"
+    ],
+    [
+      0.501141,
+      "\r94% [18 xserver-xorg-video-intel 164 kB/597 kB 27%]                 158 kB/s 2s"
+    ],
+    [
+      0.501147,
+      "\r95% [18 xserver-xorg-video-intel 245 kB/597 kB 41%]                 158 kB/s 2s"
+    ],
+    [
+      0.501132,
+      "\r96% [18 xserver-xorg-video-intel 327 kB/597 kB 55%]                 158 kB/s 1s"
+    ],
+    [
+      0.501147,
+      "\r98% [18 xserver-xorg-video-intel 409 kB/597 kB 68%]                 158 kB/s 1s"
+    ],
+    [
+      0.501132,
+      "\r99% [18 xserver-xorg-video-intel 489 kB/597 kB 82%]                 158 kB/s 0s"
+    ],
+    [
+      0.501142,
+      "\r100% [18 xserver-xorg-video-intel 571 kB/597 kB 96%]                158 kB/s 0s"
+    ],
+    [
+      0.156319,
+      "\r100% [Working]                                                      158 kB/s 0s"
+    ],
+    [
+      0.000443,
+      "\r                                                                               \r"
+    ],
+    [
+      0.000329,
+      "Fetched 7,685 kB in 52s (145 kB/s)"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      1.539861,
+      "Preconfiguring packages ..."
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      3.089079,
+      "(Reading database ... \r"
+    ],
+    [
+      0.129883,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000358,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000415,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000308,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000265,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000445,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000304,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000287,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000285,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000263,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      1.315659,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      1.519316,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.545975,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.347117,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.327445,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.321159,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.391273,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      1.657449,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      2.764684,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      2.729286,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000442,
+      "(Reading database ... "
+    ],
+    [
+      0.000332,
+      "430501 files and directories currently installed.)"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.094647,
+      "Preparing to unpack .../base-files_7.2ubuntu5.4_i386.deb ..."
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.286666,
+      "Unpacking base-files (7.2ubuntu5.4) over (7.2ubuntu5.2) ..."
+    ],
+    [
+      0.000405,
+      "\r\n"
+    ],
+    [
+      1.323609,
+      "Processing triggers for mintsystem (8.1.6) ..."
+    ],
+    [
+      0.000425,
+      "\r\n"
+    ],
+    [
+      1.126834,
+      "Processing triggers for plymouth-theme-ubuntu-text (0.8.8-0ubuntu17.1) ..."
+    ],
+    [
+      0.000258,
+      "\r\n"
+    ],
+    [
+      1.124351,
+      "update-initramfs: deferring update (trigger activated)"
+    ],
+    [
+      0.000508,
+      "\r\n"
+    ],
+    [
+      0.184182,
+      "Processing triggers for install-info (5.2.0.dfsg.1-2) ...\r\n"
+    ],
+    [
+      0.997253,
+      "Processing triggers for cracklib-runtime (2.9.1-1build1) ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.356481,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.332906,
+      "Processing triggers for initramfs-tools (0.103ubuntu4.2) ..."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.136579,
+      "update-initramfs: Generating /boot/initrd.img-3.13.0-24-generic"
+    ],
+    [
+      0.000418,
+      "\r\n"
+    ],
+    [
+      21.496637,
+      "Warning: No support for locale: en_US.utf8"
+    ],
+    [
+      0.000456,
+      "\r\n"
+    ],
+    [
+      17.110563,
+      "Setting up base-files (7.2ubuntu5.4) ..."
+    ],
+    [
+      0.000230,
+      "\r\n"
+    ],
+    [
+      0.398982,
+      "\r\nConfiguration file '/etc/issue'\r\n ==\u003e Modified (by you or by a script) since installation.\r\n ==\u003e Package distributor has shipped an updated version.\r\n   What would you like to do about it ?  Your options are:\r\n    Y or I  : install the package maintainer's version\r\n    N or O  : keep your currently-installed version\r\n      D     : show the differences between the versions\r\n      Z     : start a shell to examine the situation\r\n The default action is to keep your current version.\r\n*** issue (Y/I/N/O/D/Z) [default=N] ? "
+    ],
+    [
+      19.223331,
+      "\r\n"
+    ],
+    [
+      0.219756,
+      "\r\nConfiguration file '/etc/issue.net'\r\n ==\u003e Modified (by you or by a script) since installation.\r\n ==\u003e Package distributor has shipped an updated version.\r\n   What would you like to do about it ?  Your options are:\r\n    Y or I  : install the package maintainer's version\r\n    N or O  : keep your currently-installed version\r\n      D     : show the differences between the versions\r\n      Z     : start a shell to examine the situation\r\n The default action is to keep your current version.\r\n*** issue.net (Y/I/N/O/D/Z) [default=N] ? "
+    ],
+    [
+      3.602020,
+      "n"
+    ],
+    [
+      0.923891,
+      "\r\n"
+    ],
+    [
+      0.214850,
+      "\r\nConfiguration file '/etc/lsb-release'\r\n ==\u003e Modified (by you or by a script) since installation.\r\n ==\u003e Package distributor has shipped an updated version.\r\n   What would you like to do about it ?  Your options are:\r\n    Y or I  : install the package maintainer's version\r\n    N or O  : keep your currently-installed version\r\n      D     : show the differences between the versions\r\n      Z     : start a shell to examine the situation\r\n The default action is to keep your current version.\r\n*** lsb-release (Y/I/N/O/D/Z) [default=N] ? "
+    ],
+    [
+      0.757907,
+      "m"
+    ],
+    [
+      2.558211,
+      "\u0008 \u0008"
+    ],
+    [
+      0.422554,
+      "\r\n"
+    ],
+    [
+      0.291743,
+      "Installing new version of config file /etc/os-release ...\r\n"
+    ],
+    [
+      0.426606,
+      "Processing triggers for mintsystem (8.1.6) ..."
+    ],
+    [
+      0.000493,
+      "\r\n"
+    ],
+    [
+      1.132569,
+      "Processing triggers for plymouth-theme-ubuntu-text (0.8.8-0ubuntu17.1) ...\r\n"
+    ],
+    [
+      0.419932,
+      "update-initramfs: deferring update (trigger activated)"
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.162626,
+      "Processing triggers for initramfs-tools (0.103ubuntu4.2) ...\r\n"
+    ],
+    [
+      0.081291,
+      "update-initramfs: Generating /boot/initrd.img-3.13.0-24-generic"
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      11.774466,
+      "Warning: No support for locale: en_US.utf8"
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      13.610254,
+      "(Reading database ... \r"
+    ],
+    [
+      0.048893,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000584,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000472,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000544,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000486,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000524,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000525,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000566,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.002099,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000267,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.030880,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.053351,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.038157,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.006625,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.005356,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.019131,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.013094,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.029653,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.313670,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.038931,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000211,
+      "(Reading database ... "
+    ],
+    [
+      0.000150,
+      "430501 files and directories currently installed.)"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.070087,
+      "Preparing to unpack .../libgnutls-openssl27_2.12.23-12ubuntu2.5_i386.deb ..."
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.206185,
+      "Unpacking libgnutls-openssl27:i386 (2.12.23-12ubuntu2.5) over (2.12.23-12ubuntu2.4) ...\r\n"
+    ],
+    [
+      0.921087,
+      "Preparing to unpack .../libgnutls26_2.12.23-12ubuntu2.5_i386.deb ..."
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.202742,
+      "Unpacking libgnutls26:i386 (2.12.23-12ubuntu2.5) over (2.12.23-12ubuntu2.4) ...\r\n"
+    ],
+    [
+      1.146348,
+      "Setting up libgnutls26:i386 (2.12.23-12ubuntu2.5) ..."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.379582,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.7) ...\r\n"
+    ],
+    [
+      1.243685,
+      "(Reading database ... \r"
+    ],
+    [
+      0.041290,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000660,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000654,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000552,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000486,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000535,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000529,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000508,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000519,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000555,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.062712,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.057186,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.036243,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.006585,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.005497,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.019085,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.012781,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.029772,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.313818,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.038750,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000210,
+      "(Reading database ... "
+    ],
+    [
+      0.000141,
+      "430501 files and directories currently installed.)"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.072876,
+      "Preparing to unpack .../libssl-dev_1.0.1f-1ubuntu2.17_i386.deb ..."
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.208434,
+      "Unpacking libssl-dev:i386 (1.0.1f-1ubuntu2.17) over (1.0.1f-1ubuntu2.16) ...\r\n"
+    ],
+    [
+      1.654389,
+      "Preparing to unpack .../libssl1.0.0_1.0.1f-1ubuntu2.17_i386.deb ..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.208851,
+      "Unpacking libssl1.0.0:i386 (1.0.1f-1ubuntu2.17) over (1.0.1f-1ubuntu2.16) ...\r\n"
+    ],
+    [
+      1.383847,
+      "Setting up libssl1.0.0:i386 (1.0.1f-1ubuntu2.17) ..."
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      1.133743,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.7) ...\r\n"
+    ],
+    [
+      1.257536,
+      "(Reading database ... \r"
+    ],
+    [
+      0.046818,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000598,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000461,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000608,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000503,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000525,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000536,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000504,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000515,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000472,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.062453,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.066653,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.035112,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.006567,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.005127,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.018907,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.012688,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.029849,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.311904,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.038838,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000211,
+      "(Reading database ... "
+    ],
+    [
+      0.000141,
+      "430501 files and directories currently installed.)"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.071750,
+      "Preparing to unpack .../libgl1-mesa-dri_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.224467,
+      "Unpacking libgl1-mesa-dri:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      3.446810,
+      "Preparing to unpack .../libgbm1_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.237026,
+      "Unpacking libgbm1:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      1.064579,
+      "Preparing to unpack .../libgl1-mesa-glx_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.235187,
+      "Unpacking libgl1-mesa-glx:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.994657,
+      "Preparing to unpack .../libgles2-mesa_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.241123,
+      "Unpacking libgles2-mesa:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.978628,
+      "Preparing to unpack .../libwayland-egl1-mesa_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.241178,
+      "Unpacking libwayland-egl1-mesa:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.790576,
+      "Preparing to unpack .../libegl1-mesa-drivers_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000229,
+      "\r\n"
+    ],
+    [
+      0.225145,
+      "Unpacking libegl1-mesa-drivers:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      1.586739,
+      "Preparing to unpack .../libglapi-mesa_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.240971,
+      "Unpacking libglapi-mesa:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      2.402903,
+      "Preparing to unpack .../libopenvg1-mesa_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.220990,
+      "Unpacking libopenvg1-mesa:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      1.073415,
+      "Preparing to unpack .../libegl1-mesa_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000240,
+      "\r\n"
+    ],
+    [
+      0.233932,
+      "Unpacking libegl1-mesa:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      1.018224,
+      "Preparing to unpack .../libxatracker2_10.1.3-0ubuntu0.6_i386.deb ..."
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.226135,
+      "Unpacking libxatracker2:i386 (10.1.3-0ubuntu0.6) over (10.1.3-0ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.962344,
+      "Preparing to unpack .../openssl_1.0.1f-1ubuntu2.17_i386.deb ..."
+    ],
+    [
+      0.000228,
+      "\r\n"
+    ],
+    [
+      0.233161,
+      "Unpacking openssl (1.0.1f-1ubuntu2.17) over (1.0.1f-1ubuntu2.16) ...\r\n"
+    ],
+    [
+      1.506959,
+      "Preparing to unpack .../ca-certificates_20160104ubuntu0.14.04.1_all.deb ..."
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.228501,
+      "Unpacking ca-certificates (20160104ubuntu0.14.04.1) over (20141019ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      1.307077,
+      "Preparing to unpack .../glib-networking-services_2.40.0-1ubuntu0.1_i386.deb ..."
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.209063,
+      "Unpacking glib-networking-services (2.40.0-1ubuntu0.1) over (2.40.0-1) ...\r\n"
+    ],
+    [
+      0.816081,
+      "Preparing to unpack .../glib-networking_2.40.0-1ubuntu0.1_i386.deb ..."
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.207598,
+      "Unpacking glib-networking:i386 (2.40.0-1ubuntu0.1) over (2.40.0-1) ...\r\n"
+    ],
+    [
+      0.885033,
+      "Preparing to unpack .../glib-networking-common_2.40.0-1ubuntu0.1_all.deb ..."
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.222826,
+      "Unpacking glib-networking-common (2.40.0-1ubuntu0.1) over (2.40.0-1) ...\r\n"
+    ],
+    [
+      1.041411,
+      "Preparing to unpack .../grub-pc_2.02~beta2-9ubuntu1.7_i386.deb ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.256854,
+      "Unpacking grub-pc (2.02~beta2-9ubuntu1.7) over (2.02~beta2-9ubuntu1) ..."
+    ],
+    [
+      0.000417,
+      "\r\n"
+    ],
+    [
+      0.804752,
+      "Preparing to unpack .../grub-pc-bin_2.02~beta2-9ubuntu1.7_i386.deb ..."
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.224050,
+      "Unpacking grub-pc-bin (2.02~beta2-9ubuntu1.7) over (2.02~beta2-9ubuntu1) ...\r\n"
+    ],
+    [
+      1.252946,
+      "Preparing to unpack .../grub2-common_2.02~beta2-9ubuntu1.7_i386.deb ..."
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.212825,
+      "Unpacking grub2-common (2.02~beta2-9ubuntu1.7) over (2.02~beta2-9ubuntu1) ...\r\n"
+    ],
+    [
+      2.568677,
+      "Preparing to unpack .../grub-common_2.02~beta2-9ubuntu1.7_i386.deb ..."
+    ],
+    [
+      0.000229,
+      "\r\n"
+    ],
+    [
+      0.385138,
+      "Unpacking grub-common (2.02~beta2-9ubuntu1.7) over (2.02~beta2-9ubuntu1) ..."
+    ],
+    [
+      0.000420,
+      "\r\n"
+    ],
+    [
+      1.978774,
+      "Preparing to unpack .../linux-firmware_1.127.20_all.deb ..."
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.236471,
+      "Unpacking linux-firmware (1.127.20) over (1.127.11) ...\r\n"
+    ],
+    [
+      12.185515,
+      "Preparing to unpack .../linux-libc-dev_3.13.0-79.123_i386.deb ..."
+    ],
+    [
+      0.000222,
+      "\r\n"
+    ],
+    [
+      0.206290,
+      "Unpacking linux-libc-dev:i386 (3.13.0-79.123) over (3.13.0-45.74) ...\r\n"
+    ],
+    [
+      1.795396,
+      "Preparing to unpack .../pm-utils_1.4.1-13ubuntu0.2_all.deb ..."
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.244398,
+      "Unpacking pm-utils (1.4.1-13ubuntu0.2) over (1.4.1-13ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.906498,
+      "Preparing to unpack .../syslinux-themes-linuxmint-cinnamon_1.1.0_all.deb ..."
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.213413,
+      "Unpacking syslinux-themes-linuxmint-cinnamon (1.1.0) over (1.0.3) ...\r\n"
+    ],
+    [
+      0.025833,
+      "dpkg: error processing archive /var/cache/apt/archives/syslinux-themes-linuxmint-cinnamon_1.1.0_all.deb (--unpack):"
+    ],
+    [
+      0.006318,
+      "\r\n"
+    ],
+    [
+      0.000349,
+      " trying to overwrite '/usr/share/syslinux/themes/linuxmint-cinnamon/isolinux-live/splash.png', which is also in package syslinux-themes-linuxmint-cinnamon-petra 1.0.3"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.512551,
+      "Preparing to unpack .../xserver-xorg-video-intel_2%3a2.99.910-0ubuntu1.6_i386.deb ..."
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.206466,
+      "Unpacking xserver-xorg-video-intel (2:2.99.910-0ubuntu1.6) over (2:2.99.910-0ubuntu1.4) ...\r\n"
+    ],
+    [
+      0.699109,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000419,
+      "\r\n"
+    ],
+    [
+      4.759748,
+      "Processing triggers for libglib2.0-0:i386 (2.40.2-0ubuntu1) ..."
+    ],
+    [
+      0.000262,
+      "\r\n"
+    ],
+    [
+      0.240220,
+      "Processing triggers for install-info (5.2.0.dfsg.1-2) ..."
+    ],
+    [
+      0.000492,
+      "\r\n"
+    ],
+    [
+      0.426672,
+      "Processing triggers for ureadahead (0.100.0-16) ..."
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.088579,
+      "ureadahead will be reprofiled on next reboot"
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.455654,
+      "Errors were encountered while processing:"
+    ],
+    [
+      0.000556,
+      "\r\n"
+    ],
+    [
+      0.000337,
+      " /var/cache/apt/archives/syslinux-themes-linuxmint-cinnamon_1.1.0_all.deb"
+    ],
+    [
+      0.000268,
+      "\r\n"
+    ],
+    [
+      2.242857,
+      "E"
+    ],
+    [
+      0.000481,
+      ": "
+    ],
+    [
+      0.000224,
+      "Sub-process /usr/bin/dpkg returned an error code (1)"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      0.015559,
+      "\u001b[01;32mjohnblood@johnblood-HP-Compaq-nx6325-RM158UT-ABA\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      4.077755,
+      "W"
+    ],
+    [
+      0.200493,
+      "e"
+    ],
+    [
+      0.113629,
+      " "
+    ],
+    [
+      0.096870,
+      "a"
+    ],
+    [
+      0.140360,
+      "r"
+    ],
+    [
+      0.091306,
+      "e"
+    ],
+    [
+      0.090117,
+      " "
+    ],
+    [
+      0.330821,
+      "n"
+    ],
+    [
+      0.180557,
+      "o"
+    ],
+    [
+      0.130491,
+      "w"
+    ],
+    [
+      0.093252,
+      " "
+    ],
+    [
+      0.238371,
+      "d"
+    ],
+    [
+      0.340824,
+      "o"
+    ],
+    [
+      0.170317,
+      "w"
+    ],
+    [
+      1.013791,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.250451,
+      "n"
+    ],
+    [
+      0.151648,
+      "e"
+    ],
+    [
+      0.852752,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500050,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033123,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033031,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033292,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033536,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033733,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034024,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033915,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033659,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032823,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032897,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032923,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034020,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033130,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033078,
+      "\u0007"
+    ],
+    [
+      0.032957,
+      "\u0007"
+    ],
+    [
+      0.032987,
+      "\u0007"
+    ],
+    [
+      0.033128,
+      "\u0007"
+    ],
+    [
+      0.033444,
+      "\u0007"
+    ],
+    [
+      0.033488,
+      "\u0007"
+    ],
+    [
+      0.032977,
+      "\u0007"
+    ],
+    [
+      1.392855,
+      "M"
+    ],
+    [
+      0.381108,
+      "y"
+    ],
+    [
+      0.080278,
+      " "
+    ],
+    [
+      3.191742,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.210458,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.210495,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.230445,
+      "\u0007"
+    ],
+    [
+      0.300949,
+      "e"
+    ],
+    [
+      0.321680,
+      "x"
+    ],
+    [
+      0.230806,
+      "i"
+    ],
+    [
+      0.170125,
+      "t"
+    ],
+    [
+      0.151851,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
