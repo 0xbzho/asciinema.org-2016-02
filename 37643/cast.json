@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 21,
+  "duration": 5.544471,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.034854,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.469537,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "\u001b]0;~/dockerfiles/h2load\u0007\u001b[1m\r\r\n\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~/dockerfiles/h2load\u001b[97m on \u001b[38;5;61mmaster\u001b[38;5;33m\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.247707,
+      "d"
+    ],
+    [
+      0.000009,
+      "oc"
+    ],
+    [
+      0.000017,
+      "ke"
+    ],
+    [
+      0.000017,
+      "r"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000019,
+      "u"
+    ],
+    [
+      0.000017,
+      "n"
+    ],
+    [
+      0.000016,
+      " "
+    ],
+    [
+      0.000030,
+      "-"
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.000013,
+      "r"
+    ],
+    [
+      0.000012,
+      "m"
+    ],
+    [
+      0.000012,
+      " "
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000023,
+      "t "
+    ],
+    [
+      0.000010,
+      "s"
+    ],
+    [
+      0.000086,
+      "vagi/"
+    ],
+    [
+      0.000005,
+      "h"
+    ],
+    [
+      0.000006,
+      "2"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000036,
+      "oa"
+    ],
+    [
+      0.000004,
+      "d"
+    ],
+    [
+      0.000017,
+      " "
+    ],
+    [
+      0.000028,
+      "h"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000017,
+      "t"
+    ],
+    [
+      0.000025,
+      "p"
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000014,
+      ":"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000017,
+      "/"
+    ],
+    [
+      0.000031,
+      "h"
+    ],
+    [
+      0.000016,
+      "u"
+    ],
+    [
+      0.000013,
+      "b"
+    ],
+    [
+      0.000017,
+      "."
+    ],
+    [
+      0.000014,
+      "d"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000019,
+      "c"
+    ],
+    [
+      0.000010,
+      "k"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000039,
+      "r"
+    ],
+    [
+      0.000017,
+      "."
+    ],
+    [
+      0.000002,
+      "c"
+    ],
+    [
+      0.000026,
+      "om"
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      0.982428,
+      "\r\n"
+    ],
+    [
+      0.210697,
+      "starting benchmark...\r\r\nspawning thread #0: 1 total client(s). 1 total requests\r\r\n"
+    ],
+    [
+      0.529593,
+      "TLS Protocol: TLSv1.2\r\r\nCipher: ECDHE-RSA-AES128-GCM-SHA256\r\r\nServer Temp Key: ECDH P-256 256 bits\r\r\nNo protocol negotiated. Fallback behaviour may be activated\r\r\nServer does not support NPN/ALPN. Falling back to HTTP/1.1.\r\r\nApplication protocol: http/1.1\r\r\n"
+    ],
+    [
+      0.714571,
+      "progress: 100% done\r\r\n"
+    ],
+    [
+      0.001398,
+      "\r\r\nfinished in 1.25s, 0.80 req/s, 45.58KB/s\r\r\nrequests: 1 total, 1 started, 1 done, 1 succeeded, 0 failed, 0 errored, 0 timeout\r\r\nstatus codes: 1 2xx, 0 3xx, 0 4xx, 0 5xx\r\r\ntraffic: 56.79KB (58150) total, 293B (293) headers (space savings 0.00%), 56.44KB (57798) data\r\r\n                     min         max         mean         sd        +/- sd\r\r\ntime for request:   714.85ms    714.85ms    714.85ms         0us   100.00%\r\r\ntime for connect:   529.76ms    529.76ms    529.76ms         0us   100.00%\r\r\ntime to 1st byte:   854.41ms    854.41ms    854.41ms         0us   100.00%\r\r\nreq/s           :       0.80        0.80        0.80        0.00   100.00%\r\r\n"
+    ],
+    [
+      0.149203,
+      "\u001b]0;~/dockerfiles/h2load\u0007\u001b[1m\r\r\n\u001b[38;5;166msvagi\u001b[97m at \u001b[38;5;136mlili\u001b[97m in \u001b[38;5;64m~/dockerfiles/h2load\u001b[97m on \u001b[38;5;61mmaster\u001b[38;5;33m\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      1.203078,
+      "exit\r\n"
+    ]
+  ]
+}
