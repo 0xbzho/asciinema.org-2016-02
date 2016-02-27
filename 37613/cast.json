@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 31,
+  "duration": 33.612319,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.040327,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~/Downloads/Temp\u0007markus@UbuntuGnomeDesktop:~/Downloads/Temp$ "
+    ],
+    [
+      2.101140,
+      "w"
+    ],
+    [
+      0.201823,
+      "g"
+    ],
+    [
+      0.154140,
+      "e"
+    ],
+    [
+      0.059979,
+      "t"
+    ],
+    [
+      0.098079,
+      " "
+    ],
+    [
+      1.653516,
+      "https://github.com/gnunn1/terminix/releases/download/0.50.2/ter \rminix.zip"
+    ],
+    [
+      0.223942,
+      "\r\n"
+    ],
+    [
+      0.005906,
+      "--2016-02-27 16:35:24--  https://github.com/gnunn1/terminix/releases/download/0.50.2/terminix.zip\r\n"
+    ],
+    [
+      0.000306,
+      "Auflösen des Hostnamen »github.com (github.com)«... "
+    ],
+    [
+      0.008271,
+      "192.30.252.129"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Verbindungsaufbau zu github.com (github.com)|192.30.252.129|:443... "
+    ],
+    [
+      0.114911,
+      "verbunden.\r\n"
+    ],
+    [
+      0.236111,
+      "HTTP-Anforderung gesendet, warte auf Antwort... "
+    ],
+    [
+      0.644990,
+      "302 Found\r\nPlatz: https://github-cloud.s3.amazonaws.com/releases/48780523/5a3ba364-d997-11e5-8ddd-999b6bbd58f4.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20160227%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20160227T153525Z\u0026X-Amz-Expires=300\u0026X-Amz-Signature=efd0f0679045c73e55f3fc1d7d37c68759218ec41be2fe4abccfa9ce8b896e87\u0026X-Amz-SignedHeaders=host\u0026actor_id=0\u0026response-content-disposition=attachment%3B%20filename%3Dterminix.zip\u0026response-content-type=application%2Foctet-stream [folge]\r\n"
+    ],
+    [
+      0.002654,
+      "--2016-02-27 16:35:25--  https://github-cloud.s3.amazonaws.com/releases/48780523/5a3ba364-d997-11e5-8ddd-999b6bbd58f4.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20160227%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20160227T153525Z\u0026X-Amz-Expires=300\u0026X-Amz-Signature=efd0f0679045c73e55f3fc1d7d37c68759218ec41be2fe4abccfa9ce8b896e87\u0026X-Amz-SignedHeaders=host\u0026actor_id=0\u0026response-content-disposition=attachment%3B%20filename%3Dterminix.zip\u0026response-content-type=application%2Foctet-stream\r\nAuflösen des Hostnamen »github-cloud.s3.amazonaws.com (github-cloud.s3.amazonaws.com)«... "
+    ],
+    [
+      0.007936,
+      "54.231.13.225\r\nVerbindungsaufbau zu github-cloud.s3.amazonaws.com (github-cloud.s3.amazonaws.com)|54.231.13.225|:443... "
+    ],
+    [
+      0.100769,
+      "verbunden.\r\n"
+    ],
+    [
+      0.209393,
+      "HTTP-Anforderung gesendet, warte auf Antwort... "
+    ],
+    [
+      0.232938,
+      "200 OK\r\nLänge: 3350843 (3.2M) [application/octet-stream]\r\nIn »»terminix.zip«« speichern.\r\n\r\n\r 0% [                                                                       ] 0           --.-K/s              "
+    ],
+    [
+      0.201642,
+      "\r 0% [                                                                       ] 25'169       122KB/s             "
+    ],
+    [
+      0.201431,
+      "\r 1% [\u003e                                                                      ] 59'985       145KB/s             "
+    ],
+    [
+      0.200638,
+      "\r 2% [=\u003e                                                                     ] 94'801       153KB/s             "
+    ],
+    [
+      0.201412,
+      "\r 3% [=\u003e                                                                     ] 129'617      157KB/s             "
+    ],
+    [
+      0.201823,
+      "\r 4% [==\u003e                                                                    ] 164'433      160KB/s             "
+    ],
+    [
+      0.201037,
+      "\r 6% [===\u003e                                                                   ] 216'657      175KB/s             "
+    ],
+    [
+      0.201256,
+      "\r 8% [=====\u003e                                                                 ] 286'289      198KB/s             "
+    ],
+    [
+      0.200043,
+      "\r11% [=======\u003e                                                               ] 390'737      237KB/s             "
+    ],
+    [
+      0.201621,
+      "\r16% [==========\u003e                                                            ] 547'409      295KB/s             "
+    ],
+    [
+      0.201350,
+      "\r23% [===============\u003e                                                       ] 773'713      376KB/s             "
+    ],
+    [
+      0.200570,
+      "\r32% [======================\u003e                                                ] 1'087'057    480KB/s             "
+    ],
+    [
+      0.238556,
+      "\r43% [==============================\u003e                                        ] 1'470'033    586KB/s             "
+    ],
+    [
+      0.204316,
+      "\r57% [=======================================\u003e                               ] 1'922'641    707KB/s             "
+    ],
+    [
+      0.213948,
+      "\r74% [===================================================\u003e                   ] 2'479'697    844KB/s             "
+    ],
+    [
+      0.204068,
+      "\r94% [==================================================================\u003e    ] 3'176'017   1009KB/s  ETA 0s     "
+    ],
+    [
+      0.031973,
+      "\r100%[======================================================================\u003e] 3'350'843   1.03MB/s   in 3.1s   \r\n\r\n"
+    ],
+    [
+      0.000005,
+      "2016-02-27 16:35:28 (1.03 MB/s) - »»terminix.zip«« gespeichert [3350843/3350843]\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000725,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~/Downloads/Temp\u0007markus@UbuntuGnomeDesktop:~/Downloads/Temp$ "
+    ],
+    [
+      2.133287,
+      "sudo unzip terminix.zip -d /"
+    ],
+    [
+      0.952442,
+      "\r\n"
+    ],
+    [
+      0.004297,
+      "[sudo] password for markus: "
+    ],
+    [
+      4.461984,
+      "\r\n"
+    ],
+    [
+      0.005362,
+      "Archive:  terminix.zip\r\nreplace /usr/bin/terminix? [y]es, [n]o, [A]ll, [N]one, [r]ename: "
+    ],
+    [
+      4.995567,
+      "A"
+    ],
+    [
+      0.548162,
+      "\r\n"
+    ],
+    [
+      0.013990,
+      "  inflating: /usr/bin/terminix       "
+    ],
+    [
+      0.084268,
+      "\r\n"
+    ],
+    [
+      0.001938,
+      "  inflating: /usr/share/applications/com.gexperts.Terminix.desktop  "
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "  inflating: /usr/share/dbus-1/services/com.gexperts.Terminix.service  "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.001527,
+      "  inflating: /usr/share/nautilus-python/extensions/open-terminix.py  "
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000871,
+      "  inflating: /usr/share/locale/zh_CN/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "  inflating: /usr/share/locale/zh_TW/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "  inflating: /usr/share/locale/fr/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "  inflating: /usr/share/locale/pt_BR/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "  inflating: /usr/share/locale/en/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "  inflating: /usr/share/locale/de/LC_MESSAGES/terminix.mo  "
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "  inflating: /usr/share/terminix/schemes/tango.json  "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "  inflating: /usr/share/terminix/schemes/solarized-light.json  "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "  inflating: /usr/share/terminix/schemes/solarized-dark.json  "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  inflating: /usr/share/terminix/schemes/orchis.json  "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "  inflating: /usr/share/terminix/schemes/monokai.json  "
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  inflating: /usr/share/terminix/schemes/linux.json  "
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  inflating: /usr/share/terminix/schemes/base16-twilight-dark.json  "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "  inflating: /usr/share/terminix/resources/terminix.gresource  "
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000343,
+      "  inflating: /usr/share/glib-2.0/schemas/com.gexperts.Terminix.gschema.xml  "
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.001520,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~/Downloads/Temp\u0007markus@UbuntuGnomeDesktop:~/Downloads/Temp$ "
+    ],
+    [
+      6.634573,
+      "sudo glib-compile-schemas /usr/share/glib-2.0/schemas"
+    ],
+    [
+      0.389872,
+      "\r\n"
+    ],
+    [
+      0.050228,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~/Downloads/Temp\u0007markus@UbuntuGnomeDesktop:~/Downloads/Temp$ "
+    ],
+    [
+      4.124252,
+      "exit\r\n"
+    ]
+  ]
+}
