@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 20.938705,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.039513,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~\u0007markus@UbuntuGnomeDesktop:~$ "
+    ],
+    [
+      2.070973,
+      "t"
+    ],
+    [
+      0.080083,
+      "a"
+    ],
+    [
+      0.162213,
+      "s"
+    ],
+    [
+      0.099681,
+      "k"
+    ],
+    [
+      0.078114,
+      " "
+    ],
+    [
+      0.440049,
+      "n"
+    ],
+    [
+      0.077907,
+      "e"
+    ],
+    [
+      0.202119,
+      "x"
+    ],
+    [
+      0.162003,
+      "t"
+    ],
+    [
+      0.098289,
+      "\r\n"
+    ],
+    [
+      0.003994,
+      "\r\n\u001b[4mID\u001b[0m \u001b[4mProj     \u001b[0m \u001b[4mPri\u001b[0m \u001b[4mDue       \u001b[0m \u001b[4mAge\u001b[0m \u001b[4mUrg \u001b[0m \u001b[4mDescription                                \u001b[0m\r\n\u001b[38;5;9m13\u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9m         \u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9mH  \u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9m2/27/2016 \u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9m23h\u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9m15.1\u001b[0m\u001b[38;5;9m \u001b[0m\u001b[38;5;9mChristoph Laptop fertig machen             \u001b[0m\r\n\u001b[38;5;9m\u001b[48;5;233m 9\u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233mmaechor  \u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233m   \u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233m2/27/2016 \u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233m1d \u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233m9.65\u001b[0m\u001b[38;5;9m\u001b[48;5;233m \u001b[0m\u001b[38;5;9m\u001b[48;5;233mFotos von Unterhaltung                     \u001b[0m\r\n\u001b[38;5;1m12\u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1m         \u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1m   \u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1m3/1/2016  \u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1m1d \u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1m7.69\u001b[0m\u001b[38;5;1m \u001b[0m\u001b[38;5;1mstraub netzwerk                            \u001b[0m\r\n\u001b[48;5;233m 8\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mISPZensur\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m          \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mVon dritten bearbeitbare Webseite erstellen\u001b[0m\r\n 1 asvt                     1d  1.01 PC im Buero: SSD einbauen\r\n\u001b[48;5;233m 2\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233masvt     \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m          \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mExcel Adressliste ueberarbeiten            \u001b[0m\r\n 7 blickfang                1d  1.01 WordPress Anleitung schreiben\r\n\u001b[48;5;233m10\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mmaechor  \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m          \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mfehlende random saenger anschreiben        \u001b[0m\r\n11 volvo                    1d  1.01 webseite erstellen\r\n\u001b[48;5;233m 3\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mwerner   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m          \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mBilder hinzufuegen                         \u001b[0m\r\n 4 werner                   1d  1.01 News rausnehmen\r\n\u001b[48;5;233m 5\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mwerner   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m   \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m          \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mKurse von Edith hinzufuegen                \u001b[0m\r\n 6 werner                   1d  1.01 link zu edith hinzufuegen\r\n\r\n13 tasks\r\n"
+    ],
+    [
+      0.000228,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~\u0007markus@UbuntuGnomeDesktop:~$ "
+    ],
+    [
+      1.709723,
+      "t"
+    ],
+    [
+      0.350160,
+      "a"
+    ],
+    [
+      0.275724,
+      "s"
+    ],
+    [
+      0.097817,
+      " "
+    ],
+    [
+      0.376152,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149957,
+      "k"
+    ],
+    [
+      0.080170,
+      " "
+    ],
+    [
+      0.806156,
+      "p"
+    ],
+    [
+      0.117652,
+      "r"
+    ],
+    [
+      0.670093,
+      "o"
+    ],
+    [
+      0.340242,
+      "j"
+    ],
+    [
+      0.059702,
+      "e"
+    ],
+    [
+      0.158265,
+      "c"
+    ],
+    [
+      0.175956,
+      "t"
+    ],
+    [
+      0.237788,
+      ":"
+    ],
+    [
+      0.220353,
+      "a"
+    ],
+    [
+      0.097989,
+      "s"
+    ],
+    [
+      0.211867,
+      "v"
+    ],
+    [
+      1.902487,
+      "t"
+    ],
+    [
+      0.097830,
+      "\r\n"
+    ],
+    [
+      0.003543,
+      "\u001b[38;5;3m[task next project:asvt]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[4mID\u001b[0m \u001b[4mProj\u001b[0m \u001b[4mAge\u001b[0m \u001b[4mUrg \u001b[0m \u001b[4mDescription                    \u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      " 1 asvt 1d  1.01 PC im Buero: SSD einbauen\r\n\u001b[48;5;233m 2\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233masvt\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1d \u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233m1.01\u001b[0m\u001b[48;5;233m \u001b[0m\u001b[48;5;233mExcel Adressliste ueberarbeiten\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\r\n2 tasks"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000472,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~\u0007markus@UbuntuGnomeDesktop:~$ "
+    ],
+    [
+      2.890362,
+      "t"
+    ],
+    [
+      0.944258,
+      "a"
+    ],
+    [
+      0.475709,
+      "s"
+    ],
+    [
+      0.079774,
+      "k"
+    ],
+    [
+      0.078135,
+      " "
+    ],
+    [
+      0.224174,
+      "c"
+    ],
+    [
+      0.100374,
+      "a"
+    ],
+    [
+      0.171570,
+      "l"
+    ],
+    [
+      0.293874,
+      "e"
+    ],
+    [
+      0.198174,
+      "n"
+    ],
+    [
+      0.169878,
+      "d"
+    ],
+    [
+      0.134290,
+      "a"
+    ],
+    [
+      0.079736,
+      "r"
+    ],
+    [
+      0.118246,
+      "\r\n"
+    ],
+    [
+      0.005491,
+      "\r\n       February 2016              March 2016                April 2016        \r\n\r\n     \u001b[4mSu\u001b[0m \u001b[4mMo\u001b[0m \u001b[4mTu\u001b[0m \u001b[4mWe\u001b[0m \u001b[4mTh\u001b[0m \u001b[4mFr\u001b[0m \u001b[4mSa\u001b[0m      \u001b[4mSu\u001b[0m \u001b[4mMo\u001b[0m \u001b[4mTu\u001b[0m \u001b[4mWe\u001b[0m \u001b[4mTh\u001b[0m \u001b[4mFr\u001b[0m \u001b[4mSa\u001b[0m      \u001b[4mSu\u001b[0m \u001b[4mMo\u001b[0m \u001b[4mTu\u001b[0m \u001b[4mWe\u001b[0m \u001b[4mTh\u001b[0m \u001b[4mFr\u001b[0m \u001b[4mSa\u001b[0m\r\n\u001b[38;5;25m   6\u001b[0m     1  2  3  4  5 \u001b[48;5;235m 6\u001b[0m \u001b[38;5;25m  10\u001b[0m       \u001b[38;5;0m\u001b[48;5;1m 1\u001b[0m  2  3  4 \u001b[48;5;235m 5\u001b[0m \u001b[38;5;25m  14\u001b[0m                 1 \u001b[48;5;235m 2\u001b[0m\r\n\u001b[38;5;25m   7\u001b[0m \u001b[48;5;235m 7\u001b[0m  8  9 10 11 12 \u001b[48;5;235m13\u001b[0m \u001b[38;5;25m  11\u001b[0m \u001b[48;5;235m 6\u001b[0m  7  8  9 10 11 \u001b[48;5;235m12\u001b[0m \u001b[38;5;25m  15\u001b[0m \u001b[48;5;235m 3\u001b[0m  4  5  6  7  8 \u001b[48;5;235m 9\u001b[0m\r\n\u001b[38;5;25m   8\u001b[0m \u001b[48;5;235m14\u001b[0m 15 16 17 18 19 \u001b[48;5;235m20\u001b[0m \u001b[38;5;25m  12\u001b[0m \u001b[48;5;235m13\u001b[0m 14 15 16 17 18 \u001b[48;5;235m19\u001b[0m \u001b[38;5;25m  16\u001b[0m \u001b[48;5;235m10\u001b[0m 11 12 13 14 15 \u001b[48;5;235m16\u001b[0m\r\n\u001b[38;5;25m   9\u001b[0m \u001b[48;5;235m21\u001b[0m 22 23 24 25 26 \u001b[38;5;0m\u001b[48;5;9m27\u001b[0m \u001b[38;5;25m  13\u001b[0m \u001b[48;5;235m20\u001b[0m 21 22 23 24 25 \u001b[48;5;235m26\u001b[0m \u001b[38;5;25m  17\u001b[0m \u001b[48;5;235m17\u001b[0m 18 19 20 21 22 \u001b[48;5;235m23\u001b[0m\r\n\u001b[38;5;25m  10\u001b[0m \u001b[38;5;15m\u001b[48;5;25m28\u001b[0m 29                \u001b[38;5;25m  14\u001b[0m \u001b[48;5;235m27\u001b[0m 28 29 30 31       \u001b[38;5;25m  18\u001b[0m \u001b[48;5;235m24\u001b[0m 25 26 27 28 29 \u001b[48;5;235m30\u001b[0m\r\n\r\nLegend: \u001b[38;5;15m\u001b[48;5;25mtoday\u001b[0m, \u001b[38;5;0m\u001b[48;5;1mdue\u001b[0m, \u001b[38;5;15m\u001b[48;5;1mdue-today\u001b[0m, \u001b[38;5;0m\u001b[48;5;9moverdue\u001b[0m, \u001b[48;5;235mweekend\u001b[0m, \u001b[38;5;0m\u001b[48;5;11mholiday\u001b[0m, \u001b[38;5;25mweeknumber\u001b[0m.\r\n\r\n"
+    ],
+    [
+      0.000452,
+      "\u001b]0;markus@UbuntuGnomeDesktop: ~\u0007markus@UbuntuGnomeDesktop:~$ "
+    ],
+    [
+      3.318657,
+      "exit\r\n"
+    ]
+  ]
+}
