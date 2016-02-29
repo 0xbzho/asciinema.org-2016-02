@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 45.718200,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.177307,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/example$\u001b(B\u001b[m "
+    ],
+    [
+      0.724292,
+      "c"
+    ],
+    [
+      0.087985,
+      "d"
+    ],
+    [
+      0.047981,
+      " "
+    ],
+    [
+      0.208022,
+      "l"
+    ],
+    [
+      0.104008,
+      "i"
+    ],
+    [
+      0.144021,
+      "s"
+    ],
+    [
+      0.234097,
+      "t/"
+    ],
+    [
+      0.582066,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/example/list$\u001b(B\u001b[m "
+    ],
+    [
+      0.967810,
+      "l"
+    ],
+    [
+      0.176078,
+      "s"
+    ],
+    [
+      0.159911,
+      " "
+    ],
+    [
+      0.152038,
+      "-"
+    ],
+    [
+      0.175973,
+      "l"
+    ],
+    [
+      0.184239,
+      "\r\n"
+    ],
+    [
+      0.000917,
+      "total 4.0K\r\n"
+    ],
+    [
+      0.000017,
+      "-rwxr-xr-x 1 mos mos 2.2K Feb 29 13:21 tic-tac-toe.py*\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/example/list$\u001b(B\u001b[m "
+    ],
+    [
+      2.606650,
+      "."
+    ],
+    [
+      0.335984,
+      "/"
+    ],
+    [
+      0.440037,
+      "t"
+    ],
+    [
+      0.288015,
+      "i"
+    ],
+    [
+      0.152041,
+      "c-tac-toe.py "
+    ],
+    [
+      1.136116,
+      "\r\n"
+    ],
+    [
+      0.056583,
+      "\r\nWork with lists to create a tic tac toe.\r\nThe program has limited checks on dealing with errors.\r\nYou could add code to check for a winner or tie game.\r\nOr you could add som intelligence to the computer move.\r\n"
+    ],
+    [
+      0.000004,
+      "\r\nPress enter to continue."
+    ],
+    [
+      6.207195,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "Play against the computer.\r\nYou start, you are X. Computer is O.\r\nThree in a row wins.\r\n-------        \r\n| | | | (1,2,3)\r\n| | | | (4,5,6)\r\n| | | | (7,8,9)\r\n-------        \r\nEnter position (1-9) to place you X (or q for quit): "
+    ],
+    [
+      2.567927,
+      "5"
+    ],
+    [
+      0.456085,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "Computer moved to 0.\r\n(Checking for winner or tie is not yet implemented)\r\n-------        \r\n|O| | | (1,2,3)\r\n| |X| | (4,5,6)\r\n| | | | (7,8,9)\r\n-------        \r\nEnter position (1-9) to place you X (or q for quit): "
+    ],
+    [
+      6.855826,
+      "6"
+    ],
+    [
+      0.472061,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "Computer moved to 1.\r\n(Checking for winner or tie is not yet implemented)\r\n-------        \r\n|O|O| | (1,2,3)\r\n| |X|X| (4,5,6)\r\n| | | | (7,8,9)\r\n-------        \r\nEnter position (1-9) to place you X (or q for quit): "
+    ],
+    [
+      4.647899,
+      "3"
+    ],
+    [
+      0.783997,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "Computer moved to 3.\r\n(Checking for winner or tie is not yet implemented)\r\n-------        \r\n|O|O|X| (1,2,3)\r\n|O|X|X| (4,5,6)\r\n| | | | (7,8,9)\r\n-------        \r\nEnter position (1-9) to place you X (or q for quit): "
+    ],
+    [
+      5.160032,
+      "7"
+    ],
+    [
+      1.047912,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "Computer moved to 7.\r\n(Checking for winner or tie is not yet implemented)\r\n-------        \r\n|O|O|X| (1,2,3)\r\n|O|X|X| (4,5,6)\r\n|X|O| | (7,8,9)\r\n-------        \r\nEnter position (1-9) to place you X (or q for quit): "
+    ],
+    [
+      5.112351,
+      "q"
+    ],
+    [
+      1.239634,
+      "\r\n"
+    ],
+    [
+      0.002419,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/example/list$\u001b(B\u001b[m "
+    ],
+    [
+      2.021921,
+      "exit\r\n"
+    ]
+  ]
+}
