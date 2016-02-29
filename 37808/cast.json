@@ -1,0 +1,746 @@
+{
+  "version": 1,
+  "width": 114,
+  "height": 36,
+  "duration": 39.774312,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.140555,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                 \r \r"
+    ],
+    [
+      0.000234,
+      "\u001b]2;thiago@timemachine: ~/workspace/ruby/rd-toolbelt\u0007\u001b]1;..y/rd-toolbelt\u0007"
+    ],
+    [
+      0.020991,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m thiago@timemachine \u001b[44m\u001b[30m\u001b[30m ~/workspace/ruby/rd-toolbelt \u001b[42m\u001b[34m\u001b[30m  thiago-git \u001b[49m\u001b[32m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.311723,
+      "g"
+    ],
+    [
+      0.100896,
+      "\u0008gi"
+    ],
+    [
+      0.081671,
+      "t"
+    ],
+    [
+      0.063069,
+      " "
+    ],
+    [
+      0.081332,
+      "l"
+    ],
+    [
+      0.151598,
+      "o"
+    ],
+    [
+      0.122543,
+      "g\u001b[1m \u001b[0m"
+    ],
+    [
+      0.069638,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.151871,
+      "v"
+    ],
+    [
+      0.288045,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000172,
+      "\r\r\n"
+    ],
+    [
+      0.000786,
+      "\u001b]2;git log -v\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004997,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000133,
+      "\u001b[33mcommit d14aba592b77081efa3839ff7b931ad5cb1fb05f\u001b[m\u001b[m\r\nAuthor: Thiago Rose \u003cthiago.senhorinha@gmail.com\u003e\u001b[m\r\nDate:   Mon Feb 29 14:02:24 2016 -0300\u001b[m\r\n\u001b[m\r\n    adding new subcommand [GIT] and implementing git update-branch\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 3a85e7c851287268d6829b7efa773cf886e9aa31\u001b[m\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\nMerge: 1d2ab17 b2f166b\u001b[m\r\nAuthor: Jônatas Davi Paganini \u003cjonatasdp@gmail.com\u003e\u001b[m\r\nDate:   Mon Feb 29 13:06:48 2016 -0300\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "    Merge pull request #3 from ResultadosDigitais/thiago-jobs\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "    \u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "    Adicionando alguns subcomandos de JOB\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[33mcommit b2f166ba2c3ef182611abbf5f26e23b56db8edca\u001b[m\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Author: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Date:   Fri Feb 26 12:09:50 2016 -0300\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "    adding job show-errors command\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[33mcommit 415cb59e4bf255b10405f69cf4ff5d9cf495ef60\u001b[m\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Author: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Date:   Fri Feb 26 11:34:47 2016 -0300\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "    adding job clear_failed command\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[33mcommit 03a15c58377252e09628226c5"
+    ],
+    [
+      0.000078,
+      "673b0efa80f5c49\u001b[m\u001b[m\r\nAuthor: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m\r\nDate:   Fri Feb 26 10:27:40 2016 -0300\u001b[m\r\n\u001b[m\r\n    restyling line to inline\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 7d0bf539871588a2edcf7ff1250f1dcf2b09c365\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "Author: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.625617,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000951,
+      "\r\n[1]  + 901 suspended  git log -v\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                 \r \r\u001b]2;thiago@timemachine: ~/workspace/ruby/rd-toolbelt\u0007\u001b]1;..y/rd-toolbelt\u0007"
+    ],
+    [
+      0.046673,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[36m⚙\u001b[40m\u001b[39m thiago@timemachine \u001b[44m\u001b[30m\u001b[30m ~/workspace/ruby/rd-toolbelt \u001b[42m\u001b[34m\u001b[30m  thiago-git \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.606133,
+      "g"
+    ],
+    [
+      0.159613,
+      "\u0008gi"
+    ],
+    [
+      0.048283,
+      "t"
+    ],
+    [
+      0.082442,
+      " "
+    ],
+    [
+      1.160441,
+      "\u0008"
+    ],
+    [
+      0.151705,
+      "\u0008 \u0008"
+    ],
+    [
+      0.196951,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.154796,
+      "\u0008 \u0008"
+    ],
+    [
+      0.096353,
+      "r"
+    ],
+    [
+      0.200024,
+      "\u0008rd"
+    ],
+    [
+      0.095828,
+      " "
+    ],
+    [
+      0.181056,
+      "g"
+    ],
+    [
+      0.098934,
+      "i"
+    ],
+    [
+      0.063942,
+      "t"
+    ],
+    [
+      0.447556,
+      " "
+    ],
+    [
+      0.320342,
+      "u"
+    ],
+    [
+      0.200291,
+      "p"
+    ],
+    [
+      0.079763,
+      "d"
+    ],
+    [
+      0.072374,
+      "a"
+    ],
+    [
+      0.159624,
+      "t"
+    ],
+    [
+      0.080114,
+      "e"
+    ],
+    [
+      0.079925,
+      "-"
+    ],
+    [
+      0.400933,
+      "b"
+    ],
+    [
+      0.567303,
+      "r"
+    ],
+    [
+      0.071753,
+      "a"
+    ],
+    [
+      0.103258,
+      "n"
+    ],
+    [
+      0.080945,
+      "c"
+    ],
+    [
+      0.120234,
+      "h"
+    ],
+    [
+      0.079442,
+      " "
+    ],
+    [
+      1.336427,
+      "r"
+    ],
+    [
+      0.271733,
+      "\u0008 \u0008"
+    ],
+    [
+      0.157722,
+      "o"
+    ],
+    [
+      0.106460,
+      "r"
+    ],
+    [
+      0.079979,
+      "i"
+    ],
+    [
+      0.112049,
+      "g"
+    ],
+    [
+      0.064180,
+      "i"
+    ],
+    [
+      0.071887,
+      "n"
+    ],
+    [
+      0.076747,
+      " "
+    ],
+    [
+      0.712183,
+      "t"
+    ],
+    [
+      0.155027,
+      "h"
+    ],
+    [
+      0.087757,
+      "i"
+    ],
+    [
+      0.055680,
+      "a"
+    ],
+    [
+      0.046855,
+      "g"
+    ],
+    [
+      0.095980,
+      "o"
+    ],
+    [
+      0.209477,
+      "-"
+    ],
+    [
+      1.494902,
+      "g"
+    ],
+    [
+      0.081272,
+      "i"
+    ],
+    [
+      0.095817,
+      "t"
+    ],
+    [
+      0.071753,
+      " "
+    ],
+    [
+      0.191403,
+      "t"
+    ],
+    [
+      0.256891,
+      "i"
+    ],
+    [
+      0.317283,
+      "\u0008 \u0008"
+    ],
+    [
+      0.059582,
+      "h"
+    ],
+    [
+      0.126775,
+      "i \r\u001b[K"
+    ],
+    [
+      0.060438,
+      "a"
+    ],
+    [
+      0.065129,
+      "\rag"
+    ],
+    [
+      0.098734,
+      "o"
+    ],
+    [
+      0.308181,
+      "-"
+    ],
+    [
+      0.128058,
+      "g"
+    ],
+    [
+      0.128772,
+      "i"
+    ],
+    [
+      0.130627,
+      "t"
+    ],
+    [
+      1.173683,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ruby bin/rd git update-branch origin thiago-git thiago-git\u0007\u001b]1;rd\u0007"
+    ],
+    [
+      0.227093,
+      "Already on 'thiago-git'\r\n"
+    ],
+    [
+      3.770221,
+      "remote: Counting objects: 3, done.\u001b[K\r\nremote: Compressing objects:  33% (1/3)   \u001b[K\rremote: Compressing objects:  66% (2/3)   \u001b[K\rremote: Compressing objects: 100% (3/3)   \u001b[K\rremote: Compressing objects: 100% (3/3), done.\u001b[K\r\nremote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.003534,
+      "Unpacking objects:  33% (1/3)   \r"
+    ],
+    [
+      0.000504,
+      "Unpacking objects:  66% (2/3)   \r"
+    ],
+    [
+      0.001027,
+      "Unpacking objects: 100% (3/3)   \rUnpacking objects: 100% (3/3), done.\r\n"
+    ],
+    [
+      0.499314,
+      "From https://github.com/ResultadosDigitais/rd-toolbelt\r\n   d14aba5..212a4a0  thiago-git -\u003e origin/thiago-git\r\n"
+    ],
+    [
+      0.038408,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                 \r \r\u001b]2;thiago@timemachine: ~/workspace/ruby/rd-toolbelt\u0007\u001b]1;..y/rd-toolbelt\u0007"
+    ],
+    [
+      0.047054,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[36m⚙\u001b[40m\u001b[39m thiago@timemachine \u001b[44m\u001b[30m\u001b[30m ~/workspace/ruby/rd-toolbelt \u001b[42m\u001b[34m\u001b[30m  thiago-git \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.232818,
+      "g"
+    ],
+    [
+      0.154771,
+      "\u0008gi"
+    ],
+    [
+      0.168293,
+      "t"
+    ],
+    [
+      0.127718,
+      " "
+    ],
+    [
+      0.232060,
+      "l"
+    ],
+    [
+      0.168049,
+      "o"
+    ],
+    [
+      0.071865,
+      "g"
+    ],
+    [
+      0.255931,
+      " "
+    ],
+    [
+      0.119778,
+      "-"
+    ],
+    [
+      0.118277,
+      "v"
+    ],
+    [
+      0.179453,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git log -v\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004908,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000185,
+      "\u001b[33mcommit 212a4a06cb80ef95a257a7f8427b7efed9fad636\u001b[m\u001b[m\r\nAuthor: Thiago Senhorinha Rose \u003cthiago.senhorinha@gmail.com\u003e\u001b[m\r\nDate:   Mon Feb 29 14:38:53 2016 -0300\u001b[m\r\n\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "    Update README.md\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit d14aba592b77081efa3839ff7b931ad5cb1fb05f\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "Author: Thiago Rose \u003cthiago.senhorinha@gmail.com\u003e\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\nDate:   Mon Feb 29 14:02:24 2016 -0300\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "    adding new subcommand [GIT] and implementing git update-branch\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[33mcommit 3a85e7c851287268d6829b7efa773cf886e9aa31\u001b[m\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Merge: 1d2ab17 b2f166b\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Author: Jônatas Davi Paganini \u003cjonatasdp@gmail.com\u003e\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Date:   Mon Feb 29 13:06:48 2016 -0300\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "    Merge pull request #3 from ResultadosDigitais/thiago-jobs\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "    \u001b[m\r\n    Adicionando alguns subcomandos de JOB\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit b2f166ba2c3ef182611abbf5f26e23b56db8edca\u001b[m\u001b[m\r\nAuthor: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "Date:   Fri Feb 26 12:09:50 2016 -0300\u001b[m\r\n\u001b[m\r\n    adding job show-errors command\u001b[m\r\n\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[33mcommit 415cb59e4bf255b10405f69cf4ff5d9cf495ef60\u001b[m\u001b[m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Auth"
+    ],
+    [
+      0.000089,
+      "or: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m\r\nDate:   Fri Feb 26 11:34:47 2016 -0300\u001b[m\r\n\u001b[m\r\n    adding job clear_failed command\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 03a15c58377252e09628226c5673b0efa80f5c49\u001b[m\u001b[m\r\nAuthor: Thiago Senhorinha \u003cthiago.senhorinha@resultadosdigitais.com.br\u003e\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      ":\u001b[K"
+    ],
+    [
+      4.297253,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\r\n[2]  + 977 suspended  git log -v\r\n"
+    ],
+    [
+      0.000926,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                 \r \r\u001b]2;thiago@timemachine: ~/workspace/ruby/rd-toolbelt\u0007\u001b]1;..y/rd-toolbelt\u0007"
+    ],
+    [
+      0.038933,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[36m⚙\u001b[40m\u001b[39m thiago@timemachine \u001b[44m\u001b[30m\u001b[30m ~/workspace/ruby/rd-toolbelt \u001b[42m\u001b[34m\u001b[30m  thiago-git \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.837690,
+      "e"
+    ],
+    [
+      0.170642,
+      "\u0008ex"
+    ],
+    [
+      0.128000,
+      "i"
+    ],
+    [
+      0.309073,
+      "t"
+    ],
+    [
+      1.004366,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007zsh: you have suspended jobs.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                 \r \r\u001b]2;thiago@timemachine: ~/workspace/ruby/rd-toolbelt\u0007\u001b]1;..y/rd-toolbelt\u0007"
+    ],
+    [
+      0.040229,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[36m⚙\u001b[40m\u001b[39m thiago@timemachine \u001b[44m\u001b[30m\u001b[30m ~/workspace/ruby/rd-toolbelt \u001b[42m\u001b[34m\u001b[30m  thiago-git \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.164664,
+      "e"
+    ],
+    [
+      0.207482,
+      "\u0008ex"
+    ],
+    [
+      0.112601,
+      "i"
+    ],
+    [
+      0.063975,
+      "t"
+    ],
+    [
+      0.123173,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
