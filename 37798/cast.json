@@ -1,0 +1,3678 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 35,
+  "duration": 61.680975,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": ""
+  },
+  "stdout": [
+    [
+      0.004089,
+      "\u001b[?1034hsh-4.2# "
+    ],
+    [
+      2.236037,
+      "i"
+    ],
+    [
+      0.167729,
+      "n"
+    ],
+    [
+      0.104175,
+      "s"
+    ],
+    [
+      0.128117,
+      "p"
+    ],
+    [
+      0.087566,
+      "e"
+    ],
+    [
+      0.144408,
+      "c"
+    ],
+    [
+      0.111825,
+      " "
+    ],
+    [
+      0.079983,
+      "h"
+    ],
+    [
+      0.304388,
+      "l"
+    ],
+    [
+      0.335380,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111957,
+      "e"
+    ],
+    [
+      0.104068,
+      "l"
+    ],
+    [
+      0.143979,
+      "p"
+    ],
+    [
+      0.175753,
+      "\r\n"
+    ],
+    [
+      0.289558,
+      "Commands:\r\n"
+    ],
+    [
+      0.004149,
+      "  inspec archive PATH                # archive a profile to tar.gz (default) or zip\r\n"
+    ],
+    [
+      0.000030,
+      "  inspec check PATH                  # verify all tests at the specified PATH\r\n  inspec compliance SUBCOMMAND ...   # Chef Compliance commands\r\n  inspec detect                      # detect the target OS\r\n  inspec exec PATHS                  # run all test files at the specified PATH.\r\n  inspec help [COMMAND]              # Describe available commands or one specific command\r\n"
+    ],
+    [
+      0.000007,
+      "  inspec init TEMPLATE ...           # Scaffolds a new project"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "  inspec json PATH                   # read all tests in PATH and generate a JSON summary\r\n  inspec shell                       # open an interactive debugging shell"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  inspec supermarket SUBCOMMAND ...  # Supermarket commands\r\n"
+    ],
+    [
+      0.000137,
+      "  inspec version                     # prints the version of this tool\r\n\r\nOptions:\r\n"
+    ],
+    [
+      0.000007,
+      "  [--diagnose], [--no-diagnose]  # Show diagnostics (versions, configurations)\r\n\r\n"
+    ],
+    [
+      0.011640,
+      "sh-4.2# "
+    ],
+    [
+      0.887113,
+      "i"
+    ],
+    [
+      0.263737,
+      "n"
+    ],
+    [
+      0.127948,
+      "s"
+    ],
+    [
+      0.183950,
+      "p"
+    ],
+    [
+      0.080422,
+      "e"
+    ],
+    [
+      0.152017,
+      "c"
+    ],
+    [
+      0.079726,
+      " "
+    ],
+    [
+      0.151906,
+      "h"
+    ],
+    [
+      0.104036,
+      "e"
+    ],
+    [
+      0.151856,
+      "l"
+    ],
+    [
+      0.135897,
+      "p"
+    ],
+    [
+      0.128523,
+      " "
+    ],
+    [
+      0.127695,
+      "s"
+    ],
+    [
+      0.127853,
+      "u"
+    ],
+    [
+      0.208034,
+      "p"
+    ],
+    [
+      0.087933,
+      "e"
+    ],
+    [
+      0.072020,
+      "r"
+    ],
+    [
+      0.247866,
+      "m"
+    ],
+    [
+      0.135991,
+      "a"
+    ],
+    [
+      0.152538,
+      "r"
+    ],
+    [
+      0.167882,
+      "k"
+    ],
+    [
+      0.112022,
+      "e"
+    ],
+    [
+      0.087625,
+      "t"
+    ],
+    [
+      0.472210,
+      "\r\n"
+    ],
+    [
+      0.292914,
+      "Commands:\r\n"
+    ],
+    [
+      0.004065,
+      "  inspec supermarket exec PROFILE    # executes a Supermarket profile\r\n  inspec supermarket help [COMMAND]  # Describe subcommands or one specific subcommand\r\n  inspec supermarket info profile    # display profile details\r\n  inspec supermarket profiles        # list all available profiles in Chef Supermarket\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.010807,
+      "sh-4.2# "
+    ],
+    [
+      2.612469,
+      "i"
+    ],
+    [
+      0.167709,
+      "n"
+    ],
+    [
+      0.256100,
+      "s"
+    ],
+    [
+      0.216124,
+      "p"
+    ],
+    [
+      0.160051,
+      "e"
+    ],
+    [
+      0.137906,
+      "c"
+    ],
+    [
+      0.110288,
+      " "
+    ],
+    [
+      1.895833,
+      "s"
+    ],
+    [
+      0.096085,
+      "u"
+    ],
+    [
+      0.215691,
+      "p"
+    ],
+    [
+      0.039722,
+      "e"
+    ],
+    [
+      0.073001,
+      "r"
+    ],
+    [
+      0.375119,
+      "m"
+    ],
+    [
+      0.168068,
+      "a"
+    ],
+    [
+      0.135779,
+      "r"
+    ],
+    [
+      0.136021,
+      "k"
+    ],
+    [
+      0.136404,
+      "e"
+    ],
+    [
+      0.079853,
+      "t"
+    ],
+    [
+      0.128385,
+      " "
+    ],
+    [
+      0.543484,
+      "p"
+    ],
+    [
+      0.103861,
+      "r"
+    ],
+    [
+      0.096400,
+      "o"
+    ],
+    [
+      0.096238,
+      "f"
+    ],
+    [
+      0.111683,
+      "i"
+    ],
+    [
+      0.183671,
+      "l"
+    ],
+    [
+      0.064258,
+      "e"
+    ],
+    [
+      0.159828,
+      "s"
+    ],
+    [
+      0.095873,
+      "\r\n"
+    ],
+    [
+      1.263606,
+      "Available profiles:"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "-"
+    ],
+    [
+      0.000018,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      " \u001b[0;32m*\u001b[0m nathenharvey/tmp-compliance-profile"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      " \u001b[0;32m*\u001b[0m hardening/os-hardening"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      " \u001b[0;32m*\u001b[0m hardening/ssh-hardening"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.009920,
+      "sh-4.2# "
+    ],
+    [
+      2.950117,
+      "i"
+    ],
+    [
+      0.192245,
+      "n"
+    ],
+    [
+      0.095720,
+      "s"
+    ],
+    [
+      0.151749,
+      "p"
+    ],
+    [
+      0.088454,
+      "e"
+    ],
+    [
+      0.143953,
+      "c"
+    ],
+    [
+      0.216010,
+      " "
+    ],
+    [
+      0.615728,
+      "s"
+    ],
+    [
+      0.103860,
+      "u"
+    ],
+    [
+      0.192443,
+      "p"
+    ],
+    [
+      0.055628,
+      "e"
+    ],
+    [
+      0.072084,
+      "r"
+    ],
+    [
+      0.599943,
+      "m"
+    ],
+    [
+      0.144297,
+      "a"
+    ],
+    [
+      0.207715,
+      "r"
+    ],
+    [
+      0.175953,
+      "k"
+    ],
+    [
+      0.200065,
+      "e"
+    ],
+    [
+      0.104258,
+      "t"
+    ],
+    [
+      0.120048,
+      " "
+    ],
+    [
+      0.200016,
+      "i"
+    ],
+    [
+      0.159987,
+      "n"
+    ],
+    [
+      0.127393,
+      "f"
+    ],
+    [
+      0.088262,
+      "o"
+    ],
+    [
+      0.136334,
+      " "
+    ],
+    [
+      0.297798,
+      "h"
+    ],
+    [
+      0.000048,
+      "a"
+    ],
+    [
+      0.000092,
+      "r"
+    ],
+    [
+      0.000224,
+      "d"
+    ],
+    [
+      0.000089,
+      "e"
+    ],
+    [
+      0.000082,
+      "n"
+    ],
+    [
+      0.000054,
+      "i"
+    ],
+    [
+      0.000033,
+      "n"
+    ],
+    [
+      0.000029,
+      "g"
+    ],
+    [
+      0.000090,
+      "/"
+    ],
+    [
+      0.000143,
+      "o"
+    ],
+    [
+      0.000065,
+      "s"
+    ],
+    [
+      0.000035,
+      "-"
+    ],
+    [
+      0.000031,
+      "h"
+    ],
+    [
+      0.000095,
+      "a"
+    ],
+    [
+      0.000024,
+      "r"
+    ],
+    [
+      0.000089,
+      "d"
+    ],
+    [
+      0.000045,
+      "e"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000091,
+      "n"
+    ],
+    [
+      0.000025,
+      "g"
+    ],
+    [
+      0.180648,
+      "\r\n"
+    ],
+    [
+      1.136849,
+      "\u001b[0;32mname: \u001b[0m  os-hardening\r\n\u001b[0;32mowner:\u001b[0m  hardening\r\n\u001b[0;32murl:  \u001b[0m  https://github.com/hardening-io/tests-os-hardening/tree/2.0\r\n\r\n\u001b[0;32mdescription:  \u001b[0m Base Linux Compliance profile, used for Security + DevOps. More Information is available at http://hardening.io/\r\n"
+    ],
+    [
+      0.009719,
+      "sh-4.2# "
+    ],
+    [
+      3.125449,
+      "inspec supermarket info hardening/os-hardening"
+    ],
+    [
+      0.536105,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.160231,
+      "\u0008\u0008\u0008"
+    ],
+    [
+      0.311710,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.775837,
+      "\u0008"
+    ],
+    [
+      0.552093,
+      "\u0008\u001b[1P hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.223780,
+      "\u0008\u001b[1P hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.144414,
+      "\u0008\u001b[1P hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127543,
+      "\u0008\u001b[1P hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.144469,
+      "e hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.240143,
+      "x hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.320052,
+      "e hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.295214,
+      "c hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.208027,
+      "\r\n"
+    ],
+    [
+      4.015118,
+      "."
+    ],
+    [
+      0.116590,
+      "."
+    ],
+    [
+      0.001657,
+      "."
+    ],
+    [
+      0.000536,
+      "."
+    ],
+    [
+      0.021696,
+      "."
+    ],
+    [
+      0.000016,
+      "."
+    ],
+    [
+      0.006934,
+      "F"
+    ],
+    [
+      0.000693,
+      "F"
+    ],
+    [
+      0.000299,
+      "."
+    ],
+    [
+      0.001591,
+      "."
+    ],
+    [
+      0.000891,
+      "."
+    ],
+    [
+      0.000432,
+      "."
+    ],
+    [
+      0.000262,
+      "."
+    ],
+    [
+      0.022651,
+      "."
+    ],
+    [
+      0.000995,
+      "."
+    ],
+    [
+      0.000223,
+      "."
+    ],
+    [
+      0.000548,
+      "."
+    ],
+    [
+      0.000318,
+      "."
+    ],
+    [
+      0.000518,
+      "."
+    ],
+    [
+      0.000493,
+      "."
+    ],
+    [
+      0.000370,
+      "."
+    ],
+    [
+      0.000448,
+      "."
+    ],
+    [
+      0.002156,
+      "."
+    ],
+    [
+      0.000355,
+      "."
+    ],
+    [
+      0.000312,
+      "."
+    ],
+    [
+      0.000307,
+      "."
+    ],
+    [
+      0.023807,
+      "."
+    ],
+    [
+      0.001345,
+      "."
+    ],
+    [
+      0.001314,
+      "F"
+    ],
+    [
+      0.000481,
+      "."
+    ],
+    [
+      0.000674,
+      "."
+    ],
+    [
+      0.000471,
+      "."
+    ],
+    [
+      0.000448,
+      "."
+    ],
+    [
+      0.001020,
+      "F"
+    ],
+    [
+      0.000413,
+      "F"
+    ],
+    [
+      0.000375,
+      "F"
+    ],
+    [
+      0.001012,
+      "F"
+    ],
+    [
+      0.000385,
+      "F"
+    ],
+    [
+      0.000272,
+      "."
+    ],
+    [
+      0.000375,
+      "F"
+    ],
+    [
+      0.000323,
+      "F"
+    ],
+    [
+      0.000329,
+      "."
+    ],
+    [
+      0.000239,
+      "."
+    ],
+    [
+      0.000344,
+      "F"
+    ],
+    [
+      0.000274,
+      "."
+    ],
+    [
+      0.000323,
+      "F"
+    ],
+    [
+      0.000269,
+      "."
+    ],
+    [
+      0.000217,
+      "."
+    ],
+    [
+      0.000284,
+      "."
+    ],
+    [
+      0.000386,
+      "."
+    ],
+    [
+      0.001616,
+      "."
+    ],
+    [
+      0.148038,
+      "."
+    ],
+    [
+      0.150098,
+      "."
+    ],
+    [
+      0.141902,
+      "."
+    ],
+    [
+      0.148213,
+      "."
+    ],
+    [
+      0.154153,
+      "."
+    ],
+    [
+      0.147073,
+      "."
+    ],
+    [
+      0.028876,
+      "F"
+    ],
+    [
+      0.030891,
+      "F"
+    ],
+    [
+      0.032144,
+      "F"
+    ],
+    [
+      0.031861,
+      "F"
+    ],
+    [
+      0.032426,
+      "."
+    ],
+    [
+      0.032305,
+      "."
+    ],
+    [
+      0.030305,
+      "F"
+    ],
+    [
+      0.030251,
+      "F"
+    ],
+    [
+      0.029540,
+      "F"
+    ],
+    [
+      0.031236,
+      "F"
+    ],
+    [
+      0.029142,
+      "F"
+    ],
+    [
+      0.030091,
+      "F"
+    ],
+    [
+      0.033644,
+      "F"
+    ],
+    [
+      0.036489,
+      "."
+    ],
+    [
+      0.029548,
+      "."
+    ],
+    [
+      0.030033,
+      "."
+    ],
+    [
+      0.028027,
+      "F"
+    ],
+    [
+      0.034633,
+      "F"
+    ],
+    [
+      0.032285,
+      "."
+    ],
+    [
+      0.038650,
+      "F"
+    ],
+    [
+      0.036985,
+      "F"
+    ],
+    [
+      0.031635,
+      "F"
+    ],
+    [
+      0.030709,
+      "F"
+    ],
+    [
+      0.037251,
+      "."
+    ],
+    [
+      0.031724,
+      "F"
+    ],
+    [
+      0.028779,
+      "."
+    ],
+    [
+      0.031506,
+      "F"
+    ],
+    [
+      0.028149,
+      "F"
+    ],
+    [
+      0.032478,
+      "F"
+    ],
+    [
+      0.033751,
+      "F"
+    ],
+    [
+      0.033358,
+      "F"
+    ],
+    [
+      0.017014,
+      "F"
+    ],
+    [
+      0.030384,
+      "F"
+    ],
+    [
+      0.032871,
+      "F"
+    ],
+    [
+      0.030207,
+      "F"
+    ],
+    [
+      0.027722,
+      "F"
+    ],
+    [
+      0.032836,
+      "F"
+    ],
+    [
+      0.029482,
+      "."
+    ],
+    [
+      0.033139,
+      "F"
+    ],
+    [
+      0.036624,
+      "."
+    ],
+    [
+      0.029378,
+      "."
+    ],
+    [
+      0.000633,
+      "F\r\n"
+    ],
+    [
+      0.161182,
+      "\r\nFailures:\r\n\r\n  1) File /etc/shadow should be writable by owner\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/shadow to be writable by owner\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:43:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000031,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  2) File /etc/shadow should be readable by owner\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/shadow to be readable by owner\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:44:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  3) File /etc/login.defs should not be writable\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/login.defs not to be writable\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:89:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000010,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  4) login.defs ENV_SUPATH should include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\r\n"
+    ],
+    [
+      0.000005,
+      "     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected nil to include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\", but it does not respond to `include?`\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:95:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000002,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000002,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000002,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000002,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000002,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "  5) login.defs ENV_PATH should include \"/usr/local/bin:/usr/bin:/bin\""
+    ],
+    [
+      0.000002,
+      "\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "       expected nil to include \"/usr/local/bin:/usr/bin:/bin\", but it does not respond to `include?`"
+    ],
+    [
+      0.000002,
+      "\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:96:in `block (3 levels) in load'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000005,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000025,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000011,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  6) login.defs UMASK should include \"027\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected \"077\" to include \"027\"\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:97:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000044,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  7) login.defs PASS_MAX_DAYS should eq \"60\"\r\n"
+    ],
+    [
+      0.000008,
+      "     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n       expected: \"60\"\r\n            got: \"99999\"\r\n\r\n       (compared using ==)\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:98:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n  8) login.defs PASS_MIN_DAYS should eq \"7\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n       expected: \"7\""
+    ],
+    [
+      0.000003,
+      "\r\n            got: \"0\"\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n       (compared using ==)\r\n"
+    ],
+    [
+      0.000003,
+      "     # tests-os-hardening-2.0/controls/os_spec.rb:99:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "  9) login.defs LOGIN_RETRIES should eq \"5\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n       expected: \"5\""
+    ],
+    [
+      0.000013,
+      "\r\n            got: nil\r\n\r\n       (compared using ==)\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:101:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000004,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n  10) login.defs LOGIN_TIMEOUT should eq \"60\"\r\n"
+    ],
+    [
+      0.000003,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        expected: \"60\"\r\n"
+    ],
+    [
+      0.000002,
+      "             got: nil\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        (compared using ==)\r\n"
+    ],
+    [
+      0.000004,
+      "      # tests-os-hardening-2.0/controls/os_spec.rb:102:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000008,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  11) login.defs SYS_UID_MIN should eq \"100\""
+    ],
+    [
+      0.000003,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        expected: \"100\"\r\n             got: \"201\""
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/os_spec.rb:105:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermark"
+    ],
+    [
+      0.000003,
+      "et/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "  12) login.defs SYS_GID_MIN should eq \"100\"\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        expected: \"100\"\r\n"
+    ],
+    [
+      0.000002,
+      "             got: \"201\"\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000003,
+      "      # tests-os-hardening-2.0/controls/os_spec.rb:107:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000001,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/"
+    ],
+    [
+      0.000001,
+      "lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "  13) Kernel Parameter net.ipv4.ip_forward value should eq 0"
+    ],
+    [
+      0.000013,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000005,
+      "             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:26:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000013,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  14) Kernel Parameter net.ipv4.conf.all.forwarding value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:29:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000013,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  15) Kernel Parameter net.ipv4.conf.all.rp_filter value should eq 1"
+    ],
+    [
+      0.000004,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1"
+    ],
+    [
+      0.000002,
+      "\r\n             got: 0\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000003,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:38:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000015,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  16) Kernel Parameter net.ipv4.conf.default.rp_filter value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n"
+    ],
+    [
+      0.000005,
+      "             got: 0\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:41:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000012,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n  17) Kernel Parameter net.ipv4.icmp_ratelimit value should eq 100\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        expected: 100"
+    ],
+    [
+      0.000003,
+      "\r\n             got: 1000\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n        (compared using ==)"
+    ],
+    [
+      0.000003,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:68:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000012,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwa"
+    ],
+    [
+      0.000007,
+      "rdable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n  18) Kernel Parameter net.ipv4.icmp_ratemask value should eq 88089\r\n"
+    ],
+    [
+      0.000003,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        expected: 88089\r\n             got: 6168"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:77:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000014,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000008,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "  19) Kernel Parameter net.ipv4.tcp_timestamps value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000005,
+      "             got: nil\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:86:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000013,
+      "  20) Kernel Parameter net.ipv4.conf.all.arp_ignore value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n        expected: 1\r\n             got: 0\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:95:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000033,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000019,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  21) Kernel Parameter net.ipv4.conf.all.arp_announce value should eq 2\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 2\r\n             got: 0\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:104:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n  22) Kernel Parameter net.ipv4.tcp_rfc1337 value should eq 1"
+    ],
+    [
+      0.000003,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000002,
+      "\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        expected: 1\r\n"
+    ],
+    [
+      0.000002,
+      "             got: nil"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "        (compared using ==)\r\n"
+    ],
+    [
+      0.000004,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:113:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000229,
+      "\r\n  23) Kernel Parameter net.ipv4.tcp_syncookies value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n             got: nil\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:122:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000033,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  24) Kernel Parameter net.ipv4.conf.default.accept_source_route value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:146:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n  25) Kernel Parameter net.ipv4.conf.default.accept_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:155:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n  26) Kernel Parameter net.ipv4.conf.all.secure_redirects value should eq 0\r\n      Failure/E"
+    ],
+    [
+      0.000085,
+      "rror: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:167:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  27) Kernel Parameter net.ipv4.conf.default.secure_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000058,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:170:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  28) Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:179:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000017,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  29) Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:182:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000009,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000011,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  30) Kernel Parameter net.ipv6.conf.all.disable_ipv6 value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n             got: 0"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:200:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n  31) Kernel Parameter net.ipv6.conf.default.accept_redirects value should eq 0\r\n"
+    ],
+    [
+      0.000003,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000003,
+      "        expected: 0\r\n"
+    ],
+    [
+      0.000002,
+      "             got: 1\r\n\r\n"
+    ],
+    [
+      0.000002,
+      "        (compared using ==)\r\n"
+    ],
+    [
+      0.000003,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:218:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_c"
+    ],
+    [
+      0.000017,
+      "ommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  32) Kernel Parameter net.ipv6.conf.all.accept_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:221:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'"
+    ],
+    [
+      0.000002,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000002,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000002,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000001,
+      "\r\n\r\n"
+    ],
+    [
+      0.000042,
+      "  33) Kernel Parameter net.ipv6.conf.default.router_solicitations value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 3\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:230:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000013,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000014,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  34) Kernel Parameter net.ipv6.conf.default.accept_ra_rtr_pref value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000024,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:239:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000013,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000009,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  35) Kernel Parameter net.ipv6.conf.default.accept_ra_pinfo value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000006,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:248:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000024,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000010,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  36) Kernel Parameter net.ipv6.conf.default.accept_ra_defrtr value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:257:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "  37) Kernel Parameter net.ipv6.conf.all.accept_ra value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000003,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:266:in `block (3 levels) in load'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb"
+    ],
+    [
+      0.000003,
+      ":115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n  38) Kernel Parameter net.ipv6.conf.default.accept_ra value should eq 0\r\n"
+    ],
+    [
+      0.000005,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "        expected: 0\r\n             got: 1\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:269:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000006,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000004,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n  39) Kernel Parameter net.ipv6.conf.default.autoconf value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000006,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:278:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "  40) Kernel Parameter net.ipv6.conf.default.dad_transmits value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0"
+    ],
+    [
+      0.000004,
+      "\r\n             got: 1\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000005,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:287:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share"
+    ],
+    [
+      0.000003,
+      "/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000028,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n  41) Kernel Parameter net.ipv6.conf.default.max_addresses value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        expected: 1"
+    ],
+    [
+      0.000004,
+      "\r\n             got: 16"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000004,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:296:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000005,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000006,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  42) Kernel Parameter kernel.sysrq value should eq 0\r\n      Failure/Error: DEFAUL"
+    ],
+    [
+      0.000005,
+      "T_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000003,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:314:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000003,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000004,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000005,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000002,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000003,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n  43) /proc/cpuinfo Flags should include NX\r\n"
+    ],
+    [
+      0.000014,
+      "      Failure/Error: super\r\n\r\n      NameError:\r\n        undefined local variable or method `flags' for #\u003cRSpec::ExampleGroups::ProcCpuinfo:0x00000004848dd0\u003e\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:343:in `block (3 levels) in load'"
+    ],
+    [
+      0.000024,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/bundles/inspec-supermarket/cli.rb:32:in `exec'"
+    ],
+    [
+      0.000011,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:115:in `invoke'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:235:in `block in subcommand'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000765,
+      "\r\nFinished in 2.49 seconds (files took 3.77 seconds to load)\r\n99 examples, 43 failures\r\n\r\nFailed examples:\r\n\r\nrspec  # File /etc/shadow should be writable by owner\r\nrspec  # File /etc/shadow should be readable by owner\r\nrspec  # File /etc/login.defs should not be writable\r\nrspec  # login.defs ENV_SUPATH should include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\r\nrspec  # login.defs ENV_PATH should include \"/usr/local/bin:/usr/bin:/bin\"\r\nrspec  # login.defs UMASK should include \"027\"\r\nrspec  # login.defs PASS_MAX_DAYS should eq \"60\"\r\nrspec  # login.defs PASS_MIN_DAYS should eq \"7\"\r\nrspec  # login.defs LOGIN_RETRIES should eq \"5\"\r\nrspec  # login.defs LOGIN_TIMEOUT should eq \"60\"\r\nrspec  # login.defs SYS_UID_MIN should eq \"100\"\r\nrspec  # login.defs SYS_GID_MIN should eq \"100\"\r\nrspec  # Kernel Parameter net.ipv4.ip_forward value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.forwarding value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.rp_filter value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.default.rp_filter value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.icmp_ratelimit value should eq 100\r\nrspec  # Kernel Parameter net.ipv4.icmp_ratemask value should eq 88089\r\nrspec  # Kernel Parameter net.ipv4.tcp_timestamps value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.arp_ignore value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.all.arp_announce value should eq 2\r\nrspec  # Kernel Parameter net.ipv4.tcp_rfc1337 value should eq 1\r\n"
+    ],
+    [
+      0.000022,
+      "rspec  # Kernel Parameter net.ipv4.tcp_syncookies value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.default.accept_source_route value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.default.accept_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.secure_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.default.secure_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.disable_ipv6 value should eq 1\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.accept_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.router_solicitations value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_rtr_pref value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_pinfo value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_defrtr value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.accept_ra value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra value should eq 0\r\n"
+    ],
+    [
+      0.000008,
+      "rspec  # Kernel Parameter net.ipv6.conf.default.autoconf value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.dad_transmits value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.max_addresses value should eq 1\r\nrspec  # Kernel Parameter kernel.sysrq value should eq 0\r\nrspec  # /proc/cpuinfo Flags should include NX\r\n"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.020899,
+      "sh-4.2# "
+    ],
+    [
+      2.580053,
+      "inspec supermarket exec hardening/os-hardening"
+    ],
+    [
+      0.511930,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.175383,
+      "\u0008\u0008\u0008"
+    ],
+    [
+      0.135813,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.680085,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.135781,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.104244,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.087960,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112058,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112103,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.087806,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127832,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.103971,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120222,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112474,
+      "\u0008\u001b[1Phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.103867,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.119411,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.120836,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.111376,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.112227,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.119846,
+      "\u0008\u001b[1Phardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.400203,
+      "ehardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.224762,
+      "xhardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.207813,
+      "ehardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.207164,
+      "chardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.104608,
+      " hardening/os-hardening\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.183835,
+      "shardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127712,
+      "uhardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.207827,
+      "phardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.095909,
+      "ehardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.060331,
+      "rhardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.203733,
+      "mhardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112544,
+      "ahardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127972,
+      "rhardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.093110,
+      "khardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.154636,
+      "ehardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.080473,
+      "thardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.591571,
+      ":hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.263815,
+      "/hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.136527,
+      "/hardening/os-hardening\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.184382,
+      "\r\n"
+    ],
+    [
+      4.052502,
+      "."
+    ],
+    [
+      0.111606,
+      "."
+    ],
+    [
+      0.001376,
+      "."
+    ],
+    [
+      0.000261,
+      "."
+    ],
+    [
+      0.021655,
+      "."
+    ],
+    [
+      0.000662,
+      "."
+    ],
+    [
+      0.008268,
+      "F"
+    ],
+    [
+      0.000654,
+      "F"
+    ],
+    [
+      0.000428,
+      "."
+    ],
+    [
+      0.000295,
+      "."
+    ],
+    [
+      0.000587,
+      "."
+    ],
+    [
+      0.000424,
+      "."
+    ],
+    [
+      0.000243,
+      "."
+    ],
+    [
+      0.021526,
+      "."
+    ],
+    [
+      0.001105,
+      "."
+    ],
+    [
+      0.000360,
+      "."
+    ],
+    [
+      0.000506,
+      "."
+    ],
+    [
+      0.000577,
+      "."
+    ],
+    [
+      0.000330,
+      "."
+    ],
+    [
+      0.000297,
+      "."
+    ],
+    [
+      0.000291,
+      "."
+    ],
+    [
+      0.000340,
+      "."
+    ],
+    [
+      0.001296,
+      "."
+    ],
+    [
+      0.000272,
+      "."
+    ],
+    [
+      0.000293,
+      "."
+    ],
+    [
+      0.000195,
+      "."
+    ],
+    [
+      0.021572,
+      "."
+    ],
+    [
+      0.000694,
+      "."
+    ],
+    [
+      0.000975,
+      "F"
+    ],
+    [
+      0.000440,
+      "."
+    ],
+    [
+      0.000370,
+      "."
+    ],
+    [
+      0.000403,
+      "."
+    ],
+    [
+      0.000349,
+      "."
+    ],
+    [
+      0.000978,
+      "F"
+    ],
+    [
+      0.000340,
+      "F"
+    ],
+    [
+      0.000425,
+      "F"
+    ],
+    [
+      0.000947,
+      "F"
+    ],
+    [
+      0.000341,
+      "F"
+    ],
+    [
+      0.000236,
+      "."
+    ],
+    [
+      0.000272,
+      "F"
+    ],
+    [
+      0.000266,
+      "F"
+    ],
+    [
+      0.000217,
+      "."
+    ],
+    [
+      0.000213,
+      "."
+    ],
+    [
+      0.000398,
+      "F"
+    ],
+    [
+      0.000433,
+      "."
+    ],
+    [
+      0.000337,
+      "F"
+    ],
+    [
+      0.000217,
+      "."
+    ],
+    [
+      0.000256,
+      "."
+    ],
+    [
+      0.000286,
+      "."
+    ],
+    [
+      0.000403,
+      "."
+    ],
+    [
+      0.000436,
+      "."
+    ],
+    [
+      0.152055,
+      "."
+    ],
+    [
+      0.142378,
+      "."
+    ],
+    [
+      0.155853,
+      "."
+    ],
+    [
+      0.151792,
+      "."
+    ],
+    [
+      0.158668,
+      "."
+    ],
+    [
+      0.144655,
+      "."
+    ],
+    [
+      0.029693,
+      "F"
+    ],
+    [
+      0.029551,
+      "F"
+    ],
+    [
+      0.027297,
+      "F"
+    ],
+    [
+      0.032737,
+      "F"
+    ],
+    [
+      0.026829,
+      "."
+    ],
+    [
+      0.030207,
+      "."
+    ],
+    [
+      0.031173,
+      "F"
+    ],
+    [
+      0.031043,
+      "F"
+    ],
+    [
+      0.027494,
+      "F"
+    ],
+    [
+      0.031240,
+      "F"
+    ],
+    [
+      0.032779,
+      "F"
+    ],
+    [
+      0.033290,
+      "F"
+    ],
+    [
+      0.043438,
+      "F"
+    ],
+    [
+      0.040291,
+      "."
+    ],
+    [
+      0.030591,
+      "."
+    ],
+    [
+      0.029747,
+      "."
+    ],
+    [
+      0.029494,
+      "F"
+    ],
+    [
+      0.030647,
+      "F"
+    ],
+    [
+      0.030687,
+      "."
+    ],
+    [
+      0.031211,
+      "F"
+    ],
+    [
+      0.037522,
+      "F"
+    ],
+    [
+      0.031091,
+      "F"
+    ],
+    [
+      0.030362,
+      "F"
+    ],
+    [
+      0.028613,
+      "."
+    ],
+    [
+      0.030708,
+      "F"
+    ],
+    [
+      0.029049,
+      "."
+    ],
+    [
+      0.030029,
+      "F"
+    ],
+    [
+      0.031200,
+      "F"
+    ],
+    [
+      0.028539,
+      "F"
+    ],
+    [
+      0.030732,
+      "F"
+    ],
+    [
+      0.027981,
+      "F"
+    ],
+    [
+      0.031927,
+      "F"
+    ],
+    [
+      0.030171,
+      "F"
+    ],
+    [
+      0.031473,
+      "F"
+    ],
+    [
+      0.028654,
+      "F"
+    ],
+    [
+      0.028482,
+      "F"
+    ],
+    [
+      0.035786,
+      "F"
+    ],
+    [
+      0.037783,
+      "."
+    ],
+    [
+      0.030175,
+      "F"
+    ],
+    [
+      0.029811,
+      "."
+    ],
+    [
+      0.027375,
+      "."
+    ],
+    [
+      0.000483,
+      "F"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.157043,
+      "\r\nFailures:\r\n\r\n  1) File /etc/shadow should be writable by owner\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/shadow to be writable by owner\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:43:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  2) File /etc/shadow should be readable by owner\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/shadow to be readable by owner\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:44:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000054,
+      "     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  3) File /etc/login.defs should not be writable\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected File /etc/login.defs not to be writable\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:89:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  4) login.defs ENV_SUPATH should include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected nil to include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\", but it does not respond to `include?`\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:95:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  5) login.defs ENV_PATH should include \"/usr/local/bin:/usr/bin:/bin\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected nil to include \"/usr/local/bin:/usr/bin:/bin\", but it does not respond to `include?`\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:96:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  6) login.defs UMASK should include \"027\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n       expected \"077\" to include \"027\"\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:97:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000024,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  7) login.defs PASS_MAX_DAYS should eq \"60\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n       expected: \"60\"\r\n            got: \"99999\"\r\n\r\n       (compared using ==)\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:98:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  8) login.defs PASS_MIN_DAYS should eq \"7\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000008,
+      "\r\n\r\n       expected: \"7\"\r\n            got: \"0\"\r\n\r\n       (compared using ==)\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:99:in `block (3 levels) in load'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000009,
+      "\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000008,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  9) login.defs LOGIN_RETRIES should eq \"5\"\r\n     Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "       expected: \"5\"\r\n            got: nil\r\n\r\n       (compared using ==)\r\n     # tests-os-hardening-2.0/controls/os_spec.rb:101:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000008,
+      "     # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n     # /usr/share/ruby/forwardable.rb:171:in `run'\r\n     # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000009,
+      "\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n     # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  10) login.defs LOGIN_TIMEOUT should eq \"60\"\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: \"60\"\r\n             got: nil\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/os_spec.rb:102:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000009,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  11) login.defs SYS_UID_MIN should eq \"100\"\r\n"
+    ],
+    [
+      0.000006,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: \"100\"\r\n             got: \"201\"\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/os_spec.rb:105:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  12) login.defs SYS_GID_MIN should eq \"100\"\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: \"100\"\r\n             got: \"201\""
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/os_spec.rb:107:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n  13) Kernel Parameter net.ipv4.ip_forward value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000007,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:26:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  14) Kernel Parameter net.ipv4.conf.all.forwarding value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000007,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:29:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000011,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  15) Kernel Parameter net.ipv4.conf.all.rp_filter value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "        expected: 1\r\n             got: 0\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb"
+    ],
+    [
+      0.000007,
+      ":38:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  16) Kernel Parameter net.ipv4.conf.default.rp_filter value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n        expected: 1\r\n             got: 0\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000007,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:41:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  17) Kernel Parameter net.ipv4.icmp_ratelimit value should eq 100\r\n"
+    ],
+    [
+      0.000006,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 100\r\n             got: 1000\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:68:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n  18) Kernel Parameter net.ipv4.icmp_ratemask value should eq 88089\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 88089"
+    ],
+    [
+      0.000006,
+      "\r\n             got: 6168\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:77:in `block (3 levels) in load'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000010,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  19) Kernel Parameter net.ipv4.tcp_timestamps value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000007,
+      "             got: nil\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:86:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000031,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000014,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  20) Kernel Parameter net.ipv4.conf.all.arp_ignore value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n             got: 0\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:95:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  21) Kernel Parameter net.ipv4.conf.all.arp_announce value should eq 2\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 2\r\n             got: 0"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:104:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  22) Kernel Parameter net.ipv4.tcp_rfc1337 value should eq 1\r\n"
+    ],
+    [
+      0.000006,
+      "      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n             got: nil\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:113:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n  23) Kernel Parameter net.ipv4.tcp_syncookies value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1"
+    ],
+    [
+      0.000006,
+      "\r\n             got: nil\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:122:in `block (3 levels) in load'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  24) Kernel Parameter net.ipv4.conf.default.accept_source_route value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000007,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:146:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  25) Kernel Parameter net.ipv4.conf.default.accept_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:155:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n  26) Kernel Parameter net.ipv4.conf.all.secure_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0"
+    ],
+    [
+      0.000006,
+      "\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:167:in `block (3 levels) in load'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  27) Kernel Parameter net.ipv4.conf.default.secure_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:170:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  28) Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0"
+    ],
+    [
+      0.000006,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:179:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n  29) Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0"
+    ],
+    [
+      0.000006,
+      "\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # t"
+    ],
+    [
+      0.000007,
+      "ests-os-hardening-2.0/controls/sysctl_spec.rb:182:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  30) Kernel Parameter net.ipv6.conf.all.disable_ipv6 value should eq 1\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n        expected: 1\r\n             got: 0\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000007,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:200:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  31) Kernel Parameter net.ipv6.conf.default.accept_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)"
+    ],
+    [
+      0.000007,
+      "\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:218:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  32) Kernel Parameter net.ipv6.conf.all.accept_redirects value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000006,
+      "             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:221:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n  33) Kernel Parameter net.ipv6.conf.default.router_solicitations value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0"
+    ],
+    [
+      0.000011,
+      "\r\n             got: 3\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:230:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  34) Kernel Parameter net.ipv6.conf.default.accept_ra_rtr_pref value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000006,
+      "             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:239:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n  35) Kernel Parameter net.ipv6.conf.default.accept_ra_pinfo value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000007,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:248:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000008,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  36) Kernel Parameter net.ipv6.conf.default.accept_ra_defrtr value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n        expected: 0\r\n             got: 1\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:257:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  37) Kernel Parameter net.ipv6.conf.all.accept_ra value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000006,
+      "             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:266:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'"
+    ],
+    [
+      0.000010,
+      "\r\n\r\n  38) Kernel Parameter net.ipv6.conf.default.accept_ra value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n             got: 1\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:269:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "  39) Kernel Parameter net.ipv6.conf.default.autoconf value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0\r\n"
+    ],
+    [
+      0.000006,
+      "             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:278:in `block (3 levels) in load'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  40) Kernel Parameter net.ipv6.conf.default.dad_transmits value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n        expected: 0\r\n             got: 1\r\n\r\n        (compared using ==)\r\n"
+    ],
+    [
+      0.000007,
+      "      # tests-os-hardening-2.0/controls/sysctl_spec.rb:287:in `block (3 levels) in load'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  41) Kernel Parameter net.ipv6.conf.default.max_addresses value should eq 1"
+    ],
+    [
+      0.000012,
+      "\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 1\r\n             got: 16\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:296:in `block (3 levels) in load'"
+    ],
+    [
+      0.000014,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  42) Kernel Parameter kernel.sysrq value should eq 0\r\n      Failure/Error: DEFAULT_FAILURE_NOTIFIER = lambda { |failure, _opts| raise failure }\r\n\r\n        expected: 0"
+    ],
+    [
+      0.000006,
+      "\r\n             got: 1\r\n\r\n        (compared using ==)\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:314:in `block (3 levels) in load'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n\r\n  43) /proc/cpuinfo Flags should include NX\r\n      Failure/Error: super\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "      NameError:\r\n        undefined local variable or method `flags' for #\u003cRSpec::ExampleGroups::ProcCpuinfo:0x00000003c00ac8\u003e\r\n      # tests-os-hardening-2.0/controls/sysctl_spec.rb:343:in `block (3 levels) in load'"
+    ],
+    [
+      0.000007,
+      "\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/inspec/runner_rspec.rb:55:in `run'\r\n      # /usr/share/ruby/forwardable.rb:171:in `run'\r\n      # /usr/local/share/gems/gems/inspec-0.14.3/lib/utils/base_cli.rb:52:in `run_tests'\r\n"
+    ],
+    [
+      0.000007,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'\r\n      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'\r\n"
+    ],
+    [
+      0.000006,
+      "      # /usr/local/share/gems/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'\r\n"
+    ],
+    [
+      0.000634,
+      "\r\nFinished in 2.5 seconds (files took 3.79 seconds to load)\r\n99 examples, 43 failures\r\n\r\nFailed examples:\r\n\r\nrspec  # File /etc/shadow should be writable by owner\r\nrspec  # File /etc/shadow should be readable by owner\r\nrspec  # File /etc/login.defs should not be writable\r\nrspec  # login.defs ENV_SUPATH should include \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\r\nrspec  # login.defs ENV_PATH should include \"/usr/local/bin:/usr/bin:/bin\"\r\nrspec  # login.defs UMASK should include \"027\"\r\nrspec  # login.defs PASS_MAX_DAYS should eq \"60\"\r\nrspec  # login.defs PASS_MIN_DAYS should eq \"7\"\r\nrspec  # login.defs LOGIN_RETRIES should eq \"5\"\r\nrspec  # login.defs LOGIN_TIMEOUT should eq \"60\"\r\nrspec  # login.defs SYS_UID_MIN should eq \"100\"\r\nrspec  # login.defs SYS_GID_MIN should eq \"100\"\r\nrspec  # Kernel Parameter net.ipv4.ip_forward value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.forwarding value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.rp_filter value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.default.rp_filter value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.icmp_ratelimit value should eq 100\r\n"
+    ],
+    [
+      0.000015,
+      "rspec  # Kernel Parameter net.ipv4.icmp_ratemask value should eq 88089\r\nrspec  # Kernel Parameter net.ipv4.tcp_timestamps value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.arp_ignore value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.all.arp_announce value should eq 2\r\nrspec  # Kernel Parameter net.ipv4.tcp_rfc1337 value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.tcp_syncookies value should eq 1\r\nrspec  # Kernel Parameter net.ipv4.conf.default.accept_source_route value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.default.accept_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.secure_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.default.secure_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv4.conf.all.send_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.disable_ipv6 value should eq 1\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_redirects value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.accept_redirects value should eq 0"
+    ],
+    [
+      0.000010,
+      "\r\nrspec  # Kernel Parameter net.ipv6.conf.default.router_solicitations value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_rtr_pref value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_pinfo value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra_defrtr value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.all.accept_ra value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.accept_ra value should eq 0\r\n"
+    ],
+    [
+      0.000008,
+      "rspec  # Kernel Parameter net.ipv6.conf.default.autoconf value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.dad_transmits value should eq 0\r\nrspec  # Kernel Parameter net.ipv6.conf.default.max_addresses value should eq 1\r\nrspec  # Kernel Parameter kernel.sysrq value should eq 0\r\nrspec  # /proc/cpuinfo Flags should include NX"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.021842,
+      "sh-4.2# "
+    ],
+    [
+      3.713829,
+      "exit"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ]
+  ]
+}
