@@ -1,0 +1,3110 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 35,
+  "duration": 475.565322,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.119556,
+      "Demo:$ "
+    ],
+    [
+      0.183380,
+      "c"
+    ],
+    [
+      0.174513,
+      "d"
+    ],
+    [
+      0.146967,
+      " "
+    ],
+    [
+      0.539151,
+      "/"
+    ],
+    [
+      0.322720,
+      "o"
+    ],
+    [
+      0.150937,
+      "p"
+    ],
+    [
+      0.111012,
+      "t/"
+    ],
+    [
+      0.262528,
+      "d"
+    ],
+    [
+      0.166391,
+      "e"
+    ],
+    [
+      0.100843,
+      "p"
+    ],
+    [
+      0.069168,
+      "l"
+    ],
+    [
+      0.222616,
+      "o"
+    ],
+    [
+      0.261992,
+      "yment"
+    ],
+    [
+      0.391072,
+      "/"
+    ],
+    [
+      0.679125,
+      "n"
+    ],
+    [
+      0.170393,
+      "\u0007"
+    ],
+    [
+      0.000022,
+      "mon-"
+    ],
+    [
+      0.645217,
+      "l"
+    ],
+    [
+      0.178932,
+      "o"
+    ],
+    [
+      0.273705,
+      "g"
+    ],
+    [
+      0.111709,
+      "ger/"
+    ],
+    [
+      0.279203,
+      "\r\nDemo:$ "
+    ],
+    [
+      0.522706,
+      "c"
+    ],
+    [
+      0.262331,
+      "d"
+    ],
+    [
+      0.090252,
+      " "
+    ],
+    [
+      0.328954,
+      "v"
+    ],
+    [
+      0.283918,
+      "a"
+    ],
+    [
+      0.400741,
+      "\u0007grant-ansible-demo-"
+    ],
+    [
+      0.743232,
+      "s"
+    ],
+    [
+      0.145429,
+      "y"
+    ],
+    [
+      0.089899,
+      "s"
+    ],
+    [
+      0.226786,
+      "log-ng/"
+    ],
+    [
+      0.149205,
+      "\r\nDemo:$ "
+    ],
+    [
+      0.680515,
+      "."
+    ],
+    [
+      0.153942,
+      "/"
+    ],
+    [
+      0.315318,
+      "r"
+    ],
+    [
+      0.084554,
+      "u"
+    ],
+    [
+      0.052829,
+      "n"
+    ],
+    [
+      0.190097,
+      ".sh "
+    ],
+    [
+      0.105723,
+      "\r\n"
+    ],
+    [
+      0.002465,
+      "****************** Starting vagrant VMs: ******************\r\n"
+    ],
+    [
+      2.536233,
+      "\u001b[0mBringing machine 'splunk' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.001308,
+      "\u001b[0mBringing machine 'syslog-ng-server1' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001235,
+      "\u001b[0mBringing machine 'syslog-ng-client1' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001252,
+      "\u001b[0mBringing machine 'syslog-ng-client2' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.564322,
+      "\u001b[1m==\u003e splunk: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      10.630648,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000434,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      0.101213,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      2.604333,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.170353,
+      "\u001b[1m==\u003e splunk: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.341031,
+      "\u001b[1m==\u003e splunk: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      2.325891,
+      "\u001b[1m==\u003e splunk: Setting the name of the VM: splunk\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.364241,
+      "\u001b[1m==\u003e splunk: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      7.832971,
+      "\u001b[1m==\u003e splunk: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.781085,
+      "\u001b[1m==\u003e splunk: Preparing network interfaces based on configuration...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001311,
+      "\u001b[0m    splunk: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.000957,
+      "\u001b[0m    splunk: Adapter 2: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.001121,
+      "\u001b[0m    splunk: Adapter 3: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.152761,
+      "\u001b[1m==\u003e splunk: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.184669,
+      "\u001b[0m    splunk: 22 (guest) =\u003e 2222 (host) (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.590031,
+      "\u001b[1m==\u003e splunk: Running 'pre-boot' VM customizations...\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.283131,
+      "\u001b[1m==\u003e splunk: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.561595,
+      "\u001b[1m==\u003e splunk: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.000257,
+      "\r\n"
+    ],
+    [
+      0.507713,
+      "\u001b[0m    splunk: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000610,
+      "\u001b[0m    splunk: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000894,
+      "\u001b[0m    splunk: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      19.516573,
+      "\u001b[1m==\u003e splunk: Machine booted and ready!\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001439,
+      "\u001b[1m==\u003e splunk: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.120282,
+      "\u001b[0m    splunk: The guest additions on this VM do not match the installed version of\r\n"
+    ],
+    [
+      0.000023,
+      "    splunk: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    splunk: prevent things such as shared folders from working properly. If you see\r\n    splunk: shared folder errors, please make sure the guest additions within the\r\n    splunk: virtual machine match the version of VirtualBox you have installed on\r\n"
+    ],
+    [
+      0.000009,
+      "    splunk: your host and reload your VM."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "    splunk: \r\n"
+    ],
+    [
+      0.000053,
+      "    splunk: Guest Additions Version: 4.3.36\r\n"
+    ],
+    [
+      0.000016,
+      "    splunk: VirtualBox Version: 5.0\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001585,
+      "\u001b[1m==\u003e splunk: Setting hostname...\u001b[0m\r\n"
+    ],
+    [
+      3.484858,
+      "\u001b[1m==\u003e splunk: Configuring and enabling network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      2.237436,
+      "\u001b[1m==\u003e splunk: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      0.752510,
+      "\u001b[0m    splunk: Running ansible-playbook...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.301188,
+      "\u001b[0m"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "PLAY ***************************************************************************"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[0m"
+    ],
+    [
+      0.007307,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [setup] *******************************************************************\r\n\u001b[0m"
+    ],
+    [
+      4.647568,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.019878,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "TASK [Set timezone variables for Debian / Ubuntu] ******************************\r\n\u001b[0m"
+    ],
+    [
+      0.611613,
+      "\u001b[0m\u001b[0;33mchanged: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0m"
+    ],
+    [
+      0.007720,
+      "\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\nTASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.353505,
+      "\u001b[0m\u001b[0;33mchanged: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.010644,
+      "\u001b[0m\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      2.003604,
+      "\u001b[0m\u001b[0;33mchanged: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.001266,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "PLAY RECAP *********************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.000381,
+      "\u001b[0m\u001b[0;33msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m3\u001b[0m    unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.015794,
+      "\u001b[1m==\u003e splunk: Running provisioner: ansible...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.741117,
+      "\u001b[0m    splunk: Running ansible-playbook...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.305644,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "PLAY ***************************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.007549,
+      "\u001b[0m\r\nTASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      3.825003,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.020039,
+      "\u001b[0m\r\nTASK [Set timezone variables for Debian / Ubuntu] ******************************\r\n\u001b[0m"
+    ],
+    [
+      0.391317,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.006869,
+      "\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\nTASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.842128,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.010274,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.431210,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.004436,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\nPLAY RECAP *********************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.001049,
+      "\u001b[0m\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000015,
+      "\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.358466,
+      "\u001b[1m==\u003e syslog-ng-server1: Importing base box 'ubuntu/trusty64'...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      7.441620,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000474,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      2.667976,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.175472,
+      "\u001b[1m==\u003e syslog-ng-server1: Matching MAC address for NAT networking...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.346402,
+      "\u001b[1m==\u003e syslog-ng-server1: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      2.557131,
+      "\u001b[1m==\u003e syslog-ng-server1: Setting the name of the VM: syslog-ng-server1\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.373617,
+      "\u001b[1m==\u003e syslog-ng-server1: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      7.857349,
+      "\u001b[1m==\u003e syslog-ng-server1: Fixed port collision for 22 =\u003e 2222. Now on port 2200.\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.201642,
+      "\u001b[1m==\u003e syslog-ng-server1: Clearing any previously set network interfaces...\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.775176,
+      "\u001b[1m==\u003e syslog-ng-server1: Preparing network interfaces based on configuration...\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.001039,
+      "\u001b[0m    syslog-ng-server1: Adapter 1: nat\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.001482,
+      "\u001b[0m    syslog-ng-server1: Adapter 2: hostonly\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001116,
+      "\u001b[0m    syslog-ng-server1: Adapter 3: hostonly\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.151715,
+      "\u001b[1m==\u003e syslog-ng-server1: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.183434,
+      "\u001b[0m    syslog-ng-server1: 22 (guest) =\u003e 2200 (host) (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.586827,
+      "\u001b[1m==\u003e syslog-ng-server1: Running 'pre-boot' VM customizations...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.293767,
+      "\u001b[1m==\u003e syslog-ng-server1: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.404731,
+      "\u001b[1m==\u003e syslog-ng-server1: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.002151,
+      "\r\n"
+    ],
+    [
+      0.225029,
+      "\u001b[0m    syslog-ng-server1: SSH address: 127.0.0.1:2200\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000626,
+      "\u001b[0m    syslog-ng-server1: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000598,
+      "\u001b[0m    syslog-ng-server1: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      19.782309,
+      "\u001b[1m==\u003e syslog-ng-server1: Machine booted and ready!\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001619,
+      "\u001b[1m==\u003e syslog-ng-server1: Checking for guest additions in VM...\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.123668,
+      "\u001b[0m    syslog-ng-server1: The guest additions on this VM do not match the installed version of\r\n"
+    ],
+    [
+      0.000022,
+      "    syslog-ng-server1: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    syslog-ng-server1: prevent things such as shared folders from working properly. If you see\r\n    syslog-ng-server1: shared folder errors, please make sure the guest additions within the\r\n    syslog-ng-server1: virtual machine match the version of VirtualBox you have installed on\r\n"
+    ],
+    [
+      0.000011,
+      "    syslog-ng-server1: your host and reload your VM."
+    ],
+    [
+      0.000009,
+      "\r\n    syslog-ng-server1: "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    syslog-ng-server1: Guest Additions Version: 4.3.36\r\n"
+    ],
+    [
+      0.000015,
+      "    syslog-ng-server1: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.001595,
+      "\u001b[1m==\u003e syslog-ng-server1: Setting hostname...\u001b[0m\r\n"
+    ],
+    [
+      2.771605,
+      "\u001b[1m==\u003e syslog-ng-server1: Configuring and enabling network interfaces...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      1.888149,
+      "\u001b[1m==\u003e syslog-ng-server1: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      1.076459,
+      "\u001b[0m    syslog-ng-server1: Running ansible-playbook...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.358418,
+      "\u001b[0m\r\nPLAY ***************************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.008024,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [setup] *******************************************************************\r\n\u001b[0m"
+    ],
+    [
+      2.145262,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.119544,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.009803,
+      "\u001b[0m"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "TASK [Set timezone variables for Debian / Ubuntu] ******************************"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[0m"
+    ],
+    [
+      0.381321,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.044556,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.008689,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.191464,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.017245,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.006443,
+      "\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.444641,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.008564,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.001532,
+      "\u001b[0m"
+    ],
+    [
+      0.000432,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "PLAY RECAP *********************************************************************"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000426,
+      "\u001b[0m\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0;33msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m3\u001b[0m    unreachable=0    failed=0   \r\n\r\n\u001b[0m"
+    ],
+    [
+      0.024417,
+      "\u001b[1m==\u003e syslog-ng-server1: Running provisioner: ansible...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      1.022403,
+      "\u001b[0m    syslog-ng-server1: Running ansible-playbook...\u001b[0m\r\n"
+    ],
+    [
+      0.234684,
+      "\u001b[0m\r\nPLAY ***************************************************************************"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.008228,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "TASK [setup] *******************************************************************\r\n\u001b[0m"
+    ],
+    [
+      2.037859,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.391162,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.013002,
+      "\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "TASK [Set timezone variables for Debian / Ubuntu] ******************************"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[0m"
+    ],
+    [
+      0.264383,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.012402,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.003035,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "TASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.168812,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.012304,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.006620,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.404336,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.015529,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.001526,
+      "\u001b[0m\r\nPLAY RECAP *********************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.000679,
+      "\u001b[0m\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0;32msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\r\n\u001b[0m"
+    ],
+    [
+      0.144731,
+      "\u001b[1m==\u003e syslog-ng-client1: Importing base box 'ubuntu/trusty64'...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      7.363379,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000171,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      2.469496,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.175918,
+      "\u001b[1m==\u003e syslog-ng-client1: Matching MAC address for NAT networking...\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.351791,
+      "\u001b[1m==\u003e syslog-ng-client1: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      2.218280,
+      "\u001b[1m==\u003e syslog-ng-client1: Setting the name of the VM: syslog-ng-client1\u001b[0m\r\n"
+    ],
+    [
+      0.357232,
+      "\u001b[1m==\u003e syslog-ng-client1: Clearing any previously set forwarded ports...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      8.334520,
+      "\u001b[1m==\u003e syslog-ng-client1: Fixed port collision for 22 =\u003e 2222. Now on port 2201.\u001b[0m\r\n"
+    ],
+    [
+      0.188773,
+      "\u001b[1m==\u003e syslog-ng-client1: Clearing any previously set network interfaces...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.788460,
+      "\u001b[1m==\u003e syslog-ng-client1: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.003075,
+      "\u001b[0m    syslog-ng-client1: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b[0m    syslog-ng-client1: Adapter 2: hostonly\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001376,
+      "\u001b[0m    syslog-ng-client1: Adapter 3: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.151160,
+      "\u001b[1m==\u003e syslog-ng-client1: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.183906,
+      "\u001b[0m    syslog-ng-client1: 22 (guest) =\u003e 2201 (host) (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.611933,
+      "\u001b[1m==\u003e syslog-ng-client1: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.301387,
+      "\u001b[1m==\u003e syslog-ng-client1: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.519982,
+      "\u001b[1m==\u003e syslog-ng-client1: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.000971,
+      "\r\n"
+    ],
+    [
+      0.231425,
+      "\u001b[0m    syslog-ng-client1: SSH address: 127.0.0.1:2201\u001b[0m\r\n"
+    ],
+    [
+      0.000966,
+      "\u001b[0m    syslog-ng-client1: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000722,
+      "\u001b[0m    syslog-ng-client1: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      19.803664,
+      "\u001b[1m==\u003e syslog-ng-client1: Machine booted and ready!\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001596,
+      "\u001b[1m==\u003e syslog-ng-client1: Checking for guest additions in VM...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.055373,
+      "\u001b[0m    syslog-ng-client1: The guest additions on this VM do not match the installed version of\r\n    syslog-ng-client1: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    syslog-ng-client1: prevent things such as shared folders from working properly. If you see\r\n    syslog-ng-client1: shared folder errors, please make sure the guest additions within the\r\n    syslog-ng-client1: virtual machine match the version of VirtualBox you have installed on\r\n    syslog-ng-client1: your host and reload your VM.\r\n    syslog-ng-client1: \r\n    syslog-ng-client1: Guest Additions Version: 4.3.36\r\n    syslog-ng-client1: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.000419,
+      "\u001b[1m==\u003e syslog-ng-client1: Setting hostname...\u001b[0m\r\n"
+    ],
+    [
+      2.697504,
+      "\u001b[1m==\u003e syslog-ng-client1: Configuring and enabling network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      2.063892,
+      "\u001b[1m==\u003e syslog-ng-client1: Running provisioner: ansible...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      1.424547,
+      "\u001b[0m    syslog-ng-client1: Running ansible-playbook...\u001b[0m\r\n"
+    ],
+    [
+      0.479917,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "PLAY ***************************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.008795,
+      "\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\nTASK [setup] *******************************************************************\r\n\u001b[0m"
+    ],
+    [
+      2.889775,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.635294,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.156565,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.015829,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "TASK [Set timezone variables for Debian / Ubuntu] ******************************\r\n\u001b[0m"
+    ],
+    [
+      0.318047,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.036964,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.037994,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.003102,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\nTASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.255830,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.016683,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.008259,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.003781,
+      "\u001b[0m\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.330456,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.034289,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.031177,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.002133,
+      "\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\nPLAY RECAP *********************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.000406,
+      "\u001b[0m\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;33msyslog-ng-client1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m3\u001b[0m    unreachable=0    failed=0   \r\n\u001b[0;32msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\r\n\u001b[0m"
+    ],
+    [
+      0.017447,
+      "\u001b[1m==\u003e syslog-ng-client1: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      1.639536,
+      "\u001b[0m    syslog-ng-client1: Running ansible-playbook...\u001b[0m\r\n"
+    ],
+    [
+      0.324194,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "PLAY ***************************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.007806,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "TASK [setup] *******************************************************************\r\n\u001b[0m"
+    ],
+    [
+      3.276718,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.011349,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.906762,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.014382,
+      "\u001b[0m"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "TASK [Set timezone variables for Debian / Ubuntu] ******************************"
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m"
+    ],
+    [
+      0.271870,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.047872,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.012180,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.003723,
+      "\u001b[0m\r\nTASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.198706,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.014842,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.119511,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.003173,
+      "\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.323341,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.009401,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.030361,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.002025,
+      "\u001b[0m\r\nPLAY RECAP *********************************************************************\r\n\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\u001b[0m"
+    ],
+    [
+      0.000558,
+      "\u001b[0m\u001b[0;32msyslog-ng-client1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\u001b[0;32msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000015,
+      "\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.307132,
+      "\u001b[1m==\u003e syslog-ng-client2: Importing base box 'ubuntu/trusty64'...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      8.189181,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000350,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      0.100585,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000231,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      2.278009,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.150213,
+      "\u001b[1m==\u003e syslog-ng-client2: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.357847,
+      "\u001b[1m==\u003e syslog-ng-client2: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      2.347659,
+      "\u001b[1m==\u003e syslog-ng-client2: Setting the name of the VM: syslog-ng-client2\u001b[0m\r\n"
+    ],
+    [
+      0.405267,
+      "\u001b[1m==\u003e syslog-ng-client2: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      7.620508,
+      "\u001b[1m==\u003e syslog-ng-client2: Fixed port collision for 22 =\u003e 2222. Now on port 2202.\u001b[0m\r\n"
+    ],
+    [
+      0.200637,
+      "\u001b[1m==\u003e syslog-ng-client2: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.756365,
+      "\u001b[1m==\u003e syslog-ng-client2: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000999,
+      "\u001b[0m    syslog-ng-client2: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.000961,
+      "\u001b[0m    syslog-ng-client2: Adapter 2: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.000992,
+      "\u001b[0m    syslog-ng-client2: Adapter 3: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.164690,
+      "\u001b[1m==\u003e syslog-ng-client2: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.124233,
+      "\u001b[0m    syslog-ng-client2: 22 (guest) =\u003e 2202 (host) (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.501275,
+      "\u001b[1m==\u003e syslog-ng-client2: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.319262,
+      "\u001b[1m==\u003e syslog-ng-client2: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.571449,
+      "\u001b[1m==\u003e syslog-ng-client2: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.019602,
+      "\r\n"
+    ],
+    [
+      0.189275,
+      "\u001b[0m    syslog-ng-client2: SSH address: 127.0.0.1:2202\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001496,
+      "\u001b[0m    syslog-ng-client2: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.001130,
+      "\u001b[0m    syslog-ng-client2: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      19.817054,
+      "\u001b[1m==\u003e syslog-ng-client2: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.001400,
+      "\u001b[1m==\u003e syslog-ng-client2: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.128713,
+      "\u001b[0m    syslog-ng-client2: The guest additions on this VM do not match the installed version of\r\n    syslog-ng-client2: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    syslog-ng-client2: prevent things such as shared folders from working properly. If you see\r\n    syslog-ng-client2: shared folder errors, please make sure the guest additions within the\r\n"
+    ],
+    [
+      0.000021,
+      "    syslog-ng-client2: virtual machine match the version of VirtualBox you have installed on\r\n    syslog-ng-client2: your host and reload your VM.\r\n    syslog-ng-client2: \r\n    syslog-ng-client2: Guest Additions Version: 4.3.36\r\n    syslog-ng-client2: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.001801,
+      "\u001b[1m==\u003e syslog-ng-client2: Setting hostname...\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      2.759562,
+      "\u001b[1m==\u003e syslog-ng-client2: Configuring and enabling network interfaces...\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      1.906941,
+      "\u001b[1m==\u003e syslog-ng-client2: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      1.818940,
+      "\u001b[0m    syslog-ng-client2: Running ansible-playbook...\u001b[0m\r\n"
+    ],
+    [
+      0.425512,
+      "\u001b[0m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "PLAY ***************************************************************************"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.007940,
+      "\u001b[0m\r\nTASK [setup] *******************************************************************"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      3.391419,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.220857,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      1.162051,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m"
+    ],
+    [
+      29.846156,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.011775,
+      "\u001b[0m\r\nTASK [Set timezone variables for Debian / Ubuntu] ******************************\r\n\u001b[0m"
+    ],
+    [
+      0.303567,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.075877,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.001805,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.009328,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.004443,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "TASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.222722,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.051740,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.027702,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.006367,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.003109,
+      "\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.392434,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.004583,
+      "\u001b[0m\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.002464,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.064251,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.006806,
+      "\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\nPLAY RECAP *********************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.000504,
+      "\u001b[0m\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0;32msyslog-ng-client1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\u001b[0;33msyslog-ng-client2\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m3\u001b[0m    unreachable=0    failed=0   \r\n\u001b[0;32msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.038141,
+      "\u001b[1m==\u003e syslog-ng-client2: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      1.539057,
+      "\u001b[0m    syslog-ng-client2: Running ansible-playbook...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.351444,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "PLAY ***************************************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.008023,
+      "\u001b[0m\r\nTASK [setup] *******************************************************************"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      2.828394,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.450430,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.029771,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client2]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      1.943589,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0m"
+    ],
+    [
+      0.017887,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\nTASK [Set timezone variables for Debian / Ubuntu] ******************************\r\n\u001b[0m"
+    ],
+    [
+      0.310921,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.016083,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0m"
+    ],
+    [
+      0.009358,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client2]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.038996,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.003335,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "TASK [Set timezone for CentOS / RHEL / Fedora] *********************************\r\n\u001b[0m"
+    ],
+    [
+      0.261499,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.017463,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.031536,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.017047,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.003066,
+      "\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\nTASK [Update hosts file] *******************************************************\r\n\u001b[0m"
+    ],
+    [
+      0.393014,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.008242,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client1]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.001631,
+      "\u001b[0m\u001b[0;32mok: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.045475,
+      "\u001b[0m\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.001943,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "PLAY RECAP *********************************************************************\r\n\u001b[0;32msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\u001b[0m"
+    ],
+    [
+      0.001315,
+      "\u001b[0m\u001b[0;32msyslog-ng-client1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32msyslog-ng-client2\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\u001b[0;32msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    changed=0    unreachable=0    failed=0   \r\n\r\n\u001b[0m"
+    ],
+    [
+      0.070325,
+      "****************** Verifying ping connection: ******************\r\n"
+    ],
+    [
+      0.420339,
+      "\u001b[0;32msyslog-ng-client2 | SUCCESS =\u003e {"
+    ],
+    [
+      0.000007,
+      "\r\n    \"changed\": false, \r\n    \"ping\": \"pong\"\r\n}\u001b[0m\r\n"
+    ],
+    [
+      0.000720,
+      "\u001b[0;32msyslog-ng-server1 | SUCCESS =\u003e {\r\n"
+    ],
+    [
+      0.000004,
+      "    \"changed\": false, \r\n    \"ping\": \"pong\"\r\n}\u001b[0m\r\n"
+    ],
+    [
+      0.000534,
+      "\u001b[0;32msyslog-ng-client1 | SUCCESS =\u003e {\r\n"
+    ],
+    [
+      0.000004,
+      "    \"changed\": false, \r\n    \"ping\": \"pong\"\r\n}\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.066145,
+      "\u001b[0;32msplunk | SUCCESS =\u003e {\r\n    \"changed\": false, "
+    ],
+    [
+      0.000020,
+      "\r\n    \"ping\": \"pong\"\r\n}\u001b[0m\r\n"
+    ],
+    [
+      0.042495,
+      "****************** Running: part1_deploysplunk.yml ******************\r\n"
+    ],
+    [
+      0.252838,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "PLAY ***************************************************************************\r\n"
+    ],
+    [
+      0.008155,
+      "\r\nTASK [setup] *******************************************************************"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      4.113136,
+      "\u001b[0;32mok: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.012801,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [Check if Splunk path exists] *********************************************\r\n"
+    ],
+    [
+      0.341262,
+      "\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.010566,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "TASK [Create the system splunk account for splunk] *****************************\r\n"
+    ],
+    [
+      0.478501,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.009482,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Copy and unarchive Splunk] ***********************************************\r\n"
+    ],
+    [
+      20.891744,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.010233,
+      "\r\nTASK [Start Splunk and accept licence] *****************************************\r\n"
+    ],
+    [
+      12.543324,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.009180,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "TASK [Enable boot start for Splunk] ********************************************\r\n"
+    ],
+    [
+      0.702852,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008652,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [Lower the minimal free space required (default 5GB, set to 1 GB to fit VMs space)] ***\r\n"
+    ],
+    [
+      1.120892,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.016025,
+      "\r\nTASK [Enable receiving port 9997] **********************************************\r\n"
+    ],
+    [
+      0.956734,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008543,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "TASK [Unarchive nmon performance core app] *************************************\r\n"
+    ],
+    [
+      6.451555,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.009753,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "TASK [Copy serverclass.conf] ***************************************************\r\n"
+    ],
+    [
+      0.630404,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m\r\n"
+    ],
+    [
+      0.008386,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [Apply outputs.conf for clients] ******************************************\r\n"
+    ],
+    [
+      0.617566,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008958,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Deploy the TA-nmon addon to the deployment server for clients deployment] \r\n"
+    ],
+    [
+      3.682164,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.011736,
+      "\r\nTASK [Deploy the local/inputs.conf for rsyslog-server clients] *****************\r\n"
+    ],
+    [
+      0.897249,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008696,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "TASK [Restart Splunk] **********************************************************\r\n"
+    ],
+    [
+      23.494099,
+      "\u001b[0;33mchanged: [splunk]\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.008658,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Wait for Splunk startup] *************************************************\r\n"
+    ],
+    [
+      0.420150,
+      "\u001b[0;32mok: [splunk]\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.023994,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "PLAY ***************************************************************************\r\n"
+    ],
+    [
+      0.017647,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      2.202575,
+      "\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004597,
+      "\r\nTASK [Update apt cache] ********************************************************\r\n"
+    ],
+    [
+      21.387468,
+      "\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.008942,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [Remove rsyslog for Ubuntu/Debian] ****************************************\r\n"
+    ],
+    [
+      2.749554,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002591,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK [Install syslog-ng for Ubuntu/Debian] *************************************\r\n"
+    ],
+    [
+      6.818191,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008676,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Enable the EPEL repository (Extra Packages for Enterprise Linux)] ********\r\n"
+    ],
+    [
+      0.058858,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.011291,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "TASK [Remove rsyslog package if installed] *************************************\r\n"
+    ],
+    [
+      0.031421,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.002565,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "TASK [Install syslog-ng for RHEL/CentOS] ***************************************\r\n"
+    ],
+    [
+      0.020070,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.002905,
+      "\r\nTASK [Install minimal Perl environment] ****************************************\r\n"
+    ],
+    [
+      0.019363,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m\r\n"
+    ],
+    [
+      0.003730,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK [Create the /var/log/remote-hosts directory (for Ubuntu/Debian with syslog owner)] ***\r\n"
+    ],
+    [
+      0.390329,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.009594,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "TASK [Create the /var/log/nmon-performance directory (for Ubuntu/Debian with syslog owner)] ***\r\n"
+    ],
+    [
+      0.411658,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.008730,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Create the /var/log/remote-hosts directory (for RHEL/CentOS with root owner)] ***\r\n"
+    ],
+    [
+      0.057593,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.008489,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "TASK [Create the /var/log/nmon-performance directory (for RHEL/CentOS with root owner)] ***\r\n"
+    ],
+    [
+      0.054306,
+      "\u001b[0;36mskipping: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.009369,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "TASK [Deploy syslog-ng central configuration for global logging] ***************\r\n"
+    ],
+    [
+      0.509801,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.006102,
+      "\r\nTASK [Deploy syslog-ng central configuration for nmon performance] *************"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.582933,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.008734,
+      "\r\nTASK [Check if Splunk Universal Forwarder path exists] *************************"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.396849,
+      "\u001b[0;32mok: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.007819,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [Copy and unarchive Splunk Universal Forwarder] ***************************\r\n"
+    ],
+    [
+      3.027150,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.007797,
+      "\r\nTASK [Start Splunk Universal Forwarder and accept licence] *********************"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      2.012779,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.010257,
+      "\r\nTASK [Enable boot start for Splunk Universal Forwarder] ************************\r\n"
+    ],
+    [
+      0.377922,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.008529,
+      "\r\nTASK [Configure Splunk as client of the deployment server] *********************"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.729000,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.013003,
+      "\r\nTASK [Restart Splunk Universal Forwarder] **************************************\r\n"
+    ],
+    [
+      6.792153,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.010983,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "TASK [Restart syslog-ng] *******************************************************\r\n"
+    ],
+    [
+      1.542016,
+      "\u001b[0;33mchanged: [syslog-ng-server1]\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.002349,
+      "\u001b[1;35m [WARNING]: Consider using service module rather than running service"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.017114,
+      "\r\nPLAY ***************************************************************************"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.014791,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "TASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      2.520175,
+      "\u001b[0;32mok: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.128200,
+      "\u001b[0;32mok: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.012225,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Update apt cache] ********************************************************\r\n"
+    ],
+    [
+      18.555931,
+      "\u001b[0;32mok: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      5.758476,
+      "\u001b[0;32mok: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.008974,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Remove rsyslog for Ubuntu/Debian] ****************************************\r\n"
+    ],
+    [
+      2.572901,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.006746,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003375,
+      "\r\nTASK [Install syslog-ng for Ubuntu/Debian] *************************************\r\n"
+    ],
+    [
+      5.398447,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      2.065399,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.009944,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "TASK [Enable the EPEL repository (Extra Packages for Enterprise Linux)] ********\r\n"
+    ],
+    [
+      0.028383,
+      "\u001b[0;36mskipping: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.008209,
+      "\u001b[0;36mskipping: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003569,
+      "\r\nTASK [Remove rsyslog package if installed] *************************************\r\n"
+    ],
+    [
+      0.028497,
+      "\u001b[0;36mskipping: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.007621,
+      "\u001b[0;36mskipping: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      0.004589,
+      "\r\nTASK [Install syslog-ng for RHEL/CentOS] ***************************************"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.022744,
+      "\u001b[0;36mskipping: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003340,
+      "\u001b[0;36mskipping: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003881,
+      "\r\nTASK [Install minimal Perl environment] ****************************************\r\n"
+    ],
+    [
+      0.024091,
+      "\u001b[0;36mskipping: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.004254,
+      "\u001b[0;36mskipping: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      0.004046,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [Deploy syslog-ng central configuration] **********************************\r\n"
+    ],
+    [
+      0.507412,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      0.005468,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.002592,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK [Deploy syslog-ng central configuration] **********************************\r\n"
+    ],
+    [
+      0.029479,
+      "\u001b[0;36mskipping: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.001058,
+      "\u001b[0;36mskipping: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002789,
+      "\r\nTASK [Create the system nmon account if required] ******************************"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.223258,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.048873,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.002793,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TASK [Create the /var/log/nmon-logger directory if required] *******************\r\n"
+    ],
+    [
+      0.209943,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000827,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.005273,
+      "\r\nTASK [Deploy nmon-logger binaries (/etc/nmon-logger)] **************************"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      3.134350,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.005562,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.004951,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "TASK [Set owner and group owner for nmon-logger binaries (/etc/nmon-logger)] ***\r\n"
+    ],
+    [
+      0.296015,
+      "\u001b[0;32mok: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.013078,
+      "\u001b[0;32mok: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      0.002756,
+      "\r\nTASK [Deploy nmon-logger cron.d configuration] *********************************"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.428567,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.009499,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003709,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "TASK [Deploy nmon-logger logrotate.d configuration] ****************************"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.458766,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.001549,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m\r\n"
+    ],
+    [
+      0.002930,
+      "\r\nTASK [Deploy nmon-logger syslog-ng.d configuration] ****************************"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.479193,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m\r\n"
+    ],
+    [
+      0.015833,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.006339,
+      "\r\nTASK [Restart syslog-ng] *******************************************************"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      1.506365,
+      "\u001b[0;33mchanged: [syslog-ng-client2]\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.002967,
+      "\u001b[0;33mchanged: [syslog-ng-client1]\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.005550,
+      "\r\nPLAY RECAP *********************************************************************"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[0;33msplunk\u001b[0m                     : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m15\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[0;33msyslog-ng-client1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m13\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m10\u001b[0m   unreachable=0    failed=0   "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[0;33msyslog-ng-client2\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m13\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m10\u001b[0m   unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[0;33msyslog-ng-server1\u001b[0m          : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m15\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.046559,
+      "****************** Done, hosts map: ******************"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.002563,
+      "# /etc/hosts"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n\r\n# splunk"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "192.168.33.100  splunk"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "# rsyslog-servers\r\n"
+    ],
+    [
+      0.000009,
+      "192.168.33.101  syslog-ng-server1\r\n\r\n# rsyslog-servers"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "192.168.33.102  syslog-ng-client1\r\n192.168.33.103  syslog-ng-client2\r\n"
+    ],
+    [
+      0.000334,
+      "******************************************************"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000449,
+      "Demo:$ "
+    ],
+    [
+      3.162168,
+      "exit\r\n"
+    ]
+  ]
+}
