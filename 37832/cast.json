@@ -1,0 +1,1058 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 44,
+  "duration": 19.241811,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.320375,
+      "\u001b[?25h"
+    ],
+    [
+      0.000441,
+      "\u001b[0G"
+    ],
+    [
+      0.000066,
+      "\u001b[K"
+    ],
+    [
+      0.000265,
+      "\u001b[?25h"
+    ],
+    [
+      0.000060,
+      "\u001b[0G"
+    ],
+    [
+      0.000047,
+      "\u001b[K"
+    ],
+    [
+      0.187865,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000064,
+      "\u001b]2;chenglou@Macintosh: ~/Documents/Github/ocaml-better-errors\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..better-errors\u0007"
+    ],
+    [
+      0.054431,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;237m------------------------------------------------------------\u001b[00m\r\n\u001b[38;5;032m~/Documents/Github/ocaml-better-errors\u001b[38;5;075m(branch:master\u001b[38;5;075m)\u001b[00m \u001b[38;5;105m»\u001b[00m "
+    ],
+    [
+      0.000031,
+      "\u001b[K\u001b[71C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[89D"
+    ],
+    [
+      1.286718,
+      "g\r\r\n"
+    ],
+    [
+      0.000025,
+      "57(226) too many matches...\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000008,
+      "g\u001b[K\u001b[70C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[88D"
+    ],
+    [
+      0.290317,
+      "\u0008gl"
+    ],
+    [
+      0.000077,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000196,
+      "\u001b[0mgl           glg          glgga        glgp         glibtoolize  globurl      glol         glp                                           \r\n\u001b[Jglewinfo     \u001b[Jglgg         \u001b[Jglgm         \u001b[Jglibtool     \u001b[Jglo          \u001b[Jglog         \u001b[Jglola        \u001b[Jglum         \u001b[J                                 \u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000019,
+      "gl\u001b[K\u001b[69C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[87D"
+    ],
+    [
+      0.312087,
+      "o\r\r\n\u001b[J"
+    ],
+    [
+      0.000038,
+      "\u001b[J\u001b[0mglo      \u001b[Jgloburl  \u001b[Jglog     \u001b[Jglol     \u001b[Jglola  \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000005,
+      "glo\u001b[K\u001b[68C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[86D"
+    ],
+    [
+      0.610007,
+      "\u0008\u0008\u0008\u001b[1mg\u001b[1ml\u001b[1mo\u001b[0m"
+    ],
+    [
+      0.000717,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000084,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.001819,
+      "\u001b]2;glo\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;glo\u0007"
+    ],
+    [
+      0.000061,
+      "\u001b[0m"
+    ],
+    [
+      0.038195,
+      "\u001b[?1049h\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1000h"
+    ],
+    [
+      0.000308,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[34m\u003e \u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.021845,
+      "\r\n\u001b(B\u001b[0;1m\u001b[32m\\\u001b[39m\u001b(B\u001b[m \u001b[37m0/0  \u001b[1;3H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031359,
+      "\n\u001b[5G\u001b[37m6\u001b[A\u0008\u0008\u0008\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.012909,
+      "\r\n  \u001b[37m111/111  \r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m\u003e\u001b[33m\u001b[40m * \u001b[33m\u001b[40ma773b91 (\u001b[36m\u001b[40mHEAD\u001b[33m\u001b[40m -\u003e \u001b[32m\u001b[40mmaster\u001b[33m\u001b[40m, \u001b[31m\u001b[40morigin/master\u001b[33m\u001b[40m)\u001b[33m\u001b[40m Upgrade some bad regexes \u001b[30m\u001b[40m5 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m7d057b6\u001b[39m\u001b(B\u001b[m Pull out function args count parsing logic; add new parse helper \u001b(B\u001b[0;1m\u001b[30m14 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mf530ee8\u001b[39m\u001b(B\u001b[m Add oasis to deps \u001b(B\u001b[0;1m\u001b[30m19 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33md91c437\u001b[39m\u001b(B\u001b[m Better readme instructions \u001b(B\u001b[0;1m\u001b[30m35 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mbf7414b\u001b[39m\u001b(B\u001b[m Don't output verbose custom module help hint if there's a suggestion \u001b(B\u001b[0;1m\u001b[30m35 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33me56e704\u001b[39m\u001b(B\u001b[m Add more test cases \u001b(B\u001b[0;1m\u001b[30m2 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m75e3940\u001b[39m\u001b(B\u001b[m Use ocaml-re instead of Pcre-ocaml \u001b(B\u001b[0;1m\u001b[30m3 days ago\r\n\u001b[31m\u001b[40"
+    ],
+    [
+      0.000058,
+      "m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mf2938f8\u001b[39m\u001b(B\u001b[m Rename stuff; make custom parsers possible; better _oasis; more tests \u001b(B\u001b[0;1m\u001b[30m5 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m158239d\u001b[39m\u001b(B\u001b[m Fix potential ocaml-pcre bug \u001b(B\u001b[0;1m\u001b[30m7 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m678c4cf\u001b[39m\u001b(B\u001b[m Add opam \u001b(B\u001b[0;1m\u001b[30m8 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m29b57b5\u001b[39m\u001b(B\u001b[m Sigh, check in some fail table drawing code \u001b(B\u001b[0;1m\u001b[30m10 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33mb8bcb8f\u001b[39m\u001b(B\u001b[m Merge pull request #17 from andreyiv/warning_capitalization_fix \u001b(B\u001b[0;1m\u001b[30m12 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[32m|\u001b(B\u001b[0m\u001b[33m\\\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mef0db1f\u001b[39m\u001b(B\u001b[m Normalized capitalization of warning_PatternNotExhaustive_#_expected.txt where # is 1 and 2, so that test.ml would not error out ..\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[32m|\u001b(B\u001b[0m\u001b[32m/\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m "
+    ],
+    [
+      0.000662,
+      "\u001b[39;49m\u001b(B\u001b[m * \u001b[33m88c0e1c\u001b[39m\u001b(B\u001b[m Improve (ake COMPLETELY MURDER) incompatible type display \u0026 detection \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33md5b1998\u001b[39m\u001b(B\u001b[m Better msg for Type_NotAFunction \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mb16fb69\u001b[39m\u001b(B\u001b[m Pass on original data structure to nuclide reporter \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m9bc427e\u001b[39m\u001b(B\u001b[m Rewrite nuclide reporter to reuse terminal reporter msg \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m27d315d\u001b[39m\u001b(B\u001b[m Refactor parser \u0026 reporter to simpler data structure \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m5"
+    ],
+    [
+      0.000263,
+      "da334d\u001b[39m\u001b(B\u001b[m Better screenshots! \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m8b0d33f\u001b[39m\u001b(B\u001b[m The great prettification wave \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m3f9e798\u001b[39m\u001b(B\u001b[m Fix bug of warning_OptionalArgumentNotErased \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m9ea19eb\u001b[39m\u001b(B\u001b[m Check in test for type_UnboundModule \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m3d02453\u001b[39m\u001b(B\u001b[m Merge pull request #14 from gasche/packaging-fix \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[34m|\u001b(B\u001b[0m\u001b[35m\\\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b[34m|\u001b[39m\u001b(B\u001b[m * \u001b[33mf88b4e5\u001b[39m\u001b(B\u001b[m use opam package names \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[35m|\u001b[39m\u001b(B\u001b[m \u001b[33m5235c60\u001b[39m\u001b(B\u001b[m Make reporter generate a string instead of directly printing to console \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[35m|\u001b(B\u001b[0m\u001b[35m/\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m * \u001b[33m90c940b\u001b[39m\u001b(B\u001b[m wo hen xiang shui jiao \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m03bd345\u001b[39m\u001b(B\u001b[m Pull out common code, fix \u0026 prettify unboundValue hint display \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m0f3ed0f\u001b[39m\u001b(B\u001b[m Pull errors \u0026 warnings out into dedicated files \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m73d3732\u001b[39m\u001b(B\u001b[m Update tests following last change to incompatible type \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m53df494\u001b[39m\u001b(B\u001b[m Merge pull request #11 from bsansouci/diff-table \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[36m|\u001b[31m\\\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b[36m|\u001b[39m\u001b(B\u001b[m * \u001b[33m83977df\u001b[39m\u001b(B\u001b[m Made error message for Type_IncompatibleType align nicely. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m44c00ce\u001b[39m\u001b(B\u001b[m Revamp warning/error extractors to"
+    ],
+    [
+      0.000183,
+      " use the new logic \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m7cfaed3\u001b[39m\u001b(B\u001b[m Fix line report for real now \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m4cccd0d\u001b[39m\u001b(B\u001b[m Fix reporter line display \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m5edd392\u001b[39m\u001b(B\u001b[m Check in new test results \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m7d5c7d5\u001b[39m\u001b(B\u001b[m fileInfo.path -\u003e fileInfo.filePath \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[31m|/\u001b[1d\u0008\u0008\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.401662,
+      "\u001b(B\u001b[0;1mr\u001b(B\u001b[m"
+    ],
+    [
+      0.002806,
+      "\u001b[14;28r\u001b[28;1H\u001b[3S\u001b[1;44r\u001b[2;3H\u001b[37m86\u001b[39m\u001b(B\u001b[m\u001b[1P\u001b[4;32H\u001b[32mr\n\u001b[37Gr\u001b[6;18Hr\u001b[7;28Hr\u001b[8;19Hr\n\u001b[23Gr\u001b[10;13HR\u001b[11;35Hr\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m29b57b5\u001b[39m\u001b(B\u001b[m Sigh, check in some fail table d\u001b[32mr\u001b[39m\u001b(B\u001b[mawing code \u001b(B\u001b[0;1m\u001b[30m10 days ago\n\u001b[5G  \u001b[33mb8bcb8f\u001b[39m\u001b(B\u001b[m Me\u001b[32mr\u001b[39m\u001b(B\u001b[mge pull request #17 from andreyiv/warning_capitalization_fix \u001b(B\u001b[0;1m\u001b[30m12 days ago\n\u001b[3G\u001b(B\u001b[0m\u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mef0db1f\u001b[39m\u001b(B\u001b[m No\u001b[32mr\u001b[39m\u001b(B\u001b[mmalized capitalization of warning_PatternNotExhaustive_#_expected.txt where # is 1 and 2, so that test.ml would not error out ..\u001b[15;16H\u001b[32mr\n\u001b[Cr\n\u001b[22Gr\u001b[18;13HR\n\u0008R\n\u001b[18Gr\n\u0008r\u001b[22;26Hr\n\u001b[29Gr\u001b[24;17Hr\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[35m|\u001b[39m\u001b(B\u001b[m \u001b[33m5235c60\u001b[39m\u001b(B\u001b[m Make \u001b[32mr\u001b[39m\u001b(B\u001b[meporter generate a string instead of directly printing to console \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m03bd345\u001b[39m\u001b(B\u001b[m Pull out common code, fix \u0026 p\u001b[32mr\u001b[39m\u001b(B\u001b[mettify unboundValue hint display \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;"
+    ],
+    [
+      0.000049,
+      "49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m0f3ed0f\u001b[39m\u001b(B\u001b[m Pull e\u001b[32mr\u001b[39m\u001b(B\u001b[mrors \u0026 warnings out into dedicated files \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m53df494\u001b[39m\u001b(B\u001b[m Me\u001b[32mr\u001b[39m\u001b(B\u001b[mge pull request #11 from bsansouci/diff-table \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G\u001b(B\u001b[0m\u001b[36m|\u001b[39m\u001b(B\u001b[m * \u001b[33m83977df\u001b[39m\u001b(B\u001b[m Made e\u001b[32mr\u001b[39m\u001b(B\u001b[mror message for Type_IncompatibleType align nicely. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m44c00ce\u001b[39m\u001b(B\u001b[m \u001b[32mR\u001b[39m\u001b(B\u001b[mevamp warning/error extractors to use the new logic \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[19P\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m7cfaed3\u001b[39m\u001b(B\u001b[m Fix line \u001b[32mr\u001b[39m\u001b(B\u001b[meport for real now \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m4cccd0d\u001b[39m\u001b(B\u001b[m Fix \u001b[32mr\u001b[39m\u001b(B\u001b[meporter line display \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m5edd392\u001b[39m\u001b(B\u001b[m Check in new test \u001b[32mr\u001b[39m\u001b(B\u001b[mesults\u001b[35P\n\u001b[3G* \u001b[33mb24d8c7\u001b[39m\u001b(B\u001b[m Fix line \u001b[32mr\u001b[39m\u001b(B\u001b[meport for real now\u001b[19P"
+    ],
+    [
+      0.000302,
+      "\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m6eabd3b\u001b[39m\u001b(B\u001b[m Fix \u001b[32mr\u001b[39m\u001b(B\u001b[mange calculation and highlight\u001b[20P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33md093b0b\u001b[39m\u001b(B\u001b[m Add Nuclide\u001b[32mR\u001b[39m\u001b(B\u001b[meporter.\u001b[30P\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[33m503355f\u001b[39m\u001b(B\u001b[m Add `ocamlfind` tip fo\u001b[32mr\u001b[39m\u001b(B\u001b[m Type_UnboundModule. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G* \u001b[33m6ebaad3\u001b[39m\u001b(B\u001b[m B\u001b[32mr\u001b[39m\u001b(B\u001b[ming in Atom \u0026 Nuclide interop type defs\u001b[19P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33me8cbc51\u001b[39m\u001b(B\u001b[m \u001b[32mR\u001b[39m\u001b(B\u001b[mestructure data format that the reporter accepts\u001b[5P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m73cca6e\u001b[39m\u001b(B\u001b[m Change test count to account fo\u001b[32mr\u001b[39m\u001b(B\u001b[m newly added tests \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33m6a8812c\u001b[39m\u001b(B\u001b[m Check in atom \u001b[32mr\u001b[39m\u001b(B\u001b[mange type def \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33md7f7520\u001b[3"
+    ],
+    [
+      0.000198,
+      "9m\u001b(B\u001b[m Check in some misc tests I haven't catego\u001b[32mr\u001b[39m\u001b(B\u001b[mized yet \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33mec90e26\u001b[39m\u001b(B\u001b[m Add mo\u001b[32mr\u001b[39m\u001b(B\u001b[me info to file_SyntaxError\u001b[3P\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[33m544e51e\u001b[39m\u001b(B\u001b[m \u001b[32mR\u001b[39m\u001b(B\u001b[meplace ^^^^ indicators with underline \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[1;4H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.047638,
+      "\u001b(B\u001b[0;1me\u001b(B\u001b[m"
+    ],
+    [
+      0.002149,
+      "\r\n\n\n\n\u001b[M\u001b[2;4H\u001b[37m5\u001b[3;31H\u001b(B\u001b[0;1m\u001b[32m\u001b[40mrigin/maste\u001b[4;32H\u001b[39;49m\u001b(B\u001b[mr\u001b[4;44H\u001b[32mrsing logic; add ne\u001b[5;18H\u001b[39m\u001b(B\u001b[mr \u001b[32mre\u001b[6;29Hbose\u001b[7;20He\n\u001b[24Ge\u001b[9;14He\u001b[10;36He\u001b[11;46Hawing code\u001b[12;18Hge\n\u0008\u0008malize\u001b[14;17Hove\n\u0008\u0008\u001b[39m\u001b(B\u001b[mr\u001b[26G\u001b[32mr Type\u001b[16;22H\u001b[39m\u001b(B\u001b[mr\u001b[16;42H\u001b[32mre\u001b[17;14He\n\u0008e\n\u001b[18G\u001b[39m\u001b(B\u001b[mr sc\u001b[32mre\n\u001b[19Ge\n\u001b[26G\u001b[39m\u001b(B\u001b[mr\u001b[21;41H\u001b[32mrgume\u001b[22;30H type\u001b[23;18Hge\nre\u001b[25;43He\u001b[26;19H\u001b[39m\u001b(B\u001b[mr\u001b[26;29H\u001b[32mrnings out into de\u001b[27;18Hge\n\u001b[C\u001b[39m\u001b(B\u001b[mrro\u001b[32mr me\u001b[29;16He\u001b[30;25He\n\u001b[20Ge\u001b[32;34He\u001b[33;23He\n\u001b[18Gange\n\u001b[25Ge\u001b[36;36H Type\u001b[37;15Hing in Atom \u0026 Nuclide\u001b[38;14He\u001b[39;45H ne\u001b[40;28Hange\u001b[41;55Hize\u001b[42;20He\u001b[43;14He\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m328cfe2\u001b[39m\u001b(B\u001b[m Make syntax erro\u001b[32mr handle\u001b[39m\u001b(B\u001b[m semicolon explicitly \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[1;5H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.074514,
+      "\u001b(B\u001b[0;1mm\u001b(B\u001b[m"
+    ],
+    [
+      0.002849,
+      "\r\u001b[35d\u001b[J\u001b[H\n  \u001b[37m32\u001b[3;31H\u001b(B\u001b[0;1m\u001b[31m\u001b[40mrigin/maste\u001b[48G\u001b[32m\u001b[40mrade som\n\u001b[5G\u001b[39;49m\u001b[33md91c437\u001b[39m\u001b(B\u001b[m Better \u001b[32mreadm\u001b[39m\u001b(B\u001b[me instructions \u001b(B\u001b[0;1m\u001b[30m35\u001b[39m\u001b(B\u001b[m\u001b[38P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33mbf7414b\u001b[39m\u001b(B\u001b[m Don't output ve\u001b[32mrbose custom\u001b[39m\u001b(B\u001b[m module help hint if there's a suggestion \u001b(B\u001b[0;1m\u001b[30m35 hours ago\n\u001b[5G\u001b[33m75e3940\u001b[39m\u001b(B\u001b[m Use ocaml-re instead of Pc\u001b[32mre-ocam\u001b[39m\u001b(B\u001b[ml \u001b(B\u001b[0;1m\u001b[30m3 days ago\u001b[39m\u001b(B\u001b[m\u001b[K\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33mf2938f8\u001b[39m\u001b(B\u001b[m \u001b[32mRenam\u001b[39m\u001b(B\u001b[me stuff; make custom parsers possible; better _oasis; more tests \u001b(B\u001b[0;1m\u001b[30m5 days ago\n\u001b[5G  \u001b[33mb8bcb8f\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #17 from\u001b[39m\u001b(B\u001b[m andreyiv/warning_capitalization_fix \u001b(B\u001b[0;1m\u001b[30m12 days ago\n\u001b[3G\u001b(B\u001b[0m\u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mef0db1f\u001b[39m\u001b(B\u001b[m Normalized capitalization of warning_PatternNotExhaustive_#_expected.txt whe\u001b[32mre # is 1 and 2, so that test.m\u001b[39m\u001b(B\u001b[ml would not error out ..\n\u001b[3G* \u001b[33m88c0e1c\u001b[39m\u001b(B\u001b[m Imp\u001b[32mrove (ake COM\u001b[39m\u001b(B\u001b[mPLETELY MURDE"
+    ],
+    [
+      0.000067,
+      "R) incompatible type display \u0026 detection \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[5G\u001b[33m9bc427e\u001b[39m\u001b(B\u001b[m Rewrite nuclide reporter to \u001b[32mreuse term\u001b[39m\u001b(B\u001b[minal reporter msg \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[5G\u001b[33m27d315d\u001b[39m\u001b(B\u001b[m Refactor parser \u0026 repo\u001b[32mrter to sim\u001b[39m\u001b(B\u001b[mpler data structure \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\u001b[39m\u001b(B\u001b[m\u001b[K\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[33m9ea19eb\u001b[39m\u001b(B\u001b[m Check in test fo\u001b[32mr type_UnboundM\u001b[39m\u001b(B\u001b[module \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\u001b[39m\u001b(B\u001b[m\u001b[K\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m3d02453\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #14 from\u001b[39m\u001b(B\u001b[m gasche/packaging-fix\u001b[19P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[30m  \u001b[33m53df494\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #11 from\u001b[39m\u001b(B\u001b[m bsansouci/diff-table \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G\u001b(B\u001b[0m\u001b[36m|\u001b[39m\u001b(B\u001b[m * \u001b[33m83977df\u001b[39m\u001b(B\u001b[m Made error message fo\u001b[32mr Type_Incom\u001b[39m\u001b(B\u001b[mpatibleType align nicely. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m44c00ce\u001b[39m\u001b(B\u001b[m \u001b[32mRevam\u001b[39m\u001b(B\u001b[mp warning/error extractors to use the new logic \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[1P\n\u001b[5G"
+    ],
+    [
+      0.000238,
+      "\u001b(B\u001b[0;1m\u001b[33m503355f\u001b[39m\u001b(B\u001b[m Add `ocamlfind` tip fo\u001b[32mr Type_UnboundM\u001b[39m\u001b(B\u001b[module. \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[9P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33me8cbc51\u001b[39m\u001b(B\u001b[m Restructu\u001b[32mre data form\u001b[39m\u001b(B\u001b[mat that the reporter accepts \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33m328cfe2\u001b[39m\u001b(B\u001b[m Make syntax erro\u001b[32mr handle sem\u001b[39m\u001b(B\u001b[micolon explicitly \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33m400f24c\u001b[39m\u001b(B\u001b[m Add p\u001b[32mrecision on what we need from\u001b[39m\u001b(B\u001b[m ocaml core for type_UnboundRecordField \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33m513473a\u001b[39m\u001b(B\u001b[m Fix BatString.sub overflow p\u001b[32mroblem\u001b[39m\u001b(B\u001b[m; Clearer test for apply wihout label \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33mac32014\u001b[39m\u001b(B\u001b[m \u001b[32mRevam\u001b[39m\u001b(B\u001b[mp Warning_OptionalArgumentNotErased \u001b(B\u001b[0;1m\u001b[3"
+    ],
+    [
+      0.000266,
+      "0m3\u001b[39m\u001b(B\u001b[m\u001b[10P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[30m  \u001b[33m6bd4ca8\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #3 from\u001b[39m\u001b(B\u001b[m bsansouci/fix-pr \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[28P\n\u001b[3G\u001b(B\u001b[0;1m\u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mfcabc8e\u001b[39m\u001b(B\u001b[m Fix Warning_OptionalArgumentNotE\u001b[32mrased to only catch the right kind of warning m\u001b[39m\u001b(B\u001b[message. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G\u001b[39m\u001b(B\u001b[m*   \u001b[33m9872569\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #2 from\u001b[39m\u001b(B\u001b[m bsansouci/new-type-errors \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[33mcba093b\u001b[39m\u001b(B\u001b[m Handle default cases (no err/warning or er\u001b[32mr with file nam\u001b[39m\u001b(B\u001b[me) better \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[3G* \u001b[33m2a0d204\u001b[39m\u001b(B\u001b[m Fix repo\u001b[32mrter typo; add todo for som\u001b[39m\u001b(B\u001b[me errors \u001b(B\u001b[0;1m\u001b[30m4\u001b[39m\u001b(B\u001b[m\u001b[17P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m5c09864\u001b[39m\u001b(B\u001b[m Add actual \u001b[32mreadm\u001b[39m\u001b(B\u001b[me \u001b(B\u001b[0;1m\u001b[30m4\u001b[39m\u001b(B\u001b[m\u001b[37P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m5fb8800\u001b[39m\u001b(B\u001b[m \u001b[32mRevam\u001b[39m\u001b(B\u001b[mp tests after the few recent modifications \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\n\u001b[5G\u001b[33m4b12b8c\u001b[39m\u001b(B\u001b[m Cache file instead of sto\u001b["
+    ],
+    [
+      0.000253,
+      "32mring only file nam\u001b[39m\u001b(B\u001b[me \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\n\u001b[5G\u001b[33mf1d62d3\u001b[39m\u001b(B\u001b[m Tests: \u001b[32mrem\u001b[39m\u001b(B\u001b[move cmi and cmo artifacts after the tests \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\n\u001b[3G* \u001b[33ma1e8de0\u001b[39m\u001b(B\u001b[m Add Type_AppliedTooMany; \u001b[32mrefactor som\u001b[39m\u001b(B\u001b[me names; add more encountered error dummies \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\n\u001b[5G\u001b[33m57284be\u001b[39m\u001b(B\u001b[m Switch \u001b[32mregex lib from\u001b[39m\u001b(B\u001b[m Str to ocaml-pcre \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\u001b[1;6H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.024515,
+      "\u001b(B\u001b[0;1mo\u001b(B\u001b[m"
+    ],
+    [
+      0.003175,
+      "\u001b[3;56H\u001b(B\u001b[0;1m\u001b[32m\u001b[40me bad regexes 5 ho\u001b[4;25H\u001b(B\u001b[0m\u001b[32me instructio\ntom mo\ncaml 3 days ago\u001b[7;18He stuff; make custo\n\u001b[42G andreyiv/warning_capitalizatio\u001b[9;122Hl wo\u001b[10;29HPLETELY MURDER) inco\nrminal repo\u001b[12;46Hpler data structure 2 weeks ago\u001b[13;44Ho\n\u0008\u0008\u0008 gasche/packaging-fix 2 weeks ago\u001b[15;42H bsanso\n\u0008patibleType align nicely. 3 weeks ago\u001b[17;20Hp warning/erro\u001b[18;50Ho\u001b[19;34Hat that the repo\u001b[20;41Hico\nrom o\n\u0008\u0008; Clearer test fo\u001b[23;18Hp Warning_O\u001b[24;41H bsanso\u001b[25;94Hessage. 3 weeks ago\u001b[26;41H bsanso\u001b[27;70He) better 3 weeks ago\u001b[28;48He erro\u001b[29;29He 4 weeks ago\u001b[30;13H\u001b[39m\u001b(B\u001b[mRevam\u001b[30;40H\u001b[32mrecent mo\u001b[31;56He 4 weeks ago\u001b[32;23Ho\u001b[33;38H\u001b[39m\u001b(B\u001b[mrefacto\u001b[32mr some names; add mo\u001b[34;34H Str to\u001b[1;7H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.112714,
+      "\u001b(B\u001b[0;1mv\u001b(B\u001b[m"
+    ],
+    [
+      0.000701,
+      "\r\n\n\n\u001b[J\u001b[H\n  \u001b[37m1\u001b[39m\u001b(B\u001b[m\u001b[1P\n\u0008\u001b(B\u001b[0;1m\u001b[30m\u001b[40m* \u001b[33m\u001b[40mf1d62d3\u001b[33m\u001b[40m Tests: \u001b[32m\u001b[40mremov\u001b[33m\u001b[40me cmi and cmo artifacts after the tests \u001b[30m\u001b[40m4 weeks ago\u001b[39;49m\u001b(B\u001b[m\u001b[K\u001b[1;8H"
+    ],
+    [
+      1.112636,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000017,
+      "\u001b[44;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.041480,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.440053,
+      "\u001b[0;34m/var/folders/57/f27srfwn5t56bmkgp1krfchh0000gn/T//AKfkNa_.merlin\u001b[m         \u001b[0;34m.merlin\u001b[m                                                                 \u001b[m\r\n"
+    ],
+    [
+      0.001516,
+      "\u001b[1;31mPKG Pcre Batteries\u001b[m                                                       \u001b[1;32mPKG Re Batteries ANSITerminal\u001b[m                                           \u001b[m\r\n"
+    ],
+    [
+      0.000311,
+      "                                                                                                                                                 \u001b[m\r\n"
+    ],
+    [
+      0.000244,
+      "S src                                                                    S src                                                                   \u001b[m\r\nS tests/test.ml                                                          S tests/test.ml                                                         \u001b[m\r\n"
+    ],
+    [
+      0.000362,
+      "                                                                                                                                                 \u001b[m\r\nB _build/src                                                             B _build/src                                                            \u001b[m\r\n"
+    ],
+    [
+      0.070367,
+      "\u001b[0;34m/dev/null\u001b[m                                                                \u001b[0;34mREADME.md\u001b[m                                                               \u001b[m\r\n"
+    ],
+    [
+      0.001041,
+      "                                                                         \u001b[1;32m#### Before\u001b[m                                                             \u001b[m\r\n"
+    ],
+    [
+      0.000530,
+      "                                                                         \u001b[1;32m![Before](https://cloud.githubusercontent.com/assets/1909539/13025465/4\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000175,
+      "                                                                         \u001b[1;32mbaf80c2-d1d6-11e5-8f88-1d7b8065567c.png)\u001b[m                                \u001b[m\r\n"
+    ],
+    [
+      0.000220,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000168,
+      "                                                                         \u001b[1;32m#### After\u001b[m                                                              \u001b[m\r\n"
+    ],
+    [
+      0.000486,
+      "                                                                         \u001b[1;32m![Glorious After](https://cloud.githubusercontent.com/assets/1909539/13\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000211,
+      "                                                                         \u001b[1;32m025466/4bc78262-d1d6-11e5-9dcc-2f9046dc1950.png)\u001b[m                        \u001b[m\r\n"
+    ],
+    [
+      0.000186,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000171,
+      "                                                                         \u001b[1;32m#### Before\u001b[m                                                             \u001b[m\r\n"
+    ],
+    [
+      0.000381,
+      "                                                                         \u001b[1;32m![Before](https://cloud.githubusercontent.com/assets/1909539/13025491/a\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000177,
+      "                                                                         \u001b[1;32m47377f4-d1d6-11e5-9c12-c0b5285dba47.png)\u001b[m                                \u001b[m\r\n"
+    ],
+    [
+      0.000183,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000166,
+      "                                                                         \u001b[1;32m#### After\u001b[m                                                              \u001b[m\r\n"
+    ],
+    [
+      0.000392,
+      "                                                                         \u001b[1;32m![Glorious After](https://cloud.githubusercontent.com/assets/1909539/13\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000204,
+      "                                                                         \u001b[1;32m025492/a4895d30-d1d6-11e5-996a-b7e0e2ba63bf.png)\u001b[m                        \u001b[m\r\n"
+    ],
+    [
+      0.000184,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000154,
+      "                                                                         \u001b[1;32m**Work in progress!**\u001b[m                                                   \u001b[m\r\n"
+    ],
+    [
+      0.000165,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000257,
+      "                                                                         \u001b[1;32m(OPAM package coming soon.)\u001b[m                                             \u001b[m\r\n                                                                         \u001b[1;32m```\u001b[m                                                                     \u001b[m\r\n"
+    ],
+    [
+      0.000297,
+      "                                                                         \u001b[1;32mopam pin add BetterErrors https://github.com/chenglou/ocaml-better-erro\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000183,
+      "                                                                         \u001b[1;32mrs.git\u001b[m                                                                  \u001b[m\r\n"
+    ],
+    [
+      0.000306,
+      "                                                                         \u001b[1;32m```\u001b[m                                                                     \u001b[m\r\n                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000244,
+      "                                                                         \u001b[1;32mThis'll expose a `huh` command, for you to use like so:\u001b[m                 \u001b[m\r\n                                                                         \u001b[1;32m```sh\u001b[m                                                                   \u001b[m\r\n"
+    ],
+    [
+      0.000400,
+      "                                                                         \u001b[1;32mocamlc myApp.ml |\u0026 huh\u001b[m                                                  \u001b[m\r\n                                                                         \u001b[1;32m```\u001b[m                                                                     \u001b[m\r\n                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000819,
+      "                                                                         \u001b[1;32m**Explanation**: `|\u0026` is a bash shortcut for `2\u003e\u00261 |` (not available in\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000236,
+      "                                                                         \u001b[1;32m vanilla sh), which, in turn, means \"pipe the stuff from stderr into st\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000209,
+      "                                                                         \u001b[1;32mdout, then pipe it back into stdin of the next command\". `huh` takes in\u001b[m \u001b[m\r\n"
+    ],
+    [
+      0.000208,
+      "                                                                         \u001b[1;32m this info and searches for errors to pretty-print back.\u001b[m                \u001b[m\r\n"
+    ],
+    [
+      0.000184,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n"
+    ],
+    [
+      0.000242,
+      "                                                                         \u001b[1;32mHave fun!\u001b[m                                                               \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.707820,
+      "\r\u001b[K"
+    ],
+    [
+      0.000561,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.195067,
+      "\r\u001b[K"
+    ],
+    [
+      0.000492,
+      "                                                                         \u001b[1;32m### For Development\u001b[m                                                     \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.179439,
+      "\r\u001b[K"
+    ],
+    [
+      0.000372,
+      "                                                                         \u001b[1;32m`git clone` this repo, `cd` into it, then run:\u001b[m                          \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.251142,
+      "\r\u001b[K"
+    ],
+    [
+      0.000385,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211246,
+      "\r\u001b[K"
+    ],
+    [
+      0.000559,
+      "                                                                         \u001b[1;32m```sh\u001b[m                                                                   \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006009,
+      "\r\u001b[K"
+    ],
+    [
+      0.000103,
+      "                                                                         \u001b[1;32mgit clone https://github.com/chenglou/ocaml-better-errors.git ./BetterE\u001b[m \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K"
+    ],
+    [
+      0.000212,
+      "                                                                         \u001b[1;32mrrors\u001b[m                                                                   \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005724,
+      "\r\u001b[K"
+    ],
+    [
+      0.000259,
+      "                                                                         \u001b[1;32mcd ./BetterErrors\u001b[m                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004649,
+      "\r\u001b[K"
+    ],
+    [
+      0.000139,
+      "                                                                         \u001b[1;32moasis setup -setup-update dynamic\u001b[m                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006425,
+      "\r\u001b[K"
+    ],
+    [
+      0.000321,
+      "                                                                         \u001b[1;32mmake\u001b[m                                                                    \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004182,
+      "\r\u001b[K"
+    ],
+    [
+      0.000237,
+      "                                                                         \u001b[1;32mopam pin add BetterErrors ./\u001b[m                                            \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004982,
+      "\r\u001b[K"
+    ],
+    [
+      0.000203,
+      "                                                                         \u001b[1;32m```\u001b[m                                                                     \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.015483,
+      "\r\u001b[K"
+    ],
+    [
+      0.000192,
+      "                                                                         \u001b[7;32m \u001b[m                                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.002244,
+      "\r\u001b[K"
+    ],
+    [
+      0.000089,
+      "                                                                         \u001b[1;32m`betterErrorsShell.byte` is the locally generated script that's the sam\u001b[m \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005940,
+      "\r\u001b[K"
+    ],
+    [
+      0.000344,
+      "                                                                         \u001b[1;32me as the production `huh`.\u001b[m                                              \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004874,
+      "\r\u001b[K"
+    ],
+    [
+      0.000167,
+      "\u001b[0;34m/var/folders/57/f27srfwn5t56bmkgp1krfchh0000gn/T//2spF38__oasis\u001b[m          \u001b[0;34m_oasis\u001b[m                                                                  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003198,
+      "\r\u001b[K"
+    ],
+    [
+      0.000111,
+      "OASISFormat:  0.4                                                        OASISFormat:  0.4                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.007167,
+      "\r\u001b[K"
+    ],
+    [
+      0.000204,
+      "OCamlVersion: \u003e= 4.02.\u001b[1;33m3\u001b[m                                                  OCamlVersion: \u003e= 4.02.\u001b[1;33m1\u001b[m                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004917,
+      "\r\u001b[K"
+    ],
+    [
+      0.000108,
+      "\u001b[1;31mName:         Reason\u001b[m                                                     \u001b[1;32mName:         BetterErrors\u001b[m                                              \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006327,
+      "\r\u001b[K"
+    ],
+    [
+      0.000237,
+      "Version:      0.1                                                        Version:      0.1                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.012964,
+      "\r\u001b[K"
+    ],
+    [
+      0.000181,
+      "Maintainers:  chenglou                                                   Maintainers:  chenglou                                                  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.002237,
+      "\r\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[1;31mHomepage:     http://my_coolsite.com\u001b[m                                     \u001b[1;32mHomepage:     https://github.com/chenglou/ocaml-better-errors\u001b[m           \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004377,
+      "\r\u001b[K"
+    ],
+    [
+      0.000104,
+      "\u001b[1;31mSynopsis:     Some short description\u001b[m                                     \u001b[1;32mSynopsis:     Better compiler error output.\u001b[m                             \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.007098,
+      "\r\u001b[K"
+    ],
+    [
+      0.000261,
+      "\u001b[1;31mAuthors:      Cool@me.com\u001b[m                                                \u001b[1;32mAuthors:      chenglou\u001b[m                                                  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.002816,
+      "\r\u001b[K"
+    ],
+    [
+      0.000132,
+      "License:      MIT                                                        License:      MIT                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.007228,
+      "\r\u001b[K"
+    ],
+    [
+      0.000127,
+      "Plugins:      META (0.4), DevFiles (0.4)                                 Plugins:      META (0.4), DevFiles (0.4)                                \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004752,
+      "\r\u001b[K"
+    ],
+    [
+      0.000066,
+      "AlphaFeatures: ocamlbuild_more_args                                      AlphaFeatures: ocamlbuild_more_args                                     \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.016468,
+      "\r\u001b[K"
+    ],
+    [
+      0.000347,
+      "                                                                                                                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.415405,
+      "\r\u001b[K"
+    ],
+    [
+      0.000426,
+      "Description:                                                             Description:                                                            \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.203183,
+      "\r\u001b[K"
+    ],
+    [
+      0.000219,
+      "\u001b[1;31m  Some cool description\u001b[m                                                  \u001b[1;32m  Make OCaml Errors Great Again.\u001b[m                                        \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005049,
+      "\r\u001b[K"
+    ],
+    [
+      0.000393,
+      "                                                                                                                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005817,
+      "\r\u001b[K"
+    ],
+    [
+      0.000207,
+      "\u001b[1;31m# This is a comment and this below creates an binary program\u001b[m                                                                                     \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004923,
+      "\r\u001b[K"
+    ],
+    [
+      0.000142,
+      "Executable \u001b[1;33mrea\u001b[m                                                           Executable \u001b[1;33mhuh\u001b[m                                                          \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006162,
+      "\r\u001b[K"
+    ],
+    [
+      0.000244,
+      "  Path: src                                                                Path: src                                                             \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005640,
+      "\r\u001b[K"
+    ],
+    [
+      0.000107,
+      "\u001b[1;31m  MainIs: main.ml\u001b[m                                                        \u001b[1;32m  MainIs: betterErrorsShell.ml\u001b[m                                          \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.004885,
+      "\r\u001b[K"
+    ],
+    [
+      0.000109,
+      "  BuildTools: ocamlbuild                                                   BuildTools: ocamlbuild                                                \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.011581,
+      "\r\u001b[K"
+    ],
+    [
+      0.000138,
+      "  # install: true                                                          # install: true                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006328,
+      "\r\u001b[K"
+    ],
+    [
+      0.000129,
+      "\u001b[1;31m  CompiledObject: byte\u001b[m                                                   \u001b[1;32m  BuildDepends: re.pcre, batteries, ANSITerminal\u001b[m                        \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005539,
+      "\r\u001b[K"
+    ],
+    [
+      0.000682,
+      "\u001b[1;31m  BuildDepends: Pcre, Batteries\u001b[m                                                                                                                  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003755,
+      "\r\u001b[K"
+    ],
+    [
+      0.000399,
+      "                                                                                                                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005022,
+      "\r\u001b[K"
+    ],
+    [
+      0.000303,
+      "Executable test                                                          Executable test                                                         \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003010,
+      "\r\u001b[K"
+    ],
+    [
+      0.000107,
+      "  Path: tests                                                              Path: tests                                                           \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.007052,
+      "\r\u001b[K"
+    ],
+    [
+      0.000172,
+      "  MainIs: test.ml                                                          MainIs: test.ml                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.692926,
+      "\r\u001b[K"
+    ],
+    [
+      0.000319,
+      "  BuildTools: ocamlbuild                                                   BuildTools: ocamlbuild                                                \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.204395,
+      "\r\u001b[K"
+    ],
+    [
+      0.000918,
+      "\u001b[1;31m  # install: true\u001b[m                                                                                                                                \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003894,
+      "\r\u001b[K"
+    ],
+    [
+      0.000115,
+      "  CompiledObject: byte                                                     CompiledObject: byte                                                  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003222,
+      "\r\u001b[K"
+    ],
+    [
+      0.000101,
+      "  BuildDepends: \u001b[1;33mB\u001b[matteries                                                  BuildDepends: \u001b[1;33mb\u001b[matteries                                               \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.007015,
+      "\r\u001b[K"
+    ],
+    [
+      0.000474,
+      "                                                                                                                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.003733,
+      "\r\u001b[K"
+    ],
+    [
+      0.000099,
+      "\u001b[1;31m# Another comment, this builds a library called rea\u001b[m                      \u001b[1;32mLibrary BetterErrors\u001b[m                                                    \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006530,
+      "\r\u001b[K"
+    ],
+    [
+      0.000430,
+      "\u001b[1;31m# Library rea\u001b[m                                                                                                                                    \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005513,
+      "\r\u001b[K"
+    ],
+    [
+      0.000181,
+      "\u001b[1;31m# \u001b[m  Path: src                                                              Path: src                                                             \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.014466,
+      "\r\u001b[K"
+    ],
+    [
+      0.000089,
+      "\u001b[1;31m#   # oasis will figure out the dependencies,\u001b[m                            \u001b[1;32m  BuildTools: ocamlbuild\u001b[m                                                \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.002425,
+      "\r\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[1;31m#   # Just list the modules you want public,\u001b[m                             \u001b[1;32m  Modules: BetterErrorsMain, BetterErrorsParseError, BetterErrorsTypes\u001b[m  \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005391,
+      "\r\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[1;31m#   # Note that there's no .ml, just give the name\u001b[m                       \u001b[1;32m  InternalModules: Helpers, TerminalReporter, ReportError, NuclideRepor\u001b[m \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005482,
+      "\r\u001b[K"
+    ],
+    [
+      0.000338,
+      "                                                                         \u001b[1;32mter, ParseWarning, ReportWarning, Table, Table2, Atom, BetterErrorsShel\u001b[m \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.002922,
+      "\r\u001b[K"
+    ],
+    [
+      0.000194,
+      "                                                                         \u001b[1;32ml\u001b[m                                                                       \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.006927,
+      "\r\u001b[K"
+    ],
+    [
+      0.000113,
+      "\u001b[1;31m#   Modules: Rea\u001b[m                                                         \u001b[1;32m  BuildDepends: re.pcre, batteries, ANSITerminal\u001b[m                        \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005806,
+      "\r\u001b[K"
+    ],
+    [
+      0.000347,
+      "\u001b[1;31m#   CompiledObject: byte\u001b[m                                                                                                                         \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.005879,
+      "\r\u001b[K"
+    ],
+    [
+      0.000400,
+      "\u001b[1;31m#   # BuildDepends: some_package\u001b[m                                                                                                                 \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.014153,
+      "\r\u001b[K"
+    ],
+    [
+      0.000166,
+      "\u001b[0;34m/dev/null\u001b[m                                                                \u001b[0;34mopam\u001b[m                                                                    \u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.352958,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      5.740507,
+      "\u001b[?1049h\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1000h"
+    ],
+    [
+      0.000543,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[34m\u003e \u001b[39mremov\u001b(B\u001b[m"
+    ],
+    [
+      0.012903,
+      "\r\n  \u001b[37m0/111  \u001b[A\u0008\u0008\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.000563,
+      "\r\n  \u001b[37m1\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m\u003e\u001b[33m\u001b[40m \u001b[30m\u001b[40m* \u001b[33m\u001b[40mf1d62d3\u001b[33m\u001b[40m Tests: \u001b[32m\u001b[40mremov\u001b[33m\u001b[40me cmi and cmo artifacts after the tests \u001b[30m\u001b[40m4 weeks ago\u001b[1;8H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.430715,
+      "\u0008 \u0008"
+    ],
+    [
+      0.011544,
+      "\r\n  \u001b[37m32/111  \n\u001b[3G\u001b(B\u001b[0;1m\u001b[33m\u001b[40m* \u001b[33m\u001b[40ma773b91 (\u001b[36m\u001b[40mHEAD\u001b[33m\u001b[40m -\u003e \u001b[32m\u001b[40mmaster\u001b[33m\u001b[40m, \u001b[31m\u001b[40morigin/master\u001b[33m\u001b[40m)\u001b[33m\u001b[40m Upg\u001b[32m\u001b[40mrade some bad regexes 5 ho\u001b[30m\u001b[40murs ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33md91c437\u001b[39m\u001b(B\u001b[m Better \u001b[32mreadme instructio\u001b[39m\u001b(B\u001b[mns \u001b(B\u001b[0;1m\u001b[30m35 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mbf7414b\u001b[39m\u001b(B\u001b[m Don't output ve\u001b[32mrbose custom mo\u001b[39m\u001b(B\u001b[mdule help hint if there's a suggestion \u001b(B\u001b[0;1m\u001b[30m35 hours ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m75e3940\u001b[39m\u001b(B\u001b[m Use ocaml-re instead of Pc\u001b[32mre-ocaml 3 days ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mf2938f8\u001b[39m\u001b(B\u001b[m \u001b[32mRename stuff; make custo\u001b[39m\u001b(B\u001b[mm parsers possible; better _oasis; more tests \u001b(B\u001b[0;1m\u001b[30m5 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33mb8bcb8f\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #17 from andreyiv/warning_capitalizatio\u001b[39m\u001b(B\u001b[mn_fix \u001b(B\u001b[0;1m\u001b[30m12 days ago\r\n\u001b[31m\u001b["
+    ],
+    [
+      0.000121,
+      "40m \u001b[39;49m\u001b(B\u001b[m \u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mef0db1f\u001b[39m\u001b(B\u001b[m Normalized capitalization of warning_PatternNotExhaustive_#_expected.txt whe\u001b[32mre # is 1 and 2, so that test.ml wo\u001b[39m\u001b(B\u001b[muld not error out ..\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m * \u001b[33m88c0e1c\u001b[39m\u001b(B\u001b[m Imp\u001b[32mrove (ake COMPLETELY MURDER) inco\u001b[39m\u001b(B\u001b[mmpatible type display \u0026 detection \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m9bc427e\u001b[39m\u001b(B\u001b[m Rewrite nuclide reporter to \u001b[32mreuse terminal repo\u001b[39m\u001b(B\u001b[mrter msg \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m27d315d\u001b[39m\u001b(B\u001b[m Refactor parser \u0026 repo\u001b[32mrter to simpler data structure 2 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m9ea19eb\u001b[39m\u001b(B\u001b[m Check in test fo\u001b[32mr type_UnboundMo\u001b[39m\u001b(B\u001b[mdule \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m3d02453\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #14 from gasche/packaging-fix 2 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b["
+    ],
+    [
+      0.000454,
+      "30m*   \u001b[33m53df494\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #11 from bsanso\u001b[39m\u001b(B\u001b[muci/diff-table \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b[36m|\u001b[39m\u001b(B\u001b[m * \u001b[33m83977df\u001b[39m\u001b(B\u001b[m Made error message fo\u001b[32mr Type_IncompatibleType align nicely. 3 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m44c00ce\u001b[39m\u001b(B\u001b[m \u001b[32mRevamp warning/erro\u001b[39m\u001b(B\u001b[mr extractors to use the new logic \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m503355f\u001b[39m\u001b(B\u001b[m Add `ocamlfind` tip fo\u001b[32mr Type_UnboundMo\u001b[39m\u001b(B\u001b[mdule. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33me8cbc51\u001b[39m\u001b(B\u001b[m Restructu\u001b[32mre data format that the repo\u001b[39m\u001b(B\u001b[mrter accepts \u001b(B\u001b[0;1"
+    ],
+    [
+      0.000332,
+      "m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m328cfe2\u001b[39m\u001b(B\u001b[m Make syntax erro\u001b[32mr handle semico\u001b[39m\u001b(B\u001b[mlon explicitly \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m400f24c\u001b[39m\u001b(B\u001b[m Add p\u001b[32mrecision on what we need from o\u001b[39m\u001b(B\u001b[mcaml core for type_UnboundRecordField \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m513473a\u001b[39m\u001b(B\u001b[m Fix BatString.sub overflow p\u001b[32mroblem; Clearer test fo\u001b[39m\u001b(B\u001b[mr apply wihout label \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mac32014\u001b[39m\u001b(B\u001b[m \u001b[32mRevamp Warning_O\u001b[39m\u001b(B\u001b[mptionalArgumentNotErased \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m*   \u001b[33m6bd4ca8\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #3 from bsanso\u001b[39m\u001b(B\u001b[muci/fix-pr \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[32m|\u001b[39m\u001b(B\u001b[m * \u001b[33mfcabc8e\u001b[39m\u001b(B\u001b[m Fix Warning_OptionalArgumentNotE\u001b[32mrased to only catch the right kind of warning message. 3 weeks ag"
+    ],
+    [
+      0.000309,
+      "o\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m *   \u001b[33m9872569\u001b[39m\u001b(B\u001b[m Merge pull \u001b[32mrequest #2 from bsanso\u001b[39m\u001b(B\u001b[muci/new-type-errors \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mcba093b\u001b[39m\u001b(B\u001b[m Handle default cases (no err/warning or er\u001b[32mr with file name) better 3 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m2a0d204\u001b[39m\u001b(B\u001b[m Fix repo\u001b[32mrter typo; add todo for some erro\u001b[39m\u001b(B\u001b[mrs \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m5c09864\u001b[39m\u001b(B\u001b[m Add actual \u001b[32mreadme 4 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m5fb8800\u001b[39m\u001b(B\u001b[m Revamp tests after the few \u001b[32mrecent mo\u001b[39m\u001b(B\u001b[mdifications \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m4b12b8c\u001b[39m\u001b(B\u001b[m Cache file instead of sto\u001b[32mring only file name 4 weeks ago\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mf1d62d3\u001b[39m\u001b(B\u001b[m Tests: \u001b[32mremo\u001b[39m\u001b(B\u001b[mve cmi and cmo artifacts after the tests \u001b(B\u001b[0;1m"
+    ],
+    [
+      0.000260,
+      "\u001b[30m4 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33ma1e8de0\u001b[39m\u001b(B\u001b[m Add Type_AppliedTooMany; refacto\u001b[32mr some names; add mo\u001b[39m\u001b(B\u001b[mre encountered error dummies \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m57284be\u001b[39m\u001b(B\u001b[m Switch \u001b[32mregex lib from Str to\u001b[39m\u001b(B\u001b[m ocaml-pcre \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\u001b[1;7H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.189243,
+      "\u0008 \u0008"
+    ],
+    [
+      0.003007,
+      "\u001b[3;56H\u001b(B\u001b[0;1m\u001b[33m\u001b[40me bad regexes \u001b[30m\u001b[40m5 ho\u001b[4;25H\u001b[39;49m\u001b(B\u001b[me instructio\n\u001b[40G mo\n\u001b[46Gl \u001b(B\u001b[0;1m\u001b[30m3 days ago\u001b[7;18H\u001b[39m\u001b(B\u001b[me stuff; make custo\n\u001b[42G andreyiv/warning_capitalizatio\u001b[9;122Hl wo\u001b[10;29HPLETELY MURDER) inco\n\u001b[51Ginal repo\u001b[12;46Hpler data structure \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\u001b[13;44H\u001b[39m\u001b(B\u001b[mo\n\u0008\u0008\u0008 gasche/packaging-fix \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\u001b[15;42H\u001b[39m\u001b(B\u001b[m bsanso\n\u0008patibleType align nicely. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[17;20H\u001b[39m\u001b(B\u001b[mp warning/erro\u001b[18;50Ho\u001b[19;34Hat that the repo\u001b[20;41Hico\n\u001b[47G o\n\u0008\u0008; Clearer test fo\u001b[23;18Hp Warning_O\u001b[24;41H bsanso\u001b[25;94Hessage. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[26;41H\u001b[39m\u001b(B\u001b[m bsanso\u001b[27;70He) better \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[28;48H\u001b[39m\u001b(B\u001b[me erro\u001b[29;29He \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\u001b[30;13H\u001b(B\u001b[0m\u001b[32mRevam\u001b[30;40H\u001b[39m\u001b(B\u001b[mrecent mo\u001b[31;56He \u001b(B\u001b[0;1m\u001b[30m4 weeks ago\u001b[32;23H\u001b[39m\u001b(B\u001b[mo\u001b[33;38H\u001b[32mrefactor som\u001b[39m\u001b(B\u001b[me names; add mo\u001b[34;34H Str to\u001b[1;6H"
+    ],
+    [
+      0.222652,
+      "\u0008 \u0008"
+    ],
+    [
+      0.003994,
+      "\u001b[8;17r\u001b[8;1H\u001b[4T\u001b[1;44r\u001b[6;10r\u001b[6;1H\u001b[2T\u001b[1;44r\u001b[4;7r\u001b[4;1H\u001bM\u001b[1;44r\u001b[2;3H\u001b[37m85\u001b[3;31H\u001b(B\u001b[0;1m\u001b[32m\u001b[40mrigin/maste\u001b[48G\u001b[33m\u001b[40mrade som\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m7d057b6\u001b[39m\u001b(B\u001b[m Pull out function args count pa\u001b[32mrsing logic; add ne\u001b[39m\u001b(B\u001b[mw parse helper \u001b(B\u001b[0;1m\u001b[30m14 hours ago\u001b[5;22H\u001b[39m\u001b(B\u001b[madm\u001b[6;33H custom\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33me56e704\u001b[39m\u001b(B\u001b[m Add mo\u001b[32mre\u001b[39m\u001b(B\u001b[m test cases \u001b(B\u001b[0;1m\u001b[30m2 days ago\u001b[8;23H\u001b(B\u001b[0m\u001b[32mre\u001b[8;39H\u001b[39m\u001b(B\u001b[mre-ocam\u001b[9;15Hnam\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m158239d\u001b[39m\u001b(B\u001b[m Fix potential ocaml-pc\u001b[32mre\u001b[39m\u001b(B\u001b[m bug \u001b(B\u001b[0;1m\u001b[30m7 days ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m29b57b5\u001b[39m\u001b(B\u001b[m Sigh, check in some fail table d\u001b[32mrawing code\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m10 days ago\u001b[12;17H\u001b(B\u001b[0m\u001b[32mrge\u001b[26G\u001b[39m\u001b(B\u001b[mrequest #17 from\u001b[13;17H\u001b[32mrmalize\u001b[13;91H\u001b[39m\u001b(B\u001b[mre # is 1 and 2, so that test.m\u001b[14;20H (ake COM\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33md5b1998\u001b[39m\u001b(B\u001b[m "
+    ],
+    [
+      0.000048,
+      "Better msg fo\u001b[32mr Type\u001b[39m\u001b(B\u001b[m_NotAFunction\u001b[23P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33mb16fb69\u001b[39m\u001b(B\u001b[m Pass on original data structu\u001b[32mre\u001b[39m\u001b(B\u001b[m to nuclide reporter\u001b[1P\n\u001b[6G\u001b(B\u001b[0;1m\u001b[33mbc427e\u001b[39m\u001b(B\u001b[m \u001b[32mRe\u001b[39m\u001b(B\u001b[mwrite nuclide reporter to reuse terminal reporter msg \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[5G\u001b[33m27d315d\u001b[39m\u001b(B\u001b[m \u001b[32mRe\u001b[39m\u001b(B\u001b[mfactor parser \u0026 reporter to simpler data structure \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[5G\u001b[33m5da334d\u001b[39m\u001b(B\u001b[m Better sc\u001b[32mre\u001b[39m\u001b(B\u001b[menshots! \u001b(B\u001b[0;1m\u001b[30m2\u001b[39m\u001b(B\u001b[m\u001b[30P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m8b0d33f\u001b[39m\u001b(B\u001b[m The g\u001b[32mre\u001b[39m\u001b(B\u001b[mat prettification wave \u001b(B\u001b[0;1m\u001b[30m2\u001b[39m\u001b(B\u001b[m\u001b[16P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m3f9e798\u001b[39m\u001b(B\u001b[m Fix bug of warning_OptionalA\u001b[32mrgume\u001b[39m\u001b(B\u001b[mntNotErased \u001b(B\u001b[0;1m\u001b[30m2\u001b[39m\u001b(B\u001b[m\u001b[29P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m9ea19eb\u001b[39m\u001b(B\u001b[m Check in test fo\u001b[32mr type\u001b[39m\u001b(B\u001b[m_UnboundModule \u001b(B\u001b[0;1m\u001b[30m2\u001b[39m\u001b(B\u001b[m\u001b[35P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[30m  \u001b[33m3d02453\u001b[39m\u001b(B\u001b[m Me\u001b[32mrge\u001b[39m\u001b(B\u001b[m pull request #14 from gasche/packaging-fix \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[5G\u001b["
+    ],
+    [
+      0.001442,
+      "35m|\u001b[39m\u001b(B\u001b[m \u001b[33m5235c60\u001b[39m\u001b(B\u001b[m Make \u001b[32mre\u001b[39m\u001b(B\u001b[mporter generate a string instead of directly printing to console \u001b(B\u001b[0;1m\u001b[30m2 weeks ago\n\u001b[3G* \u001b[33m03bd345\u001b[39m\u001b(B\u001b[m Pull out common code, fix \u0026 p\u001b[32mre\u001b[39m\u001b(B\u001b[mttify unboundValue hint display\u001b[26P\n\u001b[3G\u001b(B\u001b[0;1m\u001b[30m* \u001b[33m0f3ed0f\u001b[39m\u001b(B\u001b[m Pull errors \u0026 wa\u001b[32mrnings out into de\u001b[39m\u001b(B\u001b[mdicated file\u001b[7P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[30m  \u001b[33m53df494\u001b[39m\u001b(B\u001b[m Me\u001b[32mrge\u001b[39m\u001b(B\u001b[m pull request #11 from bsansouci/diff-table\u001b[16P\n\u001b[3G\u001b[36m|\u001b[39m\u001b(B\u001b[m * \u001b[33m83977df\u001b[39m\u001b(B\u001b[m Made erro\u001b[32mr me\u001b[39m\u001b(B\u001b[mssage for Type_IncompatibleType align nicely. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m44c00ce\u001b[39m\u001b(B\u001b[m \u001b[32mRe\u001b[39m\u001b(B\u001b[mvamp warning/error extractors to use the new l"
+    ],
+    [
+      0.000368,
+      "ogic \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\n\u001b[5G\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m7cfaed3\u001b[39m\u001b(B\u001b[m Fix line \u001b[32mre\u001b[39m\u001b(B\u001b[mport for real now \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[17P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m4cccd0d\u001b[39m\u001b(B\u001b[m Fix \u001b[32mre\u001b[39m\u001b(B\u001b[mporter line display \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[17P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[31m|\u001b[39m\u001b(B\u001b[m \u001b[33m5edd392\u001b[39m\u001b(B\u001b[m Check in new test \u001b[32mre\u001b[39m\u001b(B\u001b[msults \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[24P\n\u001b[3G* \u001b[33mb24d8c7\u001b[39m\u001b(B\u001b[m Fix line \u001b[32mre\u001b[39m\u001b(B\u001b[mport for real now \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[52P\n\u001b[5G\u001b(B\u001b[0;1m\u001b[33m6eabd3b\u001b[39m\u001b(B\u001b[m Fix \u001b[32mrange\u001b[39m\u001b(B\u001b[m calculation and highlight \u001b(B\u001b[0;1m\u001b[30m3\u001b[39m\u001b(B\u001b[m\u001b[4P\r\n\u001b(B\u001b[0;1m\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33md093b0b\u001b[39m\u001b(B\u001b[m Add Nuclide\u001b[32mRe\u001b[39m\u001b(B\u001b[mporter. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m503355f\u001b[39m\u001b(B\u001b[m Add `ocamlfind` tip fo\u001b[32mr Type\u001b[39m\u001b(B\u001b[m_UnboundModule. \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m6ebaad3\u001b[39m\u001b(B\u001b[m B\u001b[32mring in Atom \u0026 Nucli"
+    ],
+    [
+      0.000240,
+      "de\u001b[39m\u001b(B\u001b[m interop type defs \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33me8cbc51\u001b[39m\u001b(B\u001b[m \u001b[32mRe\u001b[39m\u001b(B\u001b[mstructure data format that the reporter accepts \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m73cca6e\u001b[39m\u001b(B\u001b[m Change test count to account fo\u001b[32mr ne\u001b[39m\u001b(B\u001b[mwly added tests \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m6a8812c\u001b[39m\u001b(B\u001b[m Check in atom \u001b[32mrange\u001b[39m\u001b(B\u001b[m type def \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33md7f7520\u001b[39m\u001b(B\u001b[m Check in some misc tests I haven't catego\u001b[32mrize\u001b[39m\u001b(B\u001b[md yet \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33mec90e26\u001b[39m\u001b(B\u001b[m Add mo\u001b[32mre\u001b[39m\u001b(B\u001b[m info to file_SyntaxError \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m544e51e\u001b[39m\u001b(B\u001b[m \u001b[32mRe\u001b[39m\u001b(B\u001b[mplace ^^^^ indicators with underline \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\r\n\u001b[31m\u001b[40m \u001b[39;49m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[30m* \u001b[33m328cfe2\u001b[3"
+    ],
+    [
+      0.000036,
+      "9m\u001b(B\u001b[m Make syntax erro\u001b[32mr handle\u001b[39m\u001b(B\u001b[m semicolon explicitly \u001b(B\u001b[0;1m\u001b[30m3 weeks ago\u001b[1;5H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.205797,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000013,
+      "\u001b[44;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.004370,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000153,
+      "\u001b]2;chenglou@Macintosh: ~/Documents/Github/ocaml-better-errors\u0007"
+    ],
+    [
+      0.000055,
+      "\u001b]1;..better-errors\u0007"
+    ],
+    [
+      0.034617,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;237m------------------------------------------------------------\u001b[00m\r\n\u001b[38;5;032m~/Documents/Github/ocaml-better-errors\u001b[38;5;075m(branch:master\u001b[38;5;075m)\u001b[00m \u001b[38;5;105m»\u001b[00m "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[71C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[89D"
+    ],
+    [
+      0.668518,
+      "e"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[0mEDITOR             echoti             else               enc2xs5.16         eqn                ex                 eyapp            \r\nEGID               ecpg               emacs              enc2xs5.18         eqn2graph          exec               eyapp5.16        \r\nEUID               ed                 emacs-24.5         encode_keychange   erb                execsnoop          eyapp5.18        \r\neasy_install       edit-command-line  emacs-undumped     end                errinfo            exit                                \r\neasy_install-2.6   edquota            emacsclient        env                \u001b[1;31merrs\u001b[0m/              expand                              \r\neasy_install-2.7   efax               emond              env_default        esac               expect                              \r\nebrowse            efix               emulate            envvars            etags              export                              \r\necho               egrep              enable             envvars-std        ev"
+    ],
+    [
+      0.000076,
+      "al     "
+    ],
+    [
+      0.000013,
+      "          expr                                \r\n\u001b[Jechotc             \u001b[Jelif               \u001b[Jenc2xs             \u001b[Jeps2eps            \u001b[Jevent_rpcgen.py    \u001b[Jextcheck           \u001b[J                 \u001b[9A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56Ce\u001b[K\u001b[70C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[88D"
+    ],
+    [
+      0.181443,
+      "\u0008ex\r\r\n\u001b[J"
+    ],
+    [
+      0.000037,
+      "\u001b[J\u001b[0mex         \u001b[Jexec       \u001b[Jexecsnoop  \u001b[Jexit       \u001b[Jexpand     \u001b[Jexpect     \u001b[Jexport     \u001b[Jexpr       \u001b[Jextcheck \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000008,
+      "ex\u001b[K\u001b[69C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[87D"
+    ],
+    [
+      0.129948,
+      "i\u001b[1m\u001b[4mt\u001b[0m\u001b[24m \u0008\u0008\r\r\n\u001b[J"
+    ],
+    [
+      0.000010,
+      "\u001b[J\u001b[0mexit\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000004,
+      "exi\u001b[1m\u001b[4mt\u001b[0m\u001b[24m\u001b[K\u001b[67C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[86D"
+    ],
+    [
+      0.095685,
+      "\u001b[0m\u001b[24mt"
+    ],
+    [
+      0.000021,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000069,
+      "\u001b[J\u001b[0mexit\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[56C"
+    ],
+    [
+      0.000053,
+      "exit\u001b[K\u001b[67C\u001b[38;5;237mchenglou@Macintosh\u001b[00m\u001b[85D"
+    ],
+    [
+      0.000539,
+      "\u0008\u0008\u0008\u0008\u001b[1me\u001b[1mx\u001b[1mi\u001b[1mt\u001b[1m \u001b[0m\u0008"
+    ],
+    [
+      0.000215,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.001024,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b[0m"
+    ]
+  ]
+}
